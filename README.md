@@ -5,10 +5,6 @@
 
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/c4a7f447-d6ed-4214-8a81-cea04fd7ff35)
 
-Далее по результату выравнивания строилось дерево с помощью алгоритма Maximum Likehood.
-
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/ba567d63-077c-474b-a027-c583558dc3d5)
-
 #### H2A
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/8a03b812-467a-4b9d-8444-749190c81282)
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/6ab40f5c-745e-4726-ab6a-ae02b8868bcc)
@@ -21,8 +17,6 @@
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/e0ff327a-e6ab-4f0a-9380-31be27fd1c36)
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/9c937328-2e57-4b4c-a9a2-e24f2fc9fb91)
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/97a1c5aa-40ee-4473-a77a-993f91f4dc67)
-
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/c9387e47-5c17-4df8-bed2-0171f65b1377)
 
 Между белками наблюдается достаточно высокое сходство, чтобы предполагать происхождение от одной последовательности в результате копирования. Различия же объясняются делециями, приведшей к потери концевой части белка в ряде копий, и мутационным процессом, из-за которого последовательности постепенноо расходились.
 
