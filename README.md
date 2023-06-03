@@ -9,7 +9,13 @@ AIRE несёт функцию Histone modification read.
 
 Белок AIRE экспрессируется в мозге по GTEx и лимфатическом узле и тимусе по NCBI.
 
+![image](data/AIRE_expression_GTEx.png)
+![image](data/AIRE_expression_NCBI_1.png)
+![image](data/AIRE_expression_NCBI_2.png)
+
 В белке AIRE наблюдаются домены PHA03247 super family (2), PHD_SF super family (2), HSR super family (2), SAND super family, PRK12323 super family.
+
+![image](data/AIRE_domains.png)
 
 ## Анализ гистонов
 Для выравнивания белковых последовательностей гистонов использована программа MEGA, алгоритм MUSCLE с задаными по умолчанию параметрами.
