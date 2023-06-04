@@ -1,0 +1,1475 @@
+RID: 7TBVFM9201N	
+Job Title:NP_001387330.1 MACROH2A1 [organism=Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3] Query ID: lcl|Query_152474 Length: 372
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+core histone macro-H2A.1 [Danio rerio]                            Danio rerio     zebrafish       7955       535    535   99%   0.0    71.24  357        NP_001035451.1   
+core histone macro-H2A.2 [Danio rerio]                            Danio rerio     zebrafish       7955       496    496   99%   1e-176 67.20  367        NP_001020673.1   
+histone H2A-like [Danio rerio]                                    Danio rerio     zebrafish       7955       159    159   33%   9e-48  65.62  128        XP_688798.1      
+histone cluster 1 H2A family member 3 [Danio rerio]               Danio rerio     zebrafish       7955       159    159   33%   1e-47  65.62  128        NP_001096634.1   
+histone H2A-like [Danio rerio]                                    Danio rerio     zebrafish       7955       158    158   31%   2e-47  67.50  127        XP_009301185.1   
+histone cluster 1 H2A family member 6 [Danio rerio]               Danio rerio     zebrafish       7955       158    158   31%   2e-47  66.67  127        NP_001232892.1   
+histone H2A-like [Danio rerio]                                    Danio rerio     zebrafish       7955       158    158   33%   2e-47  64.84  128        XP_005163276.1   
+histone H2A [Danio rerio]                                         Danio rerio     zebrafish       7955       158    158   33%   2e-47  64.84  128        UAD82642.1       
+histone H2A [Danio rerio]                                         Danio rerio     zebrafish       7955       158    158   33%   2e-47  64.84  128        NP_001373597.1   
+histone H2A [Danio rerio]                                         Danio rerio     zebrafish       7955       158    158   33%   3e-47  65.62  128        UAD82641.1       
+histone cluster 1 H2A family member 2 [Danio rerio]               Danio rerio     zebrafish       7955       158    158   33%   3e-47  64.84  128        NP_001019567.2   
+H2A.X variant histone family member 1 [Danio rerio]               Danio rerio     zebrafish       7955       158    158   31%   3e-47  67.50  128        NP_001005967.1   
+histone H2A-like [Danio rerio]                                    Danio rerio     zebrafish       7955       157    157   31%   4e-47  66.67  127        XP_001334871.1   
+histone H2A [Danio rerio]                                         Danio rerio     zebrafish       7955       157    157   33%   4e-47  64.84  128        XP_002666988.1   
+histone H2AX [Danio rerio]                                        Danio rerio     zebrafish       7955       158    158   32%   5e-47  65.85  142        NP_957367.1      
+histone cluster 1 H2A family member 11 [Danio rerio]              Danio rerio     zebrafish       7955       157    157   31%   6e-47  66.67  127        NP_001136058.2   
+histone H2A [Danio rerio]                                         Danio rerio     zebrafish       7955       155    155   33%   2e-46  64.06  128        UAD82640.1       
+histone H2A [Danio rerio]                                         Danio rerio     zebrafish       7955       155    155   33%   3e-46  64.84  128        UAM96094.1       
+Gng5 protein [Danio rerio]                                        Danio rerio     zebrafish       7955       155    155   31%   5e-46  65.83  127        AAI50452.1       
+H2A histone family member 1a like [Danio rerio]                   Danio rerio     zebrafish       7955       149    149   31%   1e-43  63.93  140        NP_001340863.1   
+H2A.Z variant histone 2b [Danio rerio]                            Danio rerio     zebrafish       7955       123    123   30%   6e-34  55.75  128        NP_001036788.1   
+histone H2A.V [Danio rerio]                                       Danio rerio     zebrafish       7955       123    123   30%   6e-34  55.75  128        NP_705930.1      
+H2afvl protein [Danio rerio]                                      Danio rerio     zebrafish       7955       123    123   30%   1e-33  55.75  149        AAH49523.1       
+histone H2A.V isoform X1 [Danio rerio]                            Danio rerio     zebrafish       7955       107    107   26%   9e-28  55.45  137        XP_005165093.1   
+Zgc:63676 [Danio rerio]                                           Danio rerio     zebrafish       7955       80.1   80.1  16%   5e-16  59.09  391        AAH55199.1       
+poly [ADP-ribose] polymerase 14 isoform X1 [Danio rerio]          Danio rerio     zebrafish       7955       77.4   77.4  53%   1e-14  25.87  1850       XP_017213521.2   
+poly [ADP-ribose] polymerase 14-like [Danio rerio]                Danio rerio     zebrafish       7955       73.9   131   45%   2e-13  27.49  1827       XP_021327930.1   
+poly [ADP-ribose] polymerase 14 isoform X2 [Danio rerio]          Danio rerio     zebrafish       7955       72.8   132   55%   3e-13  25.60  1529       XP_021327926.1   
+ADP-ribose glycohydrolase MACROD2 [Danio rerio]                   Danio rerio     zebrafish       7955       71.2   71.2  48%   6e-13  28.26  452        NP_956843.1      
+Zgc:65960 protein [Danio rerio]                                   Danio rerio     zebrafish       7955       71.2   71.2  48%   6e-13  28.26  452        AAI52659.1       
+O-acetyl-ADP-ribose deacetylase MACROD2 isoform X1 [Danio rerio]  Danio rerio     zebrafish       7955       70.9   70.9  48%   7e-13  28.26  464        XP_017214209.1   
+poly(ADP-ribose) polymerase family member 14-related sequence ... Danio rerio     zebrafish       7955       69.3   120   54%   5e-12  27.38  1810       NP_001107919.2   
+O-acetyl-ADP-ribose deacetylase MACROD1 isoform X1 [Danio rerio]  Danio rerio     zebrafish       7955       65.5   65.5  44%   8e-12  26.19  223        XP_021336679.1   
+poly [ADP-ribose] polymerase 14 isoform X1 [Danio rerio]          Danio rerio     zebrafish       7955       67.8   129   56%   1e-11  25.12  1222       XP_017213522.2   
+Zgc:92353 [Danio rerio]                                           Danio rerio     zebrafish       7955       65.5   65.5  44%   1e-11  26.19  248        AAH81655.1       
+ADP-ribose glycohydrolase MACROD1 [Danio rerio]                   Danio rerio     zebrafish       7955       65.9   65.9  44%   2e-11  26.19  327        NP_001004573.2   
+poly [ADP-ribose] polymerase 14 isoform X3 [Danio rerio]          Danio rerio     zebrafish       7955       66.2   124   49%   4e-11  26.06  1708       XP_021327929.1   
+poly [ADP-ribose] polymerase 14 isoform X2 [Danio rerio]          Danio rerio     zebrafish       7955       66.2   124   49%   4e-11  26.06  1853       XP_021327928.1   
+LOC100148704 protein [Danio rerio]                                Danio rerio     zebrafish       7955       60.5   60.5  39%   2e-09  27.03  858        AAI60668.1       
+poly [ADP-ribose] polymerase 14 isoform X2 [Danio rerio]          Danio rerio     zebrafish       7955       59.3   112   38%   7e-09  26.76  1577       XP_001920559.4   
+poly [ADP-ribose] polymerase 14 isoform X1 [Danio rerio]          Danio rerio     zebrafish       7955       59.3   112   38%   7e-09  26.76  1578       XP_009303307.1   
+poly [ADP-ribose] polymerase 14 isoform X3 [Danio rerio]          Danio rerio     zebrafish       7955       58.5   110   38%   1e-08  26.76  1371       XP_009303308.1   
+Si:ch211-219a4.3 protein [Danio rerio]                            Danio rerio     zebrafish       7955       52.4   100   54%   9e-07  23.90  714        AAI55667.1       
+son of sevenless homolog 1 [Danio rerio]                          Danio rerio     zebrafish       7955       50.1   50.1  18%   4e-06  36.76  713        NP_001076462.1   
+Zgc:113527 [Danio rerio]                                          Danio rerio     zebrafish       7955       43.5   43.5  20%   5e-04  28.21  519        AAI03483.1       
+poly [ADP-ribose] polymerase 9 [Danio rerio]                      Danio rerio     zebrafish       7955       42.7   42.7  42%   0.001  26.38  840        XP_001340167.2   
+LOC799852 protein [Danio rerio]                                   Danio rerio     zebrafish       7955       41.6   41.6  41%   0.002  26.09  458        AAI29405.1       
+son of sevenless homolog 2 [Danio rerio]                          Danio rerio     zebrafish       7955       39.7   39.7  23%   0.011  26.74  1341       NP_001334612.1   
+
+
+Alignments:
+
+>core histone macro-H2A.1 [Danio rerio]
+Sequence ID: NP_001035451.1 Length: 357
+>H2A histone family, member Y isoform X1 [Danio rerio]
+Sequence ID: XP_021324578.1 Length: 357
+>Zgc:136891 [Danio rerio]
+Sequence ID: AAI15315.1 Length: 357 
+Range 1: 1 to 356
+
+Score:535 bits(1377), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:265/372(71%), Positives:316/372(84%), Gaps:17/372(4%)
+
+Query  1    MSSRGGKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEI  60
+            MSSRGGKKK ++ SRSA+AGVIFPVGRMLR+ ++G PKYRI VGAPVYMAAVLEYLTAEI
+Sbjct  1    MSSRGGKKKVSRGSRSARAGVIFPVGRMLRFFRRGLPKYRISVGAPVYMAAVLEYLTAEI  60
+
+Query  61   LELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKRGS  120
+            LELAGNAARDNKKGRVTPRHILLA+ANDEEL+QLL+GVTI++GGVLPNIHPELLAKKR S
+Sbjct  61   LELAGNAARDNKKGRVTPRHILLAIANDEELHQLLRGVTISAGGVLPNIHPELLAKKRES  120
+
+Query  121  KGKLEAIITPPPAKK-AKSPSQKKPVSKKAGGKKGARKSKKKQGEVSKAASADSTTEGTP  179
+            +GKLEA +T PP++K +K+ + +K  S+K     G R+S K  G  S +A          
+Sbjct  121  RGKLEAAVTAPPSRKTSKTAAVRKLHSQKP--STGKRQSAKASGGQSASAG---------  169
+
+Query  180  ADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGK  239
+              GFTVLS+KSLFLGQKL ++ ++I+++   E EA+++PTN+   +  ++G+ LEK GGK
+Sbjct  170  --GFTVLSSKSLFLGQKLQVVQADIASI---ESEAVVHPTNSSFYMGGEVGSALEKIGGK  224
+
+Query  240  EFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWGADKCEELLEKTVKNCLA  299
+            E  +AVLELRK NGPLEVAGAA+S+G GLPAKFVIHCNSP WG+D+CEE+LEKTVKNCLA
+Sbjct  225  ELSDAVLELRKSNGPLEVAGAAISSGFGLPAKFVIHCNSPAWGSDQCEEMLEKTVKNCLA  284
+
+Query  300  LADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESI  359
+            LAD++KL+S+AFPSIGSGRNGFPKQ AAQLILKAISSYFV+TMSSSIKTVYFVLFD+ESI
+Sbjct  285  LADEQKLRSVAFPSIGSGRNGFPKQKAAQLILKAISSYFVTTMSSSIKTVYFVLFDNESI  344
+
+Query  360  GIYVQEMAKLDA  371
+            GIYVQEMAKLD+
+Sbjct  345  GIYVQEMAKLDS  356
+
+
+
+
+>core histone macro-H2A.2 [Danio rerio]
+Sequence ID: NP_001020673.1 Length: 367
+>H2A histone family, member Y-like isoform X1 [Danio rerio]
+Sequence ID: XP_009305372.1 Length: 367
+>Zgc:114051 [Danio rerio]
+Sequence ID: AAH97115.1 Length: 367 
+Range 1: 1 to 366
+
+Score:496 bits(1278), Expect:1e-176, 
+Method:Compositional matrix adjust., 
+Identities:250/372(67%), Positives:303/372(81%), Gaps:7/372(1%)
+
+Query  1    MSSRGGKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEI  60
+            MS+RGGKKK TK SRSA+AGVIFPVGRM+RY++ G  KYRIG+GAPVYMAAV+EYL AEI
+Sbjct  1    MSARGGKKKITKLSRSARAGVIFPVGRMMRYLRTGTHKYRIGMGAPVYMAAVIEYLAAEI  60
+
+Query  61   LELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKRGS  120
+            LELAGNAARDNKKGR+TPRHI LAVANDEELNQLL+GVTI++GGVLP IHPELL+KKRG 
+Sbjct  61   LELAGNAARDNKKGRITPRHIKLAVANDEELNQLLRGVTISNGGVLPRIHPELLSKKRGG  120
+
+Query  121  KGKLEAIITPPPAKKAKSPSQKKPVSKKAGGKKGARKSKKKQG-EVSKAASADSTTEGTP  179
+            K K+E+ +  P     +  +++KPV K     KG    K K+  E  K A A++  +G P
+Sbjct  121  KVKVESQVAVP-----EKSAKRKPVKKPYKKSKGKPGRKPKKSTENDKEADANAMEDG-P  174
+
+Query  180  ADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGK  239
+             +GFT+LS KSLFLGQKL+L  SEIS +   +VE IINPTNA+IDLK+ +GN LEK GGK
+Sbjct  175  GEGFTILSAKSLFLGQKLSLTESEISKIGTIKVEGIINPTNAEIDLKEGIGNALEKTGGK  234
+
+Query  240  EFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWGADKCEELLEKTVKNCLA  299
+            +F+E V ELRK  GPLEVA  AVS  +G+ A+F+IHC+ P WG+DKCE+ LEKTVKNCL+
+Sbjct  235  DFLETVKELRKSQGPLEVASVAVSQANGMAARFIIHCHVPQWGSDKCEDQLEKTVKNCLS  294
+
+Query  300  LADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESI  359
+             A++KKLKS+AFPS+ +GRNGFPKQTAAQLILKAIS++FVS  +SS+K +YFVLFDSESI
+Sbjct  295  AAEEKKLKSVAFPSLPAGRNGFPKQTAAQLILKAISNHFVSATTSSLKNIYFVLFDSESI  354
+
+Query  360  GIYVQEMAKLDA  371
+            GIY+QEMAK+DA
+Sbjct  355  GIYLQEMAKMDA  366
+
+
+
+
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_688798.1 Length: 128
+Range 1: 1 to 128
+
+Score:159 bits(402), Expect:9e-48, 
+Method:Compositional matrix adjust., 
+Identities:84/128(66%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKSRSSRAGLQFPVGRIHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>histone cluster 1 H2A family member 3 [Danio rerio]
+Sequence ID: NP_001096634.1 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: NP_001373609.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_001338956.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_005163251.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_009296458.1 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: XP_009296465.1 Length: 128
+>Mid1ip1 protein [Danio rerio]
+Sequence ID: AAH93343.1 Length: 128
+>Zgc:110434 [Danio rerio]
+Sequence ID: AAH95260.1 Length: 128
+>Zgc:173652 protein [Danio rerio]
+Sequence ID: AAI50437.1 Length: 128
+>Zgc:110434 protein [Danio rerio]
+Sequence ID: AAI65493.1 Length: 128 
+Range 1: 1 to 128
+
+Score:159 bits(402), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:84/128(66%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_009301185.1 Length: 127
+Range 1: 1 to 120
+
+Score:158 bits(400), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:81/120(68%), Positives:95/120(79%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+
+
+
+>histone cluster 1 H2A family member 6 [Danio rerio]
+Sequence ID: NP_001232892.1 Length: 127
+>Zgc:165551 protein [Danio rerio]
+Sequence ID: AAI46738.1 Length: 127 
+Range 1: 1 to 120
+
+Score:158 bits(400), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:80/120(67%), Positives:95/120(79%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGIQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+
+
+
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_005163276.1 Length: 128
+Range 1: 1 to 128
+
+Score:158 bits(400), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:83/128(65%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKTRAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKATKGK  128
+
+
+
+
+>histone H2A [Danio rerio]
+Sequence ID: UAD82642.1 Length: 128
+Range 1: 1 to 128
+
+Score:158 bits(399), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:83/128(65%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   G+ ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGQARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>histone H2A [Danio rerio]
+Sequence ID: NP_001373597.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_693579.2 Length: 128 
+Range 1: 1 to 128
+
+Score:158 bits(399), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:83/128(65%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKATKGK  128
+
+
+
+
+>histone H2A [Danio rerio]
+Sequence ID: UAD82641.1 Length: 128
+Range 1: 1 to 128
+
+Score:158 bits(399), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:84/128(66%), Positives:99/128(77%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R  PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRTIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>histone cluster 1 H2A family member 2 [Danio rerio]
+Sequence ID: NP_001019567.2 Length: 128
+>histone cluster 1 H2A family member 4 [Danio rerio]
+Sequence ID: NP_001026996.1 Length: 128
+>histone cluster 1 H2A family member 7 [Danio rerio]
+Sequence ID: NP_001373328.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: NP_001373678.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_005163253.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_009301180.1 Length: 128
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_017209638.1 Length: 128
+>Zgc:114037 [Danio rerio]
+Sequence ID: AAH98891.1 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: UAD82643.1 Length: 128 
+Range 1: 1 to 128
+
+Score:158 bits(399), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:83/128(65%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>H2A.X variant histone family member 1 [Danio rerio]
+Sequence ID: NP_001005967.1 Length: 128
+Range 1: 1 to 120
+
+Score:158 bits(399), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:81/120(68%), Positives:95/120(79%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+
+
+
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_001334871.1 Length: 127
+>Zgc:163047 protein [Danio rerio]
+Sequence ID: AAI34207.1 Length: 127 
+Range 1: 1 to 120
+
+Score:157 bits(398), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:80/120(67%), Positives:95/120(79%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+
+
+
+>histone H2A [Danio rerio]
+Sequence ID: XP_002666988.1 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: XP_009296467.1 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: XP_009296490.1 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: XP_009301954.1 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: XP_689030.3 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: XP_698647.2 Length: 128
+>histone H2A [Danio rerio]
+Sequence ID: UAM96091.1 Length: 128 
+Range 1: 1 to 128
+
+Score:157 bits(398), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:83/128(65%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>histone H2AX [Danio rerio]
+Sequence ID: NP_957367.1 Length: 142
+>RecName: Full=Histone H2AX; Short=H2a/x; AltName: Full=Histone H2A.X [Danio rerio]
+Sequence ID: Q7ZUY3.3 Length: 142
+>H2A histone family, member X [Danio rerio]
+Sequence ID: AAH46078.1 Length: 142 
+Range 1: 1 to 123
+
+Score:158 bits(399), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:81/123(66%), Positives:96/123(78%), Gaps:3/123(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  RGS  120
+             G 
+Sbjct  121  TGQ  123
+
+
+
+
+>histone cluster 1 H2A family member 11 [Danio rerio]
+Sequence ID: NP_001136058.2 Length: 127
+>H2A.X variant histone family member 2 [Danio rerio]
+Sequence ID: NP_001373300.1 Length: 127
+>histone H2A-like [Danio rerio]
+Sequence ID: NP_001373637.1 Length: 127
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_001920286.4 Length: 127
+>histone H2A-like [Danio rerio]
+Sequence ID: XP_009301187.1 Length: 127 
+Range 1: 1 to 120
+
+Score:157 bits(397), Expect:6e-47, 
+Method:Compositional matrix adjust., 
+Identities:80/120(67%), Positives:95/120(79%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+
+
+
+>histone H2A [Danio rerio]
+Sequence ID: UAD82640.1 Length: 128
+Range 1: 1 to 128
+
+Score:155 bits(393), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:82/128(64%), Positives:100/128(78%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARD+KK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDSKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>histone H2A [Danio rerio]
+Sequence ID: UAM96094.1 Length: 128
+Range 1: 1 to 128
+
+Score:155 bits(392), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:83/128(65%), Positives:99/128(77%), Gaps:5/128(3%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV  DEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRIDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+Query  118  --RGSKGK  123
+              + +KGK
+Sbjct  121  TEKAAKGK  128
+
+
+
+
+>Gng5 protein [Danio rerio]
+Sequence ID: AAI50452.1 Length: 127
+Range 1: 1 to 120
+
+Score:155 bits(391), Expect:5e-46, 
+Method:Compositional matrix adjust., 
+Identities:79/120(66%), Positives:94/120(78%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GA VY+AAVLEYLT
+Sbjct  1    MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGASVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKK  120
+
+
+
+
+>H2A histone family member 1a like [Danio rerio]
+Sequence ID: NP_001340863.1 Length: 140
+>Zgc:56685 [Danio rerio]
+Sequence ID: AAH51627.1 Length: 140 
+Range 1: 1 to 122
+
+Score:149 bits(376), Expect:1e-43, 
+Method:Compositional matrix adjust., 
+Identities:78/122(64%), Positives:90/122(73%), Gaps:5/122(4%)
+
+Query  1    MSSRGGK-----KKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEY  55
+            MS RG K     K  T  SRSA+AG+ FPVGR+ R ++KG+   RIG GA VY+ AV+EY
+Sbjct  1    MSGRGKKLAAPQKSKTSVSRSARAGLQFPVGRIARLLRKGNFAARIGSGAAVYLTAVIEY  60
+
+Query  56   LTAEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLA  115
+            L AE+LELAGNA+RDNKK R+ PRHI LAV NDEELN LL GVTI+ GGVLPNI   LL 
+Sbjct  61   LCAEVLELAGNASRDNKKLRIAPRHIQLAVRNDEELNTLLGGVTISEGGVLPNIQAVLLP  120
+
+Query  116  KK  117
+            KK
+Sbjct  121  KK  122
+
+
+
+
+>H2A.Z variant histone 2b [Danio rerio]
+Sequence ID: NP_001036788.1 Length: 128
+>histone 2A family member ZA [Danio rerio]
+Sequence ID: ABG46420.1 Length: 128 
+Range 1: 11 to 122
+
+Score:123 bits(309), Expect:6e-34, 
+Method:Compositional matrix adjust., 
+Identities:63/113(56%), Positives:83/113(73%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRS +AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  11   GKAKTKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELA  70
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  71   GNASKDLKVKRITPRHLQLAIRGDEELDSLIK-ATIAGGGVIPHIHKSLIGKK  122
+
+
+
+
+>histone H2A.V [Danio rerio]
+Sequence ID: NP_705930.1 Length: 128
+>RecName: Full=Histone H2A.V; AltName: Full=H2A.F/Z [Danio rerio]
+Sequence ID: Q71PD7.3 Length: 128 
+Range 1: 11 to 122
+
+Score:123 bits(309), Expect:6e-34, 
+Method:Compositional matrix adjust., 
+Identities:63/113(56%), Positives:83/113(73%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRS +AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  11   GKAKAKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELA  70
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  71   GNASKDLKVKRITPRHLQLAIRGDEELDSLIK-ATIAGGGVIPHIHKSLIGKK  122
+
+
+
+
+>H2afvl protein, partial [Danio rerio]
+Sequence ID: AAH49523.1 Length: 149
+Range 1: 32 to 143
+
+Score:123 bits(308), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:63/113(56%), Positives:83/113(73%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRS +AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  32   GKAKTKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELA  91
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  92   GNASKDLKVKRITPRHLQLAIRGDEELDSLIK-ATIAGGGVIPHIHKSLIGKK  143
+
+
+
+
+>histone H2A.V isoform X1 [Danio rerio]
+Sequence ID: XP_005165093.1 Length: 137
+Range 1: 11 to 110
+
+Score:107 bits(267), Expect:9e-28, 
+Method:Compositional matrix adjust., 
+Identities:56/101(55%), Positives:74/101(73%), Gaps:2/101(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRS +AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  11   GKAKAKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELA  70
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGV  105
+            GNA++D K  R+TPRH+ LA+  DEEL+ L+K  TIA GG+
+Sbjct  71   GNASKDLKVKRITPRHLQLAIRGDEELDSLIK-ATIAGGGM  110
+
+
+
+
+>Zgc:63676 [Danio rerio]
+Sequence ID: AAH55199.1 Length: 391
+Range 1: 1 to 66
+
+Score:80.1 bits(196), Expect:5e-16, 
+Method:Compositional matrix adjust., 
+Identities:39/66(59%), Positives:51/66(77%), Gaps:3/66(4%)
+
+Query  1   MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+           MS RG   GK ++   +RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1   MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLT  60
+
+Query  58  AEILEL  63
+           AEILEL
+Sbjct  61  AEILEL  66
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X1 [Danio rerio]
+Sequence ID: XP_017213521.2 Length: 1850
+Range 1: 1021 to 1215
+
+Score:77.4 bits(189), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:52/201(26%), Positives:96/201(47%), Gaps:7/201(3%)
+
+Query  164   EVSKAASADSTTEGTPADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADI  223
+             E  + A + S      ++G  VL TK+   G K+ L    I + +    + I+N  + D+
+Sbjct  1021  EFEEQAHSQSGDRTDNSEGLRVLETKTTQDGLKICLYEGNIQDASA---DVIVNTISEDM  1077
+
+Query  224   DL-KDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWG  282
+             DL K  +   L +  G + +++ +    K+  L      ++ G+ L    V H   P W 
+Sbjct  1078  DLRKGAVSKALLQAAGHQ-LQSEVNRAAKSFRLNTGEIVITDGYNLKCSRVFHVVCPFWS  1136
+
+Query  283   ADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTM  342
+                 +++L + ++NCL  A+ +++ SI FP+IG+G  GFPK   A++IL  +  +  + +
+Sbjct  1137  QGSEDKVLCQIIRNCLKNAETQRMNSIVFPAIGTGNLGFPKDLVAKIILTEVQQFNTTNL  1196
+
+Query  343   SSSIKTVYFVLFDSESIGIYV  363
+                  TV     D ES+  ++
+Sbjct  1197  RKV--TVIVHPSDKESVQCFI  1215
+
+
+
+
+>poly [ADP-ribose] polymerase 14-like [Danio rerio]
+Sequence ID: XP_021327930.1 Length: 1827
+Range 1: 1008 to 1174
+
+Score:73.9 bits(180), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:47/171(27%), Positives:83/171(48%), Gaps:5/171(2%)
+
+Query  173   STTEGTPADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDL-KDDLGN  231
+             ST     + G  VL TK+   G K+ L    I + +    + I+N  + D+DL K  + N
+Sbjct  1008  STDRPDKSQGLRVLETKTTQDGLKICLCEGNIQDASA---DVIVNTISEDMDLRKGAVSN  1064
+
+Query  232   TLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWGADKCEELLE  291
+              L +  G + +++ ++   K+  L      ++ G+ L    V H   P W     E +L 
+Sbjct  1065  ALLQAAGHQ-LQSEIKRASKSYKLNTGEIVITDGYNLKCSRVFHVVCPFWRHGSEEWVLN  1123
+
+Query  292   KTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTM  342
+             + ++NCL  A+ + L S+ FP+IG+G  GFPK   A+ +L  +  +  + +
+Sbjct  1124  QIIRNCLKNAETQGLSSVVFPAIGTGNLGFPKDLVAKNMLTEVQQFNTTNL  1174
+
+
+
+
+Range 2: 789 to 925
+
+Score:57.8 bits(138), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:39/137(28%), Positives:60/137(43%), Gaps:4/137(2%)
+
+Query  205  SNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSA  264
+            +++    V+A++N  N D+     +   L +  G+   E      K NGPL    A ++ 
+Sbjct  789  ADICTLSVDAVVNAANEDLQHGGGVAYALLQAAGRCLQEYCDLHIKVNGPLTPGDAIITD  848
+
+Query  265  GHGLPAKFVIHCNSPVWGADK----CEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNG  320
+               LP K+V+H   P + A       ++ L + V+  L  A  KK  SIA P I SG  G
+Sbjct  849  AGRLPCKYVVHAVGPRFRASDRHTAVQQCLRRAVRESLNQASSKKCSSIAIPVISSGIFG  908
+
+Query  321  FPKQTAAQLILKAISSY  337
+             P     + I K +  Y
+Sbjct  909  CPLDLCTESITKEVRQY  925
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X2 [Danio rerio]
+Sequence ID: XP_021327926.1 Length: 1529
+Range 1: 685 to 882
+
+Score:72.8 bits(177), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:53/207(26%), Positives:99/207(47%), Gaps:10/207(4%)
+
+Query  157  KSKKKQGEVSKAASADSTTEGTPADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAII  216
+            +S ++ GE + + S D T +   + G  +L TK+   G K++L    I + +    + I+
+Sbjct  685  RSNREFGEQAHSQSGDRTDK---SKGLIILETKTTQDGLKISLCEGSIQDASA---DVIV  738
+
+Query  217  NPTNADIDL-KDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIH  275
+            N  + D+DL K  + N L +  G + +++ +    K+  L      ++ G  L    V H
+Sbjct  739  NTISEDMDLRKGAVSNALLQAAGHQ-LQSEVNRAAKSFRLNTGEIVITDGCNLKCSRVFH  797
+
+Query  276  CNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAIS  335
+               P+W     +++L + ++NCL  A+ + + SI FP+IG G  GFP    A+ +L  + 
+Sbjct  798  VVCPLWRQGSEDKVLSQIIRNCLKNAETQTMNSIVFPAIGIGNLGFPIDLVAKTMLTEVQ  857
+
+Query  336  SYFVSTMSSSIKTVYFVLFDSESIGIY  362
+             +  + +     TV     D ES+  +
+Sbjct  858  QFNTTNLQKV--TVIVHPSDKESVQCF  882
+
+
+
+
+Range 2: 467 to 604
+
+Score:59.3 bits(142), Expect:7e-09, 
+Method:Compositional matrix adjust., 
+Identities:39/138(28%), Positives:60/138(43%), Gaps:4/138(2%)
+
+Query  205  SNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSA  264
+            +++    V+A++N  N D+     +   L +  G+   E      K NGPL    A ++ 
+Sbjct  467  ADICTLSVDAVVNAANEDLQHTGGVAYALLQAAGRCLQEYCDLHIKVNGPLTPGDAIITD  526
+
+Query  265  GHGLPAKFVIHCNSPVWGA----DKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNG  320
+               LP K+V+H   P +         ++ L + V+  L  A  KK  SIA P IGSG  G
+Sbjct  527  AGRLPCKYVVHAVGPRFSVLDQRTAVQQCLRRAVRESLNKASSKKCSSIAIPVIGSGIFG  586
+
+Query  321  FPKQTAAQLILKAISSYF  338
+             P     + I K +  Y 
+Sbjct  587  CPLDLCTESIAKEVRQYI  604
+
+
+
+
+>ADP-ribose glycohydrolase MACROD2 [Danio rerio]
+Sequence ID: NP_956843.1 Length: 452
+>Zgc:65960 [Danio rerio]
+Sequence ID: AAH56529.1 Length: 452 
+Range 1: 55 to 230
+
+Score:71.2 bits(173), Expect:6e-13, 
+Method:Compositional matrix adjust., 
+Identities:52/184(28%), Positives:87/184(47%), Gaps:11/184(5%)
+
+Query  189  KSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLEL  248
+            +S  L  K++L   +I+ L   E++AI+N  N+ +     +   + +  G    E    L
+Sbjct  55   QSSSLADKVSLYKGDITIL---EIDAIVNAANSSLLGGGGVDGCIHRAAGHLLYEECHSL  111
+
+Query  249  RKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWGAD---KCEELLEKTVKNCLALADDKK  305
+               NG  +   A ++ G+ LPAK+VIH   P+   +      + LE    + L L  D  
+Sbjct  112  ---NG-CDTGKAKITCGYDLPAKYVIHTVGPIARGNVGQSQRDDLESCYYSSLKLMKDNN  167
+
+Query  306  LKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQE  365
+            L+S+AFP I +G  GFP + AA++ LK +  + +      I  V F +F      IY ++
+Sbjct  168  LRSVAFPCISTGIYGFPNEPAAEIALKTVQEW-IEKHQDEIDRVIFCVFLETDYEIYKRK  226
+
+Query  366  MAKL  369
+            M+  
+Sbjct  227  MSDF  230
+
+
+
+
+>Zgc:65960 protein [Danio rerio]
+Sequence ID: AAI52659.1 Length: 452
+Range 1: 55 to 230
+
+Score:71.2 bits(173), Expect:6e-13, 
+Method:Compositional matrix adjust., 
+Identities:52/184(28%), Positives:87/184(47%), Gaps:11/184(5%)
+
+Query  189  KSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLEL  248
+            +S  L  K++L   +I+ L   E++AI+N  N+ +     +   + +  G    E    L
+Sbjct  55   QSSSLADKVSLYKGDITIL---EIDAIVNAANSSLLGGGGVDGCIHRAAGHLLYEECHSL  111
+
+Query  249  RKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWGAD---KCEELLEKTVKNCLALADDKK  305
+               NG  +   A ++ G+ LPAK+VIH   P+   +      + LE    + L L  D  
+Sbjct  112  ---NG-CDTGKAKITCGYDLPAKYVIHTVGPIARGNVGQSQRDDLESCYYSSLKLMKDNN  167
+
+Query  306  LKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQE  365
+            L+S+AFP I +G  GFP + AA++ LK +  + +      I  V F +F      IY ++
+Sbjct  168  LRSVAFPCISTGIYGFPNEPAAEIALKTVQEW-IEKHQDEIDRVIFCVFLETDYEIYKRK  226
+
+Query  366  MAKL  369
+            M+  
+Sbjct  227  MSDF  230
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase MACROD2 isoform X1 [Danio rerio]
+Sequence ID: XP_017214209.1 Length: 464
+Range 1: 55 to 230
+
+Score:70.9 bits(172), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:52/184(28%), Positives:87/184(47%), Gaps:11/184(5%)
+
+Query  189  KSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLEL  248
+            +S  L  K++L   +I+ L   E++AI+N  N+ +     +   + +  G    E    L
+Sbjct  55   QSSSLADKVSLYKGDITIL---EIDAIVNAANSSLLGGGGVDGCIHRAAGHLLYEECHSL  111
+
+Query  249  RKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVWGAD---KCEELLEKTVKNCLALADDKK  305
+               NG  +   A ++ G+ LPAK+VIH   P+   +      + LE    + L L  D  
+Sbjct  112  ---NG-CDTGKAKITCGYDLPAKYVIHTVGPIARGNVGQSQRDDLESCYYSSLKLMKDNN  167
+
+Query  306  LKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQE  365
+            L+S+AFP I +G  GFP + AA++ LK +  + +      I  V F +F      IY ++
+Sbjct  168  LRSVAFPCISTGIYGFPNEPAAEIALKTVQEW-IEKHQDEIDRVIFCVFLETDYEIYKRK  226
+
+Query  366  MAKL  369
+            M+  
+Sbjct  227  MSDF  230
+
+
+
+
+>poly(ADP-ribose) polymerase family member 14-related sequence 1 [Danio rerio]
+Sequence ID: NP_001107919.2 Length: 1810
+Range 1: 1008 to 1173
+
+Score:69.3 bits(168), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:46/168(27%), Positives:83/168(49%), Gaps:7/168(4%)
+
+Query  206   NLAGFEVEAIINPTNADIDLK-DDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSA  264
+             N+    ++ ++N  ++D+ L    + N L K  G + ++ +L+ ++  GP        +A
+Sbjct  1008  NIEDTTMDVVVNTLSSDLKLNVGAVSNALFKAAGPQ-LQDLLD-QQATGPASSGAVFETA  1065
+
+Query  265   GHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFP  322
+             G  L  K V H   P W  G    +++LE  +  CL  A+ ++  SI F +IG+G  GFP
+Sbjct  1066  GANLKNKLVFHAVVPHWNQGQGNEQKVLENVMDTCLCKAEQRQQSSIVFSAIGTGNLGFP  1125
+
+Query  323   KQTAAQLILKAISSYFVSTMSSSIKTVYFVLF--DSESIGIYVQEMAK  368
+             K      +L ++  +     S  I+ V FVL   D+++I ++  E +K
+Sbjct  1126  KSLVVSTMLDSVFKFSTKRSSKHIQEVAFVLHPKDTQTIQVFTDEFSK  1173
+
+
+
+
+Range 2: 1178 to 1370
+
+Score:50.8 bits(120), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:49/205(24%), Positives:92/205(44%), Gaps:17/205(8%)
+
+Query  167   KAASADSTTEGTPADGFTVLSTKS-----LFLGQKLNLIHSEISNLAGFEVEAIINPTNA  221
+             ++ASA ++T+      F+ ++TKS        G  L +++ +I+     + + I+N T  
+Sbjct  1178  QSASASNSTQPQSTGPFSKVTTKSGIHETTVGGVTLQVLNGDITTE---QTDVIVNSTTK  1234
+
+Query  222   DIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVW  281
+             +  LK  +   +  K G        +L  K      +G  ++    L  K +IH      
+Sbjct  1235  EFTLKAGVSKAILDKAGPNVEAECQQLGAKTD----SGLIMTQAGNLQCKKIIHI-----  1285
+
+Query  282   GADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVST  341
+              A     +++K V+  L +   +KL SIAFP+IG+G+ G      A  +L  +      T
+Sbjct  1286  AAQSNAIMIQKHVRKALEMCAKEKLTSIAFPAIGTGQAGLSPGQVADSMLDGMLEMLRKT  1345
+
+Query  342   MSSSIKTVYFVLFDSESIGIYVQEM  366
+               SS+K +  V+F +  +  +++ M
+Sbjct  1346  PQSSLKLIRLVVFQAHMLPEFLKSM  1370
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase MACROD1 isoform X1 [Danio rerio]
+Sequence ID: XP_021336679.1 Length: 223
+Range 1: 41 to 201
+
+Score:65.5 bits(158), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:44/168(26%), Positives:76/168(45%), Gaps:10/168(5%)
+
+Query  193  LGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKN  252
+            L  K++L   +I+ L   E++A+ N  N  +     +   + +  G    +    L   N
+Sbjct  41   LNMKVSLFGGDITKL---EIDAVANAANKTLLGGGGVDGAIHRGAGPLLRKECATL---N  94
+
+Query  253  GPLEVAGAAVSAGHGLPAKFVIHCNSPVWG---ADKCEELLEKTVKNCLALADDKKLKSI  309
+            G  E   A ++  +GLPA++VIH   P+      ++ EE L     NCL  A    L+++
+Sbjct  95   G-CETGEAKITGAYGLPARYVIHTVGPIVHDSVGEREEEALRNCYYNCLHTATKHHLRTV  153
+
+Query  310  AFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSE  357
+            AFP I +G  G+P   A ++ LK +  Y         + ++ V   S+
+Sbjct  154  AFPCISTGVYGYPPDQAVEVALKTVRDYLEQNPEKLDRVIFCVFLKSD  201
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X1 [Danio rerio]
+Sequence ID: XP_017213522.2 Length: 1222
+Range 1: 386 to 585
+
+Score:67.8 bits(164), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:54/215(25%), Positives:102/215(47%), Gaps:20/215(9%)
+
+Query  153  KGARKSKKKQGEVSKAASADSTTEGTPADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEV  212
+            +G R  K++    S   S +S       +  T L +K+   G K+ L    I + +    
+Sbjct  386  RGNRDFKEQSNSWSGGRSDNS-------EELTFLESKTTQDGLKIILSKGNIQDASA---  435
+
+Query  213  EAIINPTNADIDL-KDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAK  271
+            + I+N  + D+DL K  + N L +  G +    +      +G L      ++AG+ L   
+Sbjct  436  DVIVNTISHDMDLSKGAVSNALLQCAGHQLQSEISRAAPSSG-LSYGDLVITAGYKLKCS  494
+
+Query  272  FVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQL  329
+             V H   P W  G +  +++L + +K+CL  A+ + + S+ FP+IG+G  GFPK   A++
+Sbjct  495  KVFHVVCPFWHGGQNSPDKVLVQIIKDCLGEAETRGMTSVVFPAIGTGNLGFPKDLVAKI  554
+
+Query  330  ILKAISSYFVSTMSSSIKTVYFVLF--DSESIGIY  362
+            +L  +  +     +++++ V  V+   D ES+  +
+Sbjct  555  MLTEVQQF----NTTNLRKVTVVVHPSDKESVQCF  585
+
+
+
+
+Range 2: 161 to 297
+
+Score:61.2 bits(147), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:40/137(29%), Positives:61/137(44%), Gaps:4/137(2%)
+
+Query  205  SNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSA  264
+            +++    V+A++N  N D+     +   L +  G+   E      K NGPL    A ++ 
+Sbjct  161  ADICTLSVDAVVNAANEDLKHTGGVAYALLQAAGRCLQEYCDLHIKVNGPLTPGDAIITD  220
+
+Query  265  GHGLPAKFVIHCNSPVWGA----DKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNG  320
+               LP K+V+H   P +GA       ++ L + V+  L  A  KK  SIA P I SG  G
+Sbjct  221  AGRLPCKYVVHAVGPRFGALDQRTAVQQCLRRAVRESLNQASSKKCSSIAIPVISSGIFG  280
+
+Query  321  FPKQTAAQLILKAISSY  337
+             P     + I K +  Y
+Sbjct  281  CPLDLCTESIAKEVRQY  297
+
+
+
+
+>Zgc:92353 [Danio rerio]
+Sequence ID: AAH81655.1 Length: 248
+Range 1: 66 to 226
+
+Score:65.5 bits(158), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:44/168(26%), Positives:76/168(45%), Gaps:10/168(5%)
+
+Query  193  LGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKN  252
+            L  K++L   +I+ L   E++A+ N  N  +     +   + +  G    +    L   N
+Sbjct  66   LNMKVSLFGGDITKL---EIDAVANAANKTLLGGGGVDGAIHRGAGPLLRKECATL---N  119
+
+Query  253  GPLEVAGAAVSAGHGLPAKFVIHCNSPVWG---ADKCEELLEKTVKNCLALADDKKLKSI  309
+            G  E   A ++  +GLPA++VIH   P+      ++ EE L     NCL  A    L+++
+Sbjct  120  G-CETGEAKITGAYGLPARYVIHTVGPIVHDSVGEREEEALRNCYYNCLHTATKHHLRTV  178
+
+Query  310  AFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSE  357
+            AFP I +G  G+P   A ++ LK +  Y         + ++ V   S+
+Sbjct  179  AFPCISTGVYGYPPDQAVEVALKTVRDYLEQNPEKLDRVIFCVFLKSD  226
+
+
+
+
+>ADP-ribose glycohydrolase MACROD1 [Danio rerio]
+Sequence ID: NP_001004573.2 Length: 327
+Range 1: 145 to 305
+
+Score:65.9 bits(159), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:44/168(26%), Positives:76/168(45%), Gaps:10/168(5%)
+
+Query  193  LGQKLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKN  252
+            L  K++L   +I+ L   E++A+ N  N  +     +   + +  G    +    L   N
+Sbjct  145  LNMKVSLFGGDITKL---EIDAVANAANKTLLGGGGVDGAIHRGAGPLLRKECATL---N  198
+
+Query  253  GPLEVAGAAVSAGHGLPAKFVIHCNSPVWG---ADKCEELLEKTVKNCLALADDKKLKSI  309
+            G  E   A ++  +GLPA++VIH   P+      ++ EE L     NCL  A    L+++
+Sbjct  199  G-CETGEAKITGAYGLPARYVIHTVGPIVHDSVGEREEEALRNCYYNCLHTATKHHLRTV  257
+
+Query  310  AFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSE  357
+            AFP I +G  G+P   A ++ LK +  Y         + ++ V   S+
+Sbjct  258  AFPCISTGVYGYPPDQAVEVALKTVRDYLEQNPEKLDRVIFCVFLKSD  305
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X3 [Danio rerio]
+Sequence ID: XP_021327929.1 Length: 1708
+Range 1: 1038 to 1217
+
+Score:66.2 bits(160), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:49/188(26%), Positives:91/188(48%), Gaps:13/188(6%)
+
+Query  180   ADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDL-KDDLGNTLEKKGG  238
+             ++  T L +K+   G K+ L    I + +    + I+N  + D+DL K  +   L +  G
+Sbjct  1038  SEELTFLESKTTQDGLKIILSKGNIQDASA---DVIVNTISDDVDLSKGAVSKALLQSAG  1094
+
+Query  239   KEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKN  296
+              +    +      +G L      ++AG+ L    V H   P W  G +  + +L + +K+
+Sbjct  1095  HQLQSEISRAAPSSG-LSYGDLVITAGYKLKCSKVFHVVCPFWHGGQNSPDNVLVQIIKD  1153
+
+Query  297   CLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLF--  354
+             CL  A+ + + S+ FP+IG+G  GFPK   A+++L  I  +     +++++ V  V+   
+Sbjct  1154  CLGEAETRGMTSVVFPAIGTGNLGFPKDLVAKIMLTEIQQF----NTTNLRKVTVVVHPS  1209
+
+Query  355   DSESIGIY  362
+             D ESI  +
+Sbjct  1210  DKESIQCF  1217
+
+
+
+
+Range 2: 791 to 928
+
+Score:57.8 bits(138), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:39/138(28%), Positives:60/138(43%), Gaps:4/138(2%)
+
+Query  205  SNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSA  264
+            +++    V+A++N  N D+     +   L +  G+   E      K NGPL    A ++ 
+Sbjct  791  ADICTLSVDAVVNAANEDLKHTGGVAYALLQAAGRCLQEYCDLHIKVNGPLTPGDAIITD  850
+
+Query  265  GHGLPAKFVIHCNSPVWGA----DKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNG  320
+               LP K+V+H   P + A       ++ L + V+  L  A  KK  SIA P I SG  G
+Sbjct  851  AGRLPCKYVVHAVGPRFSALNQRTGVQQCLRRAVRESLNQASSKKCSSIAIPVISSGIFG  910
+
+Query  321  FPKQTAAQLILKAISSYF  338
+             P     + I K +  Y 
+Sbjct  911  CPLDLCTESIAKEVRQYI  928
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X2 [Danio rerio]
+Sequence ID: XP_021327928.1 Length: 1853
+Range 1: 1038 to 1217
+
+Score:66.2 bits(160), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:49/188(26%), Positives:91/188(48%), Gaps:13/188(6%)
+
+Query  180   ADGFTVLSTKSLFLGQKLNLIHSEISNLAGFEVEAIINPTNADIDL-KDDLGNTLEKKGG  238
+             ++  T L +K+   G K+ L    I + +    + I+N  + D+DL K  +   L +  G
+Sbjct  1038  SEELTFLESKTTQDGLKIILSKGNIQDASA---DVIVNTISDDVDLSKGAVSKALLQSAG  1094
+
+Query  239   KEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKN  296
+              +    +      +G L      ++AG+ L    V H   P W  G +  + +L + +K+
+Sbjct  1095  HQLQSEISRAAPSSG-LSYGDLVITAGYKLKCSKVFHVVCPFWHGGQNSPDNVLVQIIKD  1153
+
+Query  297   CLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLF--  354
+             CL  A+ + + S+ FP+IG+G  GFPK   A+++L  I  +     +++++ V  V+   
+Sbjct  1154  CLGEAETRGMTSVVFPAIGTGNLGFPKDLVAKIMLTEIQQF----NTTNLRKVTVVVHPS  1209
+
+Query  355   DSESIGIY  362
+             D ESI  +
+Sbjct  1210  DKESIQCF  1217
+
+
+
+
+Range 2: 791 to 927
+
+Score:57.8 bits(138), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:39/137(28%), Positives:60/137(43%), Gaps:4/137(2%)
+
+Query  205  SNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSA  264
+            +++    V+A++N  N D+     +   L +  G+   E      K NGPL    A ++ 
+Sbjct  791  ADICTLSVDAVVNAANEDLKHTGGVAYALLQAAGRCLQEYCDLHIKVNGPLTPGDAIITD  850
+
+Query  265  GHGLPAKFVIHCNSPVWGA----DKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNG  320
+               LP K+V+H   P + A       ++ L + V+  L  A  KK  SIA P I SG  G
+Sbjct  851  AGRLPCKYVVHAVGPRFSALNQRTGVQQCLRRAVRESLNQASSKKCSSIAIPVISSGIFG  910
+
+Query  321  FPKQTAAQLILKAISSY  337
+             P     + I K +  Y
+Sbjct  911  CPLDLCTESIAKEVRQY  927
+
+
+
+
+>LOC100148704 protein, partial [Danio rerio]
+Sequence ID: AAI60668.1 Length: 858
+Range 1: 93 to 230
+
+Score:60.5 bits(145), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:40/148(27%), Positives:74/148(50%), Gaps:10/148(6%)
+
+Query  212  VEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAK  271
+            V  I+N TN D+  +  +   + K  G     +V +  +K+GPL+   AAV+A   L   
+Sbjct  93   VRGIVNTTNRDMSRRGGVSGAIFKAAGA----SVEQECRKHGPLQGDDAAVTAAGLLHCD  148
+
+Query  272  FVIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLIL  331
+             ++H   P   A+         V+  L   ++K++ +++FP+IG+G  G     AA  +L
+Sbjct  149  LILHMLGPHSAAES-----RTRVRRVLERCEEKQITTVSFPAIGTGGGGVQAVDAATAML  203
+
+Query  332  KAISSYFVSTMSSSIKTVYFVLFDSESI  359
+            +  + +   + SS +K +Y V+ D ++I
+Sbjct  204  QGFADHLTKSTSSVVKLIYIVI-DRDNI  230
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X2 [Danio rerio]
+Sequence ID: XP_001920559.4 Length: 1577
+Range 1: 812 to 944
+
+Score:59.3 bits(142), Expect:7e-09, 
+Method:Composition-based stats., 
+Identities:38/142(27%), Positives:70/142(49%), Gaps:9/142(6%)
+
+Query  212  VEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAK  271
+            V  I+N TN D+  +  +   + K  G     +V +  +K+GPL+   AAV+A   L   
+Sbjct  812  VRGIVNTTNRDMSRRGGVSGAIFKAAGA----SVEQECRKHGPLQGDDAAVTAAGLLHCD  867
+
+Query  272  FVIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLIL  331
+             ++H   P   A+         V+  L   ++K++ +++FP+IG+G  G     AA  +L
+Sbjct  868  LILHMLGPHSAAES-----RTRVRKVLERCEEKQITTVSFPAIGTGGGGVQAVDAATAML  922
+
+Query  332  KAISSYFVSTMSSSIKTVYFVL  353
+            +  + +   + SS +K +Y V+
+Sbjct  923  QGFADHLTKSTSSVVKLIYIVI  944
+
+
+
+
+Range 2: 633 to 760
+
+Score:52.8 bits(125), Expect:7e-07, 
+Method:Composition-based stats., 
+Identities:33/137(24%), Positives:64/137(46%), Gaps:9/137(6%)
+
+Query  213  EAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKF  272
+            + I+N TN  +DL   +   + K  G+  V+      KK  PL   G  +++   L  + 
+Sbjct  633  DVIVNSTNKTLDLNTGVSGAILKAAGRSVVDEC----KKRAPLPAGGVLLTSAGDLQCRS  688
+
+Query  273  VIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILK  332
+            +     P    D     +  ++   L L ++K+  S+A P+IG+GR GF  + + + +L 
+Sbjct  689  IAQMVGPENITD-----ITHSLGKILNLCEEKQATSLAIPAIGTGRGGFSPRDSMRAMLT  743
+
+Query  333  AISSYFVSTMSSSIKTV  349
+            A+ ++     SS++  +
+Sbjct  744  ALQTHLTEPNSSTLSRI  760
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X1 [Danio rerio]
+Sequence ID: XP_009303307.1 Length: 1578
+Range 1: 812 to 944
+
+Score:59.3 bits(142), Expect:7e-09, 
+Method:Composition-based stats., 
+Identities:38/142(27%), Positives:70/142(49%), Gaps:9/142(6%)
+
+Query  212  VEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAK  271
+            V  I+N TN D+  +  +   + K  G     +V +  +K+GPL+   AAV+A   L   
+Sbjct  812  VRGIVNTTNRDMSRRGGVSGAIFKAAGA----SVEQECRKHGPLQGDDAAVTAAGLLHCD  867
+
+Query  272  FVIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLIL  331
+             ++H   P   A+         V+  L   ++K++ +++FP+IG+G  G     AA  +L
+Sbjct  868  LILHMLGPHSAAES-----RTRVRKVLERCEEKQITTVSFPAIGTGGGGVQAVDAATAML  922
+
+Query  332  KAISSYFVSTMSSSIKTVYFVL  353
+            +  + +   + SS +K +Y V+
+Sbjct  923  QGFADHLTKSTSSVVKLIYIVI  944
+
+
+
+
+Range 2: 633 to 760
+
+Score:52.8 bits(125), Expect:7e-07, 
+Method:Composition-based stats., 
+Identities:33/137(24%), Positives:64/137(46%), Gaps:9/137(6%)
+
+Query  213  EAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKF  272
+            + I+N TN  +DL   +   + K  G+  V+      KK  PL   G  +++   L  + 
+Sbjct  633  DVIVNSTNKTLDLNTGVSGAILKAAGRSVVDEC----KKRAPLPAGGVLLTSAGDLQCRS  688
+
+Query  273  VIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILK  332
+            +     P    D     +  ++   L L ++K+  S+A P+IG+GR GF  + + + +L 
+Sbjct  689  IAQMVGPENITD-----ITHSLGKILNLCEEKQATSLAIPAIGTGRGGFSPRDSMRAMLT  743
+
+Query  333  AISSYFVSTMSSSIKTV  349
+            A+ ++     SS++  +
+Sbjct  744  ALQTHLTEPNSSTLSRI  760
+
+
+
+
+>poly [ADP-ribose] polymerase 14 isoform X3 [Danio rerio]
+Sequence ID: XP_009303308.1 Length: 1371
+Range 1: 812 to 944
+
+Score:58.5 bits(140), Expect:1e-08, 
+Method:Composition-based stats., 
+Identities:38/142(27%), Positives:70/142(49%), Gaps:9/142(6%)
+
+Query  212  VEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAK  271
+            V  I+N TN D+  +  +   + K  G     +V +  +K+GPL+   AAV+A   L   
+Sbjct  812  VRGIVNTTNRDMSRRGGVSGAIFKAAGA----SVEQECRKHGPLQGDDAAVTAAGLLHCD  867
+
+Query  272  FVIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLIL  331
+             ++H   P   A+         V+  L   ++K++ +++FP+IG+G  G     AA  +L
+Sbjct  868  LILHMLGPHSAAES-----RTRVRKVLERCEEKQITTVSFPAIGTGGGGVQAVDAATAML  922
+
+Query  332  KAISSYFVSTMSSSIKTVYFVL  353
+            +  + +   + SS +K +Y V+
+Sbjct  923  QGFADHLTKSTSSVVKLIYIVI  944
+
+
+
+
+Range 2: 633 to 760
+
+Score:52.4 bits(124), Expect:1e-06, 
+Method:Composition-based stats., 
+Identities:33/137(24%), Positives:64/137(46%), Gaps:9/137(6%)
+
+Query  213  EAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKF  272
+            + I+N TN  +DL   +   + K  G+  V+      KK  PL   G  +++   L  + 
+Sbjct  633  DVIVNSTNKTLDLNTGVSGAILKAAGRSVVDEC----KKRAPLPAGGVLLTSAGDLQCRS  688
+
+Query  273  VIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILK  332
+            +     P    D     +  ++   L L ++K+  S+A P+IG+GR GF  + + + +L 
+Sbjct  689  IAQMVGPENITD-----ITHSLGKILNLCEEKQATSLAIPAIGTGRGGFSPRDSMRAMLT  743
+
+Query  333  AISSYFVSTMSSSIKTV  349
+            A+ ++     SS++  +
+Sbjct  744  ALQTHLTEPNSSTLSRI  760
+
+
+
+
+>Si:ch211-219a4.3 protein [Danio rerio]
+Sequence ID: AAI55667.1 Length: 714
+Range 1: 82 to 274
+
+Score:52.4 bits(124), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:49/205(24%), Positives:92/205(44%), Gaps:17/205(8%)
+
+Query  167  KAASADSTTEGTPADGFTVLSTKS-----LFLGQKLNLIHSEISNLAGFEVEAIINPTNA  221
+            ++ASA ++T+      F+ ++TKS        G  L +++ +I+     + + I+N T  
+Sbjct  82   QSASASNSTQPQSTGPFSKVTTKSGIHETTVGGVTLQVLNGDITTE---QTDVIVNSTTK  138
+
+Query  222  DIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAGHGLPAKFVIHCNSPVW  281
+            +  LK  +   +  K G        +L  K      +G  ++    L  K +IH      
+Sbjct  139  EFTLKAGVSKAILDKAGPNVEAECQQLGAKTD----SGLIMTQAGNLQCKKIIHI-----  189
+
+Query  282  GADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVST  341
+             A     +++K V+  L +   +KL SIAFP+IG+G+ G      A  +L  +      T
+Sbjct  190  AAQSNAIMIQKHVRKALEMCAKEKLTSIAFPAIGTGQAGLSPGQVADSMLDGMLEMLRKT  249
+
+Query  342  MSSSIKTVYFVLFDSESIGIYVQEM  366
+              SS+K +  V+F +  +  +++ M
+Sbjct  250  PQSSLKLIRLVVFQAHMLPEFLKSM  274
+
+
+
+
+Range 2: 1 to 77
+
+Score:48.5 bits(114), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:24/77(31%), Positives:41/77(53%), Gaps:2/77(2%)
+
+Query  294  VKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVL  353
+            +  CL  A+ ++  SI F +IG+G  GFPK      +L ++  +     S  I+ V FVL
+Sbjct  1    MDTCLCKAEQRQQSSIVFSAIGTGNLGFPKSLVVSTMLDSVFKFSTKRSSKHIQEVAFVL  60
+
+Query  354  F--DSESIGIYVQEMAK  368
+               D+++I ++  E +K
+Sbjct  61   HPKDTQTIQVFTDEFSK  77
+
+
+
+
+>son of sevenless homolog 1 [Danio rerio]
+Sequence ID: NP_001076462.1 Length: 713
+>Zgc:158274 protein [Danio rerio]
+Sequence ID: AAI31871.1 Length: 713 
+Range 1: 120 to 187
+
+Score:50.1 bits(118), Expect:4e-06, 
+Method:Compositional matrix adjust., 
+Identities:25/68(37%), Positives:41/68(60%), Gaps:0/68(0%)
+
+Query  39   YRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGV  98
+            Y+I     VY+ AVLEY++A+IL+LAGN  R+ +   ++ + I +A+  D+ L  +L  +
+Sbjct  120  YKIDHQVSVYIVAVLEYISADILKLAGNYVRNIRHYEISQQDITVAMCADKVLMDMLHPI  179
+
+Query  99   TIASGGVL  106
+             IA    L
+Sbjct  180  EIARQLTL  187
+
+
+
+
+>Zgc:113527 [Danio rerio]
+Sequence ID: AAI03483.1 Length: 519
+Range 1: 1 to 78
+
+Score:43.5 bits(101), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:22/78(28%), Positives:42/78(53%), Gaps:0/78(0%)
+
+Query  289  LLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKT  348
+            +++K ++  L +   +KL SIAFP+IG+G+ G      A  +L  +      T  SS+K 
+Sbjct  1    MIQKHIRKALEMCAKEKLTSIAFPAIGTGQAGLSPGQVADSMLDGMLEMLRKTPQSSLKL  60
+
+Query  349  VYFVLFDSESIGIYVQEM  366
+            +  V+F +  +  +++ M
+Sbjct  61   IRLVVFQAHMLPEFLKSM  78
+
+
+
+
+>poly [ADP-ribose] polymerase 9 [Danio rerio]
+Sequence ID: XP_001340167.2 Length: 840
+Range 1: 297 to 454
+
+Score:42.7 bits(99), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:43/163(26%), Positives:72/163(44%), Gaps:11/163(6%)
+
+Query  212  VEAIINPTNADIDLKDD-LGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAV---SAGHG  267
+            V+ ++N    D  L    +   + KK G E      E+ KK        + V   + G+ 
+Sbjct  297  VDVLVNTIAPDCKLHQGVISRAILKKAGDEIQN---EIYKKKSNTSFYSSKVLYKTKGYN  353
+
+Query  268  LPAKFVIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAA  327
+            L  K V H         K +E+L   V   L  A +   +SI+FP+IG+G   F K   A
+Sbjct  354  LYCKSVFHTVCAHRSDSKSKEILFNVVLESLKKAAED-YESISFPAIGTGNLDFKKWEVA  412
+
+Query  328  QLILKAISSYFVSTMSSSIKTVYFVLF--DSESIGIYVQEMAK  368
+            ++++ A++ +        +  VYFV+F  D++ +  +  EM K
+Sbjct  413  KIMMDAVAEFAKQNKRKKLD-VYFVVFPKDNDMMKAFENEMKK  454
+
+
+
+
+>LOC799852 protein, partial [Danio rerio]
+Sequence ID: AAI29405.1 Length: 458
+Range 1: 297 to 452
+
+Score:41.6 bits(96), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:42/161(26%), Positives:70/161(43%), Gaps:11/161(6%)
+
+Query  212  VEAIINPTNADIDLKDD-LGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAV---SAGHG  267
+            V+ ++N    D  L    +   + KK G E      E+ KK        + V   + G+ 
+Sbjct  297  VDVLVNTIAPDCKLHQGVISRAILKKAGDEIQN---EIYKKKSNTSFYSSKVLYKTKGYN  353
+
+Query  268  LPAKFVIHCNSPVWGADKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPKQTAA  327
+            L  K V H         K  E+L   V   L  A +   +SI+FP+IG+G   F K   A
+Sbjct  354  LYCKSVFHTVCAHRSDSKSNEILFNVVLESLKKAAED-YESISFPAIGTGNLDFKKWEVA  412
+
+Query  328  QLILKAISSYFVSTMSSSIKTVYFVLF--DSESIGIYVQEM  366
+            ++++ A++ +        +  VYFV+F  D++ +  +  EM
+Sbjct  413  KIMMDAVAEFAKQNKRKKLD-VYFVVFPKDNDMMKAFENEM  452
+
+
+
+
+>son of sevenless homolog 2 [Danio rerio]
+Sequence ID: NP_001334612.1 Length: 1341
+Range 1: 84 to 168
+
+Score:39.7 bits(91), Expect:0.011, 
+Method:Composition-based stats., 
+Identities:23/86(27%), Positives:48/86(55%), Gaps:1/86(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAG  65
+            G  ++    R  +  ++ PV ++   +K+    Y+I     +Y+ AVLEY++A+IL+LAG
+Sbjct  84   GDAQNAIEKRKRRNPLLLPVDKIHPLLKEVL-GYKIDYNVCLYIVAVLEYISADILKLAG  142
+
+Query  66   NAARDNKKGRVTPRHILLAVANDEEL  91
+            N   + +   ++ + I +++  D+ L
+Sbjct  143  NYVSNIRHYEISQQDITVSMCADKVL  168
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,397 @@
+RID: 7TC6BB3Z013	
+Job Title:NP_001387330.1 MACROH2A1 [organism=Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3] Query ID: lcl|Query_67799 Length: 372
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Chain C, Histone H2A [Drosophila melanogaster]                    Drosophila m... fruit fly       7227       147    147   27%   2e-43 68.27  123        2NQB_C           
+histone H2A [Drosophila melanogaster]                             Drosophila m... fruit fly       7227       147    147   27%   2e-43 68.27  124        NP_001027366.1   
+histone H2A [Drosophila melanogaster]                             Drosophila m... fruit fly       7227       147    147   27%   2e-43 68.27  124        NP_001027292.1   
+Drosophila nucleosome core [Drosophila melanogaster]              Drosophila m... fruit fly       7227       147    147   27%   2e-43 68.27  120        2PYO_C           
+Crystal structure of 167 bp nucleosome bound to the globular...   Drosophila m... fruit fly       7227       145    145   27%   9e-43 67.96  104        5WCU_C           
+CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME COR... Drosophila m... fruit fly       7227       139    139   27%   2e-40 68.32  102        4X23_C           
+histone H2A variant, isoform B [Drosophila melanogaster]          Drosophila m... fruit fly       7227       124    124   30%   2e-34 56.64  141        NP_001262997.1   
+CG5499 [Drosophila melanogaster]                                  Drosophila m... fruit fly       7227       123    123   30%   7e-34 55.75  141        CAL26298.1       
+CG5499 [Drosophila melanogaster]                                  Drosophila m... fruit fly       7227       122    122   30%   9e-34 55.75  141        CAL26296.1       
+CG5499 [Drosophila melanogaster]                                  Drosophila m... fruit fly       7227       122    122   30%   2e-33 55.75  141        CAL26301.1       
+H2A histone [Drosophila melanogaster]                             Drosophila m... fruit fly       7227       86.7   86.7  15%   4e-21 75.00  61         CAA32436.1       
+H2A histone [Drosophila melanogaster]                             Drosophila m... fruit fly       7227       63.5   63.5  12%   1e-12 60.42  63         CAA32431.1       
+Gdap2, isoform C [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       51.2   51.2  35%   1e-06 24.26  540        NP_724597.1      
+Gdap2, isoform F [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       51.2   51.2  35%   1e-06 24.26  534        NP_001260790.1   
+
+
+Alignments:
+
+>Chain C, Histone H2A [Drosophila melanogaster]
+Sequence ID: 2NQB_C Length: 123
+>Chain G, Histone H2A [Drosophila melanogaster]
+Sequence ID: 2NQB_G Length: 123
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_C Length: 123
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_G Length: 123
+>Chain A, Histone H2A [Drosophila melanogaster]
+Sequence ID: 7PJ1_A Length: 123 
+Range 1: 15 to 118
+
+Score:147 bits(372), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:71/104(68%), Positives:85/104(81%), Gaps:0/104(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS +AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+LELAGNAARDNKK
+Sbjct  15   SRSNRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKK  74
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+             R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  75   TRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKK  118
+
+
+
+
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027366.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027371.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027376.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: AAZ66562.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: AAZ66567.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: AAZ66572.1 Length: 124 
+Range 1: 16 to 119
+
+Score:147 bits(372), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:71/104(68%), Positives:85/104(81%), Gaps:0/104(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS +AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+LELAGNAARDNKK
+Sbjct  16   SRSDRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKK  75
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+             R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  76   TRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKK  119
+
+
+
+
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027292.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027301.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027306.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027311.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027316.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027321.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027326.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027331.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027336.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027341.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027346.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027351.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027356.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027361.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027381.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_001027386.1 Length: 124
+>histone H2A [Drosophila melanogaster]
+Sequence ID: NP_724343.1 Length: 124
+>RecName: Full=Histone H2A [Drosophila melanogaster]
+Sequence ID: P84051.2 Length: 124
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_C Length: 124
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_G Length: 124
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_C Length: 124
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_G Length: 124
+>Chain C, Histone H2A [Drosophila melanogaster]
+Sequence ID: 6PWF_C Length: 124
+>Chain G, Histone H2A [Drosophila melanogaster]
+Sequence ID: 6PWF_G Length: 124 
+Range 1: 16 to 119
+
+Score:147 bits(372), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:71/104(68%), Positives:85/104(81%), Gaps:0/104(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS +AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+LELAGNAARDNKK
+Sbjct  16   SRSNRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKK  75
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+             R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  76   TRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKK  119
+
+
+
+
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_C Length: 120
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_G Length: 120 
+Range 1: 15 to 118
+
+Score:147 bits(371), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:71/104(68%), Positives:85/104(81%), Gaps:0/104(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS +AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+LELAGNAARDNKK
+Sbjct  15   SRSNRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKK  74
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+             R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  75   TRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKK  118
+
+
+
+
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_C Length: 104
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_G Length: 104
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_M Length: 104
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_Q Length: 104 
+Range 1: 2 to 104
+
+Score:145 bits(365), Expect:9e-43, 
+Method:Compositional matrix adjust., 
+Identities:70/103(68%), Positives:84/103(81%), Gaps:0/103(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS +AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+LELAGNAARDNKK
+Sbjct  2    SRSNRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKK  61
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAK  116
+             R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL K
+Sbjct  62   TRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPK  104
+
+
+
+
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_C Length: 102
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_G Length: 102
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_M Length: 102
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_Q Length: 102 
+Range 1: 1 to 101
+
+Score:139 bits(350), Expect:2e-40, 
+Method:Composition-based stats., 
+Identities:69/101(68%), Positives:83/101(82%), Gaps:0/101(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS +AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+LELAGNAARDNKK
+Sbjct  1    SRSNRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKK  60
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELL  114
+             R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL
+Sbjct  61   TRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLL  101
+
+
+
+
+>histone H2A variant, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001262997.1 Length: 141
+>histone H2A variant, isoform A [Drosophila melanogaster]
+Sequence ID: NP_524519.1 Length: 141
+>RecName: Full=Histone H2A.v; AltName: Full=H2A.F/Z; Short=H2A.Z [Drosophila melanogaster]
+Sequence ID: P08985.2 Length: 141
+>histone H2A variant, isoform A [Drosophila melanogaster]
+Sequence ID: AAF56631.1 Length: 141
+>LD21568p [Drosophila melanogaster]
+Sequence ID: AAM50770.1 Length: 141
+>histone H2A variant, isoform B [Drosophila melanogaster]
+Sequence ID: AGB96377.1 Length: 141 
+Range 1: 11 to 122
+
+Score:124 bits(312), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:64/113(57%), Positives:84/113(74%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRSA+AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  11   GKAKAKAVSRSARAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELA  70
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  71   GNASKDLKVKRITPRHLQLAIRGDEELDSLIK-ATIAGGGVIPHIHKSLIGKK  122
+
+
+
+
+>CG5499 [Drosophila melanogaster]
+Sequence ID: CAL26298.1 Length: 141
+Range 1: 11 to 122
+
+Score:123 bits(308), Expect:7e-34, 
+Method:Compositional matrix adjust., 
+Identities:63/113(56%), Positives:83/113(73%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRSA+AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  11   GKAKAKAVSRSARAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELA  70
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ L +  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  71   GNASKDLKVKRITPRHLQLTIRGDEELDSLIK-ATIAGGGVIPHIHKSLIGKK  122
+
+
+
+
+>CG5499 [Drosophila melanogaster]
+Sequence ID: CAL26296.1 Length: 141
+>CG5499-PA [Drosophila melanogaster]
+Sequence ID: CAR93367.1 Length: 141 
+Range 1: 11 to 122
+
+Score:122 bits(307), Expect:9e-34, 
+Method:Compositional matrix adjust., 
+Identities:63/113(56%), Positives:84/113(74%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRSA+AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  11   GKAKAKAVSRSARAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELA  70
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ LA+  D+EL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  71   GNASKDLKVKRITPRHLQLAIRGDKELDSLIK-ATIAGGGVIPHIHKSLIGKK  122
+
+
+
+
+>CG5499 [Drosophila melanogaster]
+Sequence ID: CAL26301.1 Length: 141
+Range 1: 11 to 122
+
+Score:122 bits(305), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:63/113(56%), Positives:83/113(73%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELA  64
+            GK K+   SRSA+A + FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA
+Sbjct  11   GKAKAKAVSRSARADLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELA  70
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  71   GNASKDLKVKRITPRHLQLAIRGDEELDSLIK-ATIAGGGVIPHIHKSLIGKK  122
+
+
+
+
+>H2A histone, partial [Drosophila melanogaster]
+Sequence ID: CAA32436.1 Length: 61
+Range 1: 1 to 56
+
+Score:86.7 bits(213), Expect:4e-21, 
+Method:Compositional matrix adjust., 
+Identities:42/56(75%), Positives:46/56(82%), Gaps:0/56(0%)
+
+Query  62   ELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            ELAGNAARDNKK R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  1    ELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKK  56
+
+
+
+
+>H2A histone, partial [Drosophila melanogaster]
+Sequence ID: CAA32431.1 Length: 63
+Range 1: 16 to 63
+
+Score:63.5 bits(153), Expect:1e-12, 
+Method:Composition-based stats., 
+Identities:29/48(60%), Positives:39/48(81%), Gaps:0/48(0%)
+
+Query  14  SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEIL  61
+           SRS +AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+L
+Sbjct  16  SRSNRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVL  63
+
+
+
+
+>Gdap2, isoform C [Drosophila melanogaster]
+Sequence ID: NP_724597.1 Length: 540
+>RecName: Full=Protein GDAP2 homolog [Drosophila melanogaster]
+Sequence ID: Q7JUR6.1 Length: 540
+>Gdap2, isoform C [Drosophila melanogaster]
+Sequence ID: AAG22308.2 Length: 540
+>GH03014p [Drosophila melanogaster]
+Sequence ID: AAM52600.1 Length: 540 
+Range 1: 75 to 207
+
+Score:51.2 bits(121), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:33/136(24%), Positives:58/136(42%), Gaps:6/136(4%)
+
+Query  206  NLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAG  265
+            ++   EV+AI N ++  +   + +   +    G +  E   EL             ++ G
+Sbjct  75   DMTTLEVDAITNTSDETLTESNSISERIFAVAGNQLRE---ELSTTVKECRTGDVRITRG  131
+
+Query  266  HGLPAKFVIHCNSPVWGA---DKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFP  322
+            + LPAK+V+H  +P +        E  L    +N L  A +  L +IA  +I + +  FP
+Sbjct  132  YNLPAKYVLHTVAPAYREKFKTAAENTLHCCYRNVLCKAKELNLHTIALCNISAHQKSFP  191
+
+Query  323  KQTAAQLILKAISSYF  338
+               AA + L+ I  Y 
+Sbjct  192  ADVAAHIALRTIRRYL  207
+
+
+
+
+>Gdap2, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001260790.1 Length: 534
+>Gdap2, isoform F [Drosophila melanogaster]
+Sequence ID: AGB93323.1 Length: 534 
+Range 1: 75 to 207
+
+Score:51.2 bits(121), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:33/136(24%), Positives:58/136(42%), Gaps:6/136(4%)
+
+Query  206  NLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAG  265
+            ++   EV+AI N ++  +   + +   +    G +  E   EL             ++ G
+Sbjct  75   DMTTLEVDAITNTSDETLTESNSISERIFAVAGNQLRE---ELSTTVKECRTGDVRITRG  131
+
+Query  266  HGLPAKFVIHCNSPVWGA---DKCEELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFP  322
+            + LPAK+V+H  +P +        E  L    +N L  A +  L +IA  +I + +  FP
+Sbjct  132  YNLPAKYVLHTVAPAYREKFKTAAENTLHCCYRNVLCKAKELNLHTIALCNISAHQKSFP  191
+
+Query  323  KQTAAQLILKAISSYF  338
+               AA + L+ I  Y 
+Sbjct  192  ADVAAHIALRTIRRYL  207
+
+
+
+
+
+
+
+		
+
+

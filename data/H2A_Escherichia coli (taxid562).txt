@@ -1,0 +1,2637 @@
+RID: 7TDPZ26R013	
+Job Title:NP_001387330.1 MACROH2A1 [organism=Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3] Query ID: lcl|Query_15905 Length: 372
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H2A [Escherichia coli]                                    Escherichia ... NA              562        154    154   31%   1e-43 65.83  143        WP_214282032.1   
+hypothetical protein F1D84_23575 [Escherichia coli]               Escherichia ... NA              562        154    154   31%   1e-43 65.83  130        KAA1302530.1     
+TPA: histone H2A [Escherichia coli]                               Escherichia ... NA              562        149    149   27%   9e-42 68.27  115        HBH7445472.1     
+NFYB/HAP3 family transcription factor subunit [Escherichia coli]  Escherichia ... NA              562        145    145   28%   4e-40 67.92  136        MBV7591615.1     
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        135    135   27%   9e-37 68.32  105        MQL41544.1       
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        119    119   19%   9e-31 77.46  76         MBO1765142.1     
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        119    119   24%   1e-30 65.93  91         MQL05675.1       
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        110    110   19%   2e-27 77.46  89         MQK22697.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        98.6   98.6  44%   8e-22 31.36  178        KAE9727549.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        96.7   96.7  44%   4e-21 31.36  180        TOY99691.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli O157:H7]        Escherichia ... NA              83334      95.5   95.5  46%   1e-20 30.29  177        EFN9328994.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        94.7   94.7  44%   2e-20 30.77  180        MXG70385.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        94.4   94.4  44%   2e-20 30.77  177        EFC7622409.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        93.2   93.2  42%   5e-20 31.45  168        MWU81469.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        92.0   92.0  44%   2e-19 28.99  177        WP_252798457.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        91.7   91.7  44%   2e-19 29.59  177        WP_062872035.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        91.7   91.7  44%   3e-19 29.17  180        RDT52615.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        91.3   91.3  44%   3e-19 28.99  177        MHO68318.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        91.3   91.3  44%   3e-19 28.99  177        EFF6420727.1     
+O-acetyl-ADP-ribose deacetylase [Enterobacteriaceae]              Enterobacter... NA              543        91.3   91.3  44%   3e-19 28.99  177        WP_000857395.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        91.3   91.3  44%   4e-19 28.99  177        EFB7575798.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.9   90.9  44%   5e-19 28.40  177        EFE3336556.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.9   90.9  44%   5e-19 28.99  177        UIV46024.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.9   90.9  44%   5e-19 28.99  177        WP_032318062.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.9   90.9  44%   5e-19 28.99  177        EHL6330917.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        90.5   90.5  44%   6e-19 28.99  177        HCP1750265.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.5   90.5  44%   6e-19 28.99  177        WP_097506431.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.5   90.5  44%   6e-19 28.99  177        WP_137593672.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.5   90.5  44%   7e-19 28.40  177        WP_097426506.1   
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        90.5   90.5  44%   7e-19 28.99  177        HBQ4158685.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        90.5   90.5  44%   7e-19 28.99  177        HBB4256028.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        90.5   90.5  44%   7e-19 28.40  177        HAX7407751.1     
+O-acetyl-ADP-ribose deacetylase [Enterobacteriaceae]              Enterobacter... NA              543        90.1   90.1  44%   8e-19 28.99  177        WP_032267321.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   8e-19 28.99  177        WP_112793888.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   8e-19 28.99  177        EGF7345781.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        90.1   90.1  44%   8e-19 28.99  177        HAP1912802.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   8e-19 28.99  177        WP_241556376.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   8e-19 28.99  177        WP_272724152.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   8e-19 28.99  177        EER9475514.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.99  177        QLN18856.1       
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.99  177        EFC1640321.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.99  177        HAW9462321.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.99  177        EGG2074998.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.40  177        EFJ8953804.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.99  177        EFN4463573.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.40  177        HAI0069074.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.99  177        WP_071345172.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   9e-19 28.99  177        EGM7768393.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   1e-18 28.40  177        WP_241225442.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   1e-18 28.40  177        WP_241098346.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   1e-18 28.99  177        WP_241135059.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        WP_086258748.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        WP_224073932.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        90.1   90.1  44%   1e-18 29.76  180        WP_249572157.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.40  177        WP_154735934.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.40  177        WP_000857410.1   
+RNase III inhibitor [Escherichia coli]                            Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        AMB54858.1       
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        HAV8671211.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        HAJ7156770.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  46%   1e-18 28.00  177        EFB2284802.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.40  177        EEC9262491.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        WP_064670273.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        WP_149844768.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        EJT6059863.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.99  177        WP_077170627.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.40  177        EHP4776855.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.40  177        EFF7517092.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.7   89.7  44%   1e-18 28.40  177        WP_236467131.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   1e-18 28.40  177        EHK8924479.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   1e-18 28.40  177        WP_265225041.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  46%   1e-18 27.43  177        WP_062867648.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   1e-18 28.40  177        EFM6513098.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   1e-18 28.40  177        EFM7908962.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   1e-18 28.40  177        EFB3780885.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   1e-18 27.81  177        MCM4295158.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.99  177        WP_222672941.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.99  177        WP_032161531.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        WP_212579071.1   
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.99  177        HAG8746815.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.99  177        WP_116979990.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        EGM5977761.1     
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        HAX0462744.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        WP_000857416.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        EFK7423660.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        EEW6024383.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        WP_278014653.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  46%   2e-18 27.43  177        EFC2997333.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.99  177        EHD1191236.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        WP_073544292.1   
+TPA: O-acetyl-ADP-ribose deacetylase [Escherichia coli]           Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        HBD3616852.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        EHR7870591.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        EEX0946038.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  44%   2e-18 28.40  177        EER3650044.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.4   89.4  46%   2e-18 28.00  177        WP_086251782.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.0   89.0  44%   2e-18 28.40  177        KAB3069087.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.0   89.0  44%   2e-18 28.40  177        WP_128423820.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.0   89.0  44%   2e-18 28.40  177        WP_135566322.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.0   89.0  44%   2e-18 28.99  177        EFB9287135.1     
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.0   89.0  44%   2e-18 28.40  177        WP_115203971.1   
+O-acetyl-ADP-ribose deacetylase [Escherichia coli]                Escherichia ... NA              562        89.0   89.0  44%   2e-18 28.40  177        WP_137588889.1   
+
+
+Alignments:
+
+>histone H2A, partial [Escherichia coli]
+Sequence ID: WP_214282032.1 Length: 143
+Range 1: 14 to 133
+
+Score:154 bits(390), Expect:1e-43, 
+Method:Compositional matrix adjust., 
+Identities:79/120(66%), Positives:94/120(78%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  14   MSGRGKQGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLT  73
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LA+ NDEELN+LL  VTIA GGVLPNI   LL KK
+Sbjct  74   AEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKK  133
+
+
+
+
+>hypothetical protein F1D84_23575 [Escherichia coli]
+Sequence ID: KAA1302530.1 Length: 130
+Range 1: 1 to 120
+
+Score:154 bits(389), Expect:1e-43, 
+Method:Compositional matrix adjust., 
+Identities:79/120(66%), Positives:94/120(78%), Gaps:3/120(2%)
+
+Query  1    MSSRG---GKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLT  57
+            MS RG   GK ++   SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYLT
+Sbjct  1    MSGRGKQGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLT  60
+
+Query  58   AEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            AEILELAGNAARDNKK R+ PRH+ LA+ NDEELN+LL  VTIA GGVLPNI   LL KK
+Sbjct  61   AEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKK  120
+
+
+
+
+>histone H2A [Escherichia coli]
+Sequence ID: HBH7445472.1 Length: 115
+Range 1: 7 to 110
+
+Score:149 bits(375), Expect:9e-42, 
+Method:Compositional matrix adjust., 
+Identities:71/104(68%), Positives:86/104(82%), Gaps:0/104(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAV+EYL AE+LELAGNAARDNKK
+Sbjct  7    SRSSRAGLQFPVGRIHRLLRKGNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKK  66
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+             R+ PRH+ LA+ NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  67   TRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKK  110
+
+
+
+
+>NFYB/HAP3 family transcription factor subunit [Escherichia coli]
+Sequence ID: MBV7591615.1 Length: 136
+Range 1: 32 to 136
+
+Score:145 bits(366), Expect:4e-40, 
+Method:Compositional matrix adjust., 
+Identities:72/106(68%), Positives:87/106(82%), Gaps:1/106(0%)
+
+Query  5    GGKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELA  64
+            GG +K + T RS KAG+ FPVGR+ R++KKG    R+G GAPVY+AAVLEYL AE+LELA
+Sbjct  32   GGPRKKSVT-RSVKAGLQFPVGRIGRFLKKGRYAQRVGSGAPVYLAAVLEYLAAELLELA  90
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIH  110
+            GNAA+DNKK R+ PRH+LLA+ NDEEL +LL GVTIA GGVLPNI+
+Sbjct  91   GNAAKDNKKNRIIPRHLLLAIRNDEELGRLLAGVTIAYGGVLPNIN  136
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: MQL41544.1 Length: 105
+Range 1: 1 to 101
+
+Score:135 bits(340), Expect:9e-37, 
+Method:Compositional matrix adjust., 
+Identities:69/101(68%), Positives:79/101(78%), Gaps:0/101(0%)
+
+Query  23   FPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKKGRVTPRHIL  82
+             PVGR+ R ++KG+   R+G GAPVY+AAVLEYLTAEILELAGNAARDNKK R+ PRH+ 
+Sbjct  1    LPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQ  60
+
+Query  83   LAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKRGSKGK  123
+            LA+ NDEELN+LL  VTIA GGVLPNI   LL KK  S  K
+Sbjct  61   LAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTESHHK  101
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: MBO1765142.1 Length: 76
+Range 1: 4 to 74
+
+Score:119 bits(297), Expect:9e-31, 
+Method:Compositional matrix adjust., 
+Identities:55/71(77%), Positives:62/71(87%), Gaps:0/71(0%)
+
+Query  40   RIGVGAPVYMAAVLEYLTAEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVT  99
+            R+G GAPVY+AAVLEYL AE+LELAGNAARDNKK R+ PRH+ LA+ NDEELN+LL GVT
+Sbjct  4    RVGAGAPVYLAAVLEYLAAEVLELAGNAARDNKKSRIIPRHLQLAIRNDEELNKLLSGVT  63
+
+Query  100  IASGGVLPNIH  110
+            IA GGVLPNI 
+Sbjct  64   IAQGGVLPNIQ  74
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: MQL05675.1 Length: 91
+Range 1: 1 to 91
+
+Score:119 bits(298), Expect:1e-30, 
+Method:Compositional matrix adjust., 
+Identities:60/91(66%), Positives:72/91(79%), Gaps:0/91(0%)
+
+Query  48   YMAAVLEYLTAEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLP  107
+            Y+AAVLEYL AE+LELAGNAARDNKK R+ PRH+LLAV ND+EL +LL+GVTIASGGVLP
+Sbjct  1    YLAAVLEYLAAEVLELAGNAARDNKKNRINPRHVLLAVRNDDELGKLLQGVTIASGGVLP  60
+
+Query  108  NIHPELLAKKRGSKGKLEAIITPPPAKKAKS  138
+            NI+P LL KK G+    ++  T  P   AK+
+Sbjct  61   NINPVLLPKKTGNAAAEKSNATKSPKSPAKN  91
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: MQK22697.1 Length: 89
+Range 1: 2 to 72
+
+Score:110 bits(274), Expect:2e-27, 
+Method:Composition-based stats., 
+Identities:55/71(77%), Positives:62/71(87%), Gaps:0/71(0%)
+
+Query  44   GAPVYMAAVLEYLTAEILELAGNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASG  103
+            GAPVY+AAVLEYL AE+LELAGNAARDNKK R+ PRHI LAV NDEEL++LL  VTIA+G
+Sbjct  2    GAPVYLAAVLEYLAAEVLELAGNAARDNKKTRIVPRHIQLAVRNDEELSKLLGDVTIANG  61
+
+Query  104  GVLPNIHPELL  114
+            GV+PNIH  LL
+Sbjct  62   GVMPNIHNLLL  72
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: KAE9727549.1 Length: 178
+Range 1: 4 to 167
+
+Score:98.6 bits(244), Expect:8e-22, 
+Method:Compositional matrix adjust., 
+Identities:53/169(31%), Positives:92/169(54%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            ++++IH +I+ +    V+ I+N  N+ +     +   + +  G + +EA   +R++ G  
+Sbjct  4    QIDVIHGDITTV---HVDVIVNAANSSLLGGGGVDGAIHRAAGPQLLEACKTVRQQQGEC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW-GADKCE-ELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK VIH   PVW G D+ E E+LE+  +NCL LA D   K++AFP+
+Sbjct  61   PPGHAVITLAGDLPAKAVIHTVGPVWHGGDRQEAEILEQAYRNCLRLAADNGYKTMAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+PK+ AA + +  +  Y   ++    + V FV FD  +  +Y
+Sbjct  121  ISTGVYGYPKEAAATIAVNTVYHYL--SLKPMPEKVIFVCFDEHTADLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: TOY99691.1 Length: 180
+Range 1: 4 to 167
+
+Score:96.7 bits(239), Expect:4e-21, 
+Method:Compositional matrix adjust., 
+Identities:53/169(31%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            ++ +IH +I+ +    V+ I+N  N  +     +   + +  G + +EA   +R++ G  
+Sbjct  4    QIEVIHGDITTM---HVDVIVNAANPSLMGGGGVDGAIHRAAGPQLLEACKTVRQQQGEC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW-GADKCE-ELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK VIH   PVW G D+ E  +LE+  +NCL LA D   K++AFP+
+Sbjct  61   PPGHAVITLAGDLPAKAVIHAVGPVWHGGDRHEASILEEAYRNCLRLAADNGYKTMAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+PK  AA + +  +  Y   ++    + V FV FD E+  +Y
+Sbjct  121  ISTGVYGYPKAAAATIAVDTVYRYL--SLKPMPEKVIFVCFDEETTHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli O157:H7]
+Sequence ID: EFN9328994.1 Length: 177
+Range 1: 4 to 173
+
+Score:95.5 bits(236), Expect:1e-20, 
+Method:Compositional matrix adjust., 
+Identities:53/175(30%), Positives:94/175(53%), Gaps:7/175(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N+ +     +   + +  G E +EA  ++R++ G  
+Sbjct  4    RIHVLQGDITQLA---VDVIVNAANSSLMGGGGVDGAIHRAAGPELLEACQKVRRQQGEC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPA+ VIH   PVW  G    ++LL     N L LA     KSIAFP+
+Sbjct  61   PTGHAVITIAGNLPARAVIHTVGPVWRDGEHNEDQLLHDAYLNSLKLAQANGYKSIAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQEMAK  368
+            I +G  GFP+  AA++ +K +S +   T  +  + +YFV +D E+  +Y + +A+
+Sbjct  121  ISTGVYGFPRAAAAEIAVKTVSDFI--TRHALPEQIYFVCYDEENARLYNRLLAQ  173
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MXG70385.1 Length: 180
+Range 1: 4 to 167
+
+Score:94.7 bits(234), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:52/169(31%), Positives:87/169(51%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            ++ +IH +I+ L    V+ I+N  N+ +     +   + +  G + +EA   +R++ G  
+Sbjct  4    QIEIIHGDITTL---HVDVIVNAANSSLLGGGGVDGAIHRAAGPQLLEACKAVRQQQGEC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVWGADKCEE--LLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK VIH   PVW   +  E  +LE   +NCL LA D   K++AFP+
+Sbjct  61   PPGHAVITLAGDLPAKAVIHAVGPVWQGGEHHEARILEDAYRNCLRLAADNGYKTLAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+PK  AA + +  +  Y   ++    + V FV FD E+  +Y
+Sbjct  121  ISTGIYGYPKAAAATIAVNTVYHYL--SLKPMPEKVIFVCFDEETTHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFC7622409.1 Length: 177
+Range 1: 4 to 167
+
+Score:94.4 bits(233), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:52/169(31%), Positives:90/169(53%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N+ +     +   + +  G E +EA  ++R++ G  
+Sbjct  4    RIHVLQGDITQLA---VDVIVNAANSSLMGGGGVDGAIHRAAGPELLEACQKVRRQQGEC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPA+ VIH   PVW  G    ++LL     N L LA     KSIAFP+
+Sbjct  61   PTGHAVITIAGNLPARAVIHTVGPVWRDGEHNEDQLLHDAYLNSLKLAQANGYKSIAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  GFP+  AA++ +K +S +   T  +  + +YFV +D E+  +Y
+Sbjct  121  ISTGVYGFPRAAAAEIAVKTVSDFI--TRHALPEQIYFVCYDEENARLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MWU81469.1 Length: 168
+Range 1: 1 to 157
+
+Score:93.2 bits(230), Expect:5e-20, 
+Method:Compositional matrix adjust., 
+Identities:50/159(31%), Positives:84/159(52%), Gaps:4/159(2%)
+
+Query  206  NLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLEVAGAAVSAG  265
+            ++    V+ I+N  N+ +     +   + +  G + +EA   +R++ G      A ++  
+Sbjct  1    DITTVHVDVIVNAANSSLLGGGGVDGAIHRAAGPQLLEACKTVRQQQGECPPGHAVITLA  60
+
+Query  266  HGLPAKFVIHCNSPVW-GADKCE-ELLEKTVKNCLALADDKKLKSIAFPSIGSGRNGFPK  323
+              LPAK VIH   PVW G D+ E E+LE+  +NCL LA D   K++AFP+I +G  G+PK
+Sbjct  61   GDLPAKAVIHTVGPVWHGGDRHEAEILEQAYRNCLRLAADNGYKTMAFPAISTGVYGYPK  120
+
+Query  324  QTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            + AA + +  +  Y   ++    + V FV FD  +  +Y
+Sbjct  121  EAAATIAVNTVYHYL--SLKPMPEKVIFVCFDEHTADLY  157
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_252798457.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli O157:H7]
+Sequence ID: EFB2711752.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFO3299293.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFO3318993.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCO6112230.1 Length: 177 
+Range 1: 4 to 167
+
+Score:92.0 bits(227), Expect:2e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +    D+   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGDVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_062872035.1 Length: 177
+>RNase III inhibitor [Escherichia coli]
+Sequence ID: KYT39961.1 Length: 177 
+Range 1: 4 to 167
+
+Score:91.7 bits(226), Expect:2e-19, 
+Method:Compositional matrix adjust., 
+Identities:50/169(30%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    E+LL+    N L LA      S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEEQLLQDAYLNSLRLAAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: RDT52615.1 Length: 180
+Range 1: 5 to 167
+
+Score:91.7 bits(226), Expect:3e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/168(29%), Positives:87/168(51%), Gaps:7/168(4%)
+
+Query  197  LNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLE  256
+            + +I  +I+ ++   V+ I+N  N+ +     +   + +  G   +EA   +R++ G   
+Sbjct  5    MQVIQGDITTVS---VDVIVNAANSSLLGGGGVDGAIHRAAGPALLEACRRVRQEQGDCP  61
+
+Query  257  VAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPSI  314
+               A ++    LPAK V+H   PVW  G D    +LE   +N L LA+    +SIAFP+I
+Sbjct  62   PGHAVITTAGNLPAKAVVHTVGPVWHGGDDHEVHILEDAYRNSLMLAEANNFESIAFPAI  121
+
+Query  315  GSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+             +G  G+PK  AA++ +  +++Y  +     ++ V FV FD E+  +Y
+Sbjct  122  STGVYGYPKAAAAEIAVNTVAAYLAN--HPQLRRVLFVCFDDENTALY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MHO68318.1 Length: 177
+Range 1: 4 to 167
+
+Score:91.3 bits(225), Expect:3e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            IG+G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  IGTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFF6420727.1 Length: 177
+Range 1: 4 to 167
+
+Score:91.3 bits(225), Expect:3e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +    D+   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGDVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>MULTISPECIES: O-acetyl-ADP-ribose deacetylase [Enterobacteriaceae]
+Sequence ID: WP_000857395.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: AYP01786.1 Length: 177 
+Range 1: 4 to 167
+
+Score:91.3 bits(225), Expect:3e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +   D +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGDGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFB7575798.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EGL0854776.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHP0857645.1 Length: 177 
+Range 1: 4 to 167
+
+Score:91.3 bits(225), Expect:4e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++ G  LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLGGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFE3336556.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.9 bits(224), Expect:5e-19, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E++ +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENVHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: UIV46024.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.9 bits(224), Expect:5e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++AVL++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDAVLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_032318062.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBC0269394.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBS8423834.1 Length: 177
+>RNase III inhibitor [Escherichia coli]
+Sequence ID: GCN98780.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAH7189594.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAI5596252.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.9 bits(224), Expect:5e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+ T  N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDTYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHL6330917.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.9 bits(224), Expect:5e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGSALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L LA      S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLAAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HCP1750265.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.5 bits(223), Expect:6e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G  K ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQKEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_097506431.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.5 bits(223), Expect:6e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+ T  N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDTYLNSLRLVAANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_137593672.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFF3615581.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFU7171375.1 Length: 177
+>RNase III inhibitor [Escherichia coli]
+Sequence ID: GCL02121.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.5 bits(223), Expect:6e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S Y   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEYI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_097426506.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFL4013644.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFN8179213.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MGQ65344.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.5 bits(223), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E++ +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENVHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HBQ4158685.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.5 bits(223), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AAQ+ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAQIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HBB4256028.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.5 bits(223), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + + GG   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAGGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAX7407751.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAX7475866.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.5 bits(223), Expect:7e-19, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E++ +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENVHLY  167
+
+
+
+
+>MULTISPECIES: O-acetyl-ADP-ribose deacetylase [Enterobacteriaceae]
+Sequence ID: WP_032267321.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli O5]
+Sequence ID: EFB4119081.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEQ2893666.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEQ3191925.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEQ5871071.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEQ6441595.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L LA      S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLAAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_112793888.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCT6064278.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCT6107487.1 Length: 177
+>putative DNA and/or RNA unwinding protein [Escherichia coli]
+Sequence ID: SQN81253.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            ++N++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RINVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EGF7345781.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EGF7410964.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EGF7452091.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+ T  N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDTYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAP1912802.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N TN  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNATNPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_241556376.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHR8151431.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EJD8401019.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCH9311569.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +  T+ +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGTIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_272724152.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAJ4114700.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HCJ8721365.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+AI+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDAIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EER9475514.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EES3272274.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EES5260572.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEV6544867.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFF0986302.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  GA   ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGAQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: QLN18856.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+ T  N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDTYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFC1640321.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFD4960005.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+ T  N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDTYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAW9462321.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    E+LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEEQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EGG2074998.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   VE I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VEVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFJ8953804.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L  +    S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAENSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFN4463573.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  EI+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGEITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAI0069074.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDVYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++++K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIVVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_071345172.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: OII86421.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G  K ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQKEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EGM7768393.1 Length: 177
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:9e-19, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLADALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I SG  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISSGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_241225442.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCH6658476.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E++ +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENVHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_241098346.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCH6349519.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAJ0583711.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAJ0593828.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAJ2019820.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++++K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIVVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_241135059.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCH6352986.1 Length: 177 
+Range 1: 4 to 167
+
+Score:90.1 bits(222), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGRAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+ TAA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRATAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_086258748.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEC7353953.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EES4344291.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEY7144576.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEY9502065.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFG5623459.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ LK +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIALKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_224073932.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEY5790250.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EIC2870397.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EIC6191354.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: UAY81710.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HBN1988269.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++ S+I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQSDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_249572157.1 Length: 180
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCL5499671.1 Length: 180 
+Range 1: 5 to 167
+
+Score:90.1 bits(222), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:50/168(30%), Positives:85/168(50%), Gaps:7/168(4%)
+
+Query  197  LNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPLE  256
+            + +I  +I+ ++   V+ I+N  N+ +     +   + +  G   +EA   +R++ G   
+Sbjct  5    MQVIQGDITTVS---VDVIVNAANSSLLGGGGVDGAIHRAAGPALLEACRRVRQEQGDCP  61
+
+Query  257  VAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPSI  314
+               A ++    LPAK V+H   PVW  G D    LLE   +N L LA+    +SIAFP+I
+Sbjct  62   PGHAVITTAGNLPAKAVVHTVGPVWHGGDDNDVHLLEDAYRNSLMLAEANNCESIAFPAI  121
+
+Query  315  GSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+             +G  G+PK  AA++ +  + ++        I+ V FV FD E+  +Y
+Sbjct  122  STGVYGYPKAAAAEIAINTVVAFLAD--HPQIRRVVFVCFDDENAALY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_154735934.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MTD63108.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L    +  S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANRYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_000857410.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli O25]
+Sequence ID: EEZ9836643.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: ASG49333.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: AUV29966.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: AUY01533.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEU9327424.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L +     S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVEANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>RNase III inhibitor [Escherichia coli]
+Sequence ID: AMB54858.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EJH8454974.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+AI+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDAIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAV8671211.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAW0788561.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAW0994123.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAX6719438.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                AA++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAAITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAJ7156770.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAJ7163047.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAJ7169042.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L LA      S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLAAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFB2284802.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HCO9261687.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HCO9726629.1 Length: 177 
+Range 1: 4 to 173
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/175(28%), Positives:92/175(52%), Gaps:7/175(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQEMAK  368
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y + +A+
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLYERLLAQ  173
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEC9262491.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEW9203525.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEX0426353.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G +G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVSGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_064670273.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFP2135977.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFT3006922.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBZ2251524.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBZ2255927.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBZ2265357.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L +     S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVEANGYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K IS +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTISEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_149844768.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: KAA2103125.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAK9599917.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D ES  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEESAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EJT6059863.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HBE7208380.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  EI+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGEITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_077170627.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFA5319747.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    E+LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEEQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHP4776855.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMRGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFF7517092.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGSGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPT  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_236467131.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HCK0899081.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HCK0910874.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.7 bits(221), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTGGPVWRGGEQNEDQLLQDAYLNSLRLVAANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHK8924479.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHQ8921483.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNVDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_265225041.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   HTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_062867648.1 Length: 177
+>RNase III inhibitor [Escherichia coli]
+Sequence ID: KYS84395.1 Length: 177 
+Range 1: 4 to 173
+
+Score:89.4 bits(220), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/175(27%), Positives:91/175(52%), Gaps:7/175(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQEMAK  368
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y + + +
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLYERHLTQ  173
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFM6513098.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLTGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFM7908962.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHH7204027.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+ +AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRASAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFB3780885.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFC4787174.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+ +  N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDSYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MCM4295158.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:47/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   ++ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---IDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L    +  S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANRYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_222672941.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBY7497479.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  K VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPKQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_032161531.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFB2341135.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFB9597060.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFE3317505.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFM2061496.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFN7827774.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANRSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L +     S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVEANGYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K IS +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTISEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_212579071.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFO3991819.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBS0120916.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKVVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAG8746815.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAU7906019.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L+LR++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKLRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_116979990.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ LK +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIALKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EGM5977761.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDF  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HAX0462744.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HBB1408706.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L    +  S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANRYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_000857416.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEC7287026.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EES0941224.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EES1793289.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EES5005576.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGSGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFK7423660.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGSVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEW6024383.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+             +  A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PMGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_278014653.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WFM51253.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENTHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFC2997333.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFH7016388.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHH4661947.1 Length: 177 
+Range 1: 4 to 173
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/175(27%), Positives:91/175(52%), Gaps:7/175(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQEMAK  368
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y + + +
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLYARLLTQ  173
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHD1191236.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  S  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHSLPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_073544292.1 Length: 177
+>RNase III inhibitor [Escherichia coli]
+Sequence ID: APK06827.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G+  ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGQALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: HBD3616852.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYPNSLRLVAANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHR7870591.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   STGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EEX0946038.1 Length: 177
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGDGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EER3650044.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFJ8738072.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGSGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_086251782.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: OTC22865.1 Length: 177 
+Range 1: 4 to 173
+
+Score:89.4 bits(220), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/175(28%), Positives:92/175(52%), Gaps:7/175(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIYVQEMAK  368
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y + +A+
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLYERLLAQ  173
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: KAB3069087.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: KAB3085300.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: KAB3099334.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: KAB3109368.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: KAB3113012.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.0 bits(219), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G +  ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEENEDQLLQDAYLNSLRLVAANSFTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_128423820.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: RWZ91098.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.0 bits(219), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRSAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_135566322.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFN5416318.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHQ0026709.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EIW2791718.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EJH3621825.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: MBS9118242.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.0 bits(219), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLASALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFB9287135.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EHS1755290.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EJH0113981.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EJH5769444.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.0 bits(219), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:49/169(29%), Positives:88/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  I     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSIMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_115203971.1 Length: 177
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: EFL6447366.1 Length: 177
+>putative DNA and/or RNA unwinding protein [Escherichia coli]
+Sequence ID: STK87075.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.0 bits(219), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+                A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PTGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K++S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKSVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+>O-acetyl-ADP-ribose deacetylase [Escherichia coli]
+Sequence ID: WP_137588889.1 Length: 177
+>RNase III inhibitor [Escherichia coli]
+Sequence ID: GCK74816.1 Length: 177 
+Range 1: 4 to 167
+
+Score:89.0 bits(219), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/169(28%), Positives:89/169(52%), Gaps:7/169(4%)
+
+Query  196  KLNLIHSEISNLAGFEVEAIINPTNADIDLKDDLGNTLEKKGGKEFVEAVLELRKKNGPL  255
+            +++++  +I+ LA   V+ I+N  N  +     +   + +  G   ++A L++R++ G  
+Sbjct  4    RIHVVQGDITKLA---VDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC  60
+
+Query  256  EVAGAAVSAGHGLPAKFVIHCNSPVW--GADKCEELLEKTVKNCLALADDKKLKSIAFPS  313
+             +  A ++    LPAK V+H   PVW  G    ++LL+    N L L       S+AFP+
+Sbjct  61   PMGHAVITLAGALPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA  120
+
+Query  314  IGSGRNGFPKQTAAQLILKAISSYFVSTMSSSIKTVYFVLFDSESIGIY  362
+            I +G  G+P+  AA++ +K +S +   T  +  + VYFV +D E+  +Y
+Sbjct  121  ISTGVYGYPRAAAAEIAVKTVSEFI--TRHALPEQVYFVCYDEENAHLY  167
+
+
+
+
+
+
+
+		
+
+

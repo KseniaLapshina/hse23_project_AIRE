@@ -1,0 +1,39 @@
+RID: 7TCEZ5S4013	
+Job Title:NP_001387330.1 MACROH2A1 [organism=Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3] Query ID: lcl|Query_152549 Length: 372
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H2A [Paramecium caudatum]                                 Paramecium c... NA              5885       153    153   28%   3e-48 66.67  132        BAD84177.1       
+
+
+Alignments:
+
+>histone H2A [Paramecium caudatum]
+Sequence ID: BAD84177.1 Length: 132
+Range 1: 21 to 125
+
+Score:153 bits(386), Expect:3e-48, 
+Method:Compositional matrix adjust., 
+Identities:70/105(67%), Positives:86/105(81%), Gaps:0/105(0%)
+
+Query  13   TSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNK  72
+             SRS KAG+ FPVGR+ RY+K+G    R+G GAPVY++AVLEYL AE+LELAGNAA+DNK
+Sbjct  21   VSRSHKAGLQFPVGRVSRYLKQGRYTERVGAGAPVYLSAVLEYLAAEVLELAGNAAKDNK  80
+
+Query  73   KGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            K R+ PRHILLA+ ND+ELN+L+   TIA GGVLPNIHP+L + K
+Sbjct  81   KNRINPRHILLAIRNDDELNKLMANTTIADGGVLPNIHPQLYSAK  125
+
+
+
+
+
+
+
+		
+
+

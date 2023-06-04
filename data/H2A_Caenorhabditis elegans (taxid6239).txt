@@ -1,0 +1,227 @@
+RID: 7TC1UNEG013	
+Job Title:NP_001387330.1 MACROH2A1 [organism=Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3] Query ID: lcl|Query_120635 Length: 372
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Histone H2A [Caenorhabditis elegans]                              Caenorhabdit... NA              6239       151    151   28%   3e-45 69.81  127        NP_492642.1      
+Histone H2A [Caenorhabditis elegans]                              Caenorhabdit... NA              6239       152    152   29%   4e-45 67.57  147        NP_001263787.1   
+Histone H2A [Caenorhabditis elegans]                              Caenorhabdit... NA              6239       151    151   28%   5e-45 69.81  136        NP_001263788.1   
+Crystal structure A of ceNAP1-H2A-H2B complex [Caenorhabditis...  Caenorhabdit... NA              6239       154    154   30%   5e-45 68.14  207        6K00_D           
+Histone H2A [Caenorhabditis elegans]                              Caenorhabdit... NA              6239       150    150   27%   9e-45 70.19  127        NP_505463.1      
+Histone H2A.V [Caenorhabditis elegans]                            Caenorhabdit... NA              6239       122    122   30%   1e-33 57.52  140        NP_500569.1      
+Crystal structure of ceNAP1-H2A.Z-H2B complex [Caenorhabditis...  Caenorhabdit... NA              6239       114    114   27%   8e-30 56.86  203        6K0C_D           
+Histone H2A [Caenorhabditis elegans]                              Caenorhabdit... NA              6239       105    105   27%   2e-27 52.34  145        NP_501718.1      
+
+
+Alignments:
+
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_492642.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_496887.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_496891.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_496898.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_501201.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_501404.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_501408.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_502131.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_502141.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_502150.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_505198.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_505277.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_505280.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_505293.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_505296.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_507032.1 Length: 127
+>RecName: Full=Histone H2A [Caenorhabditis elegans]
+Sequence ID: P09588.2 Length: 127 
+Range 1: 18 to 123
+
+Score:151 bits(382), Expect:3e-45, 
+Method:Compositional matrix adjust., 
+Identities:74/106(70%), Positives:87/106(82%), Gaps:0/106(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYL AE+LELAGNAARDNKK
+Sbjct  18   SRSSRAGLQFPVGRLHRILRKGNYAQRVGAGAPVYLAAVLEYLAAEVLELAGNAARDNKK  77
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKRG  119
+             R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK G
+Sbjct  78   TRIAPRHLQLAVRNDEELNKLLAGVTIAQGGVLPNIQAVLLPKKTG  123
+
+
+
+
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_001263787.1 Length: 147
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: CCM09431.1 Length: 147 
+Range 1: 18 to 128
+
+Score:152 bits(383), Expect:4e-45, 
+Method:Compositional matrix adjust., 
+Identities:75/111(68%), Positives:89/111(80%), Gaps:0/111(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYL AE+LELAGNAARDNKK
+Sbjct  18   SRSSRAGLQFPVGRLHRILRKGNYAQRVGAGAPVYLAAVLEYLAAEVLELAGNAARDNKK  77
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKRGSKGKL  124
+             R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK G   +L
+Sbjct  78   TRIAPRHLQLAVRNDEELNKLLAGVTIAQGGVLPNIQAVLLPKKTGGDKEL  128
+
+
+
+
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_001263788.1 Length: 136
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: CCM09432.1 Length: 136 
+Range 1: 18 to 123
+
+Score:151 bits(382), Expect:5e-45, 
+Method:Compositional matrix adjust., 
+Identities:74/106(70%), Positives:87/106(82%), Gaps:0/106(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYL AE+LELAGNAARDNKK
+Sbjct  18   SRSSRAGLQFPVGRLHRILRKGNYAQRVGAGAPVYLAAVLEYLAAEVLELAGNAARDNKK  77
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKKRG  119
+             R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK G
+Sbjct  78   TRIAPRHLQLAVRNDEELNKLLAGVTIAQGGVLPNIQAVLLPKKTG  123
+
+
+
+
+>Crystal structure A of ceNAP1-H2A-H2B complex [Caenorhabditis elegans]
+Sequence ID: 6K00_D Length: 207
+>Crystal structure of ceH2A-H2B [Caenorhabditis elegans]
+Sequence ID: 6K03_D Length: 207
+>Crystal structure B of ceNAP1-H2A-H2B complex [Caenorhabditis elegans]
+Sequence ID: 6K09_D Length: 207 
+Range 1: 99 to 207
+
+Score:154 bits(388), Expect:5e-45, 
+Method:Compositional matrix adjust., 
+Identities:77/113(68%), Positives:90/113(79%), Gaps:4/113(3%)
+
+Query  5    GGKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELA  64
+            GGK KS    RS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYL AE+LELA
+Sbjct  99   GGKAKS----RSSRAGLQFPVGRLHRILRKGNYAQRVGAGAPVYLAAVLEYLAAEVLELA  154
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNAARDNKK R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  155  GNAARDNKKTRIAPRHLQLAVRNDEELNKLLAGVTIAQGGVLPNIQAVLLPKK  207
+
+
+
+
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_505463.1 Length: 127
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: CAA94747.1 Length: 127 
+Range 1: 18 to 121
+
+Score:150 bits(379), Expect:9e-45, 
+Method:Compositional matrix adjust., 
+Identities:73/104(70%), Positives:86/104(82%), Gaps:0/104(0%)
+
+Query  14   SRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKK  73
+            SRS++AG+ FPVGR+ R ++KG+   R+G GAPVY+AAVLEYL AE+LELAGNAARDNKK
+Sbjct  18   SRSSRAGLQFPVGRLHRILRKGNYAQRVGAGAPVYLAAVLEYLAAEVLELAGNAARDNKK  77
+
+Query  74   GRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+             R+ PRH+ LAV NDEELN+LL GVTIA GGVLPNI   LL KK
+Sbjct  78   TRIAPRHLQLAVRNDEELNKLLAGVTIAQGGVLPNIQAVLLPKK  121
+
+
+
+
+>Histone H2A.V [Caenorhabditis elegans]
+Sequence ID: NP_500569.1 Length: 140
+>RecName: Full=Histone H2A.V; AltName: Full=H2A.F/Z [Caenorhabditis elegans]
+Sequence ID: Q27511.3 Length: 140
+>Histone H2A.V [Caenorhabditis elegans]
+Sequence ID: CCD73086.1 Length: 140 
+Range 1: 13 to 124
+
+Score:122 bits(305), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:65/113(58%), Positives:84/113(74%), Gaps:2/113(1%)
+
+Query  6    GKKKSTKTSRSAKAGVIFPVGRMLRYIK-KGHPKYRIGVGAPVYMAAVLEYLTAEILELA  64
+            GK KS   SRSA+AG+ FPVGR+ R++K +     R+G  A VY AA+LEYLTAE+LELA
+Sbjct  13   GKSKSKVVSRSARAGLQFPVGRIHRFLKQRTTSSGRVGATAAVYSAAILEYLTAEVLELA  72
+
+Query  65   GNAARDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            GNA++D K  R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  73   GNASKDLKVKRITPRHLHLAIRGDEELDTLIK-ATIAGGGVIPHIHRYLMNKK  124
+
+
+
+
+>Crystal structure of ceNAP1-H2A.Z-H2B complex [Caenorhabditis elegans]
+Sequence ID: 6K0C_D Length: 203
+Range 1: 103 to 203
+
+Score:114 bits(284), Expect:8e-30, 
+Method:Compositional matrix adjust., 
+Identities:58/102(57%), Positives:77/102(75%), Gaps:2/102(1%)
+
+Query  17   AKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELAGNAARDNKKGR  75
+            A+AG+ FPVGR+ R++K+      R+G  A VY AA+LEYLTAE+LELAGNA++D K  R
+Sbjct  103  ARAGLQFPVGRIHRFLKQRTTSSGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKR  162
+
+Query  76   VTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK  117
+            +TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct  163  ITPRHLHLAIRGDEELDTLIKA-TIAGGGVIPHIHRYLMNKK  203
+
+
+
+
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: NP_501718.1 Length: 145
+>Histone H2A [Caenorhabditis elegans]
+Sequence ID: CAA92497.1 Length: 145 
+Range 1: 27 to 131
+
+Score:105 bits(262), Expect:2e-27, 
+Method:Compositional matrix adjust., 
+Identities:56/107(52%), Positives:73/107(68%), Gaps:6/107(5%)
+
+Query  12   KTSRSAKAGVIFPVGRM---LRYIKKGHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAA  68
+            + SRS ++G+ FPVGR+   LR   +G  K RI  GA V+MAA LEYLT E++E++  AA
+Sbjct  27   RISRSTRSGLTFPVGRIHRKLRETTRG--KQRISAGASVFMAATLEYLTTELMEMSAIAA  84
+
+Query  69   RDNKKGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPN-IHPELL  114
+             ++KK RVTPRH+ LA+  D+E  QLL  VT+  GGV P  IHP LL
+Sbjct  85   NESKKSRVTPRHLHLAIYGDQETAQLLDKVTLPQGGVTPMPIHPSLL  131
+
+
+
+
+
+
+
+		
+
+
