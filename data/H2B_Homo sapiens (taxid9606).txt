@@ -1,0 +1,3646 @@
+RID: 7U4N1RRP016	
+Job Title:NP_001368918.1 H2BC4 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347] Query ID: lcl|Query_58484 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H2B type 1-C/E/F/G/I [Homo sapiens]                       Homo sapiens    human           9606       254    254   100%  6e-88 100.00 126        NP_001368918.1   
+histone H2B type 2-E [Homo sapiens]                               Homo sapiens    human           9606       253    253   100%  1e-87 99.21  126        NP_003519.1      
+Chain D, Histone H2B type 2-E [Homo sapiens]                      Homo sapiens    human           9606       253    253   100%  1e-87 99.21  129        7BXT_D           
+histone H2B type 1-H [Homo sapiens]                               Homo sapiens    human           9606       253    253   100%  2e-87 99.21  126        NP_003515.1      
+histone H2B type 1-N [Homo sapiens]                               Homo sapiens    human           9606       253    253   100%  2e-87 99.21  126        NP_003511.1      
+histone H2B type 1-K [Homo sapiens]                               Homo sapiens    human           9606       253    253   100%  2e-87 99.21  126        NP_001299582.1   
+histone H2B type 1-O [Homo sapiens]                               Homo sapiens    human           9606       252    252   100%  3e-87 98.41  126        NP_003518.2      
+histone H2B type 1-D [Homo sapiens]                               Homo sapiens    human           9606       252    252   100%  3e-87 99.21  126        NP_066407.1      
+histone H2B type 1-J [Homo sapiens]                               Homo sapiens    human           9606       252    252   100%  3e-87 98.41  126        NP_066402.2      
+HIST2H2BE protein [Homo sapiens]                                  Homo sapiens    human           9606       252    252   100%  3e-87 98.41  126        AAH98112.1       
+Chain D, Histone H2B type 1-J [Homo sapiens]                      Homo sapiens    human           9606       252    252   100%  3e-87 98.41  128        7COW_D           
+Chain D, Histone H2B type 1-J [Homo sapiens]                      Homo sapiens    human           9606       252    252   100%  4e-87 98.41  128        7XVL_D           
+H2B clustered histone 6 [Homo sapiens]                            Homo sapiens    human           9606       251    251   100%  4e-87 99.21  126        KAI4017078.1     
+histone 1, H2bl [Homo sapiens]                                    Homo sapiens    human           9606       251    251   100%  4e-87 99.21  126        EAX03106.1       
+The nucleosome containing a testis-specific histone variant,...   Homo sapiens    human           9606       251    251   100%  5e-87 98.41  129        3A6N_D           
+histone H2B type 1-B [Homo sapiens]                               Homo sapiens    human           9606       251    251   100%  5e-87 97.62  126        NP_066406.1      
+histone H2B [Homo sapiens]                                        Homo sapiens    human           9606       251    251   100%  5e-87 98.41  126        CAB02545.1       
+Solution structure of the isolated histone H2A-H2B heterodimer... Homo sapiens    human           9606       251    251   100%  6e-87 98.41  129        2RVQ_D           
+Crystal structure of nucleosome complex with human...             Homo sapiens    human           9606       251    251   99%   7e-87 100.00 125        5GT0_D           
+histone H2B type 2-F isoform a [Homo sapiens]                     Homo sapiens    human           9606       251    251   100%  8e-87 98.41  126        NP_001019770.1   
+histone 1, H2bn, isoform CRA_b [Homo sapiens]                     Homo sapiens    human           9606       252    252   100%  8e-87 99.21  166        EAX03115.1       
+HIST1H2BC protein [Homo sapiens]                                  Homo sapiens    human           9606       251    251   100%  1e-86 99.21  126        AAI05596.1       
+histone H2A.2 [Homo sapiens]                                      Homo sapiens    human           9606       251    251   100%  1e-86 97.62  126        CAA40416.1       
+Chain D, Histone H2B type 2-E [Homo sapiens]                      Homo sapiens    human           9606       251    251   99%   1e-86 99.20  125        7EA8_D           
+histone H2B type 2-F isoform b [Homo sapiens]                     Homo sapiens    human           9606       251    251   100%  1e-86 98.41  134        NP_001154806.1   
+OCT4-SOX2-bound nucleosome - SHL-6 [Homo sapiens]                 Homo sapiens    human           9606       250    250   99%   2e-86 98.40  128        6T90_D           
+H2B.S histone 1 [Homo sapiens]                                    Homo sapiens    human           9606       250    250   100%  2e-86 98.41  126        KAI2596362.1     
+Chain D, Histone H2B type 1-K [Homo sapiens]                      Homo sapiens    human           9606       250    250   99%   2e-86 99.20  125        7BWD_D           
+Crystal Structure of the human nucleosome containing the H2B...   Homo sapiens    human           9606       250    250   100%  2e-86 97.62  129        5Y0D_D           
+Chain D, Histone H2B type 1-J [Homo sapiens]                      Homo sapiens    human           9606       249    249   98%   3e-86 99.19  126        7LYA_D           
+Crystal structure of histone H2A.Bbd-H2B dimer [Homo sapiens]     Homo sapiens    human           9606       254    254   100%  3e-86 99.21  240        6A7U_A           
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       249    249   100%  3e-86 98.41  126        BAF85401.1       
+Chain D, Histone H2B type 1-J [Homo sapiens]                      Homo sapiens    human           9606       249    249   99%   3e-86 98.40  125        7E8D_D           
+The nucleosome structure containing H2B-K120 and H4-K31...        Homo sapiens    human           9606       249    249   100%  4e-86 97.62  129        5B40_D           
+histone H2B type F-S [Homo sapiens]                               Homo sapiens    human           9606       249    249   100%  4e-86 97.62  126        NP_059141.1      
+Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]              Homo sapiens    human           9606       249    249   98%   4e-86 100.00 125        6X59_D           
+HIST1H2BM protein [Homo sapiens]                                  Homo sapiens    human           9606       249    249   100%  5e-86 96.83  138        AAH67485.1       
+Crystal structure of the nucleosome core particle [Homo sapiens]  Homo sapiens    human           9606       249    249   99%   5e-86 97.60  125        3X1S_D           
+The mouse cGAS catalytic domain binding to human nucleosome th... Homo sapiens    human           9606       248    248   98%   6e-86 100.00 124        6X5A_D           
+histone H2B type 1-L [Homo sapiens]                               Homo sapiens    human           9606       248    248   100%  1e-85 98.41  126        NP_003510.1      
+histone H2B type 1-M [Homo sapiens]                               Homo sapiens    human           9606       248    248   100%  1e-85 96.83  126        NP_003512.1      
+Chain M, Histone H2B [Homo sapiens]                               Homo sapiens    human           9606       248    248   99%   3e-85 98.40  166        7BG9_M           
+Crystal structure of nucleosome core particle in the presence ... Homo sapiens    human           9606       246    246   98%   5e-85 97.58  124        3X1U_D           
+Histone cluster 1, H2bm [Homo sapiens]                            Homo sapiens    human           9606       244    244   100%  2e-84 96.03  126        AAH67487.1       
+The structure of the centromeric nucleosome containing CENP-A...  Homo sapiens    human           9606       243    243   99%   9e-84 96.80  129        3AN2_D           
+Crystal structure of the human nucleosome phased with 12...       Homo sapiens    human           9606       241    241   99%   9e-83 96.00  129        6JR0_D           
+Crystal structure of the human nucleosome phased with 16...       Homo sapiens    human           9606       238    238   99%   8e-82 95.20  129        6JR1_D           
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       237    237   100%  2e-81 94.44  125        CAA24950.1       
+Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]              Homo sapiens    human           9606       233    233   96%   9e-80 92.62  122        8AAG_D           
+histone H2B type 3-B [Homo sapiens]                               Homo sapiens    human           9606       222    222   100%  3e-75 95.24  126        NP_778225.1      
+histone H2B type 1-A [Homo sapiens]                               Homo sapiens    human           9606       215    215   100%  2e-72 85.04  127        NP_733759.1      
+The nucleosome containing human TSH2B [Homo sapiens]              Homo sapiens    human           9606       214    214   100%  2e-72 85.04  130        3WKJ_D           
+HIST1H2BA protein [Homo sapiens]                                  Homo sapiens    human           9606       213    213   100%  5e-72 84.25  127        AAH66241.1       
+HIST1H2BA protein [Homo sapiens]                                  Homo sapiens    human           9606       213    213   96%   1e-71 86.07  126        AAH66243.1       
+Crystal structure of nucleosome core particle consisting of...    Homo sapiens    human           9606       212    212   99%   2e-71 84.92  126        5GSU_D           
+Histone cluster 1, H2ba [Homo sapiens]                            Homo sapiens    human           9606       212    212   100%  3e-71 84.25  127        AAH66240.1       
+histone H2B.1 [Homo sapiens]                                      Homo sapiens    human           9606       206    206   80%   2e-69 99.01  101        AAA63192.1       
+Crystal Structure of Human Nucleosome Core Particle lacking H2... Homo sapiens    human           9606       205    205   80%   4e-69 98.02  105        3W97_D           
+Role of the DEF/Y motif of Swc5 in histone H2A.Z deposition...    Homo sapiens    human           9606       204    204   79%   1e-68 99.00  104        6KBB_B           
+Chain D, Histone H2B type 1-K [Homo sapiens]                      Homo sapiens    human           9606       201    201   78%   2e-67 98.99  99         7V90_D           
+Chain B, Histone H2B type 1-J [Homo sapiens]                      Homo sapiens    human           9606       200    200   78%   4e-67 97.98  100        8I17_B           
+Human nucleosome core particle with cohesive end DNA termini...   Homo sapiens    human           9606       197    197   76%   6e-66 97.94  97         6JXD_D           
+Chain A, histone H2A-H2B [Homo sapiens]                           Homo sapiens    human           9606       200    200   78%   1e-65 97.98  199        7VCL_A           
+Chain D, Histone H2B [Homo sapiens]                               Homo sapiens    human           9606       196    196   76%   2e-65 98.96  96         7YQK_D           
+Chain D, Histone H2B type 1-K [Homo sapiens]                      Homo sapiens    human           9606       196    196   76%   2e-65 98.96  96         8GRM_D           
+Crystal structure of a human Anp32e-H2A.Z-H2B complex [Homo...    Homo sapiens    human           9606       195    195   76%   4e-65 97.92  97         4CAY_B           
+Crystal structure of a human YL1-H2A.Z-H2B complex [Homo sapiens] Homo sapiens    human           9606       195    195   76%   4e-65 97.92  96         5FUG_B           
+The Human Telomeric Nucleosome Displays Distinct Structural an... Homo sapiens    human           9606       194    194   75%   9e-65 98.95  95         6KE9_D           
+Human nucleosome core particle containing 145 bp of DNA [Homo...  Homo sapiens    human           9606       194    194   75%   2e-64 97.89  95         6IPU_D           
+Structure of human cGAS (K394E) bound to the nucleosome (focus... Homo sapiens    human           9606       192    192   74%   4e-64 98.94  94         6Y5E_H           
+Chain D, H2B [Homo sapiens]                                       Homo sapiens    human           9606       194    387   92%   3e-63 85.34  188        8GRQ_D           
+Structure of human cGAS (K394E) bound to the nucleosome (focus... Homo sapiens    human           9606       190    190   73%   3e-63 98.92  93         6Y5E_D           
+CENP-A nucleosome bound by two copies of CENP-C(CD) and one co... Homo sapiens    human           9606       190    190   73%   3e-63 100.00 92         6MUO_D           
+Structure of the 1:1 cGAS-nucleosome complex [Homo sapiens]       Homo sapiens    human           9606       190    190   73%   5e-63 97.85  93         7CCQ_D           
+Chain A, Histone H2B type 1-O,Histone H2A type 1-D [Homo sapiens] Homo sapiens    human           9606       191    191   73%   5e-62 98.92  193        7WLP_A           
+Crystal structure of human lnkH2B-h2A.Z-Anp32e [Homo sapiens]     Homo sapiens    human           9606       191    191   73%   6e-62 98.92  209        4NFT_A           
+Structural basis of H2A.Z recognition by YL1 histone chaperone... Homo sapiens    human           9606       190    190   73%   7e-62 98.92  193        5CHL_B           
+Chain A, Histone H2B type 1-J,Histone H2A type 1-B/E [Homo...     Homo sapiens    human           9606       189    189   73%   2e-61 98.91  194        5VEY_A           
+PUTATIVE PSEUDOGENE: RecName: Full=Putative histone H2B type...   Homo sapiens    human           9606       184    184   84%   1e-59 82.24  164        Q6DRA6.3         
+hCG2042712 [Homo sapiens]                                         Homo sapiens    human           9606       184    184   82%   2e-59 84.62  184        EAW50860.1       
+PUTATIVE PSEUDOGENE: RecName: Full=Putative histone H2B type...   Homo sapiens    human           9606       184    184   84%   3e-59 82.24  193        Q6DN03.3         
+histone H2B type 2-K1 [Homo sapiens]                              Homo sapiens    human           9606       163    163   72%   3e-52 82.42  122        NP_001356054.2   
+histone 1, H2bj, isoform CRA_b [Homo sapiens]                     Homo sapiens    human           9606       154    154   60%   3e-49 98.68  78         EAX03082.1       
+alternative protein ABCF2 [Homo sapiens]                          Homo sapiens    human           9606       120    120   53%   7e-36 82.09  67         CCO13668.1       
+ATP-binding cassette, sub-family F (GCN20), member 2, isoform...  Homo sapiens    human           9606       130    130   65%   7e-35 78.31  696        EAW54015.1       
+H2B clustered histone 11 [Homo sapiens]                           Homo sapiens    human           9606       117    117   46%   9e-35 98.28  58         KAI2541185.1     
+hCG1657257 [Homo sapiens]                                         Homo sapiens    human           9606       107    107   90%   8e-30 42.98  133        EAW54688.1       
+hCG1645967 [Homo sapiens]                                         Homo sapiens    human           9606       106    106   86%   5e-29 56.88  158        EAW99024.1       
+H2B histone family, member W, testis-specific, isoform CRA_b...   Homo sapiens    human           9606       106    106   88%   9e-28 47.54  296        EAX02766.1       
+histone H2B type F-M [Homo sapiens]                               Homo sapiens    human           9606       101    101   94%   3e-27 43.08  148        NP_001157888.2   
+histone H2B type F-M isoform X1 [Homo sapiens]                    Homo sapiens    human           9606       101    101   94%   4e-27 43.08  154        XP_011529224.1   
+H2B histone family, member W, testis-specific, isoform CRA_a...   Homo sapiens    human           9606       100    100   84%   2e-26 46.15  175        EAX02765.1       
+histone H2B type W-T [Homo sapiens]                               Homo sapiens    human           9606       97.1   97.1  84%   1e-25 45.30  147        NP_001002916.4   
+RecName: Full=Histone H2B type W-T; AltName: Full=H2B histone...  Homo sapiens    human           9606       97.8   97.8  84%   1e-25 45.30  175        Q7Z2G1.3         
+H2B histone family, member M [Homo sapiens]                       Homo sapiens    human           9606       56.2   56.2  32%   1e-10 63.41  52         CAP58855.2       
+H2B.W histone 2 [Homo sapiens]                                    Homo sapiens    human           9606       55.5   55.5  32%   2e-10 60.98  52         KAI2600386.1     
+histone H2A.N [Homo sapiens]                                      Homo sapiens    human           9606       51.2   51.2  51%   4e-08 42.65  118        NP_001388269.1   
+hCG1811509 [Homo sapiens]                                         Homo sapiens    human           9606       47.4   47.4  23%   4e-06 66.67  227        EAW55491.1       
+RAB40A, member RAS oncogene family, isoform CRA_a [Homo sapiens]  Homo sapiens    human           9606       43.1   43.1  28%   1e-04 50.00  224        EAW54707.1       
+
+
+Alignments:
+
+>histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: NP_001368918.1 Length: 126
+>histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: NP_003509.1 Length: 126
+>histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: NP_003513.1 Length: 126
+>histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: NP_003514.2 Length: 126
+>histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: NP_003516.1 Length: 126
+>histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: NP_003517.2 Length: 126
+>RecName: Full=Histone H2B type 1-C/E/F/G/I; AltName: Full=Histone H2B.1 A; AltName: Full=Histone H2B.a; Short=H2B/a; AltName: Full=Histone H2B.g; Short=H2B/g; AltName: Full=Histone H2B.h; Short=H2B/h; AltName: Full=Histone H2B.k; Short=H2B/k; AltName: Full=Histone H2B.l; Short=H2B/l [Homo sapiens]
+Sequence ID: P62807.4 Length: 126
+>Structural model of 53BP1 bound to a ubiquitylated and methylated nucleosome, at 4.5 A resolution [Homo sapiens]
+Sequence ID: 5KGF_D Length: 126
+>Structural model of 53BP1 bound to a ubiquitylated and methylated nucleosome, at 4.5 A resolution [Homo sapiens]
+Sequence ID: 5KGF_H Length: 126
+>Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 6C0W_D Length: 126
+>Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 6C0W_H Length: 126
+>Human-D02 Nucleosome Core Particle with biotin-streptavidin label [Homo sapiens]
+Sequence ID: 6R0C_D Length: 126
+>Human-D02 Nucleosome Core Particle with biotin-streptavidin label [Homo sapiens]
+Sequence ID: 6R0C_H Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 6RNY_D Length: 126
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 6RNY_H Length: 126
+>Class 1 : CENP-A nucleosome [Homo sapiens]
+Sequence ID: 6SE0_D Length: 126
+>Class 1 : CENP-A nucleosome [Homo sapiens]
+Sequence ID: 6SE0_H Length: 126
+>Class2 : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SE6_D Length: 126
+>Class2 : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SE6_H Length: 126
+>Class2A : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEE_D Length: 126
+>Class2A : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEE_H Length: 126
+>Class2C : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEF_D Length: 126
+>Class2C : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEF_H Length: 126
+>Class1: CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEG_D Length: 126
+>Class1: CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEG_H Length: 126
+>Structure of FACT_subnucleosome complex 1 [Homo sapiens]
+Sequence ID: 6UPK_D Length: 126
+>Structure of FACT_subnucleosome complex 2 [Homo sapiens]
+Sequence ID: 6UPL_D Length: 126
+>Structure of FACT_subnucleosome complex 2 [Homo sapiens]
+Sequence ID: 6UPL_L Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7PII_D Length: 126
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7PII_H Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7R5R_D Length: 126
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7R5R_H Length: 126
+>Chain F, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7TRF_F Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U46_D Length: 126
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U46_H Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U47_D Length: 126
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U47_H Length: 126
+>Chain O, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U47_O Length: 126
+>Chain S, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U47_S Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U4D_D Length: 126
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U4D_H Length: 126
+>Chain O, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U4D_O Length: 126
+>Chain S, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U4D_S Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7YWX_D Length: 126
+>Chain V, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7YWX_V Length: 126
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7YYH_D Length: 126
+>Chain h, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7YYH_h Length: 126 
+Range 1: 1 to 126
+
+Score:254 bits(648), Expect:6e-88, 
+Method:Compositional matrix adjust., 
+Identities:126/126(100%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 2-E [Homo sapiens]
+Sequence ID: NP_003519.1 Length: 126
+>RecName: Full=Histone H2B type 2-E; AltName: Full=H2B-clustered histone 21; AltName: Full=Histone H2B-GL105; AltName: Full=Histone H2B.q; Short=H2B/q [Homo sapiens]
+Sequence ID: Q16778.3 Length: 126
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4D_D Length: 126
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4D_H Length: 126
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4G_D Length: 126
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4G_H Length: 126
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4H_D Length: 126
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4H_H Length: 126
+>Chain D, Histone H2B type 2-E [Homo sapiens]
+Sequence ID: 8H1T_D Length: 126
+>Chain H, Histone H2B type 2-E [Homo sapiens]
+Sequence ID: 8H1T_H Length: 126 
+Range 1: 1 to 126
+
+Score:253 bits(646), Expect:1e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Chain D, Histone H2B type 2-E [Homo sapiens]
+Sequence ID: 7BXT_D Length: 129
+>Chain H, Histone H2B type 2-E [Homo sapiens]
+Sequence ID: 7BXT_H Length: 129 
+Range 1: 4 to 129
+
+Score:253 bits(646), Expect:1e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  4    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  63
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  64   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  123
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  124  KYTSSK  129
+
+
+
+
+>histone H2B type 1-H [Homo sapiens]
+Sequence ID: NP_003515.1 Length: 126
+>RecName: Full=Histone H2B type 1-H; AltName: Full=H2B-clustered histone 9; AltName: Full=Histone H2B.j; Short=H2B/j [Homo sapiens]
+Sequence ID: Q93079.3 Length: 126
+>Histone cluster 1, H2bh [Homo sapiens]
+Sequence ID: AAH96116.1 Length: 126
+>Histone cluster 1, H2bh [Homo sapiens]
+Sequence ID: AAH96117.1 Length: 126 
+Range 1: 1 to 126
+
+Score:253 bits(645), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-N [Homo sapiens]
+Sequence ID: NP_003511.1 Length: 126
+>RecName: Full=Histone H2B type 1-N; AltName: Full=Histone H2B.d; Short=H2B/d [Homo sapiens]
+Sequence ID: Q99877.3 Length: 126 
+Range 1: 1 to 126
+
+Score:253 bits(645), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP+KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPSKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-K [Homo sapiens]
+Sequence ID: NP_001299582.1 Length: 126
+>histone H2B type 1-K [Homo sapiens]
+Sequence ID: NP_542160.1 Length: 126
+>RecName: Full=Histone H2B type 1-K; Short=H2B K; AltName: Full=HIRA-interacting protein 1 [Homo sapiens]
+Sequence ID: O60814.3 Length: 126
+>Crystal structure of human nucleosome core particle [Homo sapiens]
+Sequence ID: 2CV5_D Length: 126
+>Crystal structure of human nucleosome core particle [Homo sapiens]
+Sequence ID: 2CV5_H Length: 126
+>Structure of a human nucleosome at 3.2 A resolution [Homo sapiens]
+Sequence ID: 6T79_D Length: 126
+>Structure of a human nucleosome at 3.2 A resolution [Homo sapiens]
+Sequence ID: 6T79_H Length: 126
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7A_D Length: 126
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7A_H Length: 126
+>Structure of human Sox2 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7B_D Length: 126
+>Structure of human Sox2 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7B_H Length: 126
+>Structure of two copies of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7C_D Length: 126
+>Structure of two copies of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7C_H Length: 126
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7D_D Length: 126
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7D_H Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 6V92_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 6V92_h Length: 126
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_D Length: 126
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_H Length: 126
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_P Length: 126
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_T Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7DBP_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7DBP_H Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_R Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_h Length: 126
+>Chain n, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_n Length: 126
+>Chain r, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PET_r Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEU_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEU_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEU_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEU_R Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEU_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEU_h Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEV_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEV_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEV_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEV_R Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEW_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEW_H Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEX_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEX_h Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEY_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEY_R Length: 126
+>Chain e, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEZ_e Length: 126
+>Chain n, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PEZ_n Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF0_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF0_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF0_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF0_R Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF0_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF0_h Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF2_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF2_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF2_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF2_R Length: 126
+>Chain n, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF3_n Length: 126
+>Chain r, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF3_r Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF4_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF4_R Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF5_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF5_h Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF6_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PF6_H Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFA_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFA_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFA_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFA_R Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFA_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFA_h Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFC_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFC_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFC_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFC_R Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFD_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFD_H Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFE_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFE_h Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFF_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFF_R Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFT_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFT_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFT_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFT_R Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFT_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFT_h Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFU_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFU_H Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFU_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFU_R Length: 126
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFV_D Length: 126
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFV_H Length: 126
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFW_d Length: 126
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFW_h Length: 126
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFX_N Length: 126
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7PFX_R Length: 126 
+Range 1: 1 to 126
+
+Score:253 bits(645), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  121  KYTSAK  126
+
+
+
+
+>histone H2B type 1-O [Homo sapiens]
+Sequence ID: NP_003518.2 Length: 126
+>RecName: Full=Histone H2B type 1-O; AltName: Full=H2B-clustered histone 17; AltName: Full=Histone H2B.2; AltName: Full=Histone H2B.n; Short=H2B/n [Homo sapiens]
+Sequence ID: P23527.3 Length: 126
+>Histone cluster 1, H2bo [Homo sapiens]
+Sequence ID: AAI06721.1 Length: 126
+>histone H2B [Homo sapiens]
+Sequence ID: AAN06698.1 Length: 126 
+Range 1: 1 to 126
+
+Score:252 bits(643), Expect:3e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-D [Homo sapiens]
+Sequence ID: NP_066407.1 Length: 126
+>histone H2B type 1-D [Homo sapiens]
+Sequence ID: NP_619790.1 Length: 126
+>histone H2B type 1-D isoform X1 [Homo sapiens]
+Sequence ID: XP_005249096.2 Length: 126
+>RecName: Full=Histone H2B type 1-D; AltName: Full=H2B-clustered histone 5; AltName: Full=HIRA-interacting protein 2; AltName: Full=Histone H2B.1 B; AltName: Full=Histone H2B.b; Short=H2B/b [Homo sapiens]
+Sequence ID: P58876.2 Length: 126 
+Range 1: 1 to 126
+
+Score:252 bits(643), Expect:3e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPTKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-J [Homo sapiens]
+Sequence ID: NP_066402.2 Length: 126
+>RecName: Full=Histone H2B type 1-J; AltName: Full=Histone H2B.1; AltName: Full=Histone H2B.r; Short=H2B/r [Homo sapiens]
+Sequence ID: P06899.3 Length: 126
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,R-configuration) [Homo sapiens]
+Sequence ID: 5XF3_D Length: 126
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,R-configuration) [Homo sapiens]
+Sequence ID: 5XF3_H Length: 126
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (S,S-configuration) [Homo sapiens]
+Sequence ID: 5XF4_D Length: 126
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (S,S-configuration) [Homo sapiens]
+Sequence ID: 5XF4_H Length: 126
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,S-configuration) [Homo sapiens]
+Sequence ID: 5XF5_D Length: 126
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,S-configuration) [Homo sapiens]
+Sequence ID: 5XF5_H Length: 126
+>Cryo-EM structure of CENP-A nucleosome in complex with kinetochore protein CENP-N [Homo sapiens]
+Sequence ID: 6BUZ_D Length: 126
+>Cryo-EM structure of CENP-A nucleosome in complex with kinetochore protein CENP-N [Homo sapiens]
+Sequence ID: 6BUZ_H Length: 126
+>Cryo-EM structure of the CENP-A nucleosome (W601) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0C_D Length: 126
+>Cryo-EM structure of the CENP-A nucleosome (W601) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0C_H Length: 126
+>Cryo-EM structure of the centromeric nucleosome (Native alpha satellite DNA) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0P_D Length: 126
+>Cryo-EM structure of the centromeric nucleosome (Native alpha satellite DNA) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0P_H Length: 126
+>Cryo-EM structure of the human INO80 complex bound to nucleosome [Homo sapiens]
+Sequence ID: 6HTS_L Length: 126
+>Cryo-EM structure of the human INO80 complex bound to nucleosome [Homo sapiens]
+Sequence ID: 6HTS_P Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6L9Z_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6L9Z_H Length: 126
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6L9Z_N Length: 126
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6L9Z_R Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_H Length: 126
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_N Length: 126
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_R Length: 126
+>Chain X, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_X Length: 126
+>Chain b, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_b Length: 126
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_h Length: 126
+>Chain l, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LA2_l Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_D Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_H Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_N Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_R Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_D Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_H Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_N Length: 126
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_R Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LAB_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LAB_H Length: 126
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LAB_N Length: 126
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LAB_R Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LER_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LER_H Length: 126
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LER_N Length: 126
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6LER_R Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_D Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_H Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_N Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_R Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_D Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_H Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_N Length: 126
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_R Length: 126
+>Cryo-EM structure of the centromeric nucleosome with native alpha satellite DNA [Homo sapiens]
+Sequence ID: 6O1D_D Length: 126
+>Cryo-EM structure of the centromeric nucleosome with native alpha satellite DNA [Homo sapiens]
+Sequence ID: 6O1D_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7BY0_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7BY0_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K5X_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K5X_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K5Y_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K5Y_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K60_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K60_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K61_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K61_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K63_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7K63_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7NL0_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7NL0_H Length: 126
+>Chain L, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7ZI4_L Length: 126
+>Chain P, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7ZI4_P Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAG_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAG_H Length: 126 
+Range 1: 1 to 126
+
+Score:252 bits(643), Expect:3e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  121  KYTSAK  126
+
+
+
+
+>HIST2H2BE protein [Homo sapiens]
+Sequence ID: AAH98112.1 Length: 126
+>HIST2H2BE protein [Homo sapiens]
+Sequence ID: AAH98289.1 Length: 126 
+Range 1: 1 to 126
+
+Score:252 bits(643), Expect:3e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP+KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPSKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7COW_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7COW_H Length: 128
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7COW_N Length: 128
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7COW_R Length: 128 
+Range 1: 3 to 128
+
+Score:252 bits(643), Expect:3e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  3    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  62
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  63   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  122
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  123  KYTSAK  128
+
+
+
+
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_H Length: 128
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_N Length: 128
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_R Length: 128
+>Chain X, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_X Length: 128
+>Chain b, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_b Length: 128
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_h Length: 128
+>Chain l, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVL_l Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVM_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVM_H Length: 128
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVM_N Length: 128
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XVM_R Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX5_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX5_H Length: 128
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX5_N Length: 128
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX5_R Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_H Length: 128
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_N Length: 128
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_R Length: 128
+>Chain X, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_X Length: 128
+>Chain b, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_b Length: 128
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_h Length: 128
+>Chain l, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX6_l Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX7_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX7_H Length: 128
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX7_N Length: 128
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XX7_R Length: 128 
+Range 1: 3 to 128
+
+Score:252 bits(643), Expect:4e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  3    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  62
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  63   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  122
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  123  KYTSAK  128
+
+
+
+
+>H2B clustered histone 6 [Homo sapiens]
+Sequence ID: KAI4017078.1 Length: 126
+>H2B clustered histone 6 [Homo sapiens]
+Sequence ID: KAI4017079.1 Length: 126
+>histone H2B [Homo sapiens]
+Sequence ID: CAB02542.1 Length: 126 
+Range 1: 1 to 126
+
+Score:251 bits(642), Expect:4e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKD KKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDSKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone 1, H2bl [Homo sapiens]
+Sequence ID: EAX03106.1 Length: 126
+Range 1: 1 to 126
+
+Score:251 bits(642), Expect:4e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>The nucleosome containing a testis-specific histone variant, human H3T [Homo sapiens]
+Sequence ID: 3A6N_D Length: 129
+>The nucleosome containing a testis-specific histone variant, human H3T [Homo sapiens]
+Sequence ID: 3A6N_H Length: 129
+>The human nucleosome structure [Homo sapiens]
+Sequence ID: 3AFA_D Length: 129
+>The human nucleosome structure [Homo sapiens]
+Sequence ID: 3AFA_H Length: 129
+>The human nucleosome structure containing the histone variant H3.2 [Homo sapiens]
+Sequence ID: 3AV1_D Length: 129
+>The human nucleosome structure containing the histone variant H3.2 [Homo sapiens]
+Sequence ID: 3AV1_H Length: 129
+>The human nucleosome structure containing the histone variant H3.3 [Homo sapiens]
+Sequence ID: 3AV2_D Length: 129
+>The human nucleosome structure containing the histone variant H3.3 [Homo sapiens]
+Sequence ID: 3AV2_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K56Q mutation [Homo sapiens]
+Sequence ID: 3AYW_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K56Q mutation [Homo sapiens]
+Sequence ID: 3AYW_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K64Q mutation [Homo sapiens]
+Sequence ID: 3AZE_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K64Q mutation [Homo sapiens]
+Sequence ID: 3AZE_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K79Q mutation [Homo sapiens]
+Sequence ID: 3AZF_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K79Q mutation [Homo sapiens]
+Sequence ID: 3AZF_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K115Q mutation [Homo sapiens]
+Sequence ID: 3AZG_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K115Q mutation [Homo sapiens]
+Sequence ID: 3AZG_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K122Q mutation [Homo sapiens]
+Sequence ID: 3AZH_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K122Q mutation [Homo sapiens]
+Sequence ID: 3AZH_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K31Q mutation [Homo sapiens]
+Sequence ID: 3AZI_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K31Q mutation [Homo sapiens]
+Sequence ID: 3AZI_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K44Q mutation [Homo sapiens]
+Sequence ID: 3AZJ_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K44Q mutation [Homo sapiens]
+Sequence ID: 3AZJ_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K59Q mutation [Homo sapiens]
+Sequence ID: 3AZK_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K59Q mutation [Homo sapiens]
+Sequence ID: 3AZK_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K77Q mutation [Homo sapiens]
+Sequence ID: 3AZL_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K77Q mutation [Homo sapiens]
+Sequence ID: 3AZL_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K79Q mutation [Homo sapiens]
+Sequence ID: 3AZM_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K79Q mutation [Homo sapiens]
+Sequence ID: 3AZM_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K91Q mutation [Homo sapiens]
+Sequence ID: 3AZN_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K91Q mutation [Homo sapiens]
+Sequence ID: 3AZN_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle lacking H2A N-terminal region [Homo sapiens]
+Sequence ID: 3W96_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle lacking H2A N-terminal region [Homo sapiens]
+Sequence ID: 3W96_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle lacking H3.1 N-terminal region [Homo sapiens]
+Sequence ID: 3W98_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle lacking H3.1 N-terminal region [Homo sapiens]
+Sequence ID: 3W98_H Length: 129
+>Crystal Structure of Human Nucleosome Core Particle lacking H4 N-terminal region [Homo sapiens]
+Sequence ID: 3W99_D Length: 129
+>Crystal Structure of Human Nucleosome Core Particle lacking H4 N-terminal region [Homo sapiens]
+Sequence ID: 3W99_H Length: 129
+>The nucleosome containing human H2A.Z.1 [Homo sapiens]
+Sequence ID: 3WA9_D Length: 129
+>The nucleosome containing human H2A.Z.1 [Homo sapiens]
+Sequence ID: 3WA9_H Length: 129
+>The nucleosome containing human H2A.Z.2 [Homo sapiens]
+Sequence ID: 3WAA_D Length: 129
+>The nucleosome containing human H2A.Z.2 [Homo sapiens]
+Sequence ID: 3WAA_H Length: 129
+>Crystal Structure of the heterotypic nucleosome containing human CENP-A and H3.3 [Homo sapiens]
+Sequence ID: 3WTP_D Length: 129
+>Crystal Structure of the heterotypic nucleosome containing human CENP-A and H3.3 [Homo sapiens]
+Sequence ID: 3WTP_H Length: 129
+>Crystal structure of the human nucleosome containing 6-4PP (inside) [Homo sapiens]
+Sequence ID: 4YM5_D Length: 129
+>Crystal structure of the human nucleosome containing 6-4PP (inside) [Homo sapiens]
+Sequence ID: 4YM5_H Length: 129
+>Crystal structure of the human nucleosome containing 6-4PP (outside) [Homo sapiens]
+Sequence ID: 4YM6_D Length: 129
+>Crystal structure of the human nucleosome containing 6-4PP (outside) [Homo sapiens]
+Sequence ID: 4YM6_H Length: 129
+>The nucleosome containing human H3.5 [Homo sapiens]
+Sequence ID: 4Z5T_D Length: 129
+>The nucleosome containing human H3.5 [Homo sapiens]
+Sequence ID: 4Z5T_H Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV5_D Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV5_H Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV6_D Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV6_H Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV8_D Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV8_H Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV9_D Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV9_H Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVB_D Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVB_H Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVC_D Length: 129
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVC_H Length: 129
+>Crystal structure of human nucleosome containing H3.Y [Homo sapiens]
+Sequence ID: 5AY8_D Length: 129
+>Crystal structure of human nucleosome containing H3.Y [Homo sapiens]
+Sequence ID: 5AY8_H Length: 129
+>Crystal structure of the nucleosome containing histone H3 with the crotonylated lysine 122 [Homo sapiens]
+Sequence ID: 5B0Y_D Length: 129
+>Crystal structure of the nucleosome containing histone H3 with the crotonylated lysine 122 [Homo sapiens]
+Sequence ID: 5B0Y_H Length: 129
+>The crystal structure of the nucleosome containing H3.2, at 1.98 A resolution [Homo sapiens]
+Sequence ID: 5B0Z_D Length: 129
+>The crystal structure of the nucleosome containing H3.2, at 1.98 A resolution [Homo sapiens]
+Sequence ID: 5B0Z_H Length: 129
+>The crystal structure of the nucleosome containing cyclobutane pyrimidine dimer [Homo sapiens]
+Sequence ID: 5B24_D Length: 129
+>The crystal structure of the nucleosome containing cyclobutane pyrimidine dimer [Homo sapiens]
+Sequence ID: 5B24_H Length: 129
+>Human nucleosome containing CpG unmethylated DNA [Homo sapiens]
+Sequence ID: 5B2I_D Length: 129
+>Human nucleosome containing CpG unmethylated DNA [Homo sapiens]
+Sequence ID: 5B2I_H Length: 129
+>Human nucleosome containing CpG methylated DNA [Homo sapiens]
+Sequence ID: 5B2J_D Length: 129
+>Human nucleosome containing CpG methylated DNA [Homo sapiens]
+Sequence ID: 5B2J_H Length: 129
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.1. [Homo sapiens]
+Sequence ID: 5B31_D Length: 129
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.1. [Homo sapiens]
+Sequence ID: 5B31_H Length: 129
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B32_D Length: 129
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B32_H Length: 129
+>The crystal structure of the H2AZ nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B33_D Length: 129
+>The crystal structure of the H2AZ nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B33_H Length: 129
+>Nucleosome containing unmethylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPI_D Length: 129
+>Nucleosome containing unmethylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPI_H Length: 129
+>Nucleosome containing methylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPJ_D Length: 129
+>Nucleosome containing methylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPJ_H Length: 129
+>Nucleosome containing methylated Sat2L DNA [Homo sapiens]
+Sequence ID: 5CPK_D Length: 129
+>Nucleosome containing methylated Sat2L DNA [Homo sapiens]
+Sequence ID: 5CPK_H Length: 129
+>Crystal structure of unusual nucleosome [Homo sapiens]
+Sequence ID: 5GSE_D Length: 129
+>Crystal structure of unusual nucleosome [Homo sapiens]
+Sequence ID: 5GSE_H Length: 129
+>Crystal structure of unusual nucleosome [Homo sapiens]
+Sequence ID: 5GSE_N Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 5GTC_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 5GTC_H Length: 129
+>The crystal structure of the nucleosome containing H3.6 [Homo sapiens]
+Sequence ID: 5GXQ_D Length: 129
+>The crystal structure of the nucleosome containing H3.6 [Homo sapiens]
+Sequence ID: 5GXQ_H Length: 129
+>Crystal structure of the nucleosome containing the DNA with tetrahydrofuran (THF) [Homo sapiens]
+Sequence ID: 5JRG_D Length: 129
+>Crystal structure of the nucleosome containing the DNA with tetrahydrofuran (THF) [Homo sapiens]
+Sequence ID: 5JRG_H Length: 129
+>The crystal structure of the nucleosome containing H3.3 at 2.18 angstrom resolution [Homo sapiens]
+Sequence ID: 5X7X_D Length: 129
+>The crystal structure of the nucleosome containing H3.3 at 2.18 angstrom resolution [Homo sapiens]
+Sequence ID: 5X7X_H Length: 129
+>Crystal Structure of the human nucleosome at 2.09 angstrom resolution [Homo sapiens]
+Sequence ID: 5Y0C_D Length: 129
+>Crystal Structure of the human nucleosome at 2.09 angstrom resolution [Homo sapiens]
+Sequence ID: 5Y0C_H Length: 129
+>The crystal structure of the nucleosome containing a cancer-associated histone H2A.Z R80C mutant [Homo sapiens]
+Sequence ID: 5Z30_D Length: 129
+>The crystal structure of the nucleosome containing a cancer-associated histone H2A.Z R80C mutant [Homo sapiens]
+Sequence ID: 5Z30_H Length: 129
+>The crystal structure of the nucleosome containing histone H3.1 CATD(V76Q, K77D) [Homo sapiens]
+Sequence ID: 5ZBX_D Length: 129
+>The crystal structure of the nucleosome containing histone H3.1 CATD(V76Q, K77D) [Homo sapiens]
+Sequence ID: 5ZBX_H Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5L_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5L_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5O_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5O_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5P_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5P_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5R_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5R_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5T_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5T_h Length: 129
+>Chain d, Histone H2B, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5U_d Length: 129
+>Chain h, Histone H2B, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6A5U_h Length: 129
+>Chain 1, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_1 Length: 129
+>Chain 3, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_3 Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_H Length: 129
+>Chain N, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_N Length: 129
+>Chain R, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_R Length: 129
+>Chain X, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_X Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_h Length: 129
+>Chain n, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_n Length: 129
+>Chain r, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_r Length: 129
+>Chain x, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6HKT_x Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6INQ_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6INQ_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6IR9_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6IR9_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4W_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4W_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4X_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4X_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4Y_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4Y_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4Z_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J4Z_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J50_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J50_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J51_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 6J51_h Length: 129
+>Crystal structure of the human nucleosome containing H2A.Z.1 S42R [Homo sapiens]
+Sequence ID: 6JOU_D Length: 129
+>Crystal structure of the human nucleosome containing H2A.Z.1 S42R [Homo sapiens]
+Sequence ID: 6JOU_H Length: 129
+>Human nucleosome core particle with gammaH2A.X variant [Homo sapiens]
+Sequence ID: 6K1I_D Length: 129
+>Human nucleosome core particle with gammaH2A.X variant [Homo sapiens]
+Sequence ID: 6K1I_H Length: 129
+>Human nucleosome core particle with H2A.X variant [Homo sapiens]
+Sequence ID: 6K1J_D Length: 129
+>Human nucleosome core particle with H2A.X variant [Homo sapiens]
+Sequence ID: 6K1J_H Length: 129
+>Human nucleosome core particle with H2A.X S139E variant [Homo sapiens]
+Sequence ID: 6K1K_D Length: 129
+>Human nucleosome core particle with H2A.X S139E variant [Homo sapiens]
+Sequence ID: 6K1K_H Length: 129
+>Crystal structure of human nucleosome containing H2A.J [Homo sapiens]
+Sequence ID: 6KVD_D Length: 129
+>Crystal structure of human nucleosome containing H2A.J [Homo sapiens]
+Sequence ID: 6KVD_H Length: 129
+>Crystal structure of a nucleosome containing Leishmania histone H3 [Homo sapiens]
+Sequence ID: 6KXV_D Length: 129
+>Crystal structure of a nucleosome containing Leishmania histone H3 [Homo sapiens]
+Sequence ID: 6KXV_H Length: 129
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_D Length: 129
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_H Length: 129
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_N Length: 129
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_R Length: 129
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_V Length: 129
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_Z Length: 129
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_D Length: 129
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_H Length: 129
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_N Length: 129
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_R Length: 129
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_V Length: 129
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_Z Length: 129
+>Cryo-EM structure of NCP-6-4PP(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Y_D Length: 129
+>Cryo-EM structure of NCP-6-4PP(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Y_H Length: 129
+>Cryo-EM structure of NCP_THF2(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Z_D Length: 129
+>Cryo-EM structure of NCP_THF2(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Z_H Length: 129
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class A [Homo sapiens]
+Sequence ID: 6R90_D Length: 129
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class A [Homo sapiens]
+Sequence ID: 6R90_H Length: 129
+>Cryo-EM structure of NCP_THF2(-3)-UV-DDB [Homo sapiens]
+Sequence ID: 6R91_D Length: 129
+>Cryo-EM structure of NCP_THF2(-3)-UV-DDB [Homo sapiens]
+Sequence ID: 6R91_H Length: 129
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class B [Homo sapiens]
+Sequence ID: 6R92_D Length: 129
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class B [Homo sapiens]
+Sequence ID: 6R92_H Length: 129
+>Cryo-EM structure of NCP-6-4PP [Homo sapiens]
+Sequence ID: 6R93_D Length: 129
+>Cryo-EM structure of NCP-6-4PP [Homo sapiens]
+Sequence ID: 6R93_H Length: 129
+>Cryo-EM structure of NCP_THF2(-3) [Homo sapiens]
+Sequence ID: 6R94_D Length: 129
+>Cryo-EM structure of NCP_THF2(-3) [Homo sapiens]
+Sequence ID: 6R94_H Length: 129
+>Nucleosome with OCT4-SOX2 motif at SHL-6 [Homo sapiens]
+Sequence ID: 6T93_D Length: 129
+>Nucleosome with OCT4-SOX2 motif at SHL-6 [Homo sapiens]
+Sequence ID: 6T93_H Length: 129
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_D Length: 129
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_H Length: 129
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_N Length: 129
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_R Length: 129
+>The nucleosome structure after H2A-H2B exchange [Homo sapiens]
+Sequence ID: 6V2K_D Length: 129
+>The nucleosome structure after H2A-H2B exchange [Homo sapiens]
+Sequence ID: 6V2K_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7C0M_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7C0M_H Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7C0M_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7C0M_h Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7D1Z_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7D1Z_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7D20_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7D20_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7SCY_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7SCY_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7SCZ_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7SCZ_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7VZ4_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7VZ4_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7W9V_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7W9V_H Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XSE_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XSE_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XSX_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XSX_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XSZ_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XSZ_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XT7_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XT7_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XTD_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XTD_h Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XTI_h Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XZX_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XZX_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XZY_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XZY_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XZZ_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7XZZ_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7Y00_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7Y00_H Length: 129
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7Y7I_D Length: 129
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7Y7I_H Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8H0V_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8H0V_h Length: 129
+>Chain d, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8H0W_d Length: 129
+>Chain h, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8H0W_h Length: 129 
+Range 1: 4 to 129
+
+Score:251 bits(642), Expect:5e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  4    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  63
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  64   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  123
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  124  KYTSAK  129
+
+
+
+
+>histone H2B type 1-B [Homo sapiens]
+Sequence ID: NP_066406.1 Length: 126
+>RecName: Full=Histone H2B type 1-B; AltName: Full=H2B-clustered histone 3; AltName: Full=Histone H2B.1; AltName: Full=Histone H2B.f; Short=H2B/f [Homo sapiens]
+Sequence ID: P33778.2 Length: 126 
+Range 1: 1 to 126
+
+Score:251 bits(642), Expect:5e-87, 
+Method:Compositional matrix adjust., 
+Identities:123/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP+KSAPAPKKGSKKA+TKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPSKSAPAPKKGSKKAITKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B [Homo sapiens]
+Sequence ID: CAB02545.1 Length: 126
+Range 1: 1 to 126
+
+Score:251 bits(642), Expect:5e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP+KSAPAPKKGSKKAVTKAQKKDGKKRKR+RKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPSKSAPAPKKGSKKAVTKAQKKDGKKRKRTRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Solution structure of the isolated histone H2A-H2B heterodimer [Homo sapiens]
+Sequence ID: 2RVQ_D Length: 129
+Range 1: 4 to 129
+
+Score:251 bits(641), Expect:6e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  4    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  63
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  64   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  123
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  124  KYTSAK  129
+
+
+
+
+>Crystal structure of nucleosome complex with human testis-specific histone variants, Th2a [Homo sapiens]
+Sequence ID: 5GT0_D Length: 125
+>Crystal structure of nucleosome complex with human testis-specific histone variants, Th2a [Homo sapiens]
+Sequence ID: 5GT0_H Length: 125
+>Chain P, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 6FML_P Length: 125
+>Chain T, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 6FML_T Length: 125
+>Chain c, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7A08_c Length: 125
+>Chain g, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7A08_g Length: 125
+>1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JO9_D Length: 125
+>1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JO9_H Length: 125
+>2:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JOA_D Length: 125
+>2:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JOA_H Length: 125
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7TAN_D Length: 125
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7TAN_H Length: 125
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U50_D Length: 125
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U50_H Length: 125
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U51_D Length: 125
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U51_H Length: 125
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U52_D Length: 125
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U52_H Length: 125
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U53_D Length: 125
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7U53_H Length: 125
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7UV9_D Length: 125
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 7UV9_H Length: 125
+>Chain D, Histone H2B [Homo sapiens]
+Sequence ID: 7Y8R_D Length: 125
+>Chain H, Histone H2B [Homo sapiens]
+Sequence ID: 7Y8R_H Length: 125
+>Chain P, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 8ATF_P Length: 125
+>Chain T, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 8ATF_T Length: 125
+>Chain P, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 8AV6_P Length: 125
+>Chain T, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 8AV6_T Length: 125
+>HIST1H2BC protein, partial [Homo sapiens]
+Sequence ID: AAI06900.1 Length: 125 
+Range 1: 1 to 125
+
+Score:251 bits(641), Expect:7e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/125(100%), Positives:125/125(100%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG
+Sbjct  1    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  60
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK
+Sbjct  61   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  120
+
+Query  122  YTSSK  126
+            YTSSK
+Sbjct  121  YTSSK  125
+
+
+
+
+>histone H2B type 2-F isoform a [Homo sapiens]
+Sequence ID: NP_001019770.1 Length: 126
+>RecName: Full=Histone H2B type 2-F; AltName: Full=H2B-clustered histone 18 [Homo sapiens]
+Sequence ID: Q5QNW6.3 Length: 126 
+Range 1: 1 to 126
+
+Score:251 bits(641), Expect:8e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+PAKSAPAPKKGSKKAVTK QKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPAKSAPAPKKGSKKAVTKVQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone 1, H2bn, isoform CRA_b [Homo sapiens]
+Sequence ID: EAX03115.1 Length: 166
+Range 1: 1 to 126
+
+Score:252 bits(644), Expect:8e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP+KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPSKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>HIST1H2BC protein [Homo sapiens]
+Sequence ID: AAI05596.1 Length: 126
+Range 1: 1 to 126
+
+Score:251 bits(640), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVS GTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSGGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2A.2 [Homo sapiens]
+Sequence ID: CAA40416.1 Length: 126
+Range 1: 1 to 126
+
+Score:251 bits(640), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+PAKSAPAPKKGSKKAVTKAQKKDGK+RKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPAKSAPAPKKGSKKAVTKAQKKDGKERKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Chain D, Histone H2B type 2-E [Homo sapiens]
+Sequence ID: 7EA8_D Length: 125
+>Chain H, Histone H2B type 2-E [Homo sapiens]
+Sequence ID: 7EA8_H Length: 125 
+Range 1: 1 to 125
+
+Score:251 bits(640), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:124/125(99%), Positives:125/125(100%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMG
+Sbjct  1    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMG  60
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK
+Sbjct  61   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  120
+
+Query  122  YTSSK  126
+            YTSSK
+Sbjct  121  YTSSK  125
+
+
+
+
+>histone H2B type 2-F isoform b [Homo sapiens]
+Sequence ID: NP_001154806.1 Length: 134
+>H2B clustered histone 18 [Homo sapiens]
+Sequence ID: KAI2518865.1 Length: 134
+>H2B clustered histone 18 [Homo sapiens]
+Sequence ID: KAI4082386.1 Length: 134
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG59471.1 Length: 134 
+Range 1: 1 to 126
+
+Score:251 bits(640), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+PAKSAPAPKKGSKKAVTK QKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPAKSAPAPKKGSKKAVTKVQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>OCT4-SOX2-bound nucleosome - SHL-6 [Homo sapiens]
+Sequence ID: 6T90_D Length: 128
+>OCT4-SOX2-bound nucleosome - SHL-6 [Homo sapiens]
+Sequence ID: 6T90_H Length: 128
+>OCT4-SOX2-bound nucleosome - SHL+6 [Homo sapiens]
+Sequence ID: 6YOV_D Length: 128
+>OCT4-SOX2-bound nucleosome - SHL+6 [Homo sapiens]
+Sequence ID: 6YOV_H Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OSJ_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OSJ_H Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OSK_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OSK_H Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OSL_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OSL_H Length: 128
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OTS_D Length: 128
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OTS_H Length: 128 
+Range 1: 4 to 128
+
+Score:250 bits(639), Expect:2e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/125(98%), Positives:125/125(100%), Gaps:0/125(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  4    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  63
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  64   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  123
+
+Query  121  KYTSS  125
+            KYTS+
+Sbjct  124  KYTSA  128
+
+
+
+
+>H2B.S histone 1 [Homo sapiens]
+Sequence ID: KAI2596362.1 Length: 126
+Range 1: 1 to 126
+
+Score:250 bits(638), Expect:2e-86, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRL HYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLPHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  121  KYTSAK  126
+
+
+
+
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7BWD_D Length: 125
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7BWD_H Length: 125
+>Chain O, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7JZV_O Length: 125
+>Chain o, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7JZV_o Length: 125
+>Chain L, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V99_L Length: 125 
+Range 1: 1 to 125
+
+Score:250 bits(638), Expect:2e-86, 
+Method:Compositional matrix adjust., 
+Identities:124/125(99%), Positives:125/125(100%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG
+Sbjct  1    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  60
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK
+Sbjct  61   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  120
+
+Query  122  YTSSK  126
+            YTS+K
+Sbjct  121  YTSAK  125
+
+
+
+
+>Crystal Structure of the human nucleosome containing the H2B E76K mutant [Homo sapiens]
+Sequence ID: 5Y0D_D Length: 129
+>Crystal Structure of the human nucleosome containing the H2B E76K mutant [Homo sapiens]
+Sequence ID: 5Y0D_H Length: 129 
+Range 1: 4 to 129
+
+Score:250 bits(638), Expect:2e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  4    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  63
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAG+ASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  64   GIMNSFVNDIFERIAGKASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  123
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  124  KYTSAK  129
+
+
+
+
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7LYA_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7LYA_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7LYB_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7LYB_H Length: 126
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7LYC_D Length: 126
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7LYC_H Length: 126 
+Range 1: 3 to 126
+
+Score:249 bits(637), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/124(99%), Positives:124/124(100%), Gaps:0/124(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  3    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  62
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  63   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  122
+
+Query  121  KYTS  124
+            KYTS
+Sbjct  123  KYTS  126
+
+
+
+
+>Crystal structure of histone H2A.Bbd-H2B dimer [Homo sapiens]
+Sequence ID: 6A7U_A Length: 240
+Range 1: 1 to 126
+
+Score:254 bits(648), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAF85401.1 Length: 126
+Range 1: 1 to 126
+
+Score:249 bits(637), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:124/126(98%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPTKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTIT REIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITFREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7E8D_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 7E8D_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8G57_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8G57_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAH_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAH_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAI_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAI_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAJ_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAJ_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAK_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAK_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAL_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAL_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAM_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAM_H Length: 125
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAN_D Length: 125
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8HAN_H Length: 125 
+Range 1: 1 to 125
+
+Score:249 bits(636), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/125(98%), Positives:125/125(100%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMG
+Sbjct  1    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMG  60
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK
+Sbjct  61   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  120
+
+Query  122  YTSSK  126
+            YTS+K
+Sbjct  121  YTSAK  125
+
+
+
+
+>The nucleosome structure containing H2B-K120 and H4-K31 monoubiquitinations [Homo sapiens]
+Sequence ID: 5B40_D Length: 129
+>The nucleosome structure containing H2B-K120 and H4-K31 monoubiquitinations [Homo sapiens]
+Sequence ID: 5B40_H Length: 129 
+Range 1: 4 to 129
+
+Score:249 bits(636), Expect:4e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/126(98%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  4    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  63
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  64   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  123
+
+Query  121  KYTSSK  126
+             YTS+K
+Sbjct  124  CYTSAK  129
+
+
+
+
+>histone H2B type F-S [Homo sapiens]
+Sequence ID: NP_059141.1 Length: 126
+>histone H2B type F-S-like [Homo sapiens]
+Sequence ID: XP_006723981.1 Length: 126
+>RecName: Full=Histone H2B type F-S; AltName: Full=H2B-clustered histone 12 like; AltName: Full=H2B.S histone 1; AltName: Full=Histone H2B.s; Short=H2B/s [Homo sapiens]
+Sequence ID: P57053.2 Length: 126
+>H2B histone family, member S [Homo sapiens]
+Sequence ID: EAX09487.1 Length: 126
+>H2B.S histone 1 [Homo sapiens]
+Sequence ID: KAI4004228.1 Length: 126
+>H2BFS [Homo sapiens]
+Sequence ID: BAA95538.1 Length: 126 
+Range 1: 1 to 126
+
+Score:249 bits(636), Expect:4e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/126(98%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDG+KRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGRKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRL HYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLPHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  121  KYTSAK  126
+
+
+
+
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 6X59_D Length: 125
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 6X59_H Length: 125
+>Two mouse cGAS catalytic domain binding to human assembled nucleosome [Homo sapiens]
+Sequence ID: 6XJD_D Length: 125
+>Two mouse cGAS catalytic domain binding to human assembled nucleosome [Homo sapiens]
+Sequence ID: 6XJD_H Length: 125 
+Range 1: 2 to 125
+
+Score:249 bits(636), Expect:4e-86, 
+Method:Compositional matrix adjust., 
+Identities:124/124(100%), Positives:124/124(100%), Gaps:0/124(0%)
+
+Query  3    EPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            EPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI
+Sbjct  2    EPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  61
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY
+Sbjct  62   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  121
+
+Query  123  TSSK  126
+            TSSK
+Sbjct  122  TSSK  125
+
+
+
+
+>HIST1H2BM protein, partial [Homo sapiens]
+Sequence ID: AAH67485.1 Length: 138
+Range 1: 1 to 126
+
+Score:249 bits(637), Expect:5e-86, 
+Method:Compositional matrix adjust., 
+Identities:122/126(97%), Positives:123/126(97%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KSAP PKKGSKKA+ KAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPVKSAPVPKKGSKKAINKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Crystal structure of the nucleosome core particle [Homo sapiens]
+Sequence ID: 3X1S_D Length: 125
+>Crystal structure of the nucleosome core particle [Homo sapiens]
+Sequence ID: 3X1S_H Length: 125 
+Range 1: 1 to 125
+
+Score:249 bits(635), Expect:5e-86, 
+Method:Compositional matrix adjust., 
+Identities:122/125(98%), Positives:125/125(100%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEP+KSAPAPKKGSKKA+TKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMG
+Sbjct  1    PEPSKSAPAPKKGSKKAITKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMG  60
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK
+Sbjct  61   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  120
+
+Query  122  YTSSK  126
+            YTSSK
+Sbjct  121  YTSSK  125
+
+
+
+
+>The mouse cGAS catalytic domain binding to human nucleosome that purified from HEK293T cells [Homo sapiens]
+Sequence ID: 6X5A_D Length: 124
+>The mouse cGAS catalytic domain binding to human nucleosome that purified from HEK293T cells [Homo sapiens]
+Sequence ID: 6X5A_H Length: 124 
+Range 1: 1 to 124
+
+Score:248 bits(634), Expect:6e-86, 
+Method:Compositional matrix adjust., 
+Identities:124/124(100%), Positives:124/124(100%), Gaps:0/124(0%)
+
+Query  3    EPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            EPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI
+Sbjct  1    EPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  60
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY
+Sbjct  61   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  120
+
+Query  123  TSSK  126
+            TSSK
+Sbjct  121  TSSK  124
+
+
+
+
+>histone H2B type 1-L [Homo sapiens]
+Sequence ID: NP_003510.1 Length: 126
+>RecName: Full=Histone H2B type 1-L; AltName: Full=Histone H2B.c; Short=H2B/c [Homo sapiens]
+Sequence ID: Q99880.3 Length: 126
+>histone H2B [Homo sapiens]
+Sequence ID: AAN06695.1 Length: 126
+>H2B clustered histone 13 [Homo sapiens]
+Sequence ID: KAI2541203.1 Length: 126
+>H2B clustered histone 13 [Homo sapiens]
+Sequence ID: KAI4017172.1 Length: 126
+>histone H2B [Homo sapiens]
+Sequence ID: CAB06035.1 Length: 126 
+Range 1: 1 to 126
+
+Score:248 bits(633), Expect:1e-85, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:124/126(98%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPE AKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPELAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-M [Homo sapiens]
+Sequence ID: NP_003512.1 Length: 126
+>RecName: Full=Histone H2B type 1-M; AltName: Full=Histone H2B.e; Short=H2B/e [Homo sapiens]
+Sequence ID: Q99879.3 Length: 126
+>Histone cluster 1, H2bm [Homo sapiens]
+Sequence ID: AAH66244.1 Length: 126
+>Histone cluster 1, H2bm [Homo sapiens]
+Sequence ID: AAH67486.1 Length: 126
+>Histone cluster 1, H2bm [Homo sapiens]
+Sequence ID: AAH67488.1 Length: 126 
+Range 1: 1 to 126
+
+Score:248 bits(633), Expect:1e-85, 
+Method:Compositional matrix adjust., 
+Identities:122/126(97%), Positives:123/126(97%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KSAP PKKGSKKA+ KAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPVKSAPVPKKGSKKAINKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Chain M, Histone H2B [Homo sapiens]
+Sequence ID: 7BG9_M Length: 166
+>Chain M, Histone H2B [Homo sapiens]
+Sequence ID: 7QXA_M Length: 166
+>Chain M, Histone H2B [Homo sapiens]
+Sequence ID: 7QXB_M Length: 166
+>Chain M, Histone H2B [Homo sapiens]
+Sequence ID: 7QXS_M Length: 166
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG61164.1 Length: 166 
+Range 1: 1 to 125
+
+Score:248 bits(634), Expect:3e-85, 
+Method:Compositional matrix adjust., 
+Identities:123/125(98%), Positives:124/125(99%), Gaps:0/125(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+PAKSAPAPKKGSKKAVTK QKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPAKSAPAPKKGSKKAVTKVQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSS  125
+            KYTSS
+Sbjct  121  KYTSS  125
+
+
+
+
+>Crystal structure of nucleosome core particle in the presence of histone variants involved in reprogramming [Homo sapiens]
+Sequence ID: 3X1U_D Length: 124
+>Crystal structure of nucleosome core particle in the presence of histone variants involved in reprogramming [Homo sapiens]
+Sequence ID: 3X1U_H Length: 124 
+Range 1: 1 to 124
+
+Score:246 bits(629), Expect:5e-85, 
+Method:Compositional matrix adjust., 
+Identities:121/124(98%), Positives:124/124(100%), Gaps:0/124(0%)
+
+Query  3    EPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            EP+KSAPAPKKGSKKA+TKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMGI
+Sbjct  1    EPSKSAPAPKKGSKKAITKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMGI  60
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY
+Sbjct  61   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  120
+
+Query  123  TSSK  126
+            TSSK
+Sbjct  121  TSSK  124
+
+
+
+
+>Histone cluster 1, H2bm [Homo sapiens]
+Sequence ID: AAH67487.1 Length: 126
+Range 1: 1 to 126
+
+Score:244 bits(624), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:121/126(96%), Positives:122/126(96%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KSAP PKKGSKKA+ KAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPVKSAPVPKKGSKKAINKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAREASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>The structure of the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 3AN2_D Length: 129
+>The structure of the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 3AN2_H Length: 129
+>Crystal structure of the nucleosome containing a chimeric histone H3/CENP-A CATD [Homo sapiens]
+Sequence ID: 5Z23_D Length: 129
+>Crystal structure of the nucleosome containing a chimeric histone H3/CENP-A CATD [Homo sapiens]
+Sequence ID: 5Z23_H Length: 129 
+Range 1: 5 to 129
+
+Score:243 bits(621), Expect:9e-84, 
+Method:Compositional matrix adjust., 
+Identities:121/125(97%), Positives:123/125(98%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKA G
+Sbjct  5    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAXG  64
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            I NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK
+Sbjct  65   IXNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  124
+
+Query  122  YTSSK  126
+            YTS+K
+Sbjct  125  YTSAK  129
+
+
+
+
+>Crystal structure of the human nucleosome phased with 12 selenium atoms [Homo sapiens]
+Sequence ID: 6JR0_D Length: 129
+>Crystal structure of the human nucleosome phased with 12 selenium atoms [Homo sapiens]
+Sequence ID: 6JR0_H Length: 129 
+Range 1: 5 to 129
+
+Score:241 bits(614), Expect:9e-83, 
+Method:Compositional matrix adjust., 
+Identities:120/125(96%), Positives:122/125(97%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKA G
+Sbjct  5    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAXG  64
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            I NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGE AKHAVSEGTKAVTK
+Sbjct  65   IXNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGEXAKHAVSEGTKAVTK  124
+
+Query  122  YTSSK  126
+            YTS+K
+Sbjct  125  YTSAK  129
+
+
+
+
+>Crystal structure of the human nucleosome phased with 16 selenium atoms [Homo sapiens]
+Sequence ID: 6JR1_D Length: 129
+>Crystal structure of the human nucleosome phased with 16 selenium atoms [Homo sapiens]
+Sequence ID: 6JR1_H Length: 129 
+Range 1: 5 to 129
+
+Score:238 bits(608), Expect:8e-82, 
+Method:Compositional matrix adjust., 
+Identities:119/125(95%), Positives:121/125(96%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKA G
+Sbjct  5    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAXG  64
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            I NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL LPGE AKHAVSEGTKAVTK
+Sbjct  65   IXNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLXLPGEXAKHAVSEGTKAVTK  124
+
+Query  122  YTSSK  126
+            YTS+K
+Sbjct  125  YTSAK  129
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: CAA24950.1 Length: 125
+Range 1: 1 to 125
+
+Score:237 bits(605), Expect:2e-81, 
+Method:Compositional matrix adjust., 
+Identities:119/126(94%), Positives:121/126(96%), Gaps:1/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGK     RKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKSAAH-RKESYSIYVYKVLKQVHPDTGISSKAM  59
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  60   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  119
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  120  KYTSAK  125
+
+
+
+
+>Chain D, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 8AAG_D Length: 122
+>Chain H, Histone H2B type 1-C/E/F/G/I [Homo sapiens]
+Sequence ID: 8AAG_H Length: 122 
+Range 1: 1 to 122
+
+Score:233 bits(594), Expect:9e-80, 
+Method:Compositional matrix adjust., 
+Identities:113/122(93%), Positives:120/122(98%), Gaps:0/122(0%)
+
+Query  5    AKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMN  64
+            AKSAPAPKKGSKKAVTK QKKDGKKR+++RKESY++YVYKVLKQVHPDTGISSKAM IMN
+Sbjct  1    AKSAPAPKKGSKKAVTKTQKKDGKKRRKTRKESYAIYVYKVLKQVHPDTGISSKAMSIMN  60
+
+Query  65   SFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS  124
+            SFVND+FERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS
+Sbjct  61   SFVNDVFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS  120
+
+Query  125  SK  126
+            +K
+Sbjct  121  AK  122
+
+
+
+
+>histone H2B type 3-B [Homo sapiens]
+Sequence ID: NP_778225.1 Length: 126
+>RecName: Full=Histone H2B type 3-B; AltName: Full=H2B type 12; AltName: Full=H2B-clustered histone 26; AltName: Full=H2B.U histone 1 [Homo sapiens]
+Sequence ID: Q8N257.3 Length: 126
+>Histone cluster 3, H2bb [Homo sapiens]
+Sequence ID: AAI00856.1 Length: 126
+>Histone cluster 3, H2bb [Homo sapiens]
+Sequence ID: AAI00857.1 Length: 126 
+Range 1: 1 to 126
+
+Score:222 bits(565), Expect:3e-75, 
+Method:Compositional matrix adjust., 
+Identities:120/126(95%), Positives:124/126(98%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+P+KSAPAPKKGSKKAVTKAQKKDGKKRKR RKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPSKSAPAPKKGSKKAVTKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSRE+QTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREVQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-A [Homo sapiens]
+Sequence ID: NP_733759.1 Length: 127
+>RecName: Full=Histone H2B type 1-A; AltName: Full=Histone H2B, testis; Short=TSH2B.1; Short=hTSH2B; AltName: Full=Testis-specific histone H2B [Homo sapiens]
+Sequence ID: Q96A08.3 Length: 127
+>Histone cluster 1, H2ba [Homo sapiens]
+Sequence ID: AAH66238.1 Length: 127
+>Histone cluster 1, H2ba [Homo sapiens]
+Sequence ID: AAH66239.1 Length: 127
+>Histone cluster 1, H2ba [Homo sapiens]
+Sequence ID: AAH66242.1 Length: 127 
+Range 1: 1 to 127
+
+Score:215 bits(547), Expect:2e-72, 
+Method:Compositional matrix adjust., 
+Identities:108/127(85%), Positives:115/127(90%), Gaps:1/127(0%)
+
+Query  1    MPE-PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKA  59
+            MPE  +K A   KKG KKAV K QKK+GKKRKR+RKESYS+Y+YKVLKQVHPDTGISSKA
+Sbjct  1    MPEVSSKGATISKKGFKKAVVKTQKKEGKKRKRTRKESYSIYIYKVLKQVHPDTGISSKA  60
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFV DIFERIA EASRLAHY+KRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  61   MSIMNSFVTDIFERIASEASRLAHYSKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAV  120
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  121  TKYTSSK  127
+
+
+
+
+>The nucleosome containing human TSH2B [Homo sapiens]
+Sequence ID: 3WKJ_D Length: 130
+>The nucleosome containing human TSH2B [Homo sapiens]
+Sequence ID: 3WKJ_H Length: 130 
+Range 1: 4 to 130
+
+Score:214 bits(546), Expect:2e-72, 
+Method:Compositional matrix adjust., 
+Identities:108/127(85%), Positives:115/127(90%), Gaps:1/127(0%)
+
+Query  1    MPE-PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKA  59
+            MPE  +K A   KKG KKAV K QKK+GKKRKR+RKESYS+Y+YKVLKQVHPDTGISSKA
+Sbjct  4    MPEVSSKGATISKKGFKKAVVKTQKKEGKKRKRTRKESYSIYIYKVLKQVHPDTGISSKA  63
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFV DIFERIA EASRLAHY+KRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  64   MSIMNSFVTDIFERIASEASRLAHYSKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAV  123
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  124  TKYTSSK  130
+
+
+
+
+>HIST1H2BA protein [Homo sapiens]
+Sequence ID: AAH66241.1 Length: 127
+Range 1: 1 to 127
+
+Score:213 bits(543), Expect:5e-72, 
+Method:Compositional matrix adjust., 
+Identities:107/127(84%), Positives:115/127(90%), Gaps:1/127(0%)
+
+Query  1    MPE-PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKA  59
+            MPE  +K A   KKG KKAV + QKK+GKKRKR+RKESYS+Y+YKVLKQVHPDTGISSKA
+Sbjct  1    MPEVSSKGATISKKGFKKAVVETQKKEGKKRKRTRKESYSIYIYKVLKQVHPDTGISSKA  60
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFV DIFERIA EASRLAHY+KRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  61   MSIMNSFVTDIFERIASEASRLAHYSKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAV  120
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  121  TKYTSSK  127
+
+
+
+
+>HIST1H2BA protein, partial [Homo sapiens]
+Sequence ID: AAH66243.1 Length: 126
+Range 1: 5 to 126
+
+Score:213 bits(541), Expect:1e-71, 
+Method:Compositional matrix adjust., 
+Identities:105/122(86%), Positives:112/122(91%), Gaps:0/122(0%)
+
+Query  5    AKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMN  64
+            +K A   KKG KKAV K QKK+GKKRKR+RKESYS+Y+YKVLKQVHPDTGISSKAM IMN
+Sbjct  5    SKGATISKKGFKKAVVKTQKKEGKKRKRTRKESYSIYIYKVLKQVHPDTGISSKAMSIMN  64
+
+Query  65   SFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS  124
+            SFV DIFERIA EASRLAHY+KRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS
+Sbjct  65   SFVTDIFERIASEASRLAHYSKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS  124
+
+Query  125  SK  126
+            SK
+Sbjct  125  SK  126
+
+
+
+
+>Crystal structure of nucleosome core particle consisting of human testis-specific histone variants, Th2A and Th2B [Homo sapiens]
+Sequence ID: 5GSU_D Length: 126
+>Crystal structure of nucleosome core particle consisting of human testis-specific histone variants, Th2A and Th2B [Homo sapiens]
+Sequence ID: 5GSU_H Length: 126
+>Crystal structure of nucleosome particle in the presence of human testis-specific histone variant, hTh2b [Homo sapiens]
+Sequence ID: 5GT3_D Length: 126
+>Crystal structure of nucleosome particle in the presence of human testis-specific histone variant, hTh2b [Homo sapiens]
+Sequence ID: 5GT3_H Length: 126 
+Range 1: 1 to 126
+
+Score:212 bits(540), Expect:2e-71, 
+Method:Compositional matrix adjust., 
+Identities:107/126(85%), Positives:114/126(90%), Gaps:1/126(0%)
+
+Query  2    PE-PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            PE  +K A   KKG KKAV K QKK+GKKRKR+RKESYS+Y+YKVLKQVHPDTGISSKAM
+Sbjct  1    PEVSSKGATISKKGFKKAVVKTQKKEGKKRKRTRKESYSIYIYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+             IMNSFV DIFERIA EASRLAHY+KRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   SIMNSFVTDIFERIASEASRLAHYSKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Histone cluster 1, H2ba [Homo sapiens]
+Sequence ID: AAH66240.1 Length: 127
+Range 1: 1 to 127
+
+Score:212 bits(539), Expect:3e-71, 
+Method:Compositional matrix adjust., 
+Identities:107/127(84%), Positives:114/127(89%), Gaps:1/127(0%)
+
+Query  1    MPE-PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKA  59
+            MPE  +K A   KKG KKAV K QKK+GKKRKR+RKESYS+Y+YKVLKQVHPDTGISSKA
+Sbjct  1    MPEVSSKGATISKKGFKKAVVKTQKKEGKKRKRTRKESYSIYIYKVLKQVHPDTGISSKA  60
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFV DIFERIA EA RLAHY+KRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  61   MSIMNSFVTDIFERIASEAPRLAHYSKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAV  120
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  121  TKYTSSK  127
+
+
+
+
+>histone H2B.1, partial [Homo sapiens]
+Sequence ID: AAA63192.1 Length: 101
+Range 1: 1 to 101
+
+Score:206 bits(525), Expect:2e-69, 
+Method:Compositional matrix adjust., 
+Identities:100/101(99%), Positives:101/101(100%), Gaps:0/101(0%)
+
+Query  26   DGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYN  85
+            DGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYN
+Sbjct  1    DGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYN  60
+
+Query  86   KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  61   KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  101
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle lacking H2B N-terminal region [Homo sapiens]
+Sequence ID: 3W97_D Length: 105
+>Crystal Structure of Human Nucleosome Core Particle lacking H2B N-terminal region [Homo sapiens]
+Sequence ID: 3W97_H Length: 105 
+Range 1: 5 to 105
+
+Score:205 bits(522), Expect:4e-69, 
+Method:Compositional matrix adjust., 
+Identities:99/101(98%), Positives:101/101(100%), Gaps:0/101(0%)
+
+Query  26   DGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYN  85
+            DGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYN
+Sbjct  5    DGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYN  64
+
+Query  86   KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  65   KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  105
+
+
+
+
+>Role of the DEF/Y motif of Swc5 in histone H2A.Z deposition [Homo sapiens]
+Sequence ID: 6KBB_B Length: 104
+>Role of the DEF/Y motif of Swc5 in histone H2A.Z deposition [Homo sapiens]
+Sequence ID: 6KBB_D Length: 104 
+Range 1: 5 to 104
+
+Score:204 bits(519), Expect:1e-68, 
+Method:Compositional matrix adjust., 
+Identities:99/100(99%), Positives:100/100(100%), Gaps:0/100(0%)
+
+Query  27   GKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNK  86
+            GKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNK
+Sbjct  5    GKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNK  64
+
+Query  87   RSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            RSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  65   RSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  104
+
+
+
+
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V90_D Length: 99
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V90_H Length: 99
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V96_D Length: 99
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V96_H Length: 99
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V96_N Length: 99
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V96_R Length: 99
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9J_D Length: 99
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9J_H Length: 99
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9J_N Length: 99
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9J_R Length: 99
+>Chain V, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9J_V Length: 99
+>Chain Z, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9J_Z Length: 99
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_D Length: 99
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_H Length: 99
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_N Length: 99
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_R Length: 99
+>Chain V, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_V Length: 99
+>Chain Z, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_Z Length: 99
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_d Length: 99
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9K_h Length: 99
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9S_D Length: 99
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9S_H Length: 99
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9S_N Length: 99
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9S_R Length: 99
+>Chain V, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9S_V Length: 99
+>Chain Z, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9S_Z Length: 99 
+Range 1: 1 to 99
+
+Score:201 bits(511), Expect:2e-67, 
+Method:Compositional matrix adjust., 
+Identities:98/99(99%), Positives:99/99(100%), Gaps:0/99(0%)
+
+Query  28   KKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR  87
+            KKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR
+Sbjct  1    KKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR  60
+
+Query  88   STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  61   STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  99
+
+
+
+
+>Chain B, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8I17_B Length: 100
+>Chain E, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8I17_E Length: 100
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8I17_H Length: 100 
+Range 1: 2 to 100
+
+Score:200 bits(509), Expect:4e-67, 
+Method:Compositional matrix adjust., 
+Identities:97/99(98%), Positives:99/99(100%), Gaps:0/99(0%)
+
+Query  28   KKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR  87
+            KKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR
+Sbjct  2    KKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR  61
+
+Query  88   STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  62   STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  100
+
+
+
+
+>Human nucleosome core particle with cohesive end DNA termini [Homo sapiens]
+Sequence ID: 6JXD_D Length: 97
+>Human nucleosome core particle with cohesive end DNA termini [Homo sapiens]
+Sequence ID: 6JXD_H Length: 97 
+Range 1: 1 to 97
+
+Score:197 bits(501), Expect:6e-66, 
+Method:Compositional matrix adjust., 
+Identities:95/97(98%), Positives:97/97(100%), Gaps:0/97(0%)
+
+Query  30   RKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRST  89
+            RKRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRST
+Sbjct  1    RKRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRST  60
+
+Query  90   ITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            ITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  61   ITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  97
+
+
+
+
+>Chain A, histone H2A-H2B [Homo sapiens]
+Sequence ID: 7VCL_A Length: 199
+Range 1: 1 to 99
+
+Score:200 bits(508), Expect:1e-65, 
+Method:Compositional matrix adjust., 
+Identities:97/99(98%), Positives:99/99(100%), Gaps:0/99(0%)
+
+Query  28   KKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR  87
+            KKRKRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR
+Sbjct  1    KKRKRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR  60
+
+Query  88   STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  61   STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  99
+
+
+
+
+>Chain D, Histone H2B [Homo sapiens]
+Sequence ID: 7YQK_D Length: 96
+>Chain H, Histone H2B [Homo sapiens]
+Sequence ID: 7YQK_H Length: 96 
+Range 1: 1 to 96
+
+Score:196 bits(498), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:95/96(99%), Positives:96/96(100%), Gaps:0/96(0%)
+
+Query  30   RKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRST  89
+            RKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRST
+Sbjct  1    RKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRST  60
+
+Query  90   ITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            ITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+
+Sbjct  61   ITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSA  96
+
+
+
+
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 8GRM_D Length: 96
+Range 1: 1 to 96
+
+Score:196 bits(497), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:95/96(99%), Positives:96/96(100%), Gaps:0/96(0%)
+
+Query  31   KRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI  90
+            KRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI
+Sbjct  1    KRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI  60
+
+Query  91   TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  61   TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  96
+
+
+
+
+>Crystal structure of a human Anp32e-H2A.Z-H2B complex [Homo sapiens]
+Sequence ID: 4CAY_B Length: 97
+Range 1: 2 to 97
+
+Score:195 bits(496), Expect:4e-65, 
+Method:Compositional matrix adjust., 
+Identities:94/96(98%), Positives:96/96(100%), Gaps:0/96(0%)
+
+Query  31   KRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI  90
+            KRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI
+Sbjct  2    KRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI  61
+
+Query  91   TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  62   TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  97
+
+
+
+
+>Crystal structure of a human YL1-H2A.Z-H2B complex [Homo sapiens]
+Sequence ID: 5FUG_B Length: 96
+>Crystal structure of a human YL1-H2A.Z-H2B complex [Homo sapiens]
+Sequence ID: 5FUG_E Length: 96
+>Crystal structure of a human YL1-H2A.Z-H2B complex [Homo sapiens]
+Sequence ID: 5FUG_H Length: 96
+>Crystal structure of a human YL1-H2A.Z-H2B complex [Homo sapiens]
+Sequence ID: 5FUG_K Length: 96 
+Range 1: 1 to 96
+
+Score:195 bits(496), Expect:4e-65, 
+Method:Compositional matrix adjust., 
+Identities:94/96(98%), Positives:96/96(100%), Gaps:0/96(0%)
+
+Query  31   KRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI  90
+            KRSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI
+Sbjct  1    KRSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTI  60
+
+Query  91   TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  61   TSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  96
+
+
+
+
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6KE9_D Length: 95
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6KE9_H Length: 95
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6L9H_D Length: 95
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6L9H_H Length: 95
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6LE9_D Length: 95
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6LE9_H Length: 95
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9C_D Length: 95
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9C_H Length: 95
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9C_N Length: 95
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7V9C_R Length: 95
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_D Length: 95
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_H Length: 95
+>Chain N, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_N Length: 95
+>Chain R, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_R Length: 95
+>Chain V, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_V Length: 95
+>Chain Z, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_Z Length: 95
+>Chain d, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_d Length: 95
+>Chain h, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7VA4_h Length: 95
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 8GRM_H Length: 95 
+Range 1: 1 to 95
+
+Score:194 bits(493), Expect:9e-65, 
+Method:Compositional matrix adjust., 
+Identities:94/95(99%), Positives:95/95(100%), Gaps:0/95(0%)
+
+Query  32   RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  91
+            RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT
+Sbjct  1    RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  60
+
+Query  92   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  61   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  95
+
+
+
+
+>Human nucleosome core particle containing 145 bp of DNA [Homo sapiens]
+Sequence ID: 6IPU_D Length: 95
+>Human nucleosome core particle containing 145 bp of DNA [Homo sapiens]
+Sequence ID: 6IPU_H Length: 95
+>Nucleosome core particle cross-linked with a hetero-binuclear molecule possessing RAPTA and gold(I) 4-(diphenylphosphino)benzoic acid groups. [Homo sapiens]
+Sequence ID: 6IQ4_D Length: 95
+>Nucleosome core particle cross-linked with a hetero-binuclear molecule possessing RAPTA and gold(I) 4-(diphenylphosphino)benzoic acid groups. [Homo sapiens]
+Sequence ID: 6IQ4_H Length: 95 
+Range 1: 1 to 95
+
+Score:194 bits(492), Expect:2e-64, 
+Method:Compositional matrix adjust., 
+Identities:93/95(98%), Positives:95/95(100%), Gaps:0/95(0%)
+
+Query  32   RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  91
+            RSRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT
+Sbjct  1    RSRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  60
+
+Query  92   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  61   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  95
+
+
+
+
+>Structure of human cGAS (K394E) bound to the nucleosome (focused refinement of cGAS-NCP subcomplex) [Homo sapiens]
+Sequence ID: 6Y5E_H Length: 94
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7XCR_D Length: 94
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7XCR_H Length: 94
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7XD1_D Length: 94
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7XD1_H Length: 94 
+Range 1: 1 to 94
+
+Score:192 bits(489), Expect:4e-64, 
+Method:Compositional matrix adjust., 
+Identities:93/94(99%), Positives:94/94(100%), Gaps:0/94(0%)
+
+Query  32   RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  91
+            RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT
+Sbjct  1    RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  60
+
+Query  92   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+
+Sbjct  61   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSA  94
+
+
+
+
+>Chain D, H2B [Homo sapiens]
+Sequence ID: 8GRQ_D Length: 188
+>Chain H, H2B [Homo sapiens]
+Sequence ID: 8GRQ_H Length: 188 
+Range 1: 73 to 188
+
+Score:194 bits(492), Expect:3e-63, 
+Method:Compositional matrix adjust., 
+Identities:99/116(85%), Positives:104/116(89%), Gaps:1/116(0%)
+
+Query  11   PKKGSKKAVTKAQKKDGK-KRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVND  69
+            P + +K AV++  K   K    RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVND
+Sbjct  73   PGELAKHAVSEGTKAVTKYTSARSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVND  132
+
+Query  70   IFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            IFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+
+Sbjct  133  IFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSA  188
+
+
+
+
+Range 2: 1 to 95
+
+Score:193 bits(491), Expect:3e-63, 
+Method:Compositional matrix adjust., 
+Identities:93/95(98%), Positives:95/95(100%), Gaps:0/95(0%)
+
+Query  32   RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  91
+            RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT
+Sbjct  1    RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  60
+
+Query  92   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS++
+Sbjct  61   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAR  95
+
+
+
+
+>Structure of human cGAS (K394E) bound to the nucleosome (focused refinement of cGAS-NCP subcomplex) [Homo sapiens]
+Sequence ID: 6Y5E_D Length: 93
+>Chain D, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7XCT_D Length: 93
+>Chain H, Histone H2B type 1-K [Homo sapiens]
+Sequence ID: 7XCT_H Length: 93 
+Range 1: 1 to 93
+
+Score:190 bits(483), Expect:3e-63, 
+Method:Compositional matrix adjust., 
+Identities:92/93(99%), Positives:93/93(100%), Gaps:0/93(0%)
+
+Query  33   SRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS  92
+            SRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS
+Sbjct  1    SRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS  60
+
+Query  93   REIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            REIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+
+Sbjct  61   REIQTAVRLLLPGELAKHAVSEGTKAVTKYTSA  93
+
+
+
+
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and one copy CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUO_D Length: 92
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and one copy CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUO_H Length: 92
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and two copies CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUP_D Length: 92
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and two copies CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUP_H Length: 92 
+Range 1: 1 to 92
+
+Score:190 bits(483), Expect:3e-63, 
+Method:Compositional matrix adjust., 
+Identities:92/92(100%), Positives:92/92(100%), Gaps:0/92(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+Sbjct  1    RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  60
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS
+Sbjct  61   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  92
+
+
+
+
+>Structure of the 1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCQ_D Length: 93
+>Structure of the 1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCQ_H Length: 93
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_D Length: 93
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_H Length: 93
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_O Length: 93
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_S Length: 93
+>Chain D, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OTT_D Length: 93
+>Chain H, Histone H2B type 1-J [Homo sapiens]
+Sequence ID: 8OTT_H Length: 93 
+Range 1: 1 to 93
+
+Score:190 bits(482), Expect:5e-63, 
+Method:Compositional matrix adjust., 
+Identities:91/93(98%), Positives:93/93(100%), Gaps:0/93(0%)
+
+Query  33   SRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS  92
+            SRKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS
+Sbjct  1    SRKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS  60
+
+Query  93   REIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            REIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+
+Sbjct  61   REIQTAVRLLLPGELAKHAVSEGTKAVTKYTSA  93
+
+
+
+
+>Chain A, Histone H2B type 1-O,Histone H2A type 1-D [Homo sapiens]
+Sequence ID: 7WLP_A Length: 193
+Range 1: 2 to 94
+
+Score:191 bits(484), Expect:5e-62, 
+Method:Compositional matrix adjust., 
+Identities:92/93(99%), Positives:93/93(100%), Gaps:0/93(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+Sbjct  2    RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  61
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  62   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  94
+
+
+
+
+>Crystal structure of human lnkH2B-h2A.Z-Anp32e [Homo sapiens]
+Sequence ID: 4NFT_A Length: 209
+>Crystal structure of human lnkH2B-h2A.Z-Anp32e [Homo sapiens]
+Sequence ID: 4NFT_B Length: 209
+>Crystal structure of human lnkH2B-h2A.Z-Anp32e [Homo sapiens]
+Sequence ID: 4NFT_C Length: 209
+>Crystal structure of human lnkH2B-h2A.Z-Anp32e [Homo sapiens]
+Sequence ID: 4NFT_D Length: 209 
+Range 1: 5 to 97
+
+Score:191 bits(485), Expect:6e-62, 
+Method:Compositional matrix adjust., 
+Identities:92/93(99%), Positives:93/93(100%), Gaps:0/93(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+Sbjct  5    RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  64
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  65   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  97
+
+
+
+
+>Structural basis of H2A.Z recognition by YL1 histone chaperone component of SRCAP/SWR1 chromatin remodeling complex [Homo sapiens]
+Sequence ID: 5CHL_B Length: 193
+Range 1: 2 to 94
+
+Score:190 bits(483), Expect:7e-62, 
+Method:Compositional matrix adjust., 
+Identities:92/93(99%), Positives:93/93(100%), Gaps:0/93(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+Sbjct  2    RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  61
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  62   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  94
+
+
+
+
+>Chain A, Histone H2B type 1-J,Histone H2A type 1-B/E [Homo sapiens]
+Sequence ID: 5VEY_A Length: 194
+Range 1: 9 to 100
+
+Score:189 bits(480), Expect:2e-61, 
+Method:Compositional matrix adjust., 
+Identities:91/92(99%), Positives:92/92(100%), Gaps:0/92(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKESYS+YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR
+Sbjct  9    RKESYSIYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  68
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS
+Sbjct  69   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  100
+
+
+
+
+>PUTATIVE PSEUDOGENE: RecName: Full=Putative histone H2B type 2-D; AltName: Full=H2B-clustered histone 19 pseudogene [Homo sapiens]
+Sequence ID: Q6DRA6.3 Length: 164
+>histone H2B/s [Homo sapiens]
+Sequence ID: AAT68256.1 Length: 164 
+Range 1: 1 to 107
+
+Score:184 bits(466), Expect:1e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/107(82%), Positives:92/107(85%), Gaps:0/107(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK APAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLK+VHPDTGI  KAM
+Sbjct  1    MPEPAKFAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKRVHPDTGIWCKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGEL  107
+            GIMNSF+NDIFERIAGEASRLAHYNKRSTITSR  +       P   
+Sbjct  61   GIMNSFLNDIFERIAGEASRLAHYNKRSTITSRRSRRPCACCCPASW  107
+
+
+
+
+>hCG2042712, partial [Homo sapiens]
+Sequence ID: EAW50860.1 Length: 184
+Range 1: 21 to 124
+
+Score:184 bits(466), Expect:2e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/104(85%), Positives:92/104(88%), Gaps:0/104(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK APAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLK+VHPDTGI  KAM
+Sbjct  21   MPEPAKFAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKRVHPDTGIWCKAM  80
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLP  104
+            GIMNSF+NDIFERIAGEASRLAHYNKRSTITSR  +       P
+Sbjct  81   GIMNSFLNDIFERIAGEASRLAHYNKRSTITSRRSRRPCACCCP  124
+
+
+
+
+>PUTATIVE PSEUDOGENE: RecName: Full=Putative histone H2B type 2-C; AltName: Full=H2B-clustered histone 20 pseudogene; AltName: Full=Histone H2B.t; Short=H2B/t [Homo sapiens]
+Sequence ID: Q6DN03.3 Length: 193
+>H2B/t variant [Homo sapiens]
+Sequence ID: AAT72343.1 Length: 193
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH13163.1 Length: 193 
+Range 1: 1 to 107
+
+Score:184 bits(466), Expect:3e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/107(82%), Positives:92/107(85%), Gaps:0/107(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK APAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLK+VHPDTGI  KAM
+Sbjct  1    MPEPAKFAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKRVHPDTGIWCKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGEL  107
+            GIMNSF+NDIFERIAGEASRLAHYNKRSTITSR  +       P   
+Sbjct  61   GIMNSFLNDIFERIAGEASRLAHYNKRSTITSRRSRRPCACCCPASW  107
+
+
+
+
+>histone H2B type 2-K1 [Homo sapiens]
+Sequence ID: NP_001356054.2 Length: 122
+>RecName: Full=Histone H2B type 2-K1; AltName: Full=Histone H2B type 2-E1 [Homo sapiens]
+Sequence ID: A0A2R8Y619.1 Length: 122
+>H2B.E variant histone 1 [Homo sapiens]
+Sequence ID: KAI2548526.1 Length: 122
+>H2B.E variant histone 1 [Homo sapiens]
+Sequence ID: KAI4016440.1 Length: 122 
+Range 1: 32 to 122
+
+Score:163 bits(413), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:75/91(82%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            ESYS+Y+YKVLKQVHPD GIS+KAM IMNSFVND+FE++A EA+RLA Y+ R+T+TSRE+
+Sbjct  32   ESYSMYIYKVLKQVHPDIGISAKAMSIMNSFVNDVFEQLACEAARLAQYSGRTTLTSREV  91
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  92   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  122
+
+
+
+
+>histone 1, H2bj, isoform CRA_b [Homo sapiens]
+Sequence ID: EAX03082.1 Length: 78
+Range 1: 1 to 76
+
+Score:154 bits(390), Expect:3e-49, 
+Method:Compositional matrix adjust., 
+Identities:75/76(99%), Positives:76/76(100%), Gaps:0/76(0%)
+
+Query  1   MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+           MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1   MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61  GIMNSFVNDIFERIAG  76
+           GIMNSFVNDIFERIAG
+Sbjct  61  GIMNSFVNDIFERIAG  76
+
+
+
+
+>alternative protein ABCF2 [Homo sapiens]
+Sequence ID: CCO13668.1 Length: 67
+Range 1: 1 to 67
+
+Score:120 bits(301), Expect:7e-36, 
+Method:Compositional matrix adjust., 
+Identities:55/67(82%), Positives:63/67(94%), Gaps:0/67(0%)
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFVND+FE++A EA+RLA Y+ R+T+TSRE+QTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  1    MSIMNSFVNDVFEQLACEAARLAQYSGRTTLTSREVQTAVRLLLPGELAKHAVSEGTKAV  60
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  61   TKYTSSK  67
+
+
+
+
+>ATP-binding cassette, sub-family F (GCN20), member 2, isoform CRA_c [Homo sapiens]
+Sequence ID: EAW54015.1 Length: 696
+Range 1: 614 to 696
+
+Score:130 bits(326), Expect:7e-35, 
+Method:Composition-based stats., 
+Identities:65/83(78%), Positives:74/83(89%), Gaps:0/83(0%)
+
+Query  44   KVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLL  103
+            K    VHPD GIS+KAM IMNSFVND+FE++A EA+RLA Y+ R+T+TSRE+QTAVRLLL
+Sbjct  614  KRTHNVHPDIGISAKAMSIMNSFVNDVFEQLACEAARLAQYSGRTTLTSREVQTAVRLLL  673
+
+Query  104  PGELAKHAVSEGTKAVTKYTSSK  126
+            PGELAKHAVSEGTKAVTKYTSSK
+Sbjct  674  PGELAKHAVSEGTKAVTKYTSSK  696
+
+
+
+
+>H2B clustered histone 11, partial [Homo sapiens]
+Sequence ID: KAI2541185.1 Length: 58
+>H2B clustered histone 11, partial [Homo sapiens]
+Sequence ID: KAI2541186.1 Length: 58 
+Range 1: 1 to 58
+
+Score:117 bits(293), Expect:9e-35, 
+Method:Compositional matrix adjust., 
+Identities:57/58(98%), Positives:58/58(100%), Gaps:0/58(0%)
+
+Query  69   DIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            DIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS+K
+Sbjct  1    DIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK  58
+
+
+
+
+>hCG1657257 [Homo sapiens]
+Sequence ID: EAW54688.1 Length: 133
+Range 1: 20 to 133
+
+Score:107 bits(267), Expect:8e-30, 
+Method:Compositional matrix adjust., 
+Identities:49/114(43%), Positives:74/114(64%), Gaps:0/114(0%)
+
+Query  13   KGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFE  72
+            K +   +   QK+ G       ++S++ Y  +VLKQVH    +S +A+ +++SFV+DI E
+Sbjct  20   KAANATMAHKQKRHGHSHPSRCRDSFTTYFPRVLKQVHAGLSLSPEAVDVIDSFVHDILE  79
+
+Query  73   RIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+             IA +A  LAHY K +TITS E+QT +RL+ PG++ KHA+S G+K +  YT SK
+Sbjct  80   HIATKAGHLAHYTKCTTITSCEMQTTIRLMFPGQMGKHAISRGSKTLLHYTRSK  133
+
+
+
+
+>hCG1645967 [Homo sapiens]
+Sequence ID: EAW99024.1 Length: 158
+Range 1: 59 to 158
+
+Score:106 bits(264), Expect:5e-29, 
+Method:Compositional matrix adjust., 
+Identities:62/109(57%), Positives:75/109(68%), Gaps:9/109(8%)
+
+Query  18   AVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGE  77
+             VTK+QK DGK  K S KESYS+Y+YKVLKQVH ++GISSKAMGIMNSFVN IF+ I  +
+Sbjct  59   GVTKSQK-DGKNHKHSHKESYSIYIYKVLKQVHLNSGISSKAMGIMNSFVN-IFKCIIPD  116
+
+Query  78   ASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            A ++   + +    S         LLP E+A H VS  TKA+TKYTSSK
+Sbjct  117  ALQVLDDHLQGDPYS-------LCLLPREMANHTVSHNTKALTKYTSSK  158
+
+
+
+
+>H2B histone family, member W, testis-specific, isoform CRA_b [Homo sapiens]
+Sequence ID: EAX02766.1 Length: 296
+Range 1: 48 to 169
+
+Score:106 bits(264), Expect:9e-28, 
+Method:Compositional matrix adjust., 
+Identities:58/122(48%), Positives:78/122(63%), Gaps:11/122(9%)
+
+Query  16   KKAVTKAQKKDGKKRKR-----------SRKESYSVYVYKVLKQVHPDTGISSKAMGIMN  64
+            K+A +   +K  K+RKR            R +S++ Y  +VLKQVH    +S +A+ +M+
+Sbjct  48   KEANSTTSQKQSKQRKRGRHGPRRCHSNCRGDSFATYFRRVLKQVHQGLSLSREAVSVMD  107
+
+Query  65   SFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS  124
+            S V+DI +RIA EA RLA   KR TIT+ E + AVRLLLPG++ K A SEGTKAV +YT 
+Sbjct  108  SLVHDILDRIATEAGRLARSTKRQTITAWETRMAVRLLLPGQMGKLAESEGTKAVLRYTR  167
+
+Query  125  SK  126
+            SK
+Sbjct  168  SK  169
+
+
+
+
+>histone H2B type F-M [Homo sapiens]
+Sequence ID: NP_001157888.2 Length: 148
+>histone H2B type F-M [Homo sapiens]
+Sequence ID: NP_001375393.1 Length: 148
+>hCG1796182, isoform CRA_a [Homo sapiens]
+Sequence ID: EAX02767.1 Length: 148 
+Range 1: 11 to 137
+
+Score:101 bits(251), Expect:3e-27, 
+Method:Compositional matrix adjust., 
+Identities:56/130(43%), Positives:80/130(61%), Gaps:14/130(10%)
+
+Query  3    EPAKSAPAPKKGSKKAVTKAQKK-----------DGKKRKRSRKESYSVYVYKVLKQVHP  51
+            E  +S   PK+ +    TKAQK+              +R  S  +S++ Y  +VLKQVH 
+Sbjct  11   EEGQSIQEPKEANS---TKAQKQKRRGCRGSRRRHANRRGDSFGDSFTPYFPRVLKQVHQ  67
+
+Query  52   DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHA  111
+               +S +A+ +M+S ++DI +RIA EA +LAHY KR TITSR+IQ AVRLLLPG++ K A
+Sbjct  68   GLSLSQEAVSVMDSMIHDILDRIATEAGQLAHYTKRVTITSRDIQMAVRLLLPGKMGKLA  127
+
+Query  112  VSEGTKAVTK  121
+             ++GT A  +
+Sbjct  128  EAQGTNAALR  137
+
+
+
+
+>histone H2B type F-M isoform X1 [Homo sapiens]
+Sequence ID: XP_011529224.1 Length: 154
+>histone H2B type F-M isoform X2 [Homo sapiens]
+Sequence ID: XP_054182874.1 Length: 154
+>RecName: Full=Histone H2B type F-M; AltName: Full=Histone H2B.s; Short=H2B/s [Homo sapiens]
+Sequence ID: P0C1H6.2 Length: 154
+>H2B.W histone 2 [Homo sapiens]
+Sequence ID: KAI2600383.1 Length: 154
+>H2B.W histone 2 [Homo sapiens]
+Sequence ID: KAI2600384.1 Length: 154
+>H2B.W histone 2 [Homo sapiens]
+Sequence ID: KAI2600385.1 Length: 154
+>H2B histone family, member M [Homo sapiens]
+Sequence ID: CAA97844.2 Length: 154 
+Range 1: 17 to 143
+
+Score:101 bits(251), Expect:4e-27, 
+Method:Compositional matrix adjust., 
+Identities:56/130(43%), Positives:80/130(61%), Gaps:14/130(10%)
+
+Query  3    EPAKSAPAPKKGSKKAVTKAQKK-----------DGKKRKRSRKESYSVYVYKVLKQVHP  51
+            E  +S   PK+ +    TKAQK+              +R  S  +S++ Y  +VLKQVH 
+Sbjct  17   EEGQSIQEPKEANS---TKAQKQKRRGCRGSRRRHANRRGDSFGDSFTPYFPRVLKQVHQ  73
+
+Query  52   DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHA  111
+               +S +A+ +M+S ++DI +RIA EA +LAHY KR TITSR+IQ AVRLLLPG++ K A
+Sbjct  74   GLSLSQEAVSVMDSMIHDILDRIATEAGQLAHYTKRVTITSRDIQMAVRLLLPGKMGKLA  133
+
+Query  112  VSEGTKAVTK  121
+             ++GT A  +
+Sbjct  134  EAQGTNAALR  143
+
+
+
+
+>H2B histone family, member W, testis-specific, isoform CRA_a [Homo sapiens]
+Sequence ID: EAX02765.1 Length: 175
+>H2B.W histone 1 [Homo sapiens]
+Sequence ID: KAI2600381.1 Length: 175
+>H2B.W histone 1 [Homo sapiens]
+Sequence ID: KAI2600382.1 Length: 175
+>H2B histone family, member W, testis-specific [Homo sapiens]
+Sequence ID: CAI43100.2 Length: 175 
+Range 1: 48 to 164
+
+Score:100 bits(248), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:54/117(46%), Positives:74/117(63%), Gaps:11/117(9%)
+
+Query  16   KKAVTKAQKKDGKKRKR-----------SRKESYSVYVYKVLKQVHPDTGISSKAMGIMN  64
+            K+A +   +K  K+RKR            R +S++ Y  +VLKQVH    +S +A+ +M+
+Sbjct  48   KEANSTTSQKQSKQRKRGRHGPRRCHSNCRGDSFATYFRRVLKQVHQGLSLSREAVSVMD  107
+
+Query  65   SFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            S V+DI +RIA EA RLA   KR TIT+ E + AVRLLLPG++ K A SEGTKAV +
+Sbjct  108  SLVHDILDRIATEAGRLARSTKRQTITAWETRMAVRLLLPGQMGKLAESEGTKAVLR  164
+
+
+
+
+>histone H2B type W-T [Homo sapiens]
+Sequence ID: NP_001002916.4 Length: 147
+Range 1: 20 to 136
+
+Score:97.1 bits(240), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:53/117(45%), Positives:73/117(62%), Gaps:11/117(9%)
+
+Query  16   KKAVTKAQKKDGKKRKR-----------SRKESYSVYVYKVLKQVHPDTGISSKAMGIMN  64
+            K+A +   +K  K+RKR            R +S++ Y  +VLKQVH    +S +A+ +M+
+Sbjct  20   KEANSTTSQKQSKQRKRGRHGPRRCHSNCRGDSFATYFRRVLKQVHQGLSLSREAVSVMD  79
+
+Query  65   SFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            S V+DI +RIA EA  LA   KR TIT+ E + AVRLLLPG++ K A SEGTKAV +
+Sbjct  80   SLVHDILDRIATEAGHLARSTKRQTITAWETRMAVRLLLPGQMGKLAESEGTKAVLR  136
+
+
+
+
+>RecName: Full=Histone H2B type W-T; AltName: Full=H2B histone family member W testis-specific; AltName: Full=H2B.W histone 1 [Homo sapiens]
+Sequence ID: Q7Z2G1.3 Length: 175
+>H2B histone family, member W, testis-specific [Homo sapiens]
+Sequence ID: AAH38109.1 Length: 175
+>H2B histone family, member W, testis-specific [Homo sapiens]
+Sequence ID: AAI18605.1 Length: 175
+>H2B histone family, member W, testis-specific [Homo sapiens]
+Sequence ID: AAI21817.1 Length: 175 
+Range 1: 48 to 164
+
+Score:97.8 bits(242), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:53/117(45%), Positives:73/117(62%), Gaps:11/117(9%)
+
+Query  16   KKAVTKAQKKDGKKRKR-----------SRKESYSVYVYKVLKQVHPDTGISSKAMGIMN  64
+            K+A +   +K  K+RKR            R +S++ Y  +VLKQVH    +S +A+ +M+
+Sbjct  48   KEANSTTSQKQSKQRKRGRHGPRRCHSNCRGDSFATYFRRVLKQVHQGLSLSREAVSVMD  107
+
+Query  65   SFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            S V+DI +RIA EA  LA   KR TIT+ E + AVRLLLPG++ K A SEGTKAV +
+Sbjct  108  SLVHDILDRIATEAGHLARSTKRQTITAWETRMAVRLLLPGQMGKLAESEGTKAVLR  164
+
+
+
+
+>H2B histone family, member M, partial [Homo sapiens]
+Sequence ID: CAP58855.2 Length: 52
+Range 1: 1 to 41
+
+Score:56.2 bits(134), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:26/41(63%), Positives:32/41(78%), Gaps:0/41(0%)
+
+Query  81   LAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            LAHY KR TITSR+IQ AVRLLLPG++ K A ++GT A  +
+Sbjct  1    LAHYTKRVTITSRDIQMAVRLLLPGKMGKLAEAQGTNAALR  41
+
+
+
+
+>H2B.W histone 2 [Homo sapiens]
+Sequence ID: KAI2600386.1 Length: 52
+>H2B.W histone 2 [Homo sapiens]
+Sequence ID: KAI4000587.1 Length: 52 
+Range 1: 1 to 41
+
+Score:55.5 bits(132), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:25/41(61%), Positives:32/41(78%), Gaps:0/41(0%)
+
+Query  81   LAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            +AHY KR TITSR+IQ AVRLLLPG++ K A ++GT A  +
+Sbjct  1    MAHYTKRVTITSRDIQMAVRLLLPGKMGKLAEAQGTNAALR  41
+
+
+
+
+>histone H2A.N [Homo sapiens]
+Sequence ID: NP_001388269.1 Length: 118
+>RecName: Full=Histone H2A.N; Short=H2B.N; AltName: Full=H2B.N variant histone 1 [Homo sapiens]
+Sequence ID: P0DW85.1 Length: 118 
+Range 1: 46 to 110
+
+Score:51.2 bits(121), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:29/68(43%), Positives:41/68(60%), Gaps:6/68(8%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSK---AMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS  92
+            E+Y  Y+ K+LKQ+HPD    S    A+G +N++     E ++ EA RL+ YN R  IT 
+Sbjct  46   EAYFSYMGKILKQIHPDFSGRSWVLYALGALNAWQ---LEWVSLEAFRLSFYNHRRAITG  102
+
+Query  93   REIQTAVR  100
+            REI  AV+
+Sbjct  103  REILGAVK  110
+
+
+
+
+>hCG1811509, partial [Homo sapiens]
+Sequence ID: EAW55491.1 Length: 227
+Range 1: 1 to 30
+
+Score:47.4 bits(111), Expect:4e-06, 
+Method:Compositional matrix adjust., 
+Identities:20/30(67%), Positives:25/30(83%), Gaps:0/30(0%)
+
+Query  23  QKKDGKKRKRSRKESYSVYVYKVLKQVHPD  52
+           Q+K+ KK KR  KESYS+Y+YKVL+ VHPD
+Sbjct  1   QEKERKKHKRCCKESYSIYIYKVLELVHPD  30
+
+
+
+
+>RAB40A, member RAS oncogene family, isoform CRA_a, partial [Homo sapiens]
+Sequence ID: EAW54707.1 Length: 224
+Range 1: 29 to 64
+
+Score:43.1 bits(100), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:18/36(50%), Positives:23/36(63%), Gaps:0/36(0%)
+
+Query  43  YKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEA  78
+           + VLKQ HPD   +   +GIMN F+ DIFE I  +A
+Sbjct  29  HGVLKQFHPDISTTLNFLGIMNDFLIDIFEHITTKA  64
+
+
+
+
+
+
+
+		
+
+

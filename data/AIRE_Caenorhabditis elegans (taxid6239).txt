@@ -1,0 +1,343 @@
+RID: 7VM455MB01N	
+Job Title:NP_000374.1 autoimmune regulator [Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_000374.1 autoimmune regulator [Homo sapiens] Query ID: lcl|Query_488339 Length: 545
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Protein let-418 [Caenorhabditis elegans]                          Caenorhabdit... NA              6239       62.0   116   16%   8e-10 40.00  1829       NP_504523.1      
+Chromodomain-helicase-DNA-binding protein 3 homolog...            Caenorhabdit... NA              6239       62.0   122   19%   8e-10 37.10  1787       NP_510140.1      
+Bromodomain adjacent to zinc finger domain protein 2...           Caenorhabdit... NA              6239       51.6   51.6  7%    1e-06 38.64  1390       NP_498673.3      
+PHD-type domain-containing protein [Caenorhabditis elegans]       Caenorhabdit... NA              6239       50.8   88.6  15%   2e-06 38.10  1150       NP_499397.2      
+PHD-type domain-containing protein [Caenorhabditis elegans]       Caenorhabdit... NA              6239       48.1   48.1  7%    2e-05 38.78  2475       NP_499819.3      
+PHD-type domain-containing protein [Caenorhabditis elegans]       Caenorhabdit... NA              6239       46.2   46.2  13%   6e-05 34.94  599        NP_507508.2      
+Lysine-specific demethylase rbr-2 [Caenorhabditis elegans]        Caenorhabdit... NA              6239       44.7   44.7  8%    2e-04 38.00  1477       NP_502032.2      
+[histone H3]-trimethyl-L-lysine(4) demethylase [Caenorhabditis... Caenorhabdit... NA              6239       44.7   44.7  8%    2e-04 38.00  1444       NP_001293922.1   
+Zinc finger protein dpff-1 [Caenorhabditis elegans]               Caenorhabdit... NA              6239       42.0   42.0  7%    9e-04 35.56  372        NP_498281.2      
+PHD-type domain-containing protein [Caenorhabditis elegans]       Caenorhabdit... NA              6239       41.6   41.6  10%   0.001 32.76  686        NP_001359533.1   
+PHD-type domain-containing protein [Caenorhabditis elegans]       Caenorhabdit... NA              6239       38.5   38.5  7%    0.001 36.36  103        NP_001300097.1   
+Zinc finger PHD-type domain-containing protein [Caenorhabditis... Caenorhabdit... NA              6239       40.0   40.0  8%    0.002 39.13  208        NP_001355360.1   
+PHD finger protein 10 [Caenorhabditis elegans]                    Caenorhabdit... NA              6239       40.8   81.2  15%   0.002 36.36  447        NP_001041113.1   
+
+
+Alignments:
+
+>Protein let-418 [Caenorhabditis elegans]
+Sequence ID: NP_504523.1 Length: 1829
+>RecName: Full=Protein let-418; AltName: Full=Lethal protein 418 [Caenorhabditis elegans]
+Sequence ID: G5EBZ4.1 Length: 1829
+>LET-418 [Caenorhabditis elegans]
+Sequence ID: AAG29838.1 Length: 1829
+>Protein let-418 [Caenorhabditis elegans]
+Sequence ID: CCD62685.1 Length: 1829 
+Range 1: 254 to 315
+
+Score:62.0 bits(149), Expect:8e-10, 
+Method:Composition-based stats., 
+Identities:26/65(40%), Positives:37/65(56%), Gaps:3/65(4%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAE  353
+            +N D C  C+  GEL+ CD CPRA+H  C+   + E P G W C+ C++   + V+   E
+Sbjct  254  ENNDYCEECKQDGELLLCDTCPRAYHTVCIDENMEEPPEGDWSCAHCIEHGPEVVK---E  310
+
+Query  354  EPRPQ  358
+            EP  Q
+Sbjct  311  EPAKQ  315
+
+
+
+
+Range 2: 314 to 403
+
+Score:54.3 bits(129), Expect:2e-07, 
+Method:Composition-based stats., 
+Identities:26/90(29%), Positives:44/90(48%), Gaps:1/90(1%)
+
+Query  293  QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP-SGTWRCSSCLQATVQEVQPR  351
+            ++N++ C +C++   L+ CD C  +FH  C+ PPL E+P   TW C  C     +    +
+Sbjct  314  KQNDEFCKICKETENLLLCDSCVCSFHAYCIDPPLTEVPKEETWSCPRCETVKPEHKIEK  373
+
+Query  352  AEEPRPQEPPVETPLPPGLRSAGEEVRGPP  381
+                R +E P   PL  G  ++ ++    P
+Sbjct  374  ILCWRWKEIPYPEPLEAGKEASSDDAMLKP  403
+
+
+
+
+>Chromodomain-helicase-DNA-binding protein 3 homolog [Caenorhabditis elegans]
+Sequence ID: NP_510140.1 Length: 1787
+>RecName: Full=Chromodomain-helicase-DNA-binding protein 3 homolog; Short=CHD-3 [Caenorhabditis elegans]
+Sequence ID: Q22516.2 Length: 1787
+>CHD-3 [Caenorhabditis elegans]
+Sequence ID: AAG29837.1 Length: 1787
+>Chromodomain-helicase-DNA-binding protein 3 homolog [Caenorhabditis elegans]
+Sequence ID: CAA91810.1 Length: 1787 
+Range 1: 314 to 373
+
+Score:62.0 bits(149), Expect:8e-10, 
+Method:Composition-based stats., 
+Identities:23/62(37%), Positives:35/62(56%), Gaps:2/62(3%)
+
+Query  280  PAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSS  339
+            P  L +  +P   + N D C +C++   ++ CD CP ++H  C+ PPL EIP G W C  
+Sbjct  314  PDVLIVEEEPA--KANMDYCRICKETSNILLCDTCPSSYHAYCIDPPLTEIPEGEWSCPR  371
+
+Query  340  CL  341
+            C+
+Sbjct  372  CI  373
+
+
+
+
+Range 2: 219 to 309
+
+Score:60.5 bits(145), Expect:2e-09, 
+Method:Composition-based stats., 
+Identities:34/104(33%), Positives:51/104(49%), Gaps:13/104(12%)
+
+Query  237  EDSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNE  296
+            +++  GK +AR +     + + K A  +A     AR  +QG V          + HQ+N 
+Sbjct  219  DEAEKGKEEARINRAAAKVDKRKAALESARASKRAR-KEQGVVE---------ENHQEN-  267
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+              C VC   GEL+ CD C RA+H+AC+   + + P G W C  C
+Sbjct  268  --CEVCNQDGELMLCDTCTRAYHVACIDENMEQPPEGDWSCPHC  309
+
+
+
+
+>Bromodomain adjacent to zinc finger domain protein 2 [Caenorhabditis elegans]
+Sequence ID: NP_498673.3 Length: 1390
+>RecName: Full=Bromodomain adjacent to zinc finger domain protein 2 [Caenorhabditis elegans]
+Sequence ID: Q23590.4 Length: 1390
+>Bromodomain adjacent to zinc finger domain protein 2 [Caenorhabditis elegans]
+Sequence ID: CCD65251.2 Length: 1390 
+Range 1: 1103 to 1146
+
+Score:51.6 bits(122), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:17/44(39%), Positives:25/44(56%), Gaps:2/44(4%)
+
+Query  299   CAVCR--DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C +C+  DG E++ CDGC    H+ C  P + ++P G W C  C
+Sbjct  1103  CQICKSMDGDEMLVCDGCESGCHMECFRPRMTKVPEGDWFCQRC  1146
+
+
+
+
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_499397.2 Length: 1150
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CAA97781.2 Length: 1150 
+Range 1: 62 to 103
+
+Score:50.8 bits(120), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:26/42(61%), Gaps:0/42(0%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C +C  GG ++CC+ CP +FHLAC+     ++P   + C+ C
+Sbjct  62   CGICSSGGNILCCEQCPASFHLACIGYESSDLPDDNFYCNRC  103
+
+
+
+
+Range 2: 62 to 105
+
+Score:37.7 bits(86), Expect:0.028, 
+Method:Compositional matrix adjust., 
+Identities:14/44(32%), Positives:19/44(43%), Gaps:0/44(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSG  477
+            CG+C  G ++L C  C A+FH  C     +  P     C  C  
+Sbjct  62   CGICSSGGNILCCEQCPASFHLACIGYESSDLPDDNFYCNRCRN  105
+
+
+
+
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_499819.3 Length: 2475
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CAB03348.3 Length: 2475 
+Range 1: 476 to 524
+
+Score:48.1 bits(113), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:19/49(39%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +C VC       D   L+ CD C  ++H+ C+ P L +IP G WRC  C
+Sbjct  476  DCTVCEGCGTGGDEANLLLCDECDVSYHIYCMKPLLDKIPQGPWRCQWC  524
+
+
+
+
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_507508.2 Length: 599
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CAC14404.2 Length: 599 
+Range 1: 515 to 595
+
+Score:46.2 bits(108), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:29/83(35%), Positives:40/83(48%), Gaps:10/83(12%)
+
+Query  299  CAVCRDGGEL---ICCDGCPRAFHLACLSPPLREIPSGT---WRCSSCLQA--TVQEVQP  350
+            C VCR   E      CD C +++H+ CLSPPL  +P      W C  C ++  + QE+ P
+Sbjct  515  CVVCRKSTEQHKQTQCDECHKSYHIGCLSPPLTRLPKRNNFGWICHECNESSDSEQEIIP  574
+
+Query  351  RAEEPRPQEPPVETPLPPGLRSA  373
+             A E   +   V +  PP   SA
+Sbjct  575  EASESTTR--SVRSRRPPARLSA  595
+
+
+
+
+>Lysine-specific demethylase rbr-2 [Caenorhabditis elegans]
+Sequence ID: NP_502032.2 Length: 1477
+>RecName: Full=Lysine-specific demethylase rbr-2; AltName: Full=Histone demethylase rbr-2; AltName: Full=Jumonji/ARID domain-containing protein rbr-2; AltName: Full=[histone H3]-trimethyl-L-lysine(4) demethylase rbr-2 [Caenorhabditis elegans]
+Sequence ID: Q23541.2 Length: 1477
+>Lysine-specific demethylase rbr-2 [Caenorhabditis elegans]
+Sequence ID: CAA93426.2 Length: 1477 
+Range 1: 322 to 371
+
+Score:44.7 bits(104), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:19/50(38%), Positives:26/50(52%), Gaps:5/50(10%)
+
+Query  299  CAVCRDGGE----LIC-CDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+            C  C +G +    L+C  DGC    H  C  P L E+P G WRC  C+++
+Sbjct  322  CVACNEGKDEDLLLLCDIDGCNNGRHTYCCDPVLDEVPEGEWRCPKCIES  371
+
+
+
+
+>[histone H3]-trimethyl-L-lysine(4) demethylase [Caenorhabditis elegans]
+Sequence ID: NP_001293922.1 Length: 1444
+>[histone H3]-trimethyl-L-lysine(4) demethylase [Caenorhabditis elegans]
+Sequence ID: CDR32687.1 Length: 1444 
+Range 1: 289 to 338
+
+Score:44.7 bits(104), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:19/50(38%), Positives:26/50(52%), Gaps:5/50(10%)
+
+Query  299  CAVCRDGGE----LIC-CDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+            C  C +G +    L+C  DGC    H  C  P L E+P G WRC  C+++
+Sbjct  289  CVACNEGKDEDLLLLCDIDGCNNGRHTYCCDPVLDEVPEGEWRCPKCIES  338
+
+
+
+
+>Zinc finger protein dpff-1 [Caenorhabditis elegans]
+Sequence ID: NP_498281.2 Length: 372
+>RecName: Full=Zinc finger protein dpff-1 [Caenorhabditis elegans]
+Sequence ID: Q09477.2 Length: 372
+>Zinc finger protein dpff-1 [Caenorhabditis elegans]
+Sequence ID: CCD65970.1 Length: 372 
+Range 1: 314 to 358
+
+Score:42.0 bits(97), Expect:9e-04, 
+Method:Compositional matrix adjust., 
+Identities:16/45(36%), Positives:24/45(53%), Gaps:3/45(6%)
+
+Query  299  CAVC---RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C +C    +  +L+ CD C R +HL CL+P L + P   + C  C
+Sbjct  314  CTICGTSENDDKLLFCDDCDRGYHLYCLTPALEKAPDDEYSCRLC  358
+
+
+
+
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_001359533.1 Length: 686
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CAA90618.3 Length: 686 
+Range 1: 42 to 99
+
+Score:41.6 bits(96), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:19/58(33%), Positives:29/58(50%), Gaps:1/58(1%)
+
+Query  288  DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGT-WRCSSCLQAT  344
+            D +   K +  C +C   GE++ C  CP +FH+ CL       P+GT + C  C + T
+Sbjct  42   DAEWDYKEQKACCICARRGEVLWCHSCPASFHIKCLGYDTDPQPNGTIFTCRRCQKIT  99
+
+
+
+
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_001300097.1 Length: 103
+>PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CTQ86796.1 Length: 103 
+Range 1: 39 to 80
+
+Score:38.5 bits(88), Expect:0.001, 
+Method:Composition-based stats., 
+Identities:16/44(36%), Positives:25/44(56%), Gaps:5/44(11%)
+
+Query  299  CAVC---RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSS  339
+            C++C       E++ CD C R FH  C+   L+++P GTW C +
+Sbjct  39   CSICNKPEKEDEIVFCDRCDRGFHTYCVG--LKKLPQGTWICDT  80
+
+
+
+
+>Zinc finger PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_001355360.1 Length: 208
+>Zinc finger PHD-type domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CAA92158.2 Length: 208 
+Range 1: 19 to 62
+
+Score:40.0 bits(92), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:18/46(39%), Positives:26/46(56%), Gaps:2/46(4%)
+
+Query  286  PSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP  331
+            P D       +++C +C DGG +I C+ CP +FH  CL   L+ IP
+Sbjct  19   PDDQNWLWPEQNKCGMCADGGTIIWCETCPASFHAFCLG--LKTIP  62
+
+
+
+
+>PHD finger protein 10 [Caenorhabditis elegans]
+Sequence ID: NP_001041113.1 Length: 447
+>PHD finger protein 10 [Caenorhabditis elegans]
+Sequence ID: CCD70456.1 Length: 447 
+Range 1: 383 to 424
+
+Score:40.8 bits(94), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:16/44(36%), Positives:25/44(56%), Gaps:5/44(11%)
+
+Query  299  CAVCRD---GGELICCDGCPRAFHLACLSPPLREIPSGTWRCSS  339
+            C++C       E++ CD C R FH  C+   L+++P GTW C +
+Sbjct  383  CSICNKPEKEDEIVFCDRCDRGFHTYCVG--LKKLPQGTWICDT  424
+
+
+
+
+Range 2: 300 to 380
+
+Score:40.4 bits(93), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:28/90(31%), Positives:39/90(43%), Gaps:14/90(15%)
+
+Query  256  VRAKGAQ-GAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVC-RDGGELICCDG  313
+            +RA+ A     P    A++ Q+ S   P   PS P         C  C + GGE+ICC  
+Sbjct  300  MRAREATLNTTPQSSMAQIKQEPSYIPPPIDPSRP---------CDSCEKTGGEMICCAT  350
+
+Query  314  CPRAFHLACLSPPLRE---IPSGTWRCSSC  340
+            C  A+H  C+  P R    + +  W C  C
+Sbjct  351  CKIAYHPQCIEMPERMAALVKTYEWSCVDC  380
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,291 @@
+RID: 7VV10XX1016	
+Job Title:NP_003529.1 H4C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359] Query ID: lcl|Query_25559 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H4 [Drosophila melanogaster]                              Drosophila m... fruit fly       7227       199    199   100%  1e-67 99.03  103        NP_001027284.1   
+RE42129p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       197    197   100%  3e-67 98.06  103        AAT94446.1       
+histone H4 [Drosophila melanogaster]                              Drosophila m... fruit fly       7227       197    197   100%  4e-67 98.06  103        NP_001027352.1   
+Cryo-EM structure of nucleosome in complex with a single chain... Drosophila m... fruit fly       7227       197    197   100%  5e-67 98.06  104        6DZT_B           
+Chain B, Histone H4 [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       197    197   100%  6e-67 98.06  103        2NQB_B           
+Drosophila nucleosome core [Drosophila melanogaster]              Drosophila m... fruit fly       7227       196    196   99%   1e-66 99.02  102        2PYO_B           
+Crystal structure of 167 bp nucleosome bound to the globular...   Drosophila m... fruit fly       7227       162    162   79%   9e-54 100.00 82         5WCU_B           
+CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME COR... Drosophila m... fruit fly       7227       157    157   76%   8e-52 100.00 79         4X23_B           
+Crystal Structure of Nurf55 in complex with a H4 peptide...       Drosophila m... fruit fly       7227       40.4   40.4  19%   6e-06 100.00 20         2XYI_B           
+
+
+Alignments:
+
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027284.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027288.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027293.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027297.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027302.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027307.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027312.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027317.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027322.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027327.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027332.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027337.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027342.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027347.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027367.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027372.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027377.1 Length: 103
+>histone H4 replacement, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001262576.1 Length: 103
+>histone H4 replacement, isoform C [Drosophila melanogaster]
+Sequence ID: NP_524352.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_724344.1 Length: 103
+>histone H4 replacement, isoform A [Drosophila melanogaster]
+Sequence ID: NP_731927.1 Length: 103
+>histone H4 replacement, isoform B [Drosophila melanogaster]
+Sequence ID: NP_731928.1 Length: 103
+>RecName: Full=Histone H4 [Drosophila melanogaster]
+Sequence ID: P84040.2 Length: 103
+>MCM2-histone complex [Drosophila melanogaster]
+Sequence ID: 4UUZ_B Length: 103
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_B Length: 103
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_F Length: 103
+>Chain B, Histone H4 [Drosophila melanogaster]
+Sequence ID: 6PWF_B Length: 103
+>Chain F, Histone H4 [Drosophila melanogaster]
+Sequence ID: 6PWF_F Length: 103
+>Crystal Structure of Drosophila CAL1 1-160 bound to CENP-A/H4 [Drosophila melanogaster]
+Sequence ID: 6XWS_B Length: 103
+>drosophila melanogaster CENP-A/H4 bound to N-terminal CAL1 fragment [Drosophila melanogaster]
+Sequence ID: 6XWT_B Length: 103
+>drosophila melanogaster CENP-A/H4 bound to N-terminal CAL1 fragment [Drosophila melanogaster]
+Sequence ID: 6XWT_D Length: 103 
+Range 1: 1 to 103
+
+Score:199 bits(505), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            M+GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MTGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>RE42129p [Drosophila melanogaster]
+Sequence ID: AAT94446.1 Length: 103
+Range 1: 1 to 103
+
+Score:197 bits(501), Expect:3e-67, 
+Method:Compositional matrix adjust., 
+Identities:101/103(98%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            M+GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MTGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHA+RKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAERKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027352.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027357.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027362.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: NP_001027382.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: AAZ66548.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: AAZ66553.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: AAZ66558.1 Length: 103
+>histone H4 [Drosophila melanogaster]
+Sequence ID: AAZ66578.1 Length: 103 
+Range 1: 1 to 103
+
+Score:197 bits(501), Expect:4e-67, 
+Method:Compositional matrix adjust., 
+Identities:101/103(98%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            M+GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MTGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTA+DVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTALDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_B Length: 104
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_F Length: 104 
+Range 1: 2 to 104
+
+Score:197 bits(500), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:101/103(98%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            ++GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  2    ITGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  61
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  62   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  104
+
+
+
+
+>Chain B, Histone H4 [Drosophila melanogaster]
+Sequence ID: 2NQB_B Length: 103
+>Chain F, Histone H4 [Drosophila melanogaster]
+Sequence ID: 2NQB_F Length: 103 
+Range 1: 1 to 103
+
+Score:197 bits(500), Expect:6e-67, 
+Method:Compositional matrix adjust., 
+Identities:101/103(98%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            ++GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    ITGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_B Length: 102
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_F Length: 102
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_B Length: 102
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_F Length: 102 
+Range 1: 1 to 102
+
+Score:196 bits(498), Expect:1e-66, 
+Method:Compositional matrix adjust., 
+Identities:101/102(99%), Positives:102/102(100%), Gaps:0/102(0%)
+
+Query  2    SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  61
+            +GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV
+Sbjct  1    TGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  60
+
+Query  62   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  102
+
+
+
+
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_B Length: 82
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_F Length: 82
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_L Length: 82
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_P Length: 82 
+Range 1: 1 to 82
+
+Score:162 bits(411), Expect:9e-54, 
+Method:Compositional matrix adjust., 
+Identities:82/82(100%), Positives:82/82(100%), Gaps:0/82(0%)
+
+Query  22   VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKT  81
+            VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKT
+Sbjct  1    VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKT  60
+
+Query  82   VTAMDVVYALKRQGRTLYGFGG  103
+            VTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VTAMDVVYALKRQGRTLYGFGG  82
+
+
+
+
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_B Length: 79
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_F Length: 79
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_L Length: 79
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_P Length: 79 
+Range 1: 1 to 79
+
+Score:157 bits(398), Expect:8e-52, 
+Method:Compositional matrix adjust., 
+Identities:79/79(100%), Positives:79/79(100%), Gaps:0/79(0%)
+
+Query  25   DNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTA  84
+            DNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTA
+Sbjct  1    DNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTA  60
+
+Query  85   MDVVYALKRQGRTLYGFGG  103
+            MDVVYALKRQGRTLYGFGG
+Sbjct  61   MDVVYALKRQGRTLYGFGG  79
+
+
+
+
+>Crystal Structure of Nurf55 in complex with a H4 peptide [Drosophila melanogaster]
+Sequence ID: 2XYI_B Length: 20
+Range 1: 1 to 20
+
+Score:40.4 bits(93), Expect:6e-06, 
+Method:Compositional matrix adjust., 
+Identities:20/20(100%), Positives:20/20(100%), Gaps:0/20(0%)
+
+Query  27  IQGITKPAIRRLARRGGVKR  46
+           IQGITKPAIRRLARRGGVKR
+Sbjct  1   IQGITKPAIRRLARRGGVKR  20
+
+
+
+
+
+
+
+		
+
+

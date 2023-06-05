@@ -1,0 +1,1542 @@
+RID: 7VM6RVR1016	
+Job Title:NP_000374.1 autoimmune regulator [Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_000374.1 autoimmune regulator [Homo sapiens] Query ID: lcl|Query_80858 Length: 545
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+RE59080p1 [Drosophila melanogaster]                               Drosophila m... fruit fly       7227       74.3   74.3  7%    2e-13 64.29  1561       AGJ94565.1       
+dMi-2 protein [Drosophila melanogaster]                           Drosophila m... fruit fly       7227       74.3   142   8%    2e-13 64.29  1982       AAD17276.1       
+Mi-2, isoform B [Drosophila melanogaster]                         Drosophila m... fruit fly       7227       74.3   142   8%    2e-13 64.29  1983       NP_001014591.1   
+Mi-2, isoform C [Drosophila melanogaster]                         Drosophila m... fruit fly       7227       74.3   142   8%    2e-13 64.29  1982       NP_001163476.1   
+Mi-2, isoform D [Drosophila melanogaster]                         Drosophila m... fruit fly       7227       74.3   142   8%    2e-13 64.29  1973       NP_001262078.1   
+CHD3 [Drosophila melanogaster]                                    Drosophila m... fruit fly       7227       73.9   73.9  8%    3e-13 54.17  1518       AAB87384.1       
+Chd3 [Drosophila melanogaster]                                    Drosophila m... fruit fly       7227       73.6   73.6  8%    3e-13 54.17  892        NP_649111.1      
+GH21519p1 [Drosophila melanogaster]                               Drosophila m... fruit fly       7227       73.6   140   8%    3e-13 64.29  1084       AGC12539.1       
+RE55932p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       72.8   72.8  8%    4e-13 54.17  627        AAL49125.1       
+uncharacterized protein Dmel_CG3815 [Drosophila melanogaster]     Drosophila m... fruit fly       7227       67.8   112   9%    2e-11 50.91  878        NP_572311.1      
+bonus, isoform F [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       64.7   104   21%   2e-10 48.28  1122       NP_001262768.1   
+bonus, isoform D [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       64.7   104   21%   2e-10 48.28  1119       NP_001262766.1   
+bonus, isoform E [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       64.7   104   21%   2e-10 48.28  1125       NP_001262767.1   
+bonus, isoform C [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       64.3   104   20%   3e-10 52.00  1207       NP_001262765.1   
+bonus, isoform B [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       63.9   103   20%   3e-10 52.00  1125       NP_001163665.1   
+bonus [Drosophila melanogaster]                                   Drosophila m... fruit fly       7227       63.9   103   20%   3e-10 52.00  1133       AAF19646.1       
+bonus, isoform A [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       63.9   103   20%   3e-10 52.00  1133       NP_524724.2      
+enhancer of bithorax, isoform I [Drosophila melanogaster]         Drosophila m... fruit fly       7227       61.2   61.2  9%    3e-09 39.62  2668       NP_001261189.1   
+nucleosome remodeling factor large subunit NURF301 [Drosophila... Drosophila m... fruit fly       7227       61.2   61.2  9%    3e-09 39.62  2669       AAL16644.1       
+enhancer of bithorax, isoform E [Drosophila melanogaster]         Drosophila m... fruit fly       7227       61.2   61.2  9%    3e-09 39.62  2669       NP_001163304.1   
+enhancer of bithorax, isoform B [Drosophila melanogaster]         Drosophila m... fruit fly       7227       61.2   61.2  9%    3e-09 39.62  2649       NP_728505.1      
+enhancer of bithorax, isoform H [Drosophila melanogaster]         Drosophila m... fruit fly       7227       61.2   61.2  9%    3e-09 39.62  2761       NP_001261188.1   
+IP08836p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       60.5   60.5  8%    3e-09 42.22  704        AAY51526.1       
+enhancer of bithorax, isoform G [Drosophila melanogaster]         Drosophila m... fruit fly       7227       60.8   60.8  9%    3e-09 39.62  2163       NP_001261187.1   
+enhancer of bithorax, isoform C [Drosophila melanogaster]         Drosophila m... fruit fly       7227       60.8   60.8  9%    3e-09 39.62  2159       NP_995946.1      
+enhancer of bithorax, isoform F [Drosophila melanogaster]         Drosophila m... fruit fly       7227       60.8   60.8  9%    4e-09 39.62  2139       NP_001163305.1   
+toutatis, isoform E [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       56.6   108   9%    7e-08 44.23  3131       NP_001097270.1   
+toutatis, isoform A [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       56.6   108   9%    8e-08 44.23  2999       NP_523701.3      
+toutatis, isoform F [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       56.6   108   9%    8e-08 44.23  3058       NP_001260898.1   
+toutatis, isoform G [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       56.6   108   9%    8e-08 44.23  3094       NP_001260899.1   
+Toutatis [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       56.6   108   9%    8e-08 44.23  3109       AAK00302.1       
+LP06732p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       54.7   105   11%   2e-07 44.23  683        AAK93471.1       
+uncharacterized protein Dmel_CG2926, isoform A [Drosophila...     Drosophila m... fruit fly       7227       55.1   55.1  10%   2e-07 32.20  2296       NP_649554.1      
+LD09942p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       54.7   54.7  10%   3e-07 32.76  1489       AAR82791.1       
+uncharacterized protein Dmel_CG2926, isoform B [Drosophila...     Drosophila m... fruit fly       7227       54.3   54.3  11%   3e-07 30.30  874        NP_001262289.1   
+LD32807p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       53.5   53.5  8%    6e-07 38.46  1151       AAX33535.1       
+ATP-dependent chromatin assembly factor large subunit...          Drosophila m... fruit fly       7227       53.1   53.1  8%    8e-07 38.46  1476       AAD38952.1       
+ATP-dependent chromatin assembly factor large subunit...          Drosophila m... fruit fly       7227       53.1   53.1  8%    8e-07 38.46  1476       NP_536734.2      
+chromatin accessibility complex (CHRAC) [Drosophila melanogaster] Drosophila m... fruit fly       7227       53.1   53.1  8%    9e-07 38.46  1476       CAB88669.1       
+Solution NMR Structure of PHD Type 1 Zinc Finger Domain 1 of...   Drosophila m... fruit fly       7227       47.4   47.4  18%   2e-06 33.01  94         2MIQ_A           
+lost PHDs of trr, isoform B [Drosophila melanogaster]             Drosophila m... fruit fly       7227       52.0   92.0  8%    2e-06 38.78  1478       NP_001286792.1   
+lost PHDs of trr, isoform A [Drosophila melanogaster]             Drosophila m... fruit fly       7227       52.0   92.4  8%    2e-06 38.78  1482       NP_611847.2      
+lysine demethylase 5, isoform C [Drosophila melanogaster]         Drosophila m... fruit fly       7227       51.6   51.6  20%   2e-06 33.33  1838       NP_001245908.1   
+d4, isoform C [Drosophila melanogaster]                           Drosophila m... fruit fly       7227       50.8   50.8  8%    3e-06 40.43  495        NP_724404.1      
+d4, isoform D [Drosophila melanogaster]                           Drosophila m... fruit fly       7227       50.8   50.8  8%    3e-06 40.43  496        NP_001260707.1   
+d4, isoform A [Drosophila melanogaster]                           Drosophila m... fruit fly       7227       50.8   50.8  8%    3e-06 40.43  497        NP_610163.1      
+d4, isoform B [Drosophila melanogaster]                           Drosophila m... fruit fly       7227       49.3   49.3  8%    7e-06 40.43  339        NP_724405.2      
+LD18949p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       47.0   89.0  8%    5e-05 39.22  779        AAL39608.1       
+uncharacterized protein Dmel_CG15439 [Drosophila melanogaster]    Drosophila m... fruit fly       7227       45.8   86.6  8%    1e-04 39.22  1008       NP_608836.1      
+enhancer of yellow 3, isoform B [Drosophila melanogaster]         Drosophila m... fruit fly       7227       43.9   43.9  7%    6e-04 37.78  2006       NP_001259718.1   
+enhancer of yellow 3, isoform D [Drosophila melanogaster]         Drosophila m... fruit fly       7227       43.9   43.9  7%    6e-04 37.78  2011       NP_001259720.1   
+enhancer of yellow 3, isoform C [Drosophila melanogaster]         Drosophila m... fruit fly       7227       43.9   43.9  7%    6e-04 37.78  2012       NP_001259719.1   
+LD10526p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       43.9   43.9  7%    6e-04 37.78  1843       AAM48352.1       
+LD09043p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       43.1   43.1  6%    7e-04 38.89  400        AAL28651.1       
+nuclear receptor binding SET domain protein, isoform B...         Drosophila m... fruit fly       7227       43.1   43.1  7%    8e-04 38.10  1423       NP_001263029.1   
+nuclear receptor binding SET domain protein, isoform A...         Drosophila m... fruit fly       7227       43.1   43.1  7%    9e-04 38.10  1427       NP_733239.1      
+RE61305p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       42.4   42.4  7%    0.002 38.10  1016       AAM48433.1       
+rhinoceros, isoform D [Drosophila melanogaster]                   Drosophila m... fruit fly       7227       42.0   42.0  7%    0.002 38.30  3241       NP_001246528.1   
+Bromodomain-containing protein, 140kD, isoform B [Drosophila...   Drosophila m... fruit fly       7227       40.8   40.8  8%    0.006 38.00  1430       NP_001286155.1   
+MIP14416p [Drosophila melanogaster]                               Drosophila m... fruit fly       7227       40.4   40.4  7%    0.006 38.30  1149       ADC41872.1       
+LD19244p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       40.0   40.0  6%    0.007 40.00  607        AAN71231.1       
+uncharacterized protein Dmel_CG8677, isoform C [Drosophila...     Drosophila m... fruit fly       7227       40.0   40.0  6%    0.008 43.24  2663       NP_001286123.1   
+RE53824p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       40.0   40.0  7%    0.009 33.33  1199       AAO24950.1       
+
+
+Alignments:
+
+>RE59080p1, partial [Drosophila melanogaster]
+Sequence ID: AGJ94565.1 Length: 1561
+Range 1: 19 to 60
+
+Score:74.3 bits(181), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:27/42(64%), Positives:31/42(73%), Gaps:0/42(0%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VC+DGGEL+CCD CP A+H  CL+PPL  IP G WRC  C
+Sbjct  19   CRVCKDGGELLCCDSCPSAYHTFCLNPPLDTIPDGDWRCPRC  60
+
+
+
+
+>dMi-2 protein [Drosophila melanogaster]
+Sequence ID: AAD17276.1 Length: 1982
+Range 1: 440 to 481
+
+Score:74.3 bits(181), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:27/42(64%), Positives:31/42(73%), Gaps:0/42(0%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VC+DGGEL+CCD CP A+H  CL+PPL  IP G WRC  C
+Sbjct  440  CRVCKDGGELLCCDSCPSAYHTFCLNPPLDTIPDGDWRCPRC  481
+
+
+
+
+Range 2: 374 to 421
+
+Score:68.6 bits(166), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  293  QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             +++D C VC+ GGE+I CD CPRA+HL CL P L E P G W C  C
+Sbjct  374  HEHQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELDEPPEGKWSCPHC  421
+
+
+
+
+>Mi-2, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001014591.1 Length: 1983
+>Mi-2, isoform B [Drosophila melanogaster]
+Sequence ID: AAX52739.1 Length: 1983 
+Range 1: 441 to 482
+
+Score:74.3 bits(181), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:27/42(64%), Positives:31/42(73%), Gaps:0/42(0%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VC+DGGEL+CCD CP A+H  CL+PPL  IP G WRC  C
+Sbjct  441  CRVCKDGGELLCCDSCPSAYHTFCLNPPLDTIPDGDWRCPRC  482
+
+
+
+
+Range 2: 375 to 422
+
+Score:68.6 bits(166), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  293  QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             +++D C VC+ GGE+I CD CPRA+HL CL P L E P G W C  C
+Sbjct  375  HEHQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELDEPPEGKWSCPHC  422
+
+
+
+
+>Mi-2, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001163476.1 Length: 1982
+>Mi-2, isoform A [Drosophila melanogaster]
+Sequence ID: NP_649154.2 Length: 1982
+>RecName: Full=Chromodomain-helicase-DNA-binding protein Mi-2 homolog; AltName: Full=ATP-dependent helicase Mi-2; Short=dMi-2 [Drosophila melanogaster]
+Sequence ID: O97159.2 Length: 1982
+>Mi-2, isoform A [Drosophila melanogaster]
+Sequence ID: AAF49099.2 Length: 1982
+>Mi-2, isoform C [Drosophila melanogaster]
+Sequence ID: ACZ94747.1 Length: 1982 
+Range 1: 440 to 481
+
+Score:74.3 bits(181), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:27/42(64%), Positives:31/42(73%), Gaps:0/42(0%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VC+DGGEL+CCD CP A+H  CL+PPL  IP G WRC  C
+Sbjct  440  CRVCKDGGELLCCDSCPSAYHTFCLNPPLDTIPDGDWRCPRC  481
+
+
+
+
+Range 2: 374 to 421
+
+Score:68.6 bits(166), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  293  QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             +++D C VC+ GGE+I CD CPRA+HL CL P L E P G W C  C
+Sbjct  374  HEHQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELDEPPEGKWSCPHC  421
+
+
+
+
+>Mi-2, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001262078.1 Length: 1973
+>Mi-2, isoform D [Drosophila melanogaster]
+Sequence ID: AGB94771.1 Length: 1973 
+Range 1: 431 to 472
+
+Score:74.3 bits(181), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:27/42(64%), Positives:31/42(73%), Gaps:0/42(0%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VC+DGGEL+CCD CP A+H  CL+PPL  IP G WRC  C
+Sbjct  431  CRVCKDGGELLCCDSCPSAYHTFCLNPPLDTIPDGDWRCPRC  472
+
+
+
+
+Range 2: 365 to 412
+
+Score:68.6 bits(166), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  293  QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             +++D C VC+ GGE+I CD CPRA+HL CL P L E P G W C  C
+Sbjct  365  HEHQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELDEPPEGKWSCPHC  412
+
+
+
+
+>CHD3, partial [Drosophila melanogaster]
+Sequence ID: AAB87384.1 Length: 1518
+Range 1: 36 to 83
+
+Score:73.9 bits(180), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:34/48(70%), Gaps:0/48(0%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            ++E+ C VC DGG+L+CCD CP  +H  CLSPPL+ IP G W C  C+
+Sbjct  36   RDEEYCKVCSDGGDLLCCDSCPSVYHRTCLSPPLKSIPKGDWICPRCI  83
+
+
+
+
+>Chd3 [Drosophila melanogaster]
+Sequence ID: NP_649111.1 Length: 892
+>RecName: Full=Chromodomain-helicase-DNA-binding protein 3; AltName: Full=ATP-dependent helicase Chd3 [Drosophila melanogaster]
+Sequence ID: O16102.3 Length: 892
+>Chd3 [Drosophila melanogaster]
+Sequence ID: AAF49162.2 Length: 892
+>FI21135p1 [Drosophila melanogaster]
+Sequence ID: AGJ89711.1 Length: 892 
+Range 1: 33 to 80
+
+Score:73.6 bits(179), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:34/48(70%), Gaps:0/48(0%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            ++E+ C VC DGG+L+CCD CP  +H  CLSPPL+ IP G W C  C+
+Sbjct  33   RDEEYCKVCSDGGDLLCCDSCPSVYHRTCLSPPLKSIPKGDWICPRCI  80
+
+
+
+
+>GH21519p1, partial [Drosophila melanogaster]
+Sequence ID: AGC12539.1 Length: 1084
+Range 1: 441 to 482
+
+Score:73.6 bits(179), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:27/42(64%), Positives:31/42(73%), Gaps:0/42(0%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VC+DGGEL+CCD CP A+H  CL+PPL  IP G WRC  C
+Sbjct  441  CRVCKDGGELLCCDSCPSAYHTFCLNPPLDTIPDGDWRCPRC  482
+
+
+
+
+Range 2: 375 to 422
+
+Score:67.4 bits(163), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  293  QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             +++D C VC+ GGE+I CD CPRA+HL CL P L E P G W C  C
+Sbjct  375  HEHQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELDEPPEGKWSCPHC  422
+
+
+
+
+>RE55932p [Drosophila melanogaster]
+Sequence ID: AAL49125.1 Length: 627
+Range 1: 33 to 80
+
+Score:72.8 bits(177), Expect:4e-13, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:34/48(70%), Gaps:0/48(0%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            ++E+ C VC DGG+L+CCD CP  +H  CLSPPL+ IP G W C  C+
+Sbjct  33   RDEEYCKVCSDGGDLLCCDSCPSVYHRTCLSPPLKSIPKGDWICPRCI  80
+
+
+
+
+>uncharacterized protein Dmel_CG3815 [Drosophila melanogaster]
+Sequence ID: NP_572311.1 Length: 878
+>uncharacterized protein Dmel_CG3815 [Drosophila melanogaster]
+Sequence ID: AAF46150.2 Length: 878
+>GH06635p [Drosophila melanogaster]
+Sequence ID: AAL39199.1 Length: 878 
+Range 1: 52 to 106
+
+Score:67.8 bits(164), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:28/55(51%), Positives:34/55(61%), Gaps:2/55(3%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLRE--IPSGTWRCSSCLQATVQE  347
+            N D C  C +GG L+CCD CP +FHL C  PPL E  IPSG W C SC  + + +
+Sbjct  52   NHDYCDACEEGGNLLCCDRCPSSFHLQCHDPPLSEEDIPSGQWLCHSCRMSKLSQ  106
+
+
+
+
+Range 2: 271 to 300
+
+Score:45.1 bits(105), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:17/30(57%), Positives:19/30(63%), Gaps:0/30(0%)
+
+Query  308  LICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            LI CD CP  FH  CL PPL  +P+G W C
+Sbjct  271  LISCDYCPLYFHQDCLDPPLTALPAGLWMC  300
+
+
+
+
+>bonus, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001262768.1 Length: 1122
+>bonus, isoform F [Drosophila melanogaster]
+Sequence ID: AGB96148.1 Length: 1122 
+Range 1: 878 to 935
+
+Score:64.7 bits(156), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:28/58(48%), Positives:36/58(62%), Gaps:2/58(3%)
+
+Query  287  SDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP--SGTWRCSSCLQ  342
+            S+ Q    NED CAVC DGGEL+CCD CP+ FH  C  P +  +P  S +W+C  C+ 
+Sbjct  878  SNTQEDDPNEDWCAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVN  935
+
+
+
+
+Range 2: 890 to 954
+
+Score:39.7 bits(91), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:21/65(32%), Positives:27/65(41%), Gaps:2/65(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP--GTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC DG +++ C  C   FH  CH PA +S P      +C  C         EG    S
+Sbjct  890  CAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVNIKELTKTEGSEKSS  949
+
+Query  492  PARLA  496
+               L+
+Sbjct  950  SGELS  954
+
+
+
+
+>bonus, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001262766.1 Length: 1119
+>bonus, isoform D [Drosophila melanogaster]
+Sequence ID: AGB96146.1 Length: 1119 
+Range 1: 874 to 931
+
+Score:64.7 bits(156), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:28/58(48%), Positives:36/58(62%), Gaps:2/58(3%)
+
+Query  287  SDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP--SGTWRCSSCLQ  342
+            S+ Q    NED CAVC DGGEL+CCD CP+ FH  C  P +  +P  S +W+C  C+ 
+Sbjct  874  SNTQEDDPNEDWCAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVN  931
+
+
+
+
+Range 2: 886 to 950
+
+Score:39.7 bits(91), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:21/65(32%), Positives:27/65(41%), Gaps:2/65(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP--GTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC DG +++ C  C   FH  CH PA +S P      +C  C         EG    S
+Sbjct  886  CAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVNIKELTKTEGSEKSS  945
+
+Query  492  PARLA  496
+               L+
+Sbjct  946  SGELS  950
+
+
+
+
+>bonus, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001262767.1 Length: 1125
+>bonus, isoform E [Drosophila melanogaster]
+Sequence ID: AGB96147.1 Length: 1125 
+Range 1: 880 to 937
+
+Score:64.7 bits(156), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:28/58(48%), Positives:36/58(62%), Gaps:2/58(3%)
+
+Query  287  SDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP--SGTWRCSSCLQ  342
+            S+ Q    NED CAVC DGGEL+CCD CP+ FH  C  P +  +P  S +W+C  C+ 
+Sbjct  880  SNTQEDDPNEDWCAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVN  937
+
+
+
+
+Range 2: 892 to 956
+
+Score:39.7 bits(91), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:21/65(32%), Positives:27/65(41%), Gaps:2/65(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP--GTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC DG +++ C  C   FH  CH PA +S P      +C  C         EG    S
+Sbjct  892  CAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVNIKELTKTEGSEKSS  951
+
+Query  492  PARLA  496
+               L+
+Sbjct  952  SGELS  956
+
+
+
+
+>bonus, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001262765.1 Length: 1207
+>bonus, isoform C [Drosophila melanogaster]
+Sequence ID: AGB96145.1 Length: 1207 
+Range 1: 896 to 945
+
+Score:64.3 bits(155), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:26/50(52%), Positives:33/50(66%), Gaps:2/50(4%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP--SGTWRCSSCLQ  342
+            NED CAVC DGGEL+CCD CP+ FH  C  P +  +P  S +W+C  C+ 
+Sbjct  896  NEDWCAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVN  945
+
+
+
+
+Range 2: 900 to 964
+
+Score:40.0 bits(92), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:21/65(32%), Positives:27/65(41%), Gaps:2/65(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP--GTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC DG +++ C  C   FH  CH PA +S P      +C  C         EG    S
+Sbjct  900  CAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVNIKELTKTEGSEKSS  959
+
+Query  492  PARLA  496
+               L+
+Sbjct  960  SGELS  964
+
+
+
+
+>bonus, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001163665.1 Length: 1125
+>RE48191p [Drosophila melanogaster]
+Sequence ID: ABX00782.1 Length: 1125
+>bonus, isoform B [Drosophila melanogaster]
+Sequence ID: ACZ94961.1 Length: 1125 
+Range 1: 888 to 937
+
+Score:63.9 bits(154), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:26/50(52%), Positives:33/50(66%), Gaps:2/50(4%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP--SGTWRCSSCLQ  342
+            NED CAVC DGGEL+CCD CP+ FH  C  P +  +P  S +W+C  C+ 
+Sbjct  888  NEDWCAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVN  937
+
+
+
+
+Range 2: 892 to 956
+
+Score:39.7 bits(91), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:21/65(32%), Positives:27/65(41%), Gaps:2/65(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP--GTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC DG +++ C  C   FH  CH PA +S P      +C  C         EG    S
+Sbjct  892  CAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVNIKELTKTEGSEKSS  951
+
+Query  492  PARLA  496
+               L+
+Sbjct  952  SGELS  956
+
+
+
+
+>bonus [Drosophila melanogaster]
+Sequence ID: AAF19646.1 Length: 1133
+Range 1: 896 to 945
+
+Score:63.9 bits(154), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:26/50(52%), Positives:33/50(66%), Gaps:2/50(4%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP--SGTWRCSSCLQ  342
+            NED CAVC DGGEL+CCD CP+ FH  C  P +  +P  S +W+C  C+ 
+Sbjct  896  NEDWCAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVN  945
+
+
+
+
+Range 2: 900 to 964
+
+Score:39.7 bits(91), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:21/65(32%), Positives:27/65(41%), Gaps:2/65(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP--GTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC DG +++ C  C   FH  CH PA +S P      +C  C         EG    S
+Sbjct  900  CAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVNIKELTKTEGSEKSS  959
+
+Query  492  PARLA  496
+               L+
+Sbjct  960  SGELS  964
+
+
+
+
+>bonus, isoform A [Drosophila melanogaster]
+Sequence ID: NP_524724.2 Length: 1133
+>bonus, isoform A [Drosophila melanogaster]
+Sequence ID: AAF55786.2 Length: 1133 
+Range 1: 896 to 945
+
+Score:63.9 bits(154), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:26/50(52%), Positives:33/50(66%), Gaps:2/50(4%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP--SGTWRCSSCLQ  342
+            NED CAVC DGGEL+CCD CP+ FH  C  P +  +P  S +W+C  C+ 
+Sbjct  896  NEDWCAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVN  945
+
+
+
+
+Range 2: 900 to 964
+
+Score:39.7 bits(91), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:21/65(32%), Positives:27/65(41%), Gaps:2/65(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP--GTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC DG +++ C  C   FH  CH PA +S P      +C  C         EG    S
+Sbjct  900  CAVCLDGGELMCCDKCPKVFHQNCHIPAISSLPDESESWQCLLCVNIKELTKTEGSEKSS  959
+
+Query  492  PARLA  496
+               L+
+Sbjct  960  SGELS  964
+
+
+
+
+>enhancer of bithorax, isoform I [Drosophila melanogaster]
+Sequence ID: NP_001261189.1 Length: 2668
+>enhancer of bithorax, isoform I [Drosophila melanogaster]
+Sequence ID: AGB93884.1 Length: 2668 
+Range 1: 339 to 391
+
+Score:61.2 bits(147), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>nucleosome remodeling factor large subunit NURF301 [Drosophila melanogaster]
+Sequence ID: AAL16644.1 Length: 2669
+Range 1: 339 to 391
+
+Score:61.2 bits(147), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>enhancer of bithorax, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001163304.1 Length: 2669
+>enhancer of bithorax, isoform J [Drosophila melanogaster]
+Sequence ID: NP_001261190.1 Length: 2669
+>enhancer of bithorax, isoform A [Drosophila melanogaster]
+Sequence ID: NP_728507.1 Length: 2669
+>RecName: Full=Nucleosome-remodeling factor subunit NURF301; AltName: Full=Enhancer of bithorax; AltName: Full=Nucleosome-remodeling factor 215 kDa subunit; Short=NURF-215 [Drosophila melanogaster]
+Sequence ID: Q9W0T1.2 Length: 2669
+>enhancer of bithorax, isoform A [Drosophila melanogaster]
+Sequence ID: AAN11431.1 Length: 2669
+>enhancer of bithorax, isoform E [Drosophila melanogaster]
+Sequence ID: ACZ94576.1 Length: 2669
+>enhancer of bithorax, isoform J [Drosophila melanogaster]
+Sequence ID: AGB93885.1 Length: 2669 
+Range 1: 339 to 391
+
+Score:61.2 bits(147), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>enhancer of bithorax, isoform B [Drosophila melanogaster]
+Sequence ID: NP_728505.1 Length: 2649
+>enhancer of bithorax, isoform B [Drosophila melanogaster]
+Sequence ID: AAF47361.2 Length: 2649 
+Range 1: 339 to 391
+
+Score:61.2 bits(147), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>enhancer of bithorax, isoform H [Drosophila melanogaster]
+Sequence ID: NP_001261188.1 Length: 2761
+>enhancer of bithorax, isoform H [Drosophila melanogaster]
+Sequence ID: AGB93883.1 Length: 2761 
+Range 1: 339 to 391
+
+Score:61.2 bits(147), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>IP08836p, partial [Drosophila melanogaster]
+Sequence ID: AAY51526.1 Length: 704
+>IP08936p, partial [Drosophila melanogaster]
+Sequence ID: AAY55558.1 Length: 704 
+Range 1: 339 to 383
+
+Score:60.5 bits(145), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:19/45(42%), Positives:30/45(66%), Gaps:0/45(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLC  383
+
+
+
+
+>enhancer of bithorax, isoform G [Drosophila melanogaster]
+Sequence ID: NP_001261187.1 Length: 2163
+>enhancer of bithorax, isoform G [Drosophila melanogaster]
+Sequence ID: AGB93882.1 Length: 2163 
+Range 1: 339 to 391
+
+Score:60.8 bits(146), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>enhancer of bithorax, isoform C [Drosophila melanogaster]
+Sequence ID: NP_995946.1 Length: 2159
+>enhancer of bithorax, isoform C [Drosophila melanogaster]
+Sequence ID: AAS64922.1 Length: 2159 
+Range 1: 339 to 391
+
+Score:60.8 bits(146), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>enhancer of bithorax, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001163305.1 Length: 2139
+>enhancer of bithorax, isoform F [Drosophila melanogaster]
+Sequence ID: ACZ94577.1 Length: 2139 
+Range 1: 339 to 391
+
+Score:60.8 bits(146), Expect:4e-09, 
+Method:Composition-based stats., 
+Identities:21/53(40%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            +D C VC   G+L+CC+ CP  +HL C+ PP+ ++P+  W+C  C    V  V
+Sbjct  339  DDHCRVCHRLGDLLCCETCPAVYHLECVDPPMNDVPTEDWQCGLCRSHKVSGV  391
+
+
+
+
+>toutatis, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001097270.1 Length: 3131
+>toutatis, isoform E [Drosophila melanogaster]
+Sequence ID: ABV53763.1 Length: 3131 
+Range 1: 2691 to 2742
+
+Score:56.6 bits(135), Expect:7e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/52(44%), Positives:30/52(57%), Gaps:5/52(9%)
+
+Query  295   NEDECAVCRDG-----GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+             NE +C VC        G++I CD CPRA+H  C  PPL ++P G W C  C+
+Sbjct  2691  NERKCIVCGGHRPSPVGKMIYCDLCPRAYHADCYIPPLLKVPRGKWYCHGCI  2742
+
+
+
+
+Range 2: 2641 to 2692
+
+Score:52.4 bits(124), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:18/52(35%), Positives:24/52(46%), Gaps:3/52(5%)
+
+Query  299   CAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+             C  C  G    +L+ CDGC + +H  C  P +  IP G W C  C+     E
+Sbjct  2641  CQFCTSGENEDKLLLCDGCDKGYHTYCFKPKMDNIPDGDWYCYECVNKATNE  2692
+
+
+
+
+>toutatis, isoform A [Drosophila melanogaster]
+Sequence ID: NP_523701.3 Length: 2999
+>toutatis, isoform A [Drosophila melanogaster]
+Sequence ID: AAF58638.3 Length: 2999 
+Range 1: 2559 to 2610
+
+Score:56.6 bits(135), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/52(44%), Positives:30/52(57%), Gaps:5/52(9%)
+
+Query  295   NEDECAVCRDG-----GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+             NE +C VC        G++I CD CPRA+H  C  PPL ++P G W C  C+
+Sbjct  2559  NERKCIVCGGHRPSPVGKMIYCDLCPRAYHADCYIPPLLKVPRGKWYCHGCI  2610
+
+
+
+
+Range 2: 2509 to 2560
+
+Score:52.4 bits(124), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:18/52(35%), Positives:24/52(46%), Gaps:3/52(5%)
+
+Query  299   CAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+             C  C  G    +L+ CDGC + +H  C  P +  IP G W C  C+     E
+Sbjct  2509  CQFCTSGENEDKLLLCDGCDKGYHTYCFKPKMDNIPDGDWYCYECVNKATNE  2560
+
+
+
+
+>toutatis, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001260898.1 Length: 3058
+>toutatis, isoform F [Drosophila melanogaster]
+Sequence ID: AGB93431.1 Length: 3058 
+Range 1: 2618 to 2669
+
+Score:56.6 bits(135), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/52(44%), Positives:30/52(57%), Gaps:5/52(9%)
+
+Query  295   NEDECAVCRDG-----GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+             NE +C VC        G++I CD CPRA+H  C  PPL ++P G W C  C+
+Sbjct  2618  NERKCIVCGGHRPSPVGKMIYCDLCPRAYHADCYIPPLLKVPRGKWYCHGCI  2669
+
+
+
+
+Range 2: 2567 to 2619
+
+Score:52.4 bits(124), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:18/53(34%), Positives:24/53(45%), Gaps:3/53(5%)
+
+Query  298   ECAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+              C  C  G    +L+ CDGC + +H  C  P +  IP G W C  C+     E
+Sbjct  2567  NCQFCTSGENEDKLLLCDGCDKGYHTYCFKPKMDNIPDGDWYCYECVNKATNE  2619
+
+
+
+
+>toutatis, isoform G [Drosophila melanogaster]
+Sequence ID: NP_001260899.1 Length: 3094
+>toutatis, isoform G [Drosophila melanogaster]
+Sequence ID: AGB93432.1 Length: 3094 
+Range 1: 2654 to 2705
+
+Score:56.6 bits(135), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/52(44%), Positives:30/52(57%), Gaps:5/52(9%)
+
+Query  295   NEDECAVCRDG-----GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+             NE +C VC        G++I CD CPRA+H  C  PPL ++P G W C  C+
+Sbjct  2654  NERKCIVCGGHRPSPVGKMIYCDLCPRAYHADCYIPPLLKVPRGKWYCHGCI  2705
+
+
+
+
+Range 2: 2603 to 2655
+
+Score:52.4 bits(124), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:18/53(34%), Positives:24/53(45%), Gaps:3/53(5%)
+
+Query  298   ECAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+              C  C  G    +L+ CDGC + +H  C  P +  IP G W C  C+     E
+Sbjct  2603  NCQFCTSGENEDKLLLCDGCDKGYHTYCFKPKMDNIPDGDWYCYECVNKATNE  2655
+
+
+
+
+>Toutatis [Drosophila melanogaster]
+Sequence ID: AAK00302.1 Length: 3109
+Range 1: 2640 to 2691
+
+Score:56.6 bits(135), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/52(44%), Positives:30/52(57%), Gaps:5/52(9%)
+
+Query  295   NEDECAVCRDG-----GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+             NE +C VC        G++I CD CPRA+H  C  PPL ++P G W C  C+
+Sbjct  2640  NERKCIVCGGHRPSPVGKMIYCDLCPRAYHADCYIPPLLKVPRGKWYCHGCI  2691
+
+
+
+
+Range 2: 2589 to 2641
+
+Score:52.4 bits(124), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:18/53(34%), Positives:24/53(45%), Gaps:3/53(5%)
+
+Query  298   ECAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+              C  C  G    +L+ CDGC + +H  C  P +  IP G W C  C+     E
+Sbjct  2589  NCQFCTSGENEDKLLLCDGCDKGYHTYCFKPKMDNIPDGDWYCYECVNKATNE  2641
+
+
+
+
+>LP06732p [Drosophila melanogaster]
+Sequence ID: AAK93471.1 Length: 683
+Range 1: 243 to 294
+
+Score:54.7 bits(130), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:23/52(44%), Positives:30/52(57%), Gaps:5/52(9%)
+
+Query  295  NEDECAVCRDG-----GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            NE +C VC        G++I CD CPRA+H  C  PPL ++P G W C  C+
+Sbjct  243  NERKCIVCGGHRPSPVGKMIYCDLCPRAYHADCYIPPLLKVPRGKWYCHGCI  294
+
+
+
+
+Range 2: 185 to 244
+
+Score:50.4 bits(119), Expect:4e-06, 
+Method:Compositional matrix adjust., 
+Identities:18/60(30%), Positives:27/60(45%), Gaps:0/60(0%)
+
+Query  288  DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+            D  + + N   C    +  +L+ CDGC + +H  C  P +  IP G W C  C+     E
+Sbjct  185  DKSIMKANCQFCTSGENEDKLLLCDGCDKGYHTYCFKPKMDNIPDGDWYCYECVNKATNE  244
+
+
+
+
+>uncharacterized protein Dmel_CG2926, isoform A [Drosophila melanogaster]
+Sequence ID: NP_649554.1 Length: 2296
+>uncharacterized protein Dmel_CG2926, isoform A [Drosophila melanogaster]
+Sequence ID: AAF52001.1 Length: 2296 
+Range 1: 246 to 304
+
+Score:55.1 bits(131), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:19/59(32%), Positives:33/59(55%), Gaps:3/59(5%)
+
+Query  298  ECAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAE  353
+             C +C        ++ CD C + +H+ CL PPL EIP+G+W C +C+ +  ++   + E
+Sbjct  246  NCEICESPDREDVMLLCDSCNQGYHMDCLDPPLYEIPAGSWYCDNCIDSDDEDDNEQLE  304
+
+
+
+
+>LD09942p, partial [Drosophila melanogaster]
+Sequence ID: AAR82791.1 Length: 1489
+>LD08594p, partial [Drosophila melanogaster]
+Sequence ID: AAT94510.1 Length: 1489 
+Range 1: 247 to 304
+
+Score:54.7 bits(130), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:19/58(33%), Positives:33/58(56%), Gaps:3/58(5%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAE  353
+            C +C        ++ CD C + +H+ CL PPL EIP+G+W C +C+ +  ++   + E
+Sbjct  247  CEICESPDREDVMLLCDSCNQGYHMDCLDPPLYEIPAGSWYCDNCIDSDDEDDNEQLE  304
+
+
+
+
+>uncharacterized protein Dmel_CG2926, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001262289.1 Length: 874
+>uncharacterized protein Dmel_CG2926, isoform B [Drosophila melanogaster]
+Sequence ID: AGB95672.1 Length: 874 
+Range 1: 239 to 304
+
+Score:54.3 bits(129), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:20/66(30%), Positives:36/66(54%), Gaps:3/66(4%)
+
+Query  291  LHQKNEDECAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+            L ++    C +C        ++ CD C + +H+ CL PPL EIP+G+W C +C+ +  ++
+Sbjct  239  LSEEEVTNCEICESPDREDVMLLCDSCNQGYHMDCLDPPLYEIPAGSWYCDNCIDSDDED  298
+
+Query  348  VQPRAE  353
+               + E
+Sbjct  299  DNEQLE  304
+
+
+
+
+>LD32807p, partial [Drosophila melanogaster]
+Sequence ID: AAX33535.1 Length: 1151
+Range 1: 1061 to 1112
+
+Score:53.5 bits(127), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:20/52(38%), Positives:30/52(57%), Gaps:3/52(5%)
+
+Query  295   NEDECAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+             N+  C VCR G +   ++ CD C    H+ CL P LR +P G W C+ C+++
+Sbjct  1061  NKSLCKVCRRGSDPEKMLLCDECNAGTHMFCLKPKLRSVPPGNWYCNDCVKS  1112
+
+
+
+
+>ATP-dependent chromatin assembly factor large subunit [Drosophila melanogaster]
+Sequence ID: AAD38952.1 Length: 1476
+Range 1: 1061 to 1112
+
+Score:53.1 bits(126), Expect:8e-07, 
+Method:Compositional matrix adjust., 
+Identities:20/52(38%), Positives:30/52(57%), Gaps:3/52(5%)
+
+Query  295   NEDECAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+             N+  C VCR G +   ++ CD C    H+ CL P LR +P G W C+ C+++
+Sbjct  1061  NKSLCKVCRRGSDPEKMLLCDECNAGTHMFCLKPKLRSVPPGNWYCNDCVKS  1112
+
+
+
+
+>ATP-dependent chromatin assembly factor large subunit [Drosophila melanogaster]
+Sequence ID: NP_536734.2 Length: 1476
+>ATP-dependent chromatin assembly factor large subunit [Drosophila melanogaster]
+Sequence ID: AAF57200.1 Length: 1476 
+Range 1: 1061 to 1112
+
+Score:53.1 bits(126), Expect:8e-07, 
+Method:Compositional matrix adjust., 
+Identities:20/52(38%), Positives:30/52(57%), Gaps:3/52(5%)
+
+Query  295   NEDECAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+             N+  C VCR G +   ++ CD C    H+ CL P LR +P G W C+ C+++
+Sbjct  1061  NKSLCKVCRRGSDPEKMLLCDECNAGTHMFCLKPKLRSVPPGNWYCNDCVKS  1112
+
+
+
+
+>chromatin accessibility complex (CHRAC) [Drosophila melanogaster]
+Sequence ID: CAB88669.1 Length: 1476
+Range 1: 1061 to 1112
+
+Score:53.1 bits(126), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:20/52(38%), Positives:30/52(57%), Gaps:3/52(5%)
+
+Query  295   NEDECAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+             N+  C VCR G +   ++ CD C    H+ CL P LR +P G W C+ C+++
+Sbjct  1061  NKSLCKVCRRGSDPEKMLLCDECNAGTHMFCLKPKLRSVPPGNWYCNDCVKS  1112
+
+
+
+
+>Solution NMR Structure of PHD Type 1 Zinc Finger Domain 1 of Lysine-specific Demethylase Lid from Drosophila melanogaster, Northeast Structural Genomics Consortium (NESG) Target FR824J [Drosophila melanogaster]
+Sequence ID: 2MIQ_A Length: 94
+Range 1: 4 to 94
+
+Score:47.4 bits(111), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:34/103(33%), Positives:45/103(43%), Gaps:15/103(14%)
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGG---  306
+            SG  PL  A G      G  + + G+      P AL  DP +       C +C  G    
+Sbjct  4    SGGSPL--ATGTTANTRGASQKKGGE------PPALIVDPLMKYI----CHICNRGDVEE  51
+
+Query  307  ELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQ  349
+             ++ CDGC  ++H  CL PPL  IP G W C  C+   V + Q
+Sbjct  52   SMLLCDGCDDSYHTFCLLPPLTSIPKGEWLCPRCVVEEVSKPQ  94
+
+
+
+
+>lost PHDs of trr, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001286792.1 Length: 1478
+>lost PHDs of trr, isoform B [Drosophila melanogaster]
+Sequence ID: AHN56587.1 Length: 1478 
+Range 1: 577 to 625
+
+Score:52.0 bits(123), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/49(39%), Positives:29/49(59%), Gaps:6/49(12%)
+
+Query  298  ECAVC------RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +C VC       D   L+ CD C  ++H+ C++PPL  +P+G W+CS C
+Sbjct  577  DCTVCEGCGKKNDEARLLLCDECDISYHIYCVNPPLETVPTGNWKCSFC  625
+
+
+
+
+Range 2: 252 to 302
+
+Score:40.0 bits(92), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:15/51(29%), Positives:27/51(52%), Gaps:4/51(7%)
+
+Query  298  ECAVCR----DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+            +C +CR    +  + + C+ C + +H +CL P +  IP   W+C+ C   T
+Sbjct  252  KCQICRQQDSNDTKYVKCEQCQKTYHASCLRPVISAIPKYGWKCNRCRVCT  302
+
+
+
+
+>lost PHDs of trr, isoform A [Drosophila melanogaster]
+Sequence ID: NP_611847.2 Length: 1482
+>lost PHDs of trr, isoform A [Drosophila melanogaster]
+Sequence ID: AAF47094.2 Length: 1482
+>HL01030p [Drosophila melanogaster]
+Sequence ID: ABC86508.1 Length: 1482 
+Range 1: 577 to 625
+
+Score:52.0 bits(123), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/49(39%), Positives:29/49(59%), Gaps:6/49(12%)
+
+Query  298  ECAVC------RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +C VC       D   L+ CD C  ++H+ C++PPL  +P+G W+CS C
+Sbjct  577  DCTVCEGCGKKNDEARLLLCDECDISYHIYCVNPPLETVPTGNWKCSFC  625
+
+
+
+
+Range 2: 252 to 302
+
+Score:40.4 bits(93), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:15/51(29%), Positives:27/51(52%), Gaps:4/51(7%)
+
+Query  298  ECAVCR----DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+            +C +CR    +  + + C+ C + +H +CL P +  IP   W+C+ C   T
+Sbjct  252  KCQICRQQDSNDTKYVKCEQCQKTYHASCLRPVISAIPKYGWKCNRCRVCT  302
+
+
+
+
+>lysine demethylase 5, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001245908.1 Length: 1838
+>lysine demethylase 5, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001245909.1 Length: 1838
+>lysine demethylase 5, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001245910.1 Length: 1838
+>lysine demethylase 5, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001285649.1 Length: 1838
+>lysine demethylase 5, isoform A [Drosophila melanogaster]
+Sequence ID: NP_523486.1 Length: 1838
+>lysine demethylase 5, isoform B [Drosophila melanogaster]
+Sequence ID: NP_723140.1 Length: 1838
+>RecName: Full=Lysine-specific demethylase 5; AltName: Full=Histone demethylase lid; AltName: Full=Jumonji/ARID domain-containing protein lid; AltName: Full=Protein little imaginal disks; Short=lid; AltName: Full=Retinoblastoma-binding protein 2 homolog; AltName: Full=[histone H3]-trimethyl-L-lysine(4) demethylase Kdm5 [Drosophila melanogaster]
+Sequence ID: Q9VMJ7.1 Length: 1838
+>lysine demethylase 5, isoform A [Drosophila melanogaster]
+Sequence ID: AAF52319.1 Length: 1838
+>LD40310p [Drosophila melanogaster]
+Sequence ID: AAM11379.1 Length: 1838
+>lysine demethylase 5, isoform B [Drosophila melanogaster]
+Sequence ID: AAN10569.1 Length: 1838
+>lysine demethylase 5, isoform C [Drosophila melanogaster]
+Sequence ID: AFH03582.1 Length: 1838 
+Range 1: 413 to 505
+
+Score:51.6 bits(122), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:38/114(33%), Positives:51/114(44%), Gaps:24/114(21%)
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGG--  306
+            +SG  PL  A G      G  + + G+      P AL  DP +       C +C  G   
+Sbjct  413  NSGGSPL--ATGTTANTRGASQKKGGE------PPALIVDPLMKYI----CHICNRGDVE  460
+
+Query  307  -ELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQE  359
+              ++ CDGC  ++H  CL PPL  IP G W C  C+   V+EV       +PQE
+Sbjct  461  ESMLLCDGCDDSYHTFCLLPPLTSIPKGEWLCPRCV---VEEV------SKPQE  505
+
+
+
+
+>d4, isoform C [Drosophila melanogaster]
+Sequence ID: NP_724404.1 Length: 495
+>d4, isoform C [Drosophila melanogaster]
+Sequence ID: AAF57339.1 Length: 495 
+Range 1: 443 to 489
+
+Score:50.8 bits(120), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/47(40%), Positives:29/47(61%), Gaps:3/47(6%)
+
+Query  299  CAVC---RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQ  342
+            C++C    +  +L+ CD C R +H+ CLSPPL   P G+W C  C++
+Sbjct  443  CSICGTSDNDDQLLFCDDCDRGYHMYCLSPPLVTPPEGSWSCKLCME  489
+
+
+
+
+>d4, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001260707.1 Length: 496
+>d4, isoform D [Drosophila melanogaster]
+Sequence ID: AGB93242.1 Length: 496 
+Range 1: 444 to 490
+
+Score:50.8 bits(120), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/47(40%), Positives:29/47(61%), Gaps:3/47(6%)
+
+Query  299  CAVC---RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQ  342
+            C++C    +  +L+ CD C R +H+ CLSPPL   P G+W C  C++
+Sbjct  444  CSICGTSDNDDQLLFCDDCDRGYHMYCLSPPLVTPPEGSWSCKLCME  490
+
+
+
+
+>d4, isoform A [Drosophila melanogaster]
+Sequence ID: NP_610163.1 Length: 497
+>d4, isoform A [Drosophila melanogaster]
+Sequence ID: AAF57340.2 Length: 497
+>LD29238p [Drosophila melanogaster]
+Sequence ID: AAL13829.1 Length: 497
+>dd4 protein [Drosophila melanogaster]
+Sequence ID: AAL18868.1 Length: 497 
+Range 1: 445 to 491
+
+Score:50.8 bits(120), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/47(40%), Positives:29/47(61%), Gaps:3/47(6%)
+
+Query  299  CAVC---RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQ  342
+            C++C    +  +L+ CD C R +H+ CLSPPL   P G+W C  C++
+Sbjct  445  CSICGTSDNDDQLLFCDDCDRGYHMYCLSPPLVTPPEGSWSCKLCME  491
+
+
+
+
+>d4, isoform B [Drosophila melanogaster]
+Sequence ID: NP_724405.2 Length: 339
+>d4, isoform B [Drosophila melanogaster]
+Sequence ID: AAM68376.2 Length: 339 
+Range 1: 287 to 333
+
+Score:49.3 bits(116), Expect:7e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/47(40%), Positives:29/47(61%), Gaps:3/47(6%)
+
+Query  299  CAVC---RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQ  342
+            C++C    +  +L+ CD C R +H+ CLSPPL   P G+W C  C++
+Sbjct  287  CSICGTSDNDDQLLFCDDCDRGYHMYCLSPPLVTPPEGSWSCKLCME  333
+
+
+
+
+>LD18949p [Drosophila melanogaster]
+Sequence ID: AAL39608.1 Length: 779
+Range 1: 718 to 768
+
+Score:47.0 bits(110), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:20/51(39%), Positives:28/51(54%), Gaps:6/51(11%)
+
+Query  296  EDECAVCRDGG---ELICCDGCPRAFHLACLSPPLREIPS---GTWRCSSC  340
+            E  C VC   G   +++ CD C R +H ACL PPL++ P     +W C+ C
+Sbjct  718  EISCCVCSQTGKSNQVVTCDECHRHYHFACLDPPLKKSPKIRGYSWHCADC  768
+
+
+
+
+Range 2: 358 to 406
+
+Score:42.0 bits(97), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:19/49(39%), Positives:26/49(53%), Gaps:7/49(14%)
+
+Query  299  CAVCR---DGGELICCDGCPRAFHLACLSPPLREIPSGT----WRCSSC  340
+            C +C+   D   L+ CD C   +HL CL+PPL   P  +    W+CS C
+Sbjct  358  CGICKRSKDQHLLVKCDTCNLHYHLGCLNPPLTRPPKKSKQYGWQCSEC  406
+
+
+
+
+>uncharacterized protein Dmel_CG15439 [Drosophila melanogaster]
+Sequence ID: NP_608836.1 Length: 1008
+>uncharacterized protein Dmel_CG15439 [Drosophila melanogaster]
+Sequence ID: AAF51010.1 Length: 1008
+>LD43150p [Drosophila melanogaster]
+Sequence ID: ABY21743.1 Length: 1008 
+Range 1: 947 to 997
+
+Score:45.8 bits(107), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:20/51(39%), Positives:28/51(54%), Gaps:6/51(11%)
+
+Query  296  EDECAVCRDGG---ELICCDGCPRAFHLACLSPPLREIPS---GTWRCSSC  340
+            E  C VC   G   +++ CD C R +H ACL PPL++ P     +W C+ C
+Sbjct  947  EISCCVCSQTGKSNQVVTCDECHRHYHFACLDPPLKKSPKIRGYSWHCADC  997
+
+
+
+
+Range 2: 587 to 635
+
+Score:40.8 bits(94), Expect:0.005, 
+Method:Compositional matrix adjust., 
+Identities:19/49(39%), Positives:26/49(53%), Gaps:7/49(14%)
+
+Query  299  CAVCR---DGGELICCDGCPRAFHLACLSPPLREIPSGT----WRCSSC  340
+            C +C+   D   L+ CD C   +HL CL+PPL   P  +    W+CS C
+Sbjct  587  CGICKRSKDQHLLVKCDTCNLHYHLGCLNPPLTRPPKKSKQYGWQCSEC  635
+
+
+
+
+>enhancer of yellow 3, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001259718.1 Length: 2006
+>enhancer of yellow 3, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001259721.1 Length: 2006
+>enhancer of yellow 3, isoform A [Drosophila melanogaster]
+Sequence ID: NP_608334.3 Length: 2006
+>RecName: Full=Supporter of activation of yellow protein; AltName: Full=Protein enhancer of yellow 3 [Drosophila melanogaster]
+Sequence ID: Q9VWF2.3 Length: 2006
+>enhancer of yellow 3, isoform A [Drosophila melanogaster]
+Sequence ID: AAF48990.3 Length: 2006
+>LD27440p [Drosophila melanogaster]
+Sequence ID: ACV44475.1 Length: 2006
+>enhancer of yellow 3, isoform B [Drosophila melanogaster]
+Sequence ID: AGB95558.1 Length: 2006
+>enhancer of yellow 3, isoform E [Drosophila melanogaster]
+Sequence ID: AGB95561.1 Length: 2006 
+Range 1: 1751 to 1793
+
+Score:43.9 bits(102), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:24/45(53%), Gaps:5/45(11%)
+
+Query  299   CAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C  CR     G+++ C+ C R +H+ CL   LR +P G W C  C
+Sbjct  1751  CIKCRSSQRPGKMLYCEQCDRGYHIYCLG--LRTVPDGRWSCERC  1793
+
+
+
+
+>enhancer of yellow 3, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001259720.1 Length: 2011
+>enhancer of yellow 3, isoform D [Drosophila melanogaster]
+Sequence ID: AGB95560.1 Length: 2011 
+Range 1: 1756 to 1798
+
+Score:43.9 bits(102), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:24/45(53%), Gaps:5/45(11%)
+
+Query  299   CAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C  CR     G+++ C+ C R +H+ CL   LR +P G W C  C
+Sbjct  1756  CIKCRSSQRPGKMLYCEQCDRGYHIYCLG--LRTVPDGRWSCERC  1798
+
+
+
+
+>enhancer of yellow 3, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001259719.1 Length: 2012
+>enhancer of yellow 3, isoform C [Drosophila melanogaster]
+Sequence ID: AGB95559.1 Length: 2012 
+Range 1: 1757 to 1799
+
+Score:43.9 bits(102), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:24/45(53%), Gaps:5/45(11%)
+
+Query  299   CAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C  CR     G+++ C+ C R +H+ CL   LR +P G W C  C
+Sbjct  1757  CIKCRSSQRPGKMLYCEQCDRGYHIYCLG--LRTVPDGRWSCERC  1799
+
+
+
+
+>LD10526p [Drosophila melanogaster]
+Sequence ID: AAM48352.1 Length: 1843
+Range 1: 1588 to 1630
+
+Score:43.9 bits(102), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:24/45(53%), Gaps:5/45(11%)
+
+Query  299   CAVCRDG---GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C  CR     G+++ C+ C R +H+ CL   LR +P G W C  C
+Sbjct  1588  CIKCRSSQRPGKMLYCEQCDRGYHIYCLG--LRTVPDGRWSCERC  1630
+
+
+
+
+>LD09043p [Drosophila melanogaster]
+Sequence ID: AAL28651.1 Length: 400
+Range 1: 1 to 36
+
+Score:43.1 bits(100), Expect:7e-04, 
+Method:Compositional matrix adjust., 
+Identities:14/36(39%), Positives:22/36(61%), Gaps:0/36(0%)
+
+Query  308  LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+            ++ CD C    H+ CL P LR +P G W C+ C+++
+Sbjct  1    MLLCDECNAGTHMFCLKPKLRSVPPGNWYCNDCVKS  36
+
+
+
+
+>nuclear receptor binding SET domain protein, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001263029.1 Length: 1423
+>nuclear receptor binding SET domain protein, isoform B [Drosophila melanogaster]
+Sequence ID: AGB96409.1 Length: 1423 
+Range 1: 998 to 1037
+
+Score:43.1 bits(100), Expect:8e-04, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:25/42(59%), Gaps:2/42(4%)
+
+Query  299   CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C +C  GGEL+CC+ CP A H  C + P++   + ++ C  C
+Sbjct  998   CYICVKGGELVCCETCPIAVHAHCRNIPIK--TNESYICEEC  1037
+
+
+
+
+>nuclear receptor binding SET domain protein, isoform A [Drosophila melanogaster]
+Sequence ID: NP_733239.1 Length: 1427
+>RecName: Full=Nuclear receptor binding SET domain protein; AltName: Full=Maternal-effect sterile 4 homolog; AltName: Full=Probable histone-lysine N-methyltransferase Mes-4 [Drosophila melanogaster]
+Sequence ID: Q8MT36.2 Length: 1427
+>nuclear receptor binding SET domain protein, isoform A [Drosophila melanogaster]
+Sequence ID: AAF56762.2 Length: 1427
+>FI01019p [Drosophila melanogaster]
+Sequence ID: ABF17912.1 Length: 1427 
+Range 1: 1002 to 1041
+
+Score:43.1 bits(100), Expect:9e-04, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:25/42(59%), Gaps:2/42(4%)
+
+Query  299   CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C +C  GGEL+CC+ CP A H  C + P++   + ++ C  C
+Sbjct  1002  CYICVKGGELVCCETCPIAVHAHCRNIPIK--TNESYICEEC  1041
+
+
+
+
+>RE61305p [Drosophila melanogaster]
+Sequence ID: AAM48433.1 Length: 1016
+Range 1: 591 to 630
+
+Score:42.4 bits(98), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:25/42(59%), Gaps:2/42(4%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C +C  GGEL+CC+ CP A H  C + P++   + ++ C  C
+Sbjct  591  CYICVKGGELVCCETCPIAVHAHCRNIPIK--TNESYICEEC  630
+
+
+
+
+>rhinoceros, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001246528.1 Length: 3241
+>rhinoceros, isoform C [Drosophila melanogaster]
+Sequence ID: NP_612007.2 Length: 3241
+>rhinoceros, isoform B [Drosophila melanogaster]
+Sequence ID: NP_995944.1 Length: 3241
+>RecName: Full=PHD finger protein rhinoceros [Drosophila melanogaster]
+Sequence ID: Q7YZH1.1 Length: 3241
+>rhinoceros, isoform C [Drosophila melanogaster]
+Sequence ID: AAF47343.2 Length: 3241
+>PHD zinc finger protein rhinoceros [Drosophila melanogaster]
+Sequence ID: AAP84718.1 Length: 3241
+>rhinoceros, isoform B [Drosophila melanogaster]
+Sequence ID: AAS64921.1 Length: 3241
+>rhinoceros, isoform D [Drosophila melanogaster]
+Sequence ID: AFH04199.1 Length: 3241 
+Range 1: 315 to 359
+
+Score:42.0 bits(97), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:18/47(38%), Positives:23/47(48%), Gaps:7/47(14%)
+
+Query  299  CAVCR-----DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VCR     +  E++ CD C    H AC    +  IPSG W C +C
+Sbjct  315  CDVCRSPDSEEANEMVFCDNCNICVHQACYG--ITAIPSGQWLCRTC  359
+
+
+
+
+>Bromodomain-containing protein, 140kD, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001286155.1 Length: 1430
+>Bromodomain-containing protein, 140kD, isoform A [Drosophila melanogaster]
+Sequence ID: NP_610266.1 Length: 1430
+>RecName: Full=Bromodomain-containing protein homolog; AltName: Full=Protein Br140 [Drosophila melanogaster]
+Sequence ID: Q7JVP4.1 Length: 1430
+>Bromodomain-containing protein, 140kD, isoform A [Drosophila melanogaster]
+Sequence ID: AAF59276.1 Length: 1430
+>GH12223p [Drosophila melanogaster]
+Sequence ID: AAM50638.1 Length: 1430
+>Bromodomain-containing protein, 140kD, isoform B [Drosophila melanogaster]
+Sequence ID: AHN55953.1 Length: 1430 
+Range 1: 286 to 333
+
+Score:40.8 bits(94), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:19/50(38%), Positives:23/50(46%), Gaps:7/50(14%)
+
+Query  299  CAVCRDG-----GELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+            C +C DG       ++ CD C  A H  C   P   IP G W C  CLQ+
+Sbjct  286  CCICLDGECQNTNVILFCDMCNLAVHQDCYGVPY--IPEGQWLCRRCLQS  333
+
+
+
+
+>MIP14416p, partial [Drosophila melanogaster]
+Sequence ID: ADC41872.1 Length: 1149
+Range 1: 274 to 318
+
+Score:40.4 bits(93), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:18/47(38%), Positives:23/47(48%), Gaps:7/47(14%)
+
+Query  299  CAVCR-----DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C VCR     +  E++ CD C    H AC    +  IPSG W C +C
+Sbjct  274  CDVCRSPDSEEANEMVFCDNCNICVHQACYG--ITAIPSGQWLCRTC  318
+
+
+
+
+>LD19244p, partial [Drosophila melanogaster]
+Sequence ID: AAN71231.1 Length: 607
+Range 1: 229 to 268
+
+Score:40.0 bits(92), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:16/40(40%), Positives:22/40(55%), Gaps:2/40(5%)
+
+Query  308  LICCDG--CPRAFHLACLSPPLREIPSGTWRCSSCLQATV  345
+            ++ CD   C + +H +CLSP L  IP G W C  C Q  +
+Sbjct  229  ILLCDTPTCNKGYHCSCLSPVLFYIPEGDWHCPPCQQEQL  268
+
+
+
+
+>uncharacterized protein Dmel_CG8677, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001286123.1 Length: 2663
+>uncharacterized protein Dmel_CG8677, isoform B [Drosophila melanogaster]
+Sequence ID: NP_610101.3 Length: 2663
+>uncharacterized protein Dmel_CG8677, isoform B [Drosophila melanogaster]
+Sequence ID: AAF53983.3 Length: 2663
+>uncharacterized protein Dmel_CG8677, isoform C [Drosophila melanogaster]
+Sequence ID: AHN54637.1 Length: 2663 
+Range 1: 1385 to 1421
+
+Score:40.0 bits(92), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:16/37(43%), Positives:21/37(56%), Gaps:2/37(5%)
+
+Query  308   LICCDG--CPRAFHLACLSPPLREIPSGTWRCSSCLQ  342
+             ++ CD   C + +H +CLSP L  IP G W C  C Q
+Sbjct  1385  ILLCDTPTCNKGYHCSCLSPVLFYIPEGDWHCPPCQQ  1421
+
+
+
+
+>RE53824p [Drosophila melanogaster]
+Sequence ID: AAO24950.1 Length: 1199
+Range 1: 117 to 164
+
+Score:40.0 bits(92), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:16/48(33%), Positives:22/48(45%), Gaps:6/48(12%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLRE------IPSGTWRCSSC  340
+            C  C  GGE+ CC  CP  F+ +C+   L +        +  W C SC
+Sbjct  117  CRWCGQGGEVYCCSTCPYVFYKSCIVKNLSKGVIVDIEQNENWNCFSC  164
+
+
+
+
+
+
+
+		
+
+

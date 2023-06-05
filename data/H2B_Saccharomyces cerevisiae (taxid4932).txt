@@ -1,0 +1,1161 @@
+RID: 7U5G155Y016	
+Job Title:NP_001368918.1 H2BC4 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347] Query ID: lcl|Query_37769 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Chain u, Histone H2B [Saccharomyces cerevisiae]                   Saccharomyce... baker's yeast   4932       240    240   99%   2e-82 92.80  125        8CEO_u           
+BGN_3a_G0010630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       185    185   96%   2e-60 72.13  133        CAI4343321.1     
+histone H2B [Saccharomyces cerevisiae]                            Saccharomyce... baker's yeast   4932       182    182   96%   1e-59 72.95  130        KAJ1542238.1     
+BAQ_1a_G0010890.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       182    182   96%   2e-59 72.95  131        CAI4353977.1     
+histone H2B [Saccharomyces cerevisiae]                            Saccharomyce... baker's yeast   4932       181    181   96%   7e-59 72.13  131        PTN30871.1       
+Chain D, Histone H2B.1 [Saccharomyces cerevisiae S288C]           Saccharomyce... NA              559292     181    181   96%   7e-59 72.13  130        7SSA_D           
+BEM_HP_G0145600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       181    181   96%   8e-59 72.13  131        CAI4951677.1     
+Htb1p [Saccharomyces cerevisiae YJM1574]                          Saccharomyce... NA              1294386    181    181   96%   8e-59 72.13  132        AJV19600.1       
+histone H2B [Saccharomyces cerevisiae S288C]                      Saccharomyce... NA              559292     181    181   96%   8e-59 72.13  131        NP_010510.3      
+Htb1p [Saccharomyces cerevisiae Lalvin QA23]                      Saccharomyce... NA              764098     181    181   96%   8e-59 72.13  132        EGA83477.1       
+Chain d, Histone H2B [Saccharomyces cerevisiae]                   Saccharomyce... baker's yeast   4932       180    180   96%   1e-58 72.13  133        7ON1_d           
+histone chaperone Hif1 playing with histone H2A-H2B dimer...      Saccharomyce... NA              559292     180    180   96%   1e-58 72.13  142        5BT1_D           
+AFH_G0010930.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       179    179   96%   2e-58 71.31  131        CAI4873668.1     
+BDN_1c_G0001900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       179    179   96%   3e-58 73.17  132        CAI4252404.1     
+histone H2B [Saccharomyces cerevisiae S288C]                      Saccharomyce... NA              559292     179    179   96%   4e-58 73.17  131        NP_009553.1      
+Crystal Structure Of The Yeast Nucleosome Core Particle Reveal... Saccharomyce... baker's yeast   4932       179    179   96%   4e-58 73.17  130        1ID3_D           
+HTB1 [Saccharomyces cerevisiae]                                   Saccharomyce... baker's yeast   4932       178    178   96%   5e-58 71.31  131        KZV12462.1       
+Htb2p [Saccharomyces cerevisiae YJM693]                           Saccharomyce... NA              1294322    178    178   96%   5e-58 73.17  131        AJP91098.1       
+ANM_HP_G0144120.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       178    178   96%   5e-58 73.17  131        CAI4975269.1     
+ANL_HP_G0202940.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       172    172   96%   2e-55 71.31  133        CAI4932308.1     
+SPT16-H2A-H2B FACT HISTONE Complex [Saccharomyces cerevisiae...   Saccharomyce... NA              559292     168    168   77%   2e-54 79.59  102        4WNN_B           
+Chain h, Histone H2B.1 [Saccharomyces cerevisiae S288C]           Saccharomyce... NA              559292     162    162   73%   5e-52 80.65  94         6QLD_h           
+Chain d, Histone H2B.2 [Saccharomyces cerevisiae S288C]           Saccharomyce... NA              559292     162    162   73%   6e-52 81.52  93         6QLD_d           
+Chain A, Histone H2B,Histone H2A [Saccharomyces cerevisiae...     Saccharomyce... NA              285006     160    160   73%   7e-50 81.52  208        7DLX_A           
+Crystal structure of yeast Swr1-Z domain in complex with...       Saccharomyce... NA              559292     157    157   70%   1e-48 82.02  193        4M6B_A           
+Chain A, Chimera of Histone H2B.1 and Histone H2A.Z...            Saccharomyce... baker's yeast   4932       157    157   70%   1e-48 82.02  192        2JSS_A           
+
+
+Alignments:
+
+>Chain u, Histone H2B [Saccharomyces cerevisiae]
+Sequence ID: 8CEO_u Length: 125
+>Chain y, Histone H2B [Saccharomyces cerevisiae]
+Sequence ID: 8CEO_y Length: 125 
+Range 1: 1 to 125
+
+Score:240 bits(613), Expect:2e-82, 
+Method:Compositional matrix adjust., 
+Identities:116/125(93%), Positives:123/125(98%), Gaps:0/125(0%)
+
+Query  2    PEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMG  61
+            PEPAKSAPAPKKGSKKAVTK QKKDGKKR+++RKESY++YVYKVLKQVHPDTGISSKAM 
+Sbjct  1    PEPAKSAPAPKKGSKKAVTKTQKKDGKKRRKTRKESYAIYVYKVLKQVHPDTGISSKAMS  60
+
+Query  62   IMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  121
+            IMNSFVND+FERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK
+Sbjct  61   IMNSFVNDVFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK  120
+
+Query  122  YTSSK  126
+            YTS+K
+Sbjct  121  YTSAK  125
+
+
+
+
+>BGN_3a_G0010630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4343321.1 Length: 133
+>ANL_HP_G0131530.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5180267.1 Length: 133
+>BFH_HP2_G0010390.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5249898.1 Length: 133
+>BFH_HP2_G0010390.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6434549.1 Length: 133
+>BFH_HP1_G0010620.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6438597.1 Length: 133 
+Range 1: 9 to 130
+
+Score:185 bits(469), Expect:2e-60, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:0/122(0%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTSTSTDGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  68
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  69   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  128
+
+Query  124  SS  125
+            SS
+Sbjct  129  SS  130
+
+
+
+
+>histone H2B [Saccharomyces cerevisiae]
+Sequence ID: KAJ1542238.1 Length: 130
+Range 1: 9 to 127
+
+Score:182 bits(463), Expect:1e-59, 
+Method:Compositional matrix adjust., 
+Identities:89/122(73%), Positives:103/122(84%), Gaps:3/122(2%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA K  +KK  T     DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKPAAKKTSTST---DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  65
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  66   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  125
+
+Query  124  SS  125
+            SS
+Sbjct  126  SS  127
+
+
+
+
+>BAQ_1a_G0010890.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4353977.1 Length: 131
+>BAM_G0019900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4519460.1 Length: 131
+>BAQ_1a_G0010890.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7076221.1 Length: 131
+>BAM_G0019900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7136480.1 Length: 131 
+Range 1: 9 to 128
+
+Score:182 bits(461), Expect:2e-59, 
+Method:Compositional matrix adjust., 
+Identities:89/122(73%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR R+RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTST--DGKKRSRARKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>histone H2B [Saccharomyces cerevisiae]
+Sequence ID: PTN30871.1 Length: 131
+Range 1: 9 to 128
+
+Score:181 bits(458), Expect:7e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTST--DGKKRSKTRKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>Chain D, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7SSA_D Length: 130
+>Chain H, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7SSA_H Length: 130 
+Range 1: 8 to 127
+
+Score:181 bits(458), Expect:7e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  8    PASKAPAEKKPAAKKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  65
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  66   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  125
+
+Query  124  SS  125
+            SS
+Sbjct  126  SS  127
+
+
+
+
+>BEM_HP_G0145600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4951677.1 Length: 131
+>BEM_HP_G0101990.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5203348.1 Length: 131
+>BEM_HP_G0145600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6619691.1 Length: 131
+>BEM_HP_G0101990.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7008113.1 Length: 131
+>BEM_collapsed_G0011210.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7076332.1 Length: 131 
+Range 1: 9 to 128
+
+Score:181 bits(458), Expect:8e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>Htb1p [Saccharomyces cerevisiae YJM1574]
+Sequence ID: AJV19600.1 Length: 132
+>Htb1p [Saccharomyces cerevisiae EC1118]
+Sequence ID: CAY78724.1 Length: 132 
+Range 1: 9 to 128
+
+Score:181 bits(458), Expect:8e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>histone H2B [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_010510.3 Length: 131
+>RecName: Full=Histone H2B.1; AltName: Full=Suppressor of Ty protein 12 [Saccharomyces cerevisiae S288C]
+Sequence ID: P02293.2 Length: 131
+>Chain D, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 4KUD_D Length: 131
+>Chain H, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 4KUD_H Length: 131
+>Chromatin remodeller-nucleosome complex at 3.6 A resolution. [Saccharomyces cerevisiae S288C]
+Sequence ID: 6GEJ_G Length: 131
+>Chromatin remodeller-nucleosome complex at 3.6 A resolution. [Saccharomyces cerevisiae S288C]
+Sequence ID: 6GEJ_H Length: 131
+>Chromatin remodeller-nucleosome complex at 4.5 A resolution. [Saccharomyces cerevisiae S288C]
+Sequence ID: 6GEN_G Length: 131
+>Chromatin remodeller-nucleosome complex at 4.5 A resolution. [Saccharomyces cerevisiae S288C]
+Sequence ID: 6GEN_H Length: 131
+>Chain D, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7K78_D Length: 131
+>Chain H, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7K78_H Length: 131
+>Chain D, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7K7G_D Length: 131
+>Chain H, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7K7G_H Length: 131
+>histone H2B-1 [Saccharomyces cerevisiae]
+Sequence ID: AAA88719.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM993]
+Sequence ID: AHY75205.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1078]
+Sequence ID: AJP37933.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM189]
+Sequence ID: AJU58055.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM193]
+Sequence ID: AJU58749.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM195]
+Sequence ID: AJU59443.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM244]
+Sequence ID: AJU60157.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM248]
+Sequence ID: AJU60812.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM270]
+Sequence ID: AJU61507.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM271]
+Sequence ID: AJU62220.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM320]
+Sequence ID: AJU62915.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM326]
+Sequence ID: AJU63619.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM428]
+Sequence ID: AJU64307.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM450]
+Sequence ID: AJU65016.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM451]
+Sequence ID: AJU65734.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM453]
+Sequence ID: AJU66453.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM456]
+Sequence ID: AJU67132.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM470]
+Sequence ID: AJU67846.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM541]
+Sequence ID: AJU68560.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM554]
+Sequence ID: AJU69253.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM555]
+Sequence ID: AJU69952.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM627]
+Sequence ID: AJU70660.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM681]
+Sequence ID: AJU71347.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM682]
+Sequence ID: AJU72061.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM683]
+Sequence ID: AJU72769.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM689]
+Sequence ID: AJU73482.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM693]
+Sequence ID: AJU74194.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM969]
+Sequence ID: AJU74912.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM972]
+Sequence ID: AJU75618.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM975]
+Sequence ID: AJU76326.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM978]
+Sequence ID: AJU77036.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM981]
+Sequence ID: AJU77747.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM984]
+Sequence ID: AJU78459.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM987]
+Sequence ID: AJU79170.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM990]
+Sequence ID: AJU79882.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM996]
+Sequence ID: AJU80481.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1083]
+Sequence ID: AJU81179.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1129]
+Sequence ID: AJU81872.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1190]
+Sequence ID: AJU83150.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1199]
+Sequence ID: AJU83859.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1202]
+Sequence ID: AJU84575.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1208]
+Sequence ID: AJU85287.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1242]
+Sequence ID: AJU85987.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1244]
+Sequence ID: AJU86688.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1248]
+Sequence ID: AJU87336.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1250]
+Sequence ID: AJU88007.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1252]
+Sequence ID: AJU88709.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1273]
+Sequence ID: AJU89402.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1304]
+Sequence ID: AJU90113.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1307]
+Sequence ID: AJU90831.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1311]
+Sequence ID: AJU91551.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1326]
+Sequence ID: AJU92257.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1332]
+Sequence ID: AJU92981.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1336]
+Sequence ID: AJU93699.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1338]
+Sequence ID: AJU94402.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1341]
+Sequence ID: AJU95102.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1342]
+Sequence ID: AJU95799.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1355]
+Sequence ID: AJU96504.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1356]
+Sequence ID: AJU97209.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1381]
+Sequence ID: AJU97906.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1383]
+Sequence ID: AJU98619.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1385]
+Sequence ID: AJU99320.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1386]
+Sequence ID: AJV00016.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1387]
+Sequence ID: AJV00729.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1388]
+Sequence ID: AJV01441.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1389]
+Sequence ID: AJV02153.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1399]
+Sequence ID: AJV02857.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1400]
+Sequence ID: AJV03527.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1401]
+Sequence ID: AJV04232.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1402]
+Sequence ID: AJV04946.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1415]
+Sequence ID: AJV05665.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1417]
+Sequence ID: AJV06370.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1418]
+Sequence ID: AJV07072.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1419]
+Sequence ID: AJV07774.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1433]
+Sequence ID: AJV08473.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1434]
+Sequence ID: AJV09156.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1439]
+Sequence ID: AJV09862.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1443]
+Sequence ID: AJV10562.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1444]
+Sequence ID: AJV11210.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1447]
+Sequence ID: AJV11908.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1460]
+Sequence ID: AJV13249.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1463]
+Sequence ID: AJV13958.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1477]
+Sequence ID: AJV14627.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1478]
+Sequence ID: AJV15334.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1479]
+Sequence ID: AJV16040.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1526]
+Sequence ID: AJV16755.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1527]
+Sequence ID: AJV17457.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1549]
+Sequence ID: AJV18168.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1573]
+Sequence ID: AJV18880.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1592]
+Sequence ID: AJV20298.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae YJM1615]
+Sequence ID: AJV21013.1 Length: 131
+>histone H2B [Saccharomyces cerevisiae YJM789]
+Sequence ID: EDN60558.1 Length: 131
+>histone H2B [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: EDV08092.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae JAY291]
+Sequence ID: EEU05241.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae FostersB]
+Sequence ID: EGA59294.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae FostersO]
+Sequence ID: EGA62972.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae AWRI796]
+Sequence ID: EGA75485.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae Vin13]
+Sequence ID: EGA79407.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae VL3]
+Sequence ID: EGA87472.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae CEN.PK113-7D]
+Sequence ID: EIW11429.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae R008]
+Sequence ID: EWG87254.1 Length: 131
+>Htb1p [Saccharomyces cerevisiae R103]
+Sequence ID: EWG97169.1 Length: 131
+>histone H2B [Saccharomyces cerevisiae PE-2]
+Sequence ID: CAE6466172.1 Length: 131
+>K7_Htb1p [Saccharomyces cerevisiae Kyokai no. 7]
+Sequence ID: GAA22451.1 Length: 131 
+Range 1: 9 to 128
+
+Score:181 bits(458), Expect:8e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>Htb1p [Saccharomyces cerevisiae Lalvin QA23]
+Sequence ID: EGA83477.1 Length: 132
+Range 1: 9 to 128
+
+Score:181 bits(458), Expect:8e-59, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>Chain d, Histone H2B [Saccharomyces cerevisiae]
+Sequence ID: 7ON1_d Length: 133
+>Chain h, Histone H2B [Saccharomyces cerevisiae]
+Sequence ID: 7ON1_h Length: 133 
+Range 1: 11 to 130
+
+Score:180 bits(457), Expect:1e-58, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  11   PASKAPAEKKPAAKKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  68
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  69   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  128
+
+Query  124  SS  125
+            SS
+Sbjct  129  SS  130
+
+
+
+
+>histone chaperone Hif1 playing with histone H2A-H2B dimer [Saccharomyces cerevisiae S288C]
+Sequence ID: 5BT1_D Length: 142
+Range 1: 20 to 139
+
+Score:180 bits(457), Expect:1e-58, 
+Method:Compositional matrix adjust., 
+Identities:88/122(72%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  20   PASKAPAEKKPAAKKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  77
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  78   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  137
+
+Query  124  SS  125
+            SS
+Sbjct  138  SS  139
+
+
+
+
+>AFH_G0010930.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4873668.1 Length: 131
+>AFH_G0010930.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6567437.1 Length: 131 
+Range 1: 9 to 128
+
+Score:179 bits(455), Expect:2e-58, 
+Method:Compositional matrix adjust., 
+Identities:87/122(71%), Positives:104/122(85%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + +  + +   DGKKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAARKTSTST--DGKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>BDN_1c_G0001900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4252404.1 Length: 132
+>BDN_1c_G0001900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7040400.1 Length: 132 
+Range 1: 10 to 129
+
+Score:179 bits(454), Expect:3e-58, 
+Method:Compositional matrix adjust., 
+Identities:90/123(73%), Positives:103/123(83%), Gaps:4/123(3%)
+
+Query  4    PAKSAPAPKK-GSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            PA  APA KK  +KK  T     DGKKR + RKE+YS Y+YKVLKQ HPDTGIS K+M I
+Sbjct  10   PASKAPAEKKPAAKKTSTSV---DGKKRSKVRKETYSSYIYKVLKQTHPDTGISQKSMSI  66
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            +NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY
+Sbjct  67   LNSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKY  126
+
+Query  123  TSS  125
+            +SS
+Sbjct  127  SSS  129
+
+
+
+
+>histone H2B [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009553.1 Length: 131
+>RecName: Full=Histone H2B.2 [Saccharomyces cerevisiae S288C]
+Sequence ID: P02294.2 Length: 131
+>Chain D, Histone H2B.2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7E9C_D Length: 131
+>Chain H, Histone H2B.2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7E9C_H Length: 131
+>Chain D, Histone H2B.2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7E9F_D Length: 131
+>Chain H, Histone H2B.2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7E9F_H Length: 131
+>YBL002W [Saccharomyces cerevisiae]
+Sequence ID: AAT93082.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM993]
+Sequence ID: AHY74485.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1078]
+Sequence ID: AJP37087.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1402]
+Sequence ID: AJP81979.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1415]
+Sequence ID: AJP82369.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1417]
+Sequence ID: AJP82757.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1418]
+Sequence ID: AJP83150.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1419]
+Sequence ID: AJP83535.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1433]
+Sequence ID: AJP83912.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1434]
+Sequence ID: AJP84297.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1439]
+Sequence ID: AJP84684.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1443]
+Sequence ID: AJP85067.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1444]
+Sequence ID: AJP85442.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1447]
+Sequence ID: AJP85825.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1450]
+Sequence ID: AJP86201.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1460]
+Sequence ID: AJP86583.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1463]
+Sequence ID: AJP86967.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1477]
+Sequence ID: AJP87353.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1479]
+Sequence ID: AJP88091.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1526]
+Sequence ID: AJP88472.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1527]
+Sequence ID: AJP88861.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1549]
+Sequence ID: AJP89247.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1573]
+Sequence ID: AJP89623.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1574]
+Sequence ID: AJP90011.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1592]
+Sequence ID: AJP90330.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1615]
+Sequence ID: AJP90715.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM969]
+Sequence ID: AJP91486.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM972]
+Sequence ID: AJP91873.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM975]
+Sequence ID: AJP92263.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM978]
+Sequence ID: AJP92651.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM981]
+Sequence ID: AJP93040.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM984]
+Sequence ID: AJP93430.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM987]
+Sequence ID: AJP93819.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM990]
+Sequence ID: AJP94209.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM996]
+Sequence ID: AJP94600.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1083]
+Sequence ID: AJP94989.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1129]
+Sequence ID: AJP95374.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1133]
+Sequence ID: AJP95763.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1190]
+Sequence ID: AJP96150.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1199]
+Sequence ID: AJP96531.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1202]
+Sequence ID: AJP96917.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1208]
+Sequence ID: AJP97300.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1242]
+Sequence ID: AJP97686.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1244]
+Sequence ID: AJP98073.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1248]
+Sequence ID: AJP98459.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1250]
+Sequence ID: AJP98845.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM189]
+Sequence ID: AJP99233.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM193]
+Sequence ID: AJP99623.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM195]
+Sequence ID: AJQ00007.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM244]
+Sequence ID: AJQ00391.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM248]
+Sequence ID: AJQ00780.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM270]
+Sequence ID: AJQ01164.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM271]
+Sequence ID: AJQ01548.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM320]
+Sequence ID: AJQ01934.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM326]
+Sequence ID: AJQ02322.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM428]
+Sequence ID: AJQ02712.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM450]
+Sequence ID: AJQ03089.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM451]
+Sequence ID: AJQ03470.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM456]
+Sequence ID: AJQ04202.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM470]
+Sequence ID: AJQ04588.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM541]
+Sequence ID: AJQ04969.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM554]
+Sequence ID: AJQ05355.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM555]
+Sequence ID: AJQ05741.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM627]
+Sequence ID: AJQ06125.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM681]
+Sequence ID: AJQ06514.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM682]
+Sequence ID: AJQ06878.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM683]
+Sequence ID: AJQ07261.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM689]
+Sequence ID: AJQ07648.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1252]
+Sequence ID: AJQ08034.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1273]
+Sequence ID: AJQ08418.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1304]
+Sequence ID: AJQ08805.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1307]
+Sequence ID: AJQ09191.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1311]
+Sequence ID: AJQ09575.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1326]
+Sequence ID: AJQ09963.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1332]
+Sequence ID: AJQ10350.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1338]
+Sequence ID: AJQ11085.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1341]
+Sequence ID: AJQ11471.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1342]
+Sequence ID: AJQ11857.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1355]
+Sequence ID: AJQ12237.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1356]
+Sequence ID: AJQ12619.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1381]
+Sequence ID: AJQ13006.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1383]
+Sequence ID: AJQ13391.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1385]
+Sequence ID: AJQ13778.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1386]
+Sequence ID: AJQ14162.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1387]
+Sequence ID: AJQ14547.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1388]
+Sequence ID: AJQ14922.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1389]
+Sequence ID: AJQ15299.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1399]
+Sequence ID: AJQ15687.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1400]
+Sequence ID: AJQ16067.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae YJM1401]
+Sequence ID: AJQ16436.1 Length: 131
+>histone H2B [Saccharomyces cerevisiae YJM789]
+Sequence ID: EDN64615.1 Length: 131
+>histone H2B [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: EDV12094.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae JAY291]
+Sequence ID: EEU08146.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae FostersB]
+Sequence ID: EGA59799.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae AWRI796]
+Sequence ID: EGA75874.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae Vin13]
+Sequence ID: EGA80031.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae Lalvin QA23]
+Sequence ID: EGA84032.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae VL3]
+Sequence ID: EGA88080.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae CEN.PK113-7D]
+Sequence ID: EIW12307.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae R008]
+Sequence ID: EWG87589.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae P301]
+Sequence ID: EWG92376.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae R103]
+Sequence ID: EWG97601.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae P283]
+Sequence ID: EWH19419.1 Length: 131
+>histone H2B [Saccharomyces cerevisiae PE-2]
+Sequence ID: CAE6453136.1 Length: 131
+>Htb2p [Saccharomyces cerevisiae EC1118]
+Sequence ID: CAY77785.1 Length: 131
+>K7_Htb2p [Saccharomyces cerevisiae Kyokai no. 7]
+Sequence ID: GAA21550.1 Length: 131 
+Range 1: 9 to 128
+
+Score:179 bits(453), Expect:4e-58, 
+Method:Compositional matrix adjust., 
+Identities:90/123(73%), Positives:103/123(83%), Gaps:4/123(3%)
+
+Query  4    PAKSAPAPKK-GSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            PA  APA KK  +KK  T     DGKKR + RKE+YS Y+YKVLKQ HPDTGIS K+M I
+Sbjct  9    PASKAPAEKKPAAKKTSTSV---DGKKRSKVRKETYSSYIYKVLKQTHPDTGISQKSMSI  65
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            +NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY
+Sbjct  66   LNSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKY  125
+
+Query  123  TSS  125
+            +SS
+Sbjct  126  SSS  128
+
+
+
+
+>Crystal Structure Of The Yeast Nucleosome Core Particle Reveals Fundamental Differences In Inter-Nucleosome Interactions [Saccharomyces cerevisiae]
+Sequence ID: 1ID3_D Length: 130
+>Crystal Structure Of The Yeast Nucleosome Core Particle Reveals Fundamental Differences In Inter-Nucleosome Interactions [Saccharomyces cerevisiae]
+Sequence ID: 1ID3_H Length: 130
+>Crystal structure of heterochromatin protein Sir3 in complex with a silenced yeast nucleosome [Saccharomyces cerevisiae S288C]
+Sequence ID: 4JJN_D Length: 130
+>Crystal structure of heterochromatin protein Sir3 in complex with a silenced yeast nucleosome [Saccharomyces cerevisiae S288C]
+Sequence ID: 4JJN_H Length: 130 
+Range 1: 8 to 127
+
+Score:179 bits(453), Expect:4e-58, 
+Method:Compositional matrix adjust., 
+Identities:90/123(73%), Positives:103/123(83%), Gaps:4/123(3%)
+
+Query  4    PAKSAPAPKK-GSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            PA  APA KK  +KK  T     DGKKR + RKE+YS Y+YKVLKQ HPDTGIS K+M I
+Sbjct  8    PASKAPAEKKPAAKKTSTSV---DGKKRSKVRKETYSSYIYKVLKQTHPDTGISQKSMSI  64
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            +NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY
+Sbjct  65   LNSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKY  124
+
+Query  123  TSS  125
+            +SS
+Sbjct  125  SSS  127
+
+
+
+
+>HTB1 [Saccharomyces cerevisiae]
+Sequence ID: KZV12462.1 Length: 131
+>CNB_1a_G0010780.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4341294.1 Length: 131
+>BCN_G0011160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4348538.1 Length: 131
+>BCE_3a_G0010970.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4358839.1 Length: 131
+>BCN_G0011160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7076014.1 Length: 131 
+Range 1: 9 to 128
+
+Score:178 bits(452), Expect:5e-58, 
+Method:Compositional matrix adjust., 
+Identities:87/122(71%), Positives:103/122(84%), Gaps:2/122(1%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   D KKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTST--DSKKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  66
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  67   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  126
+
+Query  124  SS  125
+            SS
+Sbjct  127  SS  128
+
+
+
+
+>Htb2p [Saccharomyces cerevisiae YJM693]
+Sequence ID: AJP91098.1 Length: 131
+Range 1: 9 to 128
+
+Score:178 bits(452), Expect:5e-58, 
+Method:Compositional matrix adjust., 
+Identities:90/123(73%), Positives:103/123(83%), Gaps:4/123(3%)
+
+Query  4    PAKSAPAPKK-GSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            PA  APA KK  +KK  T     DGKKR + RKE+YS Y+YKVLKQ HPDTGIS K+M I
+Sbjct  9    PASKAPAEKKPAAKKTSTSV---DGKKRSKVRKETYSSYIYKVLKQTHPDTGISQKSMSI  65
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            +NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY
+Sbjct  66   LNSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKY  125
+
+Query  123  TSS  125
+            +SS
+Sbjct  126  SSS  128
+
+
+
+
+>ANM_HP_G0144120.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4975269.1 Length: 131
+>ANM_HP_G0231110.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5148664.1 Length: 131
+>ANM_HP_G0026900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5218015.1 Length: 131
+>ANM_HP_G0049880.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5222862.1 Length: 131
+>ANM_HP_G0073850.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5225442.1 Length: 131 
+Range 1: 9 to 128
+
+Score:178 bits(452), Expect:5e-58, 
+Method:Compositional matrix adjust., 
+Identities:90/123(73%), Positives:103/123(83%), Gaps:4/123(3%)
+
+Query  4    PAKSAPAPKK-GSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGI  62
+            PA  APA KK  +KK  T     DGKKR + RKE+YS Y+YKVLKQ HPDTGIS K+M I
+Sbjct  9    PASKAPAEKKPAAKKTSTSV---DGKKRSKVRKETYSSYIYKVLKQTHPDTGISQKSMSI  65
+
+Query  63   MNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            +NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY
+Sbjct  66   LNSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKY  125
+
+Query  123  TSS  125
+            +SS
+Sbjct  126  SSS  128
+
+
+
+
+>ANL_HP_G0202940.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4932308.1 Length: 133
+>AVN_HP_G0029930.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4984296.1 Length: 133
+>AVN_HP_G0076410.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5039374.1 Length: 133
+>ANM_HP_G0198250.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5048282.1 Length: 133
+>AVN_HP_G0085170.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5065349.1 Length: 133 
+Range 1: 9 to 130
+
+Score:172 bits(436), Expect:2e-55, 
+Method:Compositional matrix adjust., 
+Identities:87/122(71%), Positives:103/122(84%), Gaps:0/122(0%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PA  APA KK + K  + +   DG KR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+
+Sbjct  9    PASKAPAEKKPAAKKTSTSTSTDGTKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSIL  68
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EAS+LA YNK+STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+
+Sbjct  69   NSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTKYS  128
+
+Query  124  SS  125
+            SS
+Sbjct  129  SS  130
+
+
+
+
+>SPT16-H2A-H2B FACT HISTONE Complex [Saccharomyces cerevisiae S288C]
+Sequence ID: 4WNN_B Length: 102
+>SPT16-H2A-H2B FACT HISTONE Complex [Saccharomyces cerevisiae S288C]
+Sequence ID: 4WNN_D Length: 102
+>SPT16-H2A-H2B FACT HISTONE Complex [Saccharomyces cerevisiae S288C]
+Sequence ID: 4WNN_F Length: 102
+>SPT16-H2A-H2B FACT HISTONE Complex [Saccharomyces cerevisiae S288C]
+Sequence ID: 4WNN_H Length: 102 
+Range 1: 2 to 99
+
+Score:168 bits(426), Expect:2e-54, 
+Method:Compositional matrix adjust., 
+Identities:78/98(80%), Positives:91/98(92%), Gaps:0/98(0%)
+
+Query  28   KKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKR  87
+            KKR ++RKE+YS Y+YKVLKQ HPDTGIS K+M I+NSFVNDIFERIA EAS+LA YNK+
+Sbjct  2    KKRSKARKETYSSYIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAYNKK  61
+
+Query  88   STITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            STI++REIQTAVRL+LPGELAKHAVSEGT+AVTKY+SS
+Sbjct  62   STISAREIQTAVRLILPGELAKHAVSEGTRAVTKYSSS  99
+
+
+
+
+>Chain h, Histone H2B.1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6QLD_h Length: 94
+Range 1: 1 to 93
+
+Score:162 bits(410), Expect:5e-52, 
+Method:Compositional matrix adjust., 
+Identities:75/93(81%), Positives:87/93(93%), Gaps:0/93(0%)
+
+Query  33   SRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITS  92
+            +RKE+YS Y+YKVLKQ HPDTGIS K+M I+NSFVNDIFERIA EAS+LA YNK+STI++
+Sbjct  1    ARKETYSSYIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAYNKKSTISA  60
+
+Query  93   REIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            REIQTAVRL+LPGELAKHAVSEGT+AVTKY+SS
+Sbjct  61   REIQTAVRLILPGELAKHAVSEGTRAVTKYSSS  93
+
+
+
+
+>Chain d, Histone H2B.2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6QLD_d Length: 93
+Range 1: 1 to 92
+
+Score:162 bits(409), Expect:6e-52, 
+Method:Compositional matrix adjust., 
+Identities:75/92(82%), Positives:86/92(93%), Gaps:0/92(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKE+YS Y+YKVLKQ HPDTGIS K+M I+NSFVNDIFERIA EAS+LA YNK+STI++R
+Sbjct  1    RKETYSSYIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAYNKKSTISAR  60
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            EIQTAVRL+LPGELAKHAVSEGT+AVTKY+SS
+Sbjct  61   EIQTAVRLILPGELAKHAVSEGTRAVTKYSSS  92
+
+
+
+
+>Chain A, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_A Length: 208
+>Chain B, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_B Length: 208
+>Chain C, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_C Length: 208
+>Chain D, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_D Length: 208
+>Chain E, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_E Length: 208
+>Chain F, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_F Length: 208
+>Chain G, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_G Length: 208
+>Chain H, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: 7DLX_H Length: 208 
+Range 1: 2 to 93
+
+Score:160 bits(406), Expect:7e-50, 
+Method:Compositional matrix adjust., 
+Identities:75/92(82%), Positives:86/92(93%), Gaps:0/92(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKE+YS Y+YKVLKQ HPDTGIS K+M I+NSFVNDIFERIA EAS+LA YNK+STI++R
+Sbjct  2    RKETYSSYIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAYNKKSTISAR  61
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            EIQTAVRL+LPGELAKHAVSEGT+AVTKY+SS
+Sbjct  62   EIQTAVRLILPGELAKHAVSEGTRAVTKYSSS  93
+
+
+
+
+>Crystal structure of yeast Swr1-Z domain in complex with H2A.Z-H2B dimer [Saccharomyces cerevisiae S288C]
+Sequence ID: 4M6B_A Length: 193
+>Crystal structure of yeast Swr1-Z domain in complex with H2A.Z-H2B dimer [Saccharomyces cerevisiae S288C]
+Sequence ID: 4M6B_D Length: 193
+>Structure insight into histone chaperone Chz1-mediated H2A.Z recognition and replacement [Saccharomyces cerevisiae S288C]
+Sequence ID: 6AE8_A Length: 193
+>Structure insight into histone chaperone Chz1-mediated H2A.Z recognition and replacement [Saccharomyces cerevisiae S288C]
+Sequence ID: 6AE8_B Length: 193 
+Range 1: 2 to 90
+
+Score:157 bits(396), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:73/89(82%), Positives:83/89(93%), Gaps:0/89(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKE+YS Y+YKVLKQ HPDTGIS K+M I+NSFVNDIFERIA EAS+LA YNK+STI++R
+Sbjct  2    RKETYSSYIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAYNKKSTISAR  61
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            EIQTAVRL+LPGELAKHAVSEGT+AVTKY
+Sbjct  62   EIQTAVRLILPGELAKHAVSEGTRAVTKY  90
+
+
+
+
+>Chain A, Chimera of Histone H2B.1 and Histone H2A.Z [Saccharomyces cerevisiae]
+Sequence ID: 2JSS_A Length: 192
+Range 1: 1 to 89
+
+Score:157 bits(396), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:73/89(82%), Positives:83/89(93%), Gaps:0/89(0%)
+
+Query  34   RKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSR  93
+            RKE+YS Y+YKVLKQ HPDTGIS K+M I+NSFVNDIFERIA EAS+LA YNK+STI++R
+Sbjct  1    RKETYSSYIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAYNKKSTISAR  60
+
+Query  94   EIQTAVRLLLPGELAKHAVSEGTKAVTKY  122
+            EIQTAVRL+LPGELAKHAVSEGT+AVTKY
+Sbjct  61   EIQTAVRLILPGELAKHAVSEGTRAVTKY  89
+
+
+
+
+
+
+
+		
+
+

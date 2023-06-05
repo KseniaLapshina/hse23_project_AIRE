@@ -1,0 +1,309 @@
+RID: 7VVCDPZ301N	
+Job Title:NP_003529.1 H4C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359] Query ID: lcl|Query_722042 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H4 [Mus musculus]                                         Mus musculus    house mouse     10090      200    200   100%  1e-67 100.00 103        NP_001182350.1   
+The mouse nucleosome structure containing H3t [Mus musculus]      Mus musculus    house mouse     10090      200    200   100%  1e-67 100.00 106        5B1L_B           
+mCG17007 [Mus musculus]                                           Mus musculus    house mouse     10090      200    200   100%  1e-67 100.00 104        EDL32536.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      199    199   100%  3e-67 99.03  103        BAB27698.1       
+Hist2h4 protein [Mus musculus]                                    Mus musculus    house mouse     10090      198    198   99%   4e-67 100.00 102        AAI15450.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      198    198   100%  6e-67 99.03  103        BAB26692.1       
+Hist4h4 protein [Mus musculus]                                    Mus musculus    house mouse     10090      197    197   99%   1e-66 100.00 102        AAI11814.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      197    197   100%  1e-66 99.03  103        CAA31622.1       
+Hist2h4 protein [Mus musculus]                                    Mus musculus    house mouse     10090      194    194   97%   3e-65 100.00 100        AAI15448.1       
+Hist1h4f protein [Mus musculus]                                   Mus musculus    house mouse     10090      192    192   96%   1e-64 100.00 99         AAI15447.1       
+histone H4 (55AA) (1 is 3rd base in codon) [Mus musculus]         Mus musculus    house mouse     10090      111    111   53%   3e-33 100.00 55         CAA28350.1       
+histone H4 [Mus musculus]                                         Mus musculus    house mouse     10090      85.9   85.9  41%   4e-23 100.00 43         AAT78449.1       
+
+
+Alignments:
+
+>histone H4 [Mus musculus]
+Sequence ID: NP_001182350.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_291074.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_694813.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_783583.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_783585.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_783586.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_783587.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_783588.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_835499.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_835500.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_835515.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_835582.1 Length: 103
+>histone H4 [Mus musculus]
+Sequence ID: NP_835583.1 Length: 103
+>RecName: Full=Histone H4 [Mus musculus]
+Sequence ID: P62806.2 Length: 103
+>2.6 A Crystal Structure Of A Nucleosome Core Particle Containing The Variant Histone H2a.Z [Mus musculus]
+Sequence ID: 1F66_B Length: 103
+>2.6 A Crystal Structure Of A Nucleosome Core Particle Containing The Variant Histone H2a.Z [Mus musculus]
+Sequence ID: 1F66_F Length: 103
+>Chain B, Hist1h4i protein [Mus musculus]
+Sequence ID: 1U35_B Length: 103
+>Chain F, Hist1h4i protein [Mus musculus]
+Sequence ID: 1U35_F Length: 103 
+Range 1: 1 to 103
+
+Score:200 bits(508), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>The mouse nucleosome structure containing H3t [Mus musculus]
+Sequence ID: 5B1L_B Length: 106
+>The mouse nucleosome structure containing H3t [Mus musculus]
+Sequence ID: 5B1L_F Length: 106
+>The mouse nucleosome structure containing H3.1 [Mus musculus]
+Sequence ID: 5B1M_B Length: 106
+>The mouse nucleosome structure containing H3.1 [Mus musculus]
+Sequence ID: 5B1M_F Length: 106
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3.3, and H4 [Mus musculus]
+Sequence ID: 5XM0_B Length: 106
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3.3, and H4 [Mus musculus]
+Sequence ID: 5XM0_F Length: 106
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3mm7, and H4 [Mus musculus]
+Sequence ID: 5XM1_B Length: 106
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3mm7, and H4 [Mus musculus]
+Sequence ID: 5XM1_F Length: 106
+>Chain B, Histone H4 [Mus musculus]
+Sequence ID: 7DBH_B Length: 106
+>Chain F, Histone H4 [Mus musculus]
+Sequence ID: 7DBH_F Length: 106
+>Chain B, Histone H4 [Mus musculus]
+Sequence ID: 7VBM_B Length: 106
+>Chain F, Histone H4 [Mus musculus]
+Sequence ID: 7VBM_F Length: 106 
+Range 1: 4 to 106
+
+Score:200 bits(508), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>mCG17007, partial [Mus musculus]
+Sequence ID: EDL32536.1 Length: 104
+Range 1: 2 to 104
+
+Score:200 bits(508), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  2    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  61
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  62   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  104
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAB27698.1 Length: 103
+Range 1: 1 to 103
+
+Score:199 bits(505), Expect:3e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKR+TVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRETVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>Hist2h4 protein, partial [Mus musculus]
+Sequence ID: AAI15450.1 Length: 102
+Range 1: 1 to 102
+
+Score:198 bits(504), Expect:4e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/102(100%), Positives:102/102(100%), Gaps:0/102(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  102
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  102
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAB26692.1 Length: 103
+Range 1: 1 to 103
+
+Score:198 bits(503), Expect:6e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKP IRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPVIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>Hist4h4 protein, partial [Mus musculus]
+Sequence ID: AAI11814.1 Length: 102
+>Hist1h4d protein, partial [Mus musculus]
+Sequence ID: AAI19612.1 Length: 102 
+Range 1: 1 to 102
+
+Score:197 bits(501), Expect:1e-66, 
+Method:Compositional matrix adjust., 
+Identities:102/102(100%), Positives:102/102(100%), Gaps:0/102(0%)
+
+Query  2    SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  61
+            SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV
+Sbjct  1    SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  60
+
+Query  62   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  102
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: CAA31622.1 Length: 103
+Range 1: 1 to 103
+
+Score:197 bits(501), Expect:1e-66, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVY LKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYRLKRQGRTLYGFGG  103
+
+
+
+
+>Hist2h4 protein, partial [Mus musculus]
+Sequence ID: AAI15448.1 Length: 100
+Range 1: 1 to 100
+
+Score:194 bits(492), Expect:3e-65, 
+Method:Compositional matrix adjust., 
+Identities:100/100(100%), Positives:100/100(100%), Gaps:0/100(0%)
+
+Query  4    RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL  63
+            RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL
+Sbjct  1    RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL  60
+
+Query  64   ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  100
+
+
+
+
+>Hist1h4f protein, partial [Mus musculus]
+Sequence ID: AAI15447.1 Length: 99
+Range 1: 1 to 99
+
+Score:192 bits(488), Expect:1e-64, 
+Method:Compositional matrix adjust., 
+Identities:99/99(100%), Positives:99/99(100%), Gaps:0/99(0%)
+
+Query  4    RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL  63
+            RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL
+Sbjct  1    RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL  60
+
+Query  64   ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  102
+            ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG
+Sbjct  61   ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  99
+
+
+
+
+>histone H4 (55AA) (1 is 3rd base in codon), partial [Mus musculus]
+Sequence ID: CAA28350.1 Length: 55
+Range 1: 1 to 55
+
+Score:111 bits(278), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:55/55(100%), Positives:55/55(100%), Gaps:0/55(0%)
+
+Query  49   GLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            GLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  1    GLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  55
+
+
+
+
+>histone H4, partial [Mus musculus]
+Sequence ID: AAT78449.1 Length: 43
+Range 1: 1 to 43
+
+Score:85.9 bits(211), Expect:4e-23, 
+Method:Compositional matrix adjust., 
+Identities:43/43(100%), Positives:43/43(100%), Gaps:0/43(0%)
+
+Query  32  KPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYT  74
+           KPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYT
+Sbjct  1   KPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYT  43
+
+
+
+
+
+
+
+		
+
+

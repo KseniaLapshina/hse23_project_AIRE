@@ -1,0 +1,302 @@
+RID: 7VV8TBXM013	
+Job Title:NP_003529.1 H4C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359] Query ID: lcl|Query_65645 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+uncharacterized protein LOC100038789 [Danio rerio]                Danio rerio     zebrafish       7955       200    200   100%  5e-68 100.00 103        NP_001083038.2   
+uncharacterized protein si:ch73-368j24.3 [Danio rerio]            Danio rerio     zebrafish       7955       205    205   100%  6e-68 100.00 250        XP_009301181.2   
+uncharacterized protein LOC767782 [Danio rerio]                   Danio rerio     zebrafish       7955       199    199   100%  1e-67 99.03  103        NP_001070217.1   
+histone h4 [Danio rerio]                                          Danio rerio     zebrafish       7955       199    199   100%  2e-67 99.03  103        CAM12247.1       
+Zgc:163040 protein [Danio rerio]                                  Danio rerio     zebrafish       7955       197    197   100%  3e-67 99.03  103        AAI35093.1       
+uncharacterized protein LOC767650 [Danio rerio]                   Danio rerio     zebrafish       7955       197    197   100%  5e-67 99.03  103        NP_001070058.1   
+LOW QUALITY PROTEIN: uncharacterized protein LOC100038789 [Dan... Danio rerio     zebrafish       7955       202    399   100%  6e-66 100.00 340        XP_017212441.1   
+histone H3-like [Danio rerio]                                     Danio rerio     zebrafish       7955       194    194   95%   9e-64 100.00 242        XP_017212446.1   
+histone H4-like [Danio rerio]                                     Danio rerio     zebrafish       7955       150    150   89%   2e-48 85.87  94         XP_021333353.1   
+centromere protein T isoform X3 [Danio rerio]                     Danio rerio     zebrafish       7955       37.4   37.4  48%   0.002 32.00  901        XP_017208519.1   
+centromere protein T isoform X2 [Danio rerio]                     Danio rerio     zebrafish       7955       37.4   37.4  48%   0.002 32.00  914        XP_005161062.1   
+centromere protein T isoform X1 [Danio rerio]                     Danio rerio     zebrafish       7955       37.4   37.4  48%   0.002 32.00  919        XP_017208518.1   
+
+
+Alignments:
+
+>uncharacterized protein LOC100038789 [Danio rerio]
+Sequence ID: NP_001083038.2 Length: 103
+>uncharacterized protein LOC100004395 [Danio rerio]
+Sequence ID: NP_001092231.1 Length: 103
+>histone 1, H4, like [Danio rerio]
+Sequence ID: NP_001099176.2 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: NP_001373579.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: NP_001373604.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_001332711.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_002662243.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_002666964.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_005163249.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_005172452.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_005172454.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_009296456.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_009301164.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_017209642.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_017209670.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_021326437.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_021333749.1 Length: 103
+>histone H4 [Danio rerio]
+Sequence ID: XP_688877.2 Length: 103 
+Range 1: 1 to 103
+
+Score:200 bits(508), Expect:5e-68, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>uncharacterized protein si:ch73-368j24.3 [Danio rerio]
+Sequence ID: XP_009301181.2 Length: 250
+Range 1: 148 to 250
+
+Score:205 bits(521), Expect:6e-68, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  148  MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  207
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  208  VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  250
+
+
+
+
+>uncharacterized protein LOC767782 [Danio rerio]
+Sequence ID: NP_001070217.1 Length: 103
+>Zgc:154164 [Danio rerio]
+Sequence ID: AAI22464.1 Length: 103 
+Range 1: 1 to 103
+
+Score:199 bits(505), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYAL+RQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALRRQGRTLYGFGG  103
+
+
+
+
+>histone h4 [Danio rerio]
+Sequence ID: CAM12247.1 Length: 103
+Range 1: 1 to 103
+
+Score:199 bits(505), Expect:2e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKG KGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGSKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>Zgc:163040 protein [Danio rerio]
+Sequence ID: AAI35093.1 Length: 103
+Range 1: 1 to 103
+
+Score:197 bits(502), Expect:3e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTV AMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVIAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>uncharacterized protein LOC767650 [Danio rerio]
+Sequence ID: NP_001070058.1 Length: 103
+>Zgc:153409 [Danio rerio]
+Sequence ID: AAI22276.1 Length: 103 
+Range 1: 1 to 103
+
+Score:197 bits(501), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGV K
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVPK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>LOW QUALITY PROTEIN: uncharacterized protein LOC100038789 [Danio rerio]
+Sequence ID: XP_017212441.1 Length: 340
+Range 1: 238 to 340
+
+Score:202 bits(515), Expect:6e-66, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  238  MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  297
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  298  VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  340
+
+
+
+
+Range 2: 1 to 100
+
+Score:196 bits(498), Expect:3e-63, 
+Method:Compositional matrix adjust., 
+Identities:100/100(100%), Positives:100/100(100%), Gaps:0/100(0%)
+
+Query  1   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+           MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61  VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYG  100
+           VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYG
+Sbjct  61  VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYG  100
+
+
+
+
+>histone H3-like [Danio rerio]
+Sequence ID: XP_017212446.1 Length: 242
+Range 1: 1 to 98
+
+Score:194 bits(493), Expect:9e-64, 
+Method:Compositional matrix adjust., 
+Identities:98/98(100%), Positives:98/98(100%), Gaps:0/98(0%)
+
+Query  1   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+           MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61  VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTL  98
+           VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTL
+Sbjct  61  VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTL  98
+
+
+
+
+>histone H4-like [Danio rerio]
+Sequence ID: XP_021333353.1 Length: 94
+Range 1: 3 to 94
+
+Score:150 bits(379), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:79/92(86%), Positives:82/92(89%), Gaps:0/92(0%)
+
+Query  12   GKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAV  71
+            G G  +R R VLRDN+ GITK AIRRLARRGGVKRISGLIY ETR VLKVFL NVIRDAV
+Sbjct  3    GVGKRQRCRMVLRDNLHGITKTAIRRLARRGGVKRISGLIYGETRDVLKVFLTNVIRDAV  62
+
+Query  72   TYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            TYTEHAKRKTVTA+DVVYALKRQGRTLYGFGG
+Sbjct  63   TYTEHAKRKTVTAIDVVYALKRQGRTLYGFGG  94
+
+
+
+
+>centromere protein T isoform X3 [Danio rerio]
+Sequence ID: XP_017208519.1 Length: 901
+Range 1: 812 to 861
+
+Score:37.4 bits(85), Expect:0.002, 
+Method:Composition-based stats., 
+Identities:16/50(32%), Positives:27/50(54%), Gaps:0/50(0%)
+
+Query  46   RISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQG  95
+            +++  +Y     +LK + + +  D  TY  HAKRKT+   D    ++RQG
+Sbjct  812  KVASDVYPVINEILKKYFDRLADDLETYATHAKRKTIEVEDFELLMRRQG  861
+
+
+
+
+>centromere protein T isoform X2 [Danio rerio]
+Sequence ID: XP_005161062.1 Length: 914
+Range 1: 825 to 874
+
+Score:37.4 bits(85), Expect:0.002, 
+Method:Composition-based stats., 
+Identities:16/50(32%), Positives:27/50(54%), Gaps:0/50(0%)
+
+Query  46   RISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQG  95
+            +++  +Y     +LK + + +  D  TY  HAKRKT+   D    ++RQG
+Sbjct  825  KVASDVYPVINEILKKYFDRLADDLETYATHAKRKTIEVEDFELLMRRQG  874
+
+
+
+
+>centromere protein T isoform X1 [Danio rerio]
+Sequence ID: XP_017208518.1 Length: 919
+Range 1: 830 to 879
+
+Score:37.4 bits(85), Expect:0.002, 
+Method:Composition-based stats., 
+Identities:16/50(32%), Positives:27/50(54%), Gaps:0/50(0%)
+
+Query  46   RISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQG  95
+            +++  +Y     +LK + + +  D  TY  HAKRKT+   D    ++RQG
+Sbjct  830  KVASDVYPVINEILKKYFDRLADDLETYATHAKRKTIEVEDFELLMRRQG  879
+
+
+
+
+
+
+
+		
+
+

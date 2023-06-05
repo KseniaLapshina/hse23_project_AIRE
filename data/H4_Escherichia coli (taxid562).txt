@@ -1,0 +1,99 @@
+RID: 7VU9DYU6013	
+Job Title:NP_003529.1 H4C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359] Query ID: lcl|Query_7181 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+TPA: hypothetical protein [Escherichia coli]                      Escherichia ... NA              562        182    182   90%   6e-59 98.92  93         HBH7445500.1     
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        176    176   87%   2e-56 97.78  90         MBV7591698.1     
+histone H4 [Escherichia coli]                                     Escherichia ... NA              562        152    152   75%   2e-47 96.15  78         WP_099357436.1   
+histone H4 [Escherichia coli]                                     Escherichia ... NA              562        150    150   75%   2e-46 97.44  78         WP_224679607.1   
+
+
+Alignments:
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: HBH7445500.1 Length: 93
+Range 1: 1 to 93
+
+Score:182 bits(461), Expect:6e-59, 
+Method:Compositional matrix adjust., 
+Identities:92/93(99%), Positives:93/93(100%), Gaps:0/93(0%)
+
+Query  11   LGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDA  70
+            +GKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDA
+Sbjct  1    MGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDA  60
+
+Query  71   VTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  93
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: MBV7591698.1 Length: 90
+Range 1: 1 to 90
+
+Score:176 bits(445), Expect:2e-56, 
+Method:Compositional matrix adjust., 
+Identities:88/90(98%), Positives:90/90(100%), Gaps:0/90(0%)
+
+Query  14   GGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTY  73
+            GGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK+FLENVIRDAVTY
+Sbjct  1    GGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKIFLENVIRDAVTY  60
+
+Query  74   TEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            TEHA+RKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   TEHARRKTVTAMDVVYALKRQGRTLYGFGG  90
+
+
+
+
+>histone H4, partial [Escherichia coli]
+Sequence ID: WP_099357436.1 Length: 78
+Range 1: 1 to 78
+
+Score:152 bits(384), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:75/78(96%), Positives:78/78(100%), Gaps:0/78(0%)
+
+Query  26   NIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAM  85
+            NIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK+FLENVIRD+VTYTEHA+RKTVTAM
+Sbjct  1    NIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKIFLENVIRDSVTYTEHARRKTVTAM  60
+
+Query  86   DVVYALKRQGRTLYGFGG  103
+            DVVYALKRQGRTLYGFGG
+Sbjct  61   DVVYALKRQGRTLYGFGG  78
+
+
+
+
+>histone H4, partial [Escherichia coli]
+Sequence ID: WP_224679607.1 Length: 78
+Range 1: 1 to 78
+
+Score:150 bits(378), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:76/78(97%), Positives:78/78(100%), Gaps:0/78(0%)
+
+Query  1   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+           MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61  VFLENVIRDAVTYTEHAK  78
+           +FLENVIRDAVTYTEHA+
+Sbjct  61  IFLENVIRDAVTYTEHAR  78
+
+
+
+
+
+
+
+		
+
+

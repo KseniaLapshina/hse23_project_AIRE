@@ -1,0 +1,63 @@
+RID: 7U5CX3Y301N	
+Job Title:NP_001368918.1 H2BC4 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347] Query ID: lcl|Query_614285 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H2B [Paramecium caudatum]                                 Paramecium c... NA              5885       160    160   96%   1e-54 64.46  124        BAD84179.1       
+histone H2B [Paramecium caudatum]                                 Paramecium c... NA              5885       153    153   73%   6e-52 72.04  124        BAD84178.1       
+
+
+Alignments:
+
+>histone H2B [Paramecium caudatum]
+Sequence ID: BAD84179.1 Length: 124
+Range 1: 3 to 123
+
+Score:160 bits(405), Expect:1e-54, 
+Method:Compositional matrix adjust., 
+Identities:78/121(64%), Positives:99/121(81%), Gaps:0/121(0%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            P+KS  A  K + K V   +  D KK+ R R+E++++Y+YKVL+QVHP+ GIS KAM IM
+Sbjct  3    PSKSPKAEAKKTVKTVKTKKSGDDKKKARRRQETFALYIYKVLRQVHPEIGISRKAMNIM  62
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSF+NDIF+RIA EAS+L  +NKR T++SREIQTAV+LLLPGELA+HA+SEGTKAVTKYT
+Sbjct  63   NSFINDIFDRIALEASKLVRFNKRRTLSSREIQTAVKLLLPGELARHAISEGTKAVTKYT  122
+
+Query  124  S  124
+            S
+Sbjct  123  S  123
+
+
+
+
+>histone H2B [Paramecium caudatum]
+Sequence ID: BAD84178.1 Length: 124
+Range 1: 31 to 123
+
+Score:153 bits(387), Expect:6e-52, 
+Method:Compositional matrix adjust., 
+Identities:67/93(72%), Positives:85/93(91%), Gaps:0/93(0%)
+
+Query  32   RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  91
+            R R+E++++Y+YKVL+QVHP+ G+S KAM IMNSF+NDIF+RIA EAS+L  +NKR T++
+Sbjct  31   RRRQETFALYIYKVLRQVHPEIGVSRKAMNIMNSFINDIFDRIALEASKLVRFNKRRTLS  90
+
+Query  92   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTS  124
+            SREIQTAV+LLLPGELA+HA+SEGTKAVTKYTS
+Sbjct  91   SREIQTAVKLLLPGELARHAISEGTKAVTKYTS  123
+
+
+
+
+
+
+
+		
+
+

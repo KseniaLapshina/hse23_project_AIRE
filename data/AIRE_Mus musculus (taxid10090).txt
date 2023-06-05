@@ -1,0 +1,3426 @@
+RID: 7VKNW8NB016	
+Job Title:NP_000374.1 autoimmune regulator [Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_000374.1 autoimmune regulator [Homo sapiens] Query ID: lcl|Query_84944 Length: 545
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+autoimmune regulator isoform 1 [Mus musculus]                     Mus musculus    house mouse     10090      719    719   97%   0.0    71.54  552        NP_033776.1      
+autoimmune regulator isoform 3 [Mus musculus]                     Mus musculus    house mouse     10090      713    713   97%   0.0    71.35  548        NP_001258479.1   
+autoimmune regulator isoform 2 [Mus musculus]                     Mus musculus    house mouse     10090      712    712   97%   0.0    71.35  551        NP_001258478.1   
+autoimmune regulator isoform 4 [Mus musculus]                     Mus musculus    house mouse     10090      707    707   97%   0.0    71.16  547        NP_001258480.1   
+autoimmune regulator isoform 5 [Mus musculus]                     Mus musculus    house mouse     10090      573    573   97%   0.0    62.48  493        NP_001258481.1   
+autoimmune regulator isoform 7 [Mus musculus]                     Mus musculus    house mouse     10090      567    567   97%   0.0    62.29  489        NP_001258483.1   
+autoimmune regulator isoform 6 [Mus musculus]                     Mus musculus    house mouse     10090      566    566   97%   0.0    62.29  492        NP_001258482.1   
+autoimmune regulator isoform 8 [Mus musculus]                     Mus musculus    house mouse     10090      560    560   97%   0.0    62.10  488        NP_001258484.1   
+autoimmune regulator isoform 9 [Mus musculus]                     Mus musculus    house mouse     10090      516    516   64%   2e-180 76.35  409        NP_001258485.1   
+autoimmune regulator isoform 11 [Mus musculus]                    Mus musculus    house mouse     10090      510    510   64%   3e-178 76.07  405        NP_001258487.1   
+autoimmune regulator isoform 10 [Mus musculus]                    Mus musculus    house mouse     10090      509    509   64%   5e-178 76.07  408        NP_001258486.1   
+autoimmune regulator isoform 12 [Mus musculus]                    Mus musculus    house mouse     10090      503    503   64%   1e-175 75.78  404        NP_001258488.1   
+Aire protein [Mus musculus]                                       Mus musculus    house mouse     10090      401    401   51%   5e-137 75.99  317        AAI03511.1       
+autoimmune regulator isoform X1 [Mus musculus]                    Mus musculus    house mouse     10090      313    313   46%   6e-103 65.88  276        XP_011241579.1   
+SP140 nuclear body protein family member isoform X6 [Mus...       Mus musculus    house mouse     10090      84.7   84.7  60%   1e-16  26.11  430        XP_017177109.2   
+SP140 nuclear body protein family member isoform 3 [Mus musculus] Mus musculus    house mouse     10090      85.1   85.1  60%   1e-16  25.85  507        NP_001407966.1   
+SP140 nuclear body protein family member isoform 4 [Mus musculus] Mus musculus    house mouse     10090      85.1   85.1  60%   2e-16  25.85  533        NP_001407967.1   
+SP140 nuclear body protein family member isoform 5 [Mus musculus] Mus musculus    house mouse     10090      84.7   84.7  60%   2e-16  26.11  508        NP_001407968.1   
+SP140 nuclear body protein family member isoform 2 [Mus musculus] Mus musculus    house mouse     10090      84.7   84.7  60%   2e-16  26.11  533        NP_001407965.1   
+SP140 nuclear body protein family member isoform 1 [Mus musculus] Mus musculus    house mouse     10090      84.7   84.7  60%   2e-16  26.11  534        NP_001013839.1   
+chromodomain-helicase-DNA-binding protein 5 isoform 2 [Mus...     Mus musculus    house mouse     10090      77.8   147   17%   7e-14  46.81  1915       NP_083492.2      
+mCG131426 [Mus musculus]                                          Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1955       EDL14937.1       
+chromodomain-helicase-DNA-binding protein 5 isoform X6 [Mus...    Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1881       XP_030109449.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X3 [Mus...    Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1951       XP_017175733.1   
+chromodomain-helicase-DNA-binding protein 5 isoform 1 [Mus...     Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1952       NP_001074845.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X7 [Mus...    Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1867       XP_006538998.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X5 [Mus...    Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1918       XP_006538996.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X1 [Mus...    Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1955       XP_006538992.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X2 [Mus...    Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1954       XP_006538993.1   
+chromodomain-helicase-DNA-binding protein 5 isoform 3 [Mus...     Mus musculus    house mouse     10090      77.4   147   17%   8e-14  46.81  1946       NP_001356172.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X4 [Mus...    Mus musculus    house mouse     10090      77.4   147   17%   9e-14  46.81  1949       XP_006538994.1   
+Chain A, Tripartite motif-containing protein 66 [Mus musculus]    Mus musculus    house mouse     10090      70.9   109   22%   2e-13  45.45  185        7EBJ_A           
+chromodomain-helicase-DNA-binding protein 4 isoform b [Mus...     Mus musculus    house mouse     10090      74.3   142   9%    7e-13  53.70  1914       NP_001390522.1   
+chromodomain-helicase-DNA-binding protein 4 isoform g [Mus...     Mus musculus    house mouse     10090      74.3   142   9%    7e-13  53.70  1915       NP_001333539.1   
+chromodomain-helicase-DNA-binding protein 4 isoform f [Mus...     Mus musculus    house mouse     10090      74.3   142   9%    7e-13  53.70  1902       NP_001390526.1   
+mKIAA4075 protein [Mus musculus]                                  Mus musculus    house mouse     10090      74.3   142   9%    7e-13  53.70  1945       BAD90499.1       
+chromodomain-helicase-DNA-binding protein 4 isoform e [Mus...     Mus musculus    house mouse     10090      74.3   142   9%    7e-13  53.70  1903       NP_001390525.1   
+transcription intermediary factor 1-alpha isoform X1 [Mus...      Mus musculus    house mouse     10090      73.9   115   17%   8e-13  53.70  774        XP_006505958.1   
+chromodomain-helicase-DNA-binding protein 4 isoform d [Mus...     Mus musculus    house mouse     10090      74.3   142   9%    8e-13  53.70  1908       NP_001390524.1   
+chromodomain-helicase-DNA-binding protein 4 isoform c [Mus...     Mus musculus    house mouse     10090      74.3   142   9%    8e-13  53.70  1909       NP_001390523.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X4 [Mus...    Mus musculus    house mouse     10090      74.3   142   9%    8e-13  53.70  1922       XP_006505350.1   
+chromodomain-helicase-DNA-binding protein 4 isoform a [Mus...     Mus musculus    house mouse     10090      74.3   142   9%    8e-13  53.70  1922       NP_001390521.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X2 [Mus...    Mus musculus    house mouse     10090      74.3   142   9%    8e-13  53.70  1923       XP_006505348.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X1 [Mus...    Mus musculus    house mouse     10090      74.3   142   9%    8e-13  53.70  1950       XP_006505344.1   
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      73.6   115   17%   9e-13  53.70  764        BAE38840.1       
+nuclear body protein SP140-like protein [Mus musculus]            Mus musculus    house mouse     10090      72.0   72.0  26%   9e-13  34.59  321        XP_036011223.1   
+Chain A, Tripartite motif-containing protein 66 [Mus musculus]    Mus musculus    house mouse     10090      69.3   107   25%   1e-12  47.62  187        7EBK_A           
+mCG140617 [Mus musculus]                                          Mus musculus    house mouse     10090      73.9   146   23%   1e-12  46.58  1826       EDL10495.1       
+chromodomain-helicase-DNA-binding protein 3 isoform X15 [Mus...   Mus musculus    house mouse     10090      73.9   145   23%   1e-12  46.58  2022       XP_017169945.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X16 [Mus...   Mus musculus    house mouse     10090      73.9   145   23%   1e-12  46.58  2021       XP_006532951.1   
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      73.6   73.6  9%    1e-12  53.70  895        BAE32198.1       
+chromodomain-helicase-DNA-binding protein 3 isoform X14 [Mus...   Mus musculus    house mouse     10090      73.9   145   23%   1e-12  46.58  2049       XP_036012462.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X11 [Mus...   Mus musculus    house mouse     10090      73.9   144   23%   1e-12  46.58  2076       XP_006532948.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X6 [Mus...    Mus musculus    house mouse     10090      73.9   145   23%   1e-12  46.58  2104       XP_036012459.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X5 [Mus...    Mus musculus    house mouse     10090      73.9   145   23%   1e-12  46.58  2105       XP_006532946.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X10 [Mus...   Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2077       XP_006532947.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X18 [Mus...   Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2055       XP_006532953.1   
+chromodomain-helicase-DNA-binding protein 3 [Mus musculus]        Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2055       NP_666131.3      
+chromodomain-helicase-DNA-binding protein 3 isoform X7 [Mus...    Mus musculus    house mouse     10090      73.6   145   23%   1e-12  46.58  2101       XP_030101674.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X12 [Mus...   Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2056       XP_006532949.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X9 [Mus...    Mus musculus    house mouse     10090      73.6   145   23%   1e-12  46.58  2099       XP_036012461.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X8 [Mus...    Mus musculus    house mouse     10090      73.6   145   23%   1e-12  46.58  2100       XP_036012460.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X17 [Mus...   Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  1891       XP_006532952.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X3 [Mus...    Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2110       XP_006532944.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X2 [Mus...    Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2110       XP_006532943.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X1 [Mus...    Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2111       XP_017169944.1   
+tripartite motif-containing protein 66 isoform X2 [Mus musculus]  Mus musculus    house mouse     10090      73.2   115   26%   1e-12  40.21  1153       XP_036009072.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X13 [Mus...   Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2056       XP_006532950.1   
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      73.2   140   9%    1e-12  53.70  1045       BAC28749.1       
+chromodomain-helicase-DNA-binding protein 3 isoform X4 [Mus...    Mus musculus    house mouse     10090      73.6   144   23%   1e-12  46.58  2107       XP_006532945.1   
+transcriptional intermediary factor 1 delta short isoform [Mus... Mus musculus    house mouse     10090      73.2   114   26%   1e-12  40.21  1242       AAS78677.1       
+tripartite motif-containing 66, isoform CRA_b [Mus musculus]      Mus musculus    house mouse     10090      73.2   114   26%   1e-12  40.21  1209       EDL16936.1       
+Tripartite motif-containing 66 [Mus musculus]                     Mus musculus    house mouse     10090      73.2   114   26%   2e-12  40.21  1242       AAI38033.1       
+tripartite motif-containing protein 66 isoform 2 [Mus musculus]   Mus musculus    house mouse     10090      73.2   114   26%   2e-12  40.21  1242       NP_862901.3      
+tripartite motif-containing protein 66 isoform 3 [Mus musculus]   Mus musculus    house mouse     10090      72.8   114   26%   2e-12  40.21  1233       NP_001164384.1   
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      72.8   114   26%   2e-12  40.21  1233       BAE27995.1       
+transcriptional intermediary factor 1 delta [Mus musculus]        Mus musculus    house mouse     10090      72.8   113   26%   2e-12  40.21  1344       AAS78676.1       
+tripartite motif-containing protein 66 isoform 1 [Mus musculus]   Mus musculus    house mouse     10090      72.8   113   26%   2e-12  40.21  1344       NP_001164383.1   
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      72.4   72.4  9%    2e-12  53.70  981        BAE21530.1       
+transcription intermediary factor 1-alpha isoform 1 [Mus...       Mus musculus    house mouse     10090      72.4   112   17%   2e-12  53.70  1051       NP_659542.3      
+transcription intermediary factor 1-alpha isoform 2 [Mus...       Mus musculus    house mouse     10090      72.4   112   17%   2e-12  53.70  1017       NP_001258993.1   
+transcription intermediary factor 1-alpha isoform 3 [Mus...       Mus musculus    house mouse     10090      72.4   112   17%   2e-12  53.70  981        NP_001259005.1   
+mKIAA1696 protein [Mus musculus]                                  Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  660        BAC98234.1       
+RecName: Full=PHD finger protein 21A; AltName: Full=BHC80a;...    Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  688        Q6ZPK0.3         
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      72.0   141   23%   3e-12  46.58  708        BAC32375.1       
+PHD finger protein 21A isoform 2 [Mus musculus]                   Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  688        NP_001103160.1   
+PHD finger protein 21A isoform X2 [Mus musculus]                  Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  694        XP_011237675.1   
+PHD finger protein 21A isoform X1 [Mus musculus]                  Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  695        XP_011237664.1   
+PHD finger protein 21A isoform X6 [Mus musculus]                  Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  686        XP_030104555.1   
+PHD finger protein 21A isoform X5 [Mus musculus]                  Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  687        XP_006499038.1   
+PHD finger protein 21A isoform 5 [Mus musculus]                   Mus musculus    house mouse     10090      72.0   72.0  10%   3e-12  49.21  687        NP_001349758.1   
+PHD finger protein 21A isoform X12 [Mus musculus]                 Mus musculus    house mouse     10090      71.2   71.2  10%   5e-12  49.21  603        XP_030104569.1   
+PHD finger protein 21A isoform 3 [Mus musculus]                   Mus musculus    house mouse     10090      71.2   71.2  10%   5e-12  49.21  604        NP_001103161.1   
+PHD finger protein 21A, isoform CRA_b [Mus musculus]              Mus musculus    house mouse     10090      71.2   71.2  10%   5e-12  49.21  605        EDL27592.1       
+tripartite motif protein 33 [Mus musculus]                        Mus musculus    house mouse     10090      70.9   111   16%   8e-12  56.52  951        EDL07597.1       
+E3 ubiquitin-protein ligase TRIM33 isoform 1 [Mus musculus]       Mus musculus    house mouse     10090      70.5   111   16%   1e-11  56.52  1140       NP_444400.2      
+RecName: Full=E3 ubiquitin-protein ligase TRIM33; AltName:...     Mus musculus    house mouse     10090      70.5   111   16%   1e-11  56.52  1142       Q99PP7.2         
+PHD finger protein 21A isoform X7 [Mus musculus]                  Mus musculus    house mouse     10090      70.1   70.1  8%    1e-11  54.35  647        XP_017172022.1   
+PHD finger protein 21A isoform 6 [Mus musculus]                   Mus musculus    house mouse     10090      69.7   69.7  8%    1e-11  54.35  648        NP_001349760.1   
+PHD finger protein 21A isoform 4 [Mus musculus]                   Mus musculus    house mouse     10090      69.7   69.7  8%    1e-11  54.35  641        NP_001333633.1   
+
+
+Alignments:
+
+>autoimmune regulator isoform 1 [Mus musculus]
+Sequence ID: NP_033776.1 Length: 552
+>RecName: Full=Autoimmune regulator; AltName: Full=Autoimmune polyendocrinopathy candidiasis ectodermal dystrophy protein homolog; Short=APECED protein homolog [Mus musculus]
+Sequence ID: Q9Z0E3.1 Length: 552
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAD20444.1 Length: 552
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAD46421.1 Length: 552
+>autoimmune regulator, partial [Mus musculus]
+Sequence ID: AAF36481.1 Length: 552
+>autoimmune regulator, partial [Mus musculus]
+Sequence ID: AAF36482.1 Length: 552
+>autoimmune regulator AIRE1a [Mus musculus]
+Sequence ID: ACC85597.3 Length: 552 
+Range 1: 17 to 548
+
+Score:719 bits(1856), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:382/534(72%), Positives:420/534(78%), Gaps:7/534(1%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQ   PG  E ++GQQ  VP   +LPS+PQ++QKNEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQVTIPGRDEQKVGQQCGVPPLPSLPSEPQVNQKNEDECAVCHDGGELICCDGC  316
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGLRSAG  374
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP+  GLRSA 
+Sbjct  317  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPILVGLRSAS  376
+
+Query  375  EEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGARC  434
+            E+ RGP  E  A  D  + Y +L AP  AAPL  L+ SAL PLL  G EG+   AP ARC
+Sbjct  377  EKTRGPSRELKASSDAAVTYVNLLAPHPAAPL--LEPSALCPLLSAGNEGRPGPAPSARC  434
+
+Query  435  GVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAP-VEGVLAPSPA  493
+             VCGDGT+VLRC HCAAAFHWRCHFP   +RPGT LRC+SCS D TP P   G   P+  
+Sbjct  435  SVCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTNLRCKSCSADSTPTPGTPGEAVPTSG  494
+
+Query  494  -RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+             R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  495  PRPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  548
+
+
+
+
+>autoimmune regulator isoform 3 [Mus musculus]
+Sequence ID: NP_001258479.1 Length: 548
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36461.1 Length: 548
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_f [Mus musculus]
+Sequence ID: EDL31755.1 Length: 548 
+Range 1: 17 to 544
+
+Score:713 bits(1840), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:381/534(71%), Positives:419/534(78%), Gaps:11/534(2%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQG      E ++GQQ  VP   +LPS+PQ++QKNEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQGR----DEQKVGQQCGVPPLPSLPSEPQVNQKNEDECAVCHDGGELICCDGC  312
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGLRSAG  374
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP+  GLRSA 
+Sbjct  313  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPILVGLRSAS  372
+
+Query  375  EEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGARC  434
+            E+ RGP  E  A  D  + Y +L AP  AAPL  L+ SAL PLL  G EG+   AP ARC
+Sbjct  373  EKTRGPSRELKASSDAAVTYVNLLAPHPAAPL--LEPSALCPLLSAGNEGRPGPAPSARC  430
+
+Query  435  GVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAP-VEGVLAPSPA  493
+             VCGDGT+VLRC HCAAAFHWRCHFP   +RPGT LRC+SCS D TP P   G   P+  
+Sbjct  431  SVCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTNLRCKSCSADSTPTPGTPGEAVPTSG  490
+
+Query  494  -RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+             R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  491  PRPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  544
+
+
+
+
+>autoimmune regulator isoform 2 [Mus musculus]
+Sequence ID: NP_001258478.1 Length: 551
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36460.1 Length: 551
+>Autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy) [Mus musculus]
+Sequence ID: AAI03519.1 Length: 551
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_a [Mus musculus]
+Sequence ID: EDL31750.1 Length: 551 
+Range 1: 17 to 547
+
+Score:712 bits(1839), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:381/534(71%), Positives:419/534(78%), Gaps:8/534(1%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQ   PG  E ++GQQ  VP   +LPS+PQ++Q NEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQVTIPGRDEQKVGQQCGVPPLPSLPSEPQVNQ-NEDECAVCHDGGELICCDGC  315
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGLRSAG  374
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP+  GLRSA 
+Sbjct  316  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPILVGLRSAS  375
+
+Query  375  EEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGARC  434
+            E+ RGP  E  A  D  + Y +L AP  AAPL  L+ SAL PLL  G EG+   AP ARC
+Sbjct  376  EKTRGPSRELKASSDAAVTYVNLLAPHPAAPL--LEPSALCPLLSAGNEGRPGPAPSARC  433
+
+Query  435  GVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAP-VEGVLAPSPA  493
+             VCGDGT+VLRC HCAAAFHWRCHFP   +RPGT LRC+SCS D TP P   G   P+  
+Sbjct  434  SVCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTNLRCKSCSADSTPTPGTPGEAVPTSG  493
+
+Query  494  -RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+             R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  494  PRPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  547
+
+
+
+
+>autoimmune regulator isoform 4 [Mus musculus]
+Sequence ID: NP_001258480.1 Length: 547
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36462.1 Length: 547
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_g [Mus musculus]
+Sequence ID: EDL31756.1 Length: 547 
+Range 1: 17 to 543
+
+Score:707 bits(1824), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:380/534(71%), Positives:418/534(78%), Gaps:12/534(2%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQG      E ++GQQ  VP   +LPS+PQ++Q NEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQGR----DEQKVGQQCGVPPLPSLPSEPQVNQ-NEDECAVCHDGGELICCDGC  311
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGLRSAG  374
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP+  GLRSA 
+Sbjct  312  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPILVGLRSAS  371
+
+Query  375  EEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGARC  434
+            E+ RGP  E  A  D  + Y +L AP  AAPL  L+ SAL PLL  G EG+   AP ARC
+Sbjct  372  EKTRGPSRELKASSDAAVTYVNLLAPHPAAPL--LEPSALCPLLSAGNEGRPGPAPSARC  429
+
+Query  435  GVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAP-VEGVLAPSPA  493
+             VCGDGT+VLRC HCAAAFHWRCHFP   +RPGT LRC+SCS D TP P   G   P+  
+Sbjct  430  SVCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTNLRCKSCSADSTPTPGTPGEAVPTSG  489
+
+Query  494  -RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+             R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  490  PRPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  543
+
+
+
+
+>autoimmune regulator isoform 5 [Mus musculus]
+Sequence ID: NP_001258481.1 Length: 493
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36463.1 Length: 493
+>Aire protein [Mus musculus]
+Sequence ID: AAI03512.1 Length: 493
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_e [Mus musculus]
+Sequence ID: EDL31754.1 Length: 493 
+Range 1: 17 to 489
+
+Score:573 bits(1476), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:333/533(62%), Positives:366/533(68%), Gaps:64/533(12%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQ   PG  E ++GQQ  VP   +LPS+PQ++QKNEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQVTIPGRDEQKVGQQCGVPPLPSLPSEPQVNQKNEDECAVCHDGGELICCDGC  316
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLP-PGLRSA  373
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP P P  R +
+Sbjct  317  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPGPAPSARCS  376
+
+Query  374  GEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGAR  433
+               V G   E L        +      P+AA  PG +                       
+Sbjct  377  ---VCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTN-----------------------  410
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPSPA  493
+                      LRC  C+A           T  PGT              P E V    P 
+Sbjct  411  ----------LRCKSCSA---------DSTPTPGT--------------PGEAVPTSGP-  436
+
+Query  494  RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+            R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  437  RPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  489
+
+
+
+
+>autoimmune regulator isoform 7 [Mus musculus]
+Sequence ID: NP_001258483.1 Length: 489
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36465.1 Length: 489
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_j [Mus musculus]
+Sequence ID: EDL31759.1 Length: 489 
+Range 1: 17 to 485
+
+Score:567 bits(1462), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/533(62%), Positives:365/533(68%), Gaps:68/533(12%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQG      E ++GQQ  VP   +LPS+PQ++QKNEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQGR----DEQKVGQQCGVPPLPSLPSEPQVNQKNEDECAVCHDGGELICCDGC  312
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLP-PGLRSA  373
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP P P  R +
+Sbjct  313  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPGPAPSARCS  372
+
+Query  374  GEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGAR  433
+               V G   E L        +      P+AA  PG +                       
+Sbjct  373  ---VCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTN-----------------------  406
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPSPA  493
+                      LRC  C+A           T  PGT              P E V    P 
+Sbjct  407  ----------LRCKSCSA---------DSTPTPGT--------------PGEAVPTSGP-  432
+
+Query  494  RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+            R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  433  RPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  485
+
+
+
+
+>autoimmune regulator isoform 6 [Mus musculus]
+Sequence ID: NP_001258482.1 Length: 492
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36464.1 Length: 492
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_i [Mus musculus]
+Sequence ID: EDL31758.1 Length: 492 
+Range 1: 17 to 488
+
+Score:566 bits(1460), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/533(62%), Positives:365/533(68%), Gaps:65/533(12%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQ   PG  E ++GQQ  VP   +LPS+PQ++Q NEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQVTIPGRDEQKVGQQCGVPPLPSLPSEPQVNQ-NEDECAVCHDGGELICCDGC  315
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLP-PGLRSA  373
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP P P  R +
+Sbjct  316  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPGPAPSARCS  375
+
+Query  374  GEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGAR  433
+               V G   E L        +      P+AA  PG +                       
+Sbjct  376  ---VCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTN-----------------------  409
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPSPA  493
+                      LRC  C+A           T  PGT              P E V    P 
+Sbjct  410  ----------LRCKSCSA---------DSTPTPGT--------------PGEAVPTSGP-  435
+
+Query  494  RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+            R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  436  RPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  488
+
+
+
+
+>autoimmune regulator isoform 8 [Mus musculus]
+Sequence ID: NP_001258484.1 Length: 488
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36466.1 Length: 488
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_c [Mus musculus]
+Sequence ID: EDL31752.1 Length: 488 
+Range 1: 17 to 484
+
+Score:560 bits(1444), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:331/533(62%), Positives:364/533(68%), Gaps:69/533(12%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQG      E ++GQQ  VP   +LPS+PQ++Q NEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQGR----DEQKVGQQCGVPPLPSLPSEPQVNQ-NEDECAVCHDGGELICCDGC  311
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLP-PGLRSA  373
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP P P  R +
+Sbjct  312  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETPGPAPSARCS  371
+
+Query  374  GEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGAR  433
+               V G   E L        +      P+AA  PG +                       
+Sbjct  372  ---VCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTN-----------------------  405
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPSPA  493
+                      LRC  C+A           T  PGT              P E V    P 
+Sbjct  406  ----------LRCKSCSA---------DSTPTPGT--------------PGEAVPTSGP-  431
+
+Query  494  RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPAAPFP  544
+            R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGILQWAIQSM+RP A  P
+Sbjct  432  RPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGILQWAIQSMSRPLAETP  484
+
+
+
+
+>autoimmune regulator isoform 9 [Mus musculus]
+Sequence ID: NP_001258485.1 Length: 409
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36467.1 Length: 409
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_b [Mus musculus]
+Sequence ID: EDL31751.1 Length: 409 
+Range 1: 17 to 367
+
+Score:516 bits(1328), Expect:2e-180, 
+Method:Compositional matrix adjust., 
+Identities:268/351(76%), Positives:291/351(82%), Gaps:1/351(0%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQ   PG  E ++GQQ  VP   +LPS+PQ++QKNEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQVTIPGRDEQKVGQQCGVPPLPSLPSEPQVNQKNEDECAVCHDGGELICCDGC  316
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETP  365
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP
+Sbjct  317  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETP  367
+
+
+
+
+>autoimmune regulator isoform 11 [Mus musculus]
+Sequence ID: NP_001258487.1 Length: 405
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36469.1 Length: 405
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_d [Mus musculus]
+Sequence ID: EDL31753.1 Length: 405 
+Range 1: 17 to 363
+
+Score:510 bits(1313), Expect:3e-178, 
+Method:Compositional matrix adjust., 
+Identities:267/351(76%), Positives:290/351(82%), Gaps:5/351(1%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQG      E ++GQQ  VP   +LPS+PQ++QKNEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQGR----DEQKVGQQCGVPPLPSLPSEPQVNQKNEDECAVCHDGGELICCDGC  312
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETP  365
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP
+Sbjct  313  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETP  363
+
+
+
+
+>autoimmune regulator isoform 10 [Mus musculus]
+Sequence ID: NP_001258486.1 Length: 408
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36468.1 Length: 408
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_h [Mus musculus]
+Sequence ID: EDL31757.1 Length: 408 
+Range 1: 17 to 366
+
+Score:509 bits(1311), Expect:5e-178, 
+Method:Compositional matrix adjust., 
+Identities:267/351(76%), Positives:290/351(82%), Gaps:2/351(0%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQ   PG  E ++GQQ  VP   +LPS+PQ++Q NEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQVTIPGRDEQKVGQQCGVPPLPSLPSEPQVNQ-NEDECAVCHDGGELICCDGC  315
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETP  365
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP
+Sbjct  316  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETP  366
+
+
+
+
+>autoimmune regulator isoform 12 [Mus musculus]
+Sequence ID: NP_001258488.1 Length: 404
+>autoimmune regulator [Mus musculus]
+Sequence ID: AAF36470.1 Length: 404
+>autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy), isoform CRA_l [Mus musculus]
+Sequence ID: EDL31761.1 Length: 404 
+Range 1: 17 to 362
+
+Score:503 bits(1295), Expect:1e-175, 
+Method:Compositional matrix adjust., 
+Identities:266/351(76%), Positives:289/351(82%), Gaps:6/351(1%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQAFHALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQAFHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+            +VRAKGAQG      E ++GQQ  VP   +LPS+PQ++Q NEDECAVC DGGELICCDGC
+Sbjct  257  VVRAKGAQGR----DEQKVGQQCGVPPLPSLPSEPQVNQ-NEDECAVCHDGGELICCDGC  311
+
+Query  315  PRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETP  365
+            PRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E  RP E P ETP
+Sbjct  312  PRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPEVSRPPELPAETP  362
+
+
+
+
+>Aire protein [Mus musculus]
+Sequence ID: AAI03511.1 Length: 317
+Range 1: 17 to 295
+
+Score:401 bits(1031), Expect:5e-137, 
+Method:Compositional matrix adjust., 
+Identities:212/279(76%), Positives:232/279(83%), Gaps:1/279(0%)
+
+Query  16   TEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALLSWLLTQDSTAIL  75
+            TEIAVA+DSAFPLLHALADHDVVPEDKFQETL LKEKEGCPQA HALLSWLLT+DS AIL
+Sbjct  17   TEIAVAIDSAFPLLHALADHDVVPEDKFQETLRLKEKEGCPQASHALLSWLLTRDSGAIL  76
+
+Query  76   DFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALVPPPRLPTKRKAS  135
+            DFWR+LFKDYNLERY RL  ILD FPKDVDL+Q RKGRKP A PKA V PPR PTKRKA 
+Sbjct  77   DFWRILFKDYNLERYSRLHSILDGFPKDVDLNQSRKGRKPLAGPKAAVLPPRPPTKRKAL  136
+
+Query  136  EEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMS  195
+            EE RA  PA L  +  +SPGS LK KPPKKP+ + E Q LPLGNGIQTM+ASVQRAV ++
+Sbjct  137  EEPRATPPATLASKSVSSPGSHLKTKPPKKPDGNLESQHLPLGNGIQTMAASVQRAVTVA  196
+
+Query  196  SGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFED-SGSGKNKARSSSGPKP  254
+            SGDVPG RGAVEGILIQQVFESG SKKCIQVGGEFYTP+KFED SG+ KNKARS S  KP
+Sbjct  197  SGDVPGTRGAVEGILIQQVFESGRSKKCIQVGGEFYTPNKFEDPSGNLKNKARSGSSLKP  256
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQ  293
+            +VRAKGAQ   PG  E ++GQQ  VP   +LPS+PQ++Q
+Sbjct  257  VVRAKGAQVTIPGRDEQKVGQQCGVPPLPSLPSEPQVNQ  295
+
+
+
+
+>autoimmune regulator isoform X1 [Mus musculus]
+Sequence ID: XP_011241579.1 Length: 276
+Range 1: 20 to 272
+
+Score:313 bits(801), Expect:6e-103, 
+Method:Compositional matrix adjust., 
+Identities:168/255(66%), Positives:187/255(73%), Gaps:6/255(2%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAE  353
+            +NEDECAVC DGGELICCDGCPRAFHLACLSPPL+EIPSG WRCS CLQ  VQ+   + E
+Sbjct  20   QNEDECAVCHDGGELICCDGCPRAFHLACLSPPLQEIPSGLWRCSCCLQGRVQQNLSQPE  79
+
+Query  354  EPRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSA  413
+              RP E P ETP+  GLRSA E+ RGP  E  A  D  + Y +L AP  AAPL  L+ SA
+Sbjct  80   VSRPPELPAETPILVGLRSASEKTRGPSRELKASSDAAVTYVNLLAPHPAAPL--LEPSA  137
+
+Query  414  LHPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCR  473
+            L PLL  G EG+   AP ARC VCGDGT+VLRC HCAAAFHWRCHFP   +RPGT LRC+
+Sbjct  138  LCPLLSAGNEGRPGPAPSARCSVCGDGTEVLRCAHCAAAFHWRCHFPTAAARPGTNLRCK  197
+
+Query  474  SCSGDVTPAP-VEGVLAPSPA-RLAPGPAK--DDTASHEPALHRDDLESLLSEHTFDGIL  529
+            SCS D TP P   G   P+   R APG AK  DD+ASH+P LHRDDLESLL+EH+FDGIL
+Sbjct  198  SCSADSTPTPGTPGEAVPTSGPRPAPGLAKVGDDSASHDPVLHRDDLESLLNEHSFDGIL  257
+
+Query  530  QWAIQSMARPAAPFP  544
+            QWAIQSM+RP A  P
+Sbjct  258  QWAIQSMSRPLAETP  272
+
+
+
+
+>SP140 nuclear body protein family member isoform X6 [Mus musculus]
+Sequence ID: XP_017177109.2 Length: 430
+Range 1: 32 to 401
+
+Score:84.7 bits(208), Expect:1e-16, 
+Method:Compositional matrix adjust., 
+Identities:100/383(26%), Positives:157/383(40%), Gaps:66/383(17%)
+
+Query  11   LRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCP------QAFHALLS  64
+             + ++ EIA A+   FP L +L D D + E KFQE      +E C       +  + +LS
+Sbjct  32   FKENKVEIASAITKPFPFLMSLRDRDFISEQKFQEY-----QETCKNLVPVERVVYDILS  86
+
+Query  65   WLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLS-----------------  107
+             +  + S  +L   +V+F   +L+ Y  L+  L  F  +   +                 
+Sbjct  87   NVQKKFSRDLL---KVIFSKTHLKAYPDLKETLKHFFLNASKTNDEQAEEMQCNGGEGSN  143
+
+Query  108  ---QPRKGRKPPA--VPKALVPPP--RLPTKRKASE-------------EARAAAPAAL-  146
+               Q R+ R+ P   +P +L      + PT+ K                EAR  +     
+Sbjct  144  SCEQTRQTRQEPQDDLPSSLRQEAGAQQPTREKKCSCVICSPTYVPEDLEARMGSSQGEC  203
+
+Query  147  --TPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARG  204
+              T R   +   + + +  K    S  + R P+    + +    +     S+  +P   G
+Sbjct  204  VGTRRNIPARKPKKQRRKKKGHNWSKPRWRKPMSVQRKRLRRRRKENANFSAELLPVTCG  263
+
+Query  205  AVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFED-SGSGKNKA-----RSSSGPKPLVR  257
+             ++G+L ++ F+ G S K IQ   G ++TPS+FE   G GK+K      R  + P  L+ 
+Sbjct  264  NLKGVLHKEKFKQGISVKSIQCQNGNWFTPSEFEMMGGYGKSKNWKLSLRCHNWPLKLLI  323
+
+Query  258  AKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRA  317
+             +      P     R  Q+         P+DP +  +N D+C VCRDGG L CCD C RA
+Sbjct  324  QRNFLPNPPRIHRKRKEQR--TQNLHRSPADPSI--QNSDKCEVCRDGGLLFCCDTCFRA  379
+
+Query  318  FHLACLSPPLREIPSGTWRCSSC  340
+            FH  C  P + E     W C  C
+Sbjct  380  FHEDCHIPTV-EAEITPWSCIFC  401
+
+
+
+
+>SP140 nuclear body protein family member isoform 3 [Mus musculus]
+Sequence ID: NP_001407966.1 Length: 507
+Range 1: 32 to 400
+
+Score:85.1 bits(209), Expect:1e-16, 
+Method:Compositional matrix adjust., 
+Identities:99/383(26%), Positives:158/383(41%), Gaps:67/383(17%)
+
+Query  11   LRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCP------QAFHALLS  64
+             + ++ EIA A+   FP L +L D D + E KFQE      +E C       +  + +LS
+Sbjct  32   FKENKVEIASAITKPFPFLMSLRDRDFISEQKFQEY-----QETCKNLVPVERVVYDILS  86
+
+Query  65   WLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLS-----------------  107
+             +  + S  +L   +V+F   +L+ Y  L+  L  F  +   +                 
+Sbjct  87   NVQKKFSRDLL---KVIFSKTHLKAYPDLKETLKHFFLNASKTNDEQAEEMQCNGGEGSN  143
+
+Query  108  ---QPRKGRKPPA--VPKALVPPP--RLPTKRKASE-------------EARAAAPAAL-  146
+               Q R+ R+ P   +P +L      + PT+ K                EAR  +     
+Sbjct  144  SCEQTRQTRQEPQDDLPSSLRQEAGAQQPTREKKCSCVICSPTYVPEDLEARMGSSQGEC  203
+
+Query  147  --TPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARG  204
+              T R   +   + + +  K    S  + R P+    + +    +     S+  +P   G
+Sbjct  204  VGTRRNIPARKPKKQRRKKKGHNWSKPRWRKPMSVQRKRLRRRRKENANFSAELLPVTCG  263
+
+Query  205  AVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG-SGKNKA-----RSSSGPKPLVR  257
+             ++G+L ++ F+ G S K IQ   G ++TPS+FE  G  GK+K      R  + P  L+ 
+Sbjct  264  NLKGVLHKEKFKQGISVKSIQCQNGNWFTPSEFEMMGGYGKSKNWKLSLRCHNWPLKLLI  323
+
+Query  258  AKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRA  317
+             +      P     R  +  ++      P+DP +  +N D+C VCRDGG L CCD C RA
+Sbjct  324  QRNFLPNPPRIHRKRKERTQNLHRS---PADPSI--QNSDKCEVCRDGGLLFCCDTCFRA  378
+
+Query  318  FHLACLSPPLREIPSGTWRCSSC  340
+            FH  C  P + E     W C  C
+Sbjct  379  FHEDCHIPTV-EAEITPWSCIFC  400
+
+
+
+
+>SP140 nuclear body protein family member isoform 4 [Mus musculus]
+Sequence ID: NP_001407967.1 Length: 533
+Range 1: 32 to 400
+
+Score:85.1 bits(209), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:99/383(26%), Positives:158/383(41%), Gaps:67/383(17%)
+
+Query  11   LRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCP------QAFHALLS  64
+             + ++ EIA A+   FP L +L D D + E KFQE      +E C       +  + +LS
+Sbjct  32   FKENKVEIASAITKPFPFLMSLRDRDFISEQKFQEY-----QETCKNLVPVERVVYDILS  86
+
+Query  65   WLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLS-----------------  107
+             +  + S  +L   +V+F   +L+ Y  L+  L  F  +   +                 
+Sbjct  87   NVQKKFSRDLL---KVIFSKTHLKAYPDLKETLKHFFLNASKTNDEQAEEMQCNGGEGSN  143
+
+Query  108  ---QPRKGRKPPA--VPKALVPPP--RLPTKRKASE-------------EARAAAPAAL-  146
+               Q R+ R+ P   +P +L      + PT+ K                EAR  +     
+Sbjct  144  SCEQTRQTRQEPQDDLPSSLRQEAGAQQPTREKKCSCVICSPTYVPEDLEARMGSSQGEC  203
+
+Query  147  --TPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARG  204
+              T R   +   + + +  K    S  + R P+    + +    +     S+  +P   G
+Sbjct  204  VGTRRNIPARKPKKQRRKKKGHNWSKPRWRKPMSVQRKRLRRRRKENANFSAELLPVTCG  263
+
+Query  205  AVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG-SGKNKA-----RSSSGPKPLVR  257
+             ++G+L ++ F+ G S K IQ   G ++TPS+FE  G  GK+K      R  + P  L+ 
+Sbjct  264  NLKGVLHKEKFKQGISVKSIQCQNGNWFTPSEFEMMGGYGKSKNWKLSLRCHNWPLKLLI  323
+
+Query  258  AKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRA  317
+             +      P     R  +  ++      P+DP +  +N D+C VCRDGG L CCD C RA
+Sbjct  324  QRNFLPNPPRIHRKRKERTQNLHRS---PADPSI--QNSDKCEVCRDGGLLFCCDTCFRA  378
+
+Query  318  FHLACLSPPLREIPSGTWRCSSC  340
+            FH  C  P + E     W C  C
+Sbjct  379  FHEDCHIPTV-EAEITPWSCIFC  400
+
+
+
+
+>SP140 nuclear body protein family member isoform 5 [Mus musculus]
+Sequence ID: NP_001407968.1 Length: 508
+Range 1: 32 to 401
+
+Score:84.7 bits(208), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:100/383(26%), Positives:157/383(40%), Gaps:66/383(17%)
+
+Query  11   LRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCP------QAFHALLS  64
+             + ++ EIA A+   FP L +L D D + E KFQE      +E C       +  + +LS
+Sbjct  32   FKENKVEIASAITKPFPFLMSLRDRDFISEQKFQEY-----QETCKNLVPVERVVYDILS  86
+
+Query  65   WLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLS-----------------  107
+             +  + S  +L   +V+F   +L+ Y  L+  L  F  +   +                 
+Sbjct  87   NVQKKFSRDLL---KVIFSKTHLKAYPDLKETLKHFFLNASKTNDEQAEEMQCNGGEGSN  143
+
+Query  108  ---QPRKGRKPPA--VPKALVPPP--RLPTKRKASE-------------EARAAAPAAL-  146
+               Q R+ R+ P   +P +L      + PT+ K                EAR  +     
+Sbjct  144  SCEQTRQTRQEPQDDLPSSLRQEAGAQQPTREKKCSCVICSPTYVPEDLEARMGSSQGEC  203
+
+Query  147  --TPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARG  204
+              T R   +   + + +  K    S  + R P+    + +    +     S+  +P   G
+Sbjct  204  VGTRRNIPARKPKKQRRKKKGHNWSKPRWRKPMSVQRKRLRRRRKENANFSAELLPVTCG  263
+
+Query  205  AVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG-SGKNKA-----RSSSGPKPLVR  257
+             ++G+L ++ F+ G S K IQ   G ++TPS+FE  G  GK+K      R  + P  L+ 
+Sbjct  264  NLKGVLHKEKFKQGISVKSIQCQNGNWFTPSEFEMMGGYGKSKNWKLSLRCHNWPLKLLI  323
+
+Query  258  AKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRA  317
+             +      P     R  Q+         P+DP +  +N D+C VCRDGG L CCD C RA
+Sbjct  324  QRNFLPNPPRIHRKRKEQR--TQNLHRSPADPSI--QNSDKCEVCRDGGLLFCCDTCFRA  379
+
+Query  318  FHLACLSPPLREIPSGTWRCSSC  340
+            FH  C  P + E     W C  C
+Sbjct  380  FHEDCHIPTV-EAEITPWSCIFC  401
+
+
+
+
+>SP140 nuclear body protein family member isoform 2 [Mus musculus]
+Sequence ID: NP_001407965.1 Length: 533
+Range 1: 32 to 401
+
+Score:84.7 bits(208), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:100/383(26%), Positives:157/383(40%), Gaps:66/383(17%)
+
+Query  11   LRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCP------QAFHALLS  64
+             + ++ EIA A+   FP L +L D D + E KFQE      +E C       +  + +LS
+Sbjct  32   FKENKVEIASAITKPFPFLMSLRDRDFISEQKFQEY-----QETCKNLVPVERVVYDILS  86
+
+Query  65   WLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLS-----------------  107
+             +  + S  +L   +V+F   +L+ Y  L+  L  F  +   +                 
+Sbjct  87   NVQKKFSRDLL---KVIFSKTHLKAYPDLKETLKHFFLNASKTNDEQAEEMQCNGGEGSN  143
+
+Query  108  ---QPRKGRKPPA--VPKALVPPP--RLPTKRKASE-------------EARAAAPAAL-  146
+               Q R+ R+ P   +P +L      + PT+ K                EAR  +     
+Sbjct  144  SCEQTRQTRQEPQDDLPSSLRQEAGAQQPTREKKCSCVICSPTYVPEDLEARMGSSQGEC  203
+
+Query  147  --TPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARG  204
+              T R   +   + + +  K    S  + R P+    + +    +     S+  +P   G
+Sbjct  204  VGTRRNIPARKPKKQRRKKKGHNWSKPRWRKPMSVQRKRLRRRRKENANFSAELLPVTCG  263
+
+Query  205  AVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG-SGKNKA-----RSSSGPKPLVR  257
+             ++G+L ++ F+ G S K IQ   G ++TPS+FE  G  GK+K      R  + P  L+ 
+Sbjct  264  NLKGVLHKEKFKQGISVKSIQCQNGNWFTPSEFEMMGGYGKSKNWKLSLRCHNWPLKLLI  323
+
+Query  258  AKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRA  317
+             +      P     R  Q+         P+DP +  +N D+C VCRDGG L CCD C RA
+Sbjct  324  QRNFLPNPPRIHRKRKEQR--TQNLHRSPADPSI--QNSDKCEVCRDGGLLFCCDTCFRA  379
+
+Query  318  FHLACLSPPLREIPSGTWRCSSC  340
+            FH  C  P + E     W C  C
+Sbjct  380  FHEDCHIPTV-EAEITPWSCIFC  401
+
+
+
+
+>SP140 nuclear body protein family member isoform 1 [Mus musculus]
+Sequence ID: NP_001013839.1 Length: 534
+>SP140 nuclear body protein family member isoform X1 [Mus musculus]
+Sequence ID: XP_030111256.1 Length: 534
+>Sp140 nuclear body protein [Mus musculus]
+Sequence ID: AAH69971.1 Length: 534 
+Range 1: 32 to 401
+
+Score:84.7 bits(208), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:100/383(26%), Positives:157/383(40%), Gaps:66/383(17%)
+
+Query  11   LRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCP------QAFHALLS  64
+             + ++ EIA A+   FP L +L D D + E KFQE      +E C       +  + +LS
+Sbjct  32   FKENKVEIASAITKPFPFLMSLRDRDFISEQKFQEY-----QETCKNLVPVERVVYDILS  86
+
+Query  65   WLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLS-----------------  107
+             +  + S  +L   +V+F   +L+ Y  L+  L  F  +   +                 
+Sbjct  87   NVQKKFSRDLL---KVIFSKTHLKAYPDLKETLKHFFLNASKTNDEQAEEMQCNGGEGSN  143
+
+Query  108  ---QPRKGRKPPA--VPKALVPPP--RLPTKRKASE-------------EARAAAPAAL-  146
+               Q R+ R+ P   +P +L      + PT+ K                EAR  +     
+Sbjct  144  SCEQTRQTRQEPQDDLPSSLRQEAGAQQPTREKKCSCVICSPTYVPEDLEARMGSSQGEC  203
+
+Query  147  --TPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARG  204
+              T R   +   + + +  K    S  + R P+    + +    +     S+  +P   G
+Sbjct  204  VGTRRNIPARKPKKQRRKKKGHNWSKPRWRKPMSVQRKRLRRRRKENANFSAELLPVTCG  263
+
+Query  205  AVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG-SGKNKA-----RSSSGPKPLVR  257
+             ++G+L ++ F+ G S K IQ   G ++TPS+FE  G  GK+K      R  + P  L+ 
+Sbjct  264  NLKGVLHKEKFKQGISVKSIQCQNGNWFTPSEFEMMGGYGKSKNWKLSLRCHNWPLKLLI  323
+
+Query  258  AKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRA  317
+             +      P     R  Q+         P+DP +  +N D+C VCRDGG L CCD C RA
+Sbjct  324  QRNFLPNPPRIHRKRKEQR--TQNLHRSPADPSI--QNSDKCEVCRDGGLLFCCDTCFRA  379
+
+Query  318  FHLACLSPPLREIPSGTWRCSSC  340
+            FH  C  P + E     W C  C
+Sbjct  380  FHEDCHIPTV-EAEITPWSCIFC  401
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform 2 [Mus musculus]
+Sequence ID: NP_083492.2 Length: 1915
+Range 1: 421 to 508
+
+Score:77.8 bits(190), Expect:7e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>mCG131426 [Mus musculus]
+Sequence ID: EDL14937.1 Length: 1955
+Range 1: 430 to 517
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  430  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  485
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  486  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  517
+
+
+
+
+Range 2: 353 to 404
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  353  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  404
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X6 [Mus musculus]
+Sequence ID: XP_030109449.1 Length: 1881
+Range 1: 347 to 434
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  347  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  402
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  403  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  434
+
+
+
+
+Range 2: 270 to 321
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  270  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  321
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X3 [Mus musculus]
+Sequence ID: XP_017175733.1 Length: 1951
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform 1 [Mus musculus]
+Sequence ID: NP_001074845.1 Length: 1952
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X7 [Mus musculus]
+Sequence ID: XP_006538998.1 Length: 1867
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPPA--PFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X5 [Mus musculus]
+Sequence ID: XP_006538996.1 Length: 1918
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X1 [Mus musculus]
+Sequence ID: XP_006538992.1 Length: 1955
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X2 [Mus musculus]
+Sequence ID: XP_006538993.1 Length: 1954
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform 3 [Mus musculus]
+Sequence ID: NP_001356172.1 Length: 1946
+>RecName: Full=Chromodomain-helicase-DNA-binding protein 5; Short=CHD-5; AltName: Full=ATP-dependent helicase CHD5 [Mus musculus]
+Sequence ID: A2A8L1.1 Length: 1946 
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X4 [Mus musculus]
+Sequence ID: XP_006538994.1 Length: 1949
+Range 1: 421 to 508
+
+Score:77.4 bits(189), Expect:9e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:52/94(55%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  421  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  476
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP  PL G+
+Sbjct  477  WRWTEPP--APFVVGLPGPEVEPGMPPPRPLEGI  508
+
+
+
+
+Range 2: 344 to 395
+
+Score:70.1 bits(170), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  344  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  395
+
+
+
+
+>Chain A, Tripartite motif-containing protein 66 [Mus musculus]
+Sequence ID: 7EBJ_A Length: 185
+Range 1: 4 to 78
+
+Score:70.9 bits(172), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:35/77(45%), Positives:45/77(58%), Gaps:2/77(2%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAE  353
+            +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G W C+ C   T  E++   E
+Sbjct  4    ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQPEMEYDCE  63
+
+Query  354  EPRPQEPPVETPLPPGL  370
+              R   P V   + PGL
+Sbjct  64   NARYGHPGVR--VLPGL  78
+
+
+
+
+Range 2: 9 to 56
+
+Score:38.9 bits(89), Expect:0.024, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+            C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  9    CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  56
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform b [Mus musculus]
+Sequence ID: NP_001390522.1 Length: 1914
+Range 1: 445 to 498
+
+Score:74.3 bits(181), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  445  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  498
+
+
+
+
+Range 2: 362 to 413
+
+Score:68.6 bits(166), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  362  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  413
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform g [Mus musculus]
+Sequence ID: NP_001333539.1 Length: 1915
+>chromodomain-helicase-DNA-binding protein 4 isoform g [Mus musculus]
+Sequence ID: NP_001390527.1 Length: 1915
+>RecName: Full=Chromodomain-helicase-DNA-binding protein 4; Short=CHD-4 [Mus musculus]
+Sequence ID: Q6PDQ2.1 Length: 1915
+>Chromodomain helicase DNA binding protein 4 [Mus musculus]
+Sequence ID: AAH58578.1 Length: 1915 
+Range 1: 445 to 498
+
+Score:74.3 bits(181), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  445  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  498
+
+
+
+
+Range 2: 362 to 413
+
+Score:68.6 bits(166), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  362  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  413
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform f [Mus musculus]
+Sequence ID: NP_001390526.1 Length: 1902
+Range 1: 432 to 485
+
+Score:74.3 bits(181), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  432  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  485
+
+
+
+
+Range 2: 349 to 400
+
+Score:68.6 bits(166), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  349  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  400
+
+
+
+
+>mKIAA4075 protein, partial [Mus musculus]
+Sequence ID: BAD90499.1 Length: 1945
+Range 1: 473 to 526
+
+Score:74.3 bits(181), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  473  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  526
+
+
+
+
+Range 2: 390 to 441
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  390  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  441
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform e [Mus musculus]
+Sequence ID: NP_001390525.1 Length: 1903
+Range 1: 432 to 485
+
+Score:74.3 bits(181), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  432  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  485
+
+
+
+
+Range 2: 349 to 400
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  349  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  400
+
+
+
+
+>transcription intermediary factor 1-alpha isoform X1 [Mus musculus]
+Sequence ID: XP_006505958.1 Length: 774
+Range 1: 549 to 602
+
+Score:73.9 bits(180), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:36/54(66%), Gaps:0/54(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            NED CAVC++GGEL+CC+ CP+ FHL C  P L   PSG W C+ C   +  EV
+Sbjct  549  NEDWCAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFCRDLSKPEV  602
+
+
+
+
+Range 2: 553 to 594
+
+Score:41.6 bits(96), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:20/42(47%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C
+Sbjct  553  CAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFC  594
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform d [Mus musculus]
+Sequence ID: NP_001390524.1 Length: 1908
+Range 1: 439 to 492
+
+Score:74.3 bits(181), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  439  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  492
+
+
+
+
+Range 2: 356 to 407
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  356  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  407
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform c [Mus musculus]
+Sequence ID: NP_001390523.1 Length: 1909
+Range 1: 439 to 492
+
+Score:74.3 bits(181), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  439  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  492
+
+
+
+
+Range 2: 356 to 407
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  356  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  407
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X4 [Mus musculus]
+Sequence ID: XP_006505350.1 Length: 1922
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 420
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  420
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform a [Mus musculus]
+Sequence ID: NP_001390521.1 Length: 1922
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 420
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  420
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X2 [Mus musculus]
+Sequence ID: XP_006505348.1 Length: 1923
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 420
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  420
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X1 [Mus musculus]
+Sequence ID: XP_006505344.1 Length: 1950
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 420
+
+Score:68.6 bits(166), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  420
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAE38840.1 Length: 764
+Range 1: 539 to 592
+
+Score:73.6 bits(179), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:36/54(66%), Gaps:0/54(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            NED CAVC++GGEL+CC+ CP+ FHL C  P L   PSG W C+ C   +  EV
+Sbjct  539  NEDWCAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFCRDLSKPEV  592
+
+
+
+
+Range 2: 543 to 584
+
+Score:41.6 bits(96), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:20/42(47%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C
+Sbjct  543  CAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFC  584
+
+
+
+
+>nuclear body protein SP140-like protein [Mus musculus]
+Sequence ID: XP_036011223.1 Length: 321
+Range 1: 62 to 196
+
+Score:72.0 bits(175), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:55/159(35%), Positives:73/159(45%), Gaps:36/159(22%)
+
+Query  194  MSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG-SGKNK-----A  246
+             S+  +P   G ++G+L +  F+ G S K IQ   G ++TPS+FE  G  GK+K      
+Sbjct  62   FSAELLPVTCGNLKGVLHKDKFKQGISVKSIQCQNGNWFTPSEFEMMGGYGKSKNWKLSL  121
+
+Query  247  RSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQK-----NEDECAV  301
+            R  + P  L                 L Q+  +P P      P++H K     N DEC V
+Sbjct  122  RCHNWPLKL-----------------LIQRNFLPNP------PRIHLKRKEIQNSDECEV  158
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CR+GG L CCD C RAFH  C  P + E     W C  C
+Sbjct  159  CRNGGTLFCCDTCFRAFHEDCHIPTV-EAEITPWSCIFC  196
+
+
+
+
+>Chain A, Tripartite motif-containing protein 66 [Mus musculus]
+Sequence ID: 7EBK_A Length: 187
+Range 1: 4 to 66
+
+Score:69.3 bits(168), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:39/63(61%), Gaps:0/63(0%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAE  353
+            +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G W C+ C   T  E++   E
+Sbjct  4    ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQPEMEYDCE  63
+
+Query  354  EPR  356
+              R
+Sbjct  64   NAR  66
+
+
+
+
+Range 2: 9 to 84
+
+Score:38.5 bits(88), Expect:0.025, 
+Method:Compositional matrix adjust., 
+Identities:24/76(32%), Positives:31/76(40%), Gaps:1/76(1%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP-APVEGVLAPSP  492
+            C VC +G ++L C  C   +H  CH PA  S PG    C  C     P    +   A   
+Sbjct  9    CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQPEMEYDCENARYG  68
+
+Query  493  ARLAPGPAKDDTASHE  508
+             R+ PG +  D    E
+Sbjct  69   VRVLPGLSMYDQKKCE  84
+
+
+
+
+>mCG140617 [Mus musculus]
+Sequence ID: EDL10495.1 Length: 1826
+Range 1: 281 to 349
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  281  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  336
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  337  WRWGEPPVAVPAP  349
+
+
+
+
+Range 2: 156 to 252
+
+Score:72.4 bits(176), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:40/109(37%), Positives:53/109(48%), Gaps:12/109(11%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++  +  V               ++D
+Sbjct  156  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVTGEEEVDG---------YETDHQD  203
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  204  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  252
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X15 [Mus musculus]
+Sequence ID: XP_017169945.1 Length: 2022
+Range 1: 511 to 579
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:71.2 bits(173), Expect:7e-12, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X16 [Mus musculus]
+Sequence ID: XP_006532951.1 Length: 2021
+Range 1: 511 to 579
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:71.2 bits(173), Expect:7e-12, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>unnamed protein product, partial [Mus musculus]
+Sequence ID: BAE32198.1 Length: 895
+Range 1: 59 to 112
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  59   CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  112
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X14 [Mus musculus]
+Sequence ID: XP_036012462.1 Length: 2049
+Range 1: 505 to 573
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  505  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  560
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  561  WRWGEPPVAVPAP  573
+
+
+
+
+Range 2: 380 to 476
+
+Score:72.0 bits(175), Expect:4e-12, 
+Method:Compositional matrix adjust., 
+Identities:40/109(37%), Positives:53/109(48%), Gaps:12/109(11%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++  +  V               ++D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVTGEEEVDG---------YETDHQD  427
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  428  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  476
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X11 [Mus musculus]
+Sequence ID: XP_006532948.1 Length: 2076
+Range 1: 511 to 579
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:70.9 bits(172), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:41/109(38%), Positives:53/109(48%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++      PA             ++D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVL---GCPAVTGEEEVDGYETDHQD  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X6 [Mus musculus]
+Sequence ID: XP_036012459.1 Length: 2104
+Range 1: 505 to 573
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  505  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  560
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  561  WRWGEPPVAVPAP  573
+
+
+
+
+Range 2: 380 to 476
+
+Score:71.6 bits(174), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:40/109(37%), Positives:53/109(48%), Gaps:12/109(11%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++  +  V               ++D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVTGEEEVDG---------YETDHQD  427
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  428  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  476
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X5 [Mus musculus]
+Sequence ID: XP_006532946.1 Length: 2105
+Range 1: 505 to 573
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  505  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  560
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  561  WRWGEPPVAVPAP  573
+
+
+
+
+Range 2: 380 to 476
+
+Score:71.6 bits(174), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:40/109(37%), Positives:53/109(48%), Gaps:12/109(11%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++  +  V               ++D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVTGEEEVDG---------YETDHQD  427
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  428  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  476
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X10 [Mus musculus]
+Sequence ID: XP_006532947.1 Length: 2077
+Range 1: 511 to 579
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:70.9 bits(172), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:41/109(38%), Positives:53/109(48%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++      PA             ++D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVL---GCPAVTGEEEVDGYETDHQD  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X18 [Mus musculus]
+Sequence ID: XP_006532953.1 Length: 2055
+Range 1: 510 to 578
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  510  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  565
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  566  WRWGEPPVAVPAP  578
+
+
+
+
+Range 2: 379 to 481
+
+Score:71.2 bits(173), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  379  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  432
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  433  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  481
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 [Mus musculus]
+Sequence ID: NP_666131.3 Length: 2055
+Range 1: 511 to 579
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:71.2 bits(173), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X7 [Mus musculus]
+Sequence ID: XP_030101674.1 Length: 2101
+Range 1: 501 to 569
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  501  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  556
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  557  WRWGEPPVAVPAP  569
+
+
+
+
+Range 2: 376 to 472
+
+Score:71.6 bits(174), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:40/109(37%), Positives:53/109(48%), Gaps:12/109(11%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++  +  V               ++D
+Sbjct  376  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVTGEEEVDG---------YETDHQD  423
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  424  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  472
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X12 [Mus musculus]
+Sequence ID: XP_006532949.1 Length: 2056
+Range 1: 511 to 579
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:71.2 bits(173), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X9 [Mus musculus]
+Sequence ID: XP_036012461.1 Length: 2099
+Range 1: 500 to 568
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  500  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  555
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  556  WRWGEPPVAVPAP  568
+
+
+
+
+Range 2: 375 to 471
+
+Score:71.6 bits(174), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:40/109(37%), Positives:53/109(48%), Gaps:12/109(11%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++  +  V               ++D
+Sbjct  375  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVTGEEEVDG---------YETDHQD  422
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  423  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  471
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X8 [Mus musculus]
+Sequence ID: XP_036012460.1 Length: 2100
+Range 1: 501 to 569
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  501  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  556
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  557  WRWGEPPVAVPAP  569
+
+
+
+
+Range 2: 376 to 472
+
+Score:71.6 bits(174), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:40/109(37%), Positives:53/109(48%), Gaps:12/109(11%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++  +  V               ++D
+Sbjct  376  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVTGEEEVDG---------YETDHQD  423
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  424  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  472
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X17 [Mus musculus]
+Sequence ID: XP_006532952.1 Length: 1891
+Range 1: 291 to 359
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  291  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  346
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  347  WRWGEPPVAVPAP  359
+
+
+
+
+Range 2: 160 to 262
+
+Score:70.9 bits(172), Expect:9e-12, 
+Method:Compositional matrix adjust., 
+Identities:41/109(38%), Positives:53/109(48%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++      PA             ++D
+Sbjct  160  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVL---GCPAVTGEEEVDGYETDHQD  213
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  214  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  262
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X3 [Mus musculus]
+Sequence ID: XP_006532944.1 Length: 2110
+Range 1: 510 to 578
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  510  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  565
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  566  WRWGEPPVAVPAP  578
+
+
+
+
+Range 2: 379 to 481
+
+Score:70.5 bits(171), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  379  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  432
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  433  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  481
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X2 [Mus musculus]
+Sequence ID: XP_006532943.1 Length: 2110
+Range 1: 511 to 579
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:70.5 bits(171), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X1 [Mus musculus]
+Sequence ID: XP_017169944.1 Length: 2111
+Range 1: 511 to 579
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  511  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  566
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  567  WRWGEPPVAVPAP  579
+
+
+
+
+Range 2: 380 to 482
+
+Score:70.5 bits(171), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  380  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  433
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  434  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  482
+
+
+
+
+>tripartite motif-containing protein 66 isoform X2 [Mus musculus]
+Sequence ID: XP_036009072.1 Length: 1153
+Range 1: 895 to 979
+
+Score:73.2 bits(178), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274  GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+            G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  895  GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  944
+
+Query  334  TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+             W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  945  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  979
+
+
+
+
+Range 2: 910 to 957
+
+Score:42.0 bits(97), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+            C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  910  CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  957
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X13 [Mus musculus]
+Sequence ID: XP_006532950.1 Length: 2056
+Range 1: 456 to 524
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  456  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  511
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  512  WRWGEPPVAVPAP  524
+
+
+
+
+Range 2: 325 to 427
+
+Score:70.9 bits(172), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:41/109(38%), Positives:53/109(48%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++      PA             ++D
+Sbjct  325  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVL---GCPAVTGEEEVDGYETDHQD  378
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  379  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  427
+
+
+
+
+>unnamed protein product, partial [Mus musculus]
+Sequence ID: BAC28749.1 Length: 1045
+Range 1: 197 to 250
+
+Score:73.2 bits(178), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  197  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  250
+
+
+
+
+Range 2: 114 to 165
+
+Score:67.8 bits(164), Expect:8e-11, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +  +Q
+Sbjct  114  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEKEGIQ  165
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X4 [Mus musculus]
+Sequence ID: XP_006532945.1 Length: 2107
+Range 1: 507 to 575
+
+Score:73.6 bits(179), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  507  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  562
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  563  WRWGEPPVAVPAP  575
+
+
+
+
+Range 2: 376 to 478
+
+Score:70.5 bits(171), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  376  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  429
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  430  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  478
+
+
+
+
+>transcriptional intermediary factor 1 delta short isoform [Mus musculus]
+Sequence ID: AAS78677.1 Length: 1242
+Range 1: 984 to 1068
+
+Score:73.2 bits(178), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  984   GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1033
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1034  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1068
+
+
+
+
+Range 2: 999 to 1046
+
+Score:41.6 bits(96), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  999   CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1046
+
+
+
+
+>tripartite motif-containing 66, isoform CRA_b [Mus musculus]
+Sequence ID: EDL16936.1 Length: 1209
+>KIAA0298 protein [Mus musculus]
+Sequence ID: CAC38114.1 Length: 1209 
+Range 1: 951 to 1035
+
+Score:73.2 bits(178), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  951   GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1000
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1001  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1035
+
+
+
+
+Range 2: 966 to 1013
+
+Score:41.6 bits(96), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  966   CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1013
+
+
+
+
+>Tripartite motif-containing 66 [Mus musculus]
+Sequence ID: AAI38033.1 Length: 1242
+>Tripartite motif-containing 66 [Mus musculus]
+Sequence ID: AAI45107.1 Length: 1242 
+Range 1: 984 to 1068
+
+Score:73.2 bits(178), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  984   GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1033
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1034  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1068
+
+
+
+
+Range 2: 999 to 1046
+
+Score:41.6 bits(96), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  999   CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1046
+
+
+
+
+>tripartite motif-containing protein 66 isoform 2 [Mus musculus]
+Sequence ID: NP_862901.3 Length: 1242
+>tripartite motif-containing protein 66 isoform X1 [Mus musculus]
+Sequence ID: XP_006508022.1 Length: 1242
+>tripartite motif-containing protein 66 isoform X1 [Mus musculus]
+Sequence ID: XP_006508023.1 Length: 1242
+>tripartite motif-containing protein 66 isoform X1 [Mus musculus]
+Sequence ID: XP_006508024.1 Length: 1242
+>tripartite motif-containing protein 66 isoform X1 [Mus musculus]
+Sequence ID: XP_006508025.1 Length: 1242
+>tripartite motif-containing protein 66 isoform X1 [Mus musculus]
+Sequence ID: XP_011240137.1 Length: 1242 
+Range 1: 984 to 1068
+
+Score:73.2 bits(178), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  984   GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1033
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1034  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1068
+
+
+
+
+Range 2: 999 to 1046
+
+Score:41.6 bits(96), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  999   CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1046
+
+
+
+
+>tripartite motif-containing protein 66 isoform 3 [Mus musculus]
+Sequence ID: NP_001164384.1 Length: 1233
+Range 1: 984 to 1068
+
+Score:72.8 bits(177), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  984   GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1033
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1034  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1068
+
+
+
+
+Range 2: 999 to 1046
+
+Score:41.6 bits(96), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  999   CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1046
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAE27995.1 Length: 1233
+Range 1: 984 to 1068
+
+Score:72.8 bits(177), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  984   GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1033
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1034  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1068
+
+
+
+
+Range 2: 999 to 1046
+
+Score:41.6 bits(96), Expect:0.011, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  999   CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1046
+
+
+
+
+>transcriptional intermediary factor 1 delta [Mus musculus]
+Sequence ID: AAS78676.1 Length: 1344
+Range 1: 1086 to 1170
+
+Score:72.8 bits(177), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  1086  GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1135
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1136  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1170
+
+
+
+
+Range 2: 1101 to 1148
+
+Score:41.2 bits(95), Expect:0.012, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  1101  CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1148
+
+
+
+
+>tripartite motif-containing protein 66 isoform 1 [Mus musculus]
+Sequence ID: NP_001164383.1 Length: 1344
+>RecName: Full=Tripartite motif-containing protein 66; AltName: Full=Transcriptional intermediary factor 1 delta [Mus musculus]
+Sequence ID: Q924W6.4 Length: 1344 
+Range 1: 1086 to 1170
+
+Score:72.8 bits(177), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:52/97(53%), Gaps:12/97(12%)
+
+Query  274   GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+             G + + PAP+          +NED CAVC +GGEL+CCD CP+ +HL+C  P L   P G
+Sbjct  1086  GAKKNTPAPI----------ENEDFCAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGG  1135
+
+Query  334   TWRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGL  370
+              W C+ C   T  E++   E  R   P V   + PGL
+Sbjct  1136  EWVCTLCRSLTQPEMEYDCENARYGHPGVR--VLPGL  1170
+
+
+
+
+Range 2: 1101 to 1148
+
+Score:41.2 bits(95), Expect:0.012, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:22/48(45%), Gaps:0/48(0%)
+
+Query  434   CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+             C VC +G ++L C  C   +H  CH PA  S PG    C  C     P
+Sbjct  1101  CAVCINGGELLCCDRCPKVYHLSCHVPALLSFPGGEWVCTLCRSLTQP  1148
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAE21530.1 Length: 981
+Range 1: 756 to 809
+
+Score:72.4 bits(176), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:36/54(66%), Gaps:0/54(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            NED CAVC++GGEL+CC+ CP+ FHL C  P L   PSG W C+ C   +  EV
+Sbjct  756  NEDWCAVCQNGGELLCCEKCPKVFHLTCQVPTLTNFPSGEWICTFCRDLSKPEV  809
+
+
+
+
+>transcription intermediary factor 1-alpha isoform 1 [Mus musculus]
+Sequence ID: NP_659542.3 Length: 1051
+>RecName: Full=Transcription intermediary factor 1-alpha; Short=TIF1-alpha; AltName: Full=E3 ubiquitin-protein ligase Trim24; AltName: Full=RING-type E3 ubiquitin transferase TIF1-alpha; AltName: Full=Tripartite motif-containing protein 24 [Mus musculus]
+Sequence ID: Q64127.1 Length: 1051
+>Tripartite motif-containing 24 [Mus musculus]
+Sequence ID: AAH56959.1 Length: 1051
+>tripartite motif protein 24, isoform CRA_a [Mus musculus]
+Sequence ID: EDL13648.1 Length: 1051 
+Range 1: 826 to 879
+
+Score:72.4 bits(176), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:36/54(66%), Gaps:0/54(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            NED CAVC++GGEL+CC+ CP+ FHL C  P L   PSG W C+ C   +  EV
+Sbjct  826  NEDWCAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFCRDLSKPEV  879
+
+
+
+
+Range 2: 830 to 871
+
+Score:40.4 bits(93), Expect:0.021, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:20/42(47%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C
+Sbjct  830  CAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFC  871
+
+
+
+
+>transcription intermediary factor 1-alpha isoform 2 [Mus musculus]
+Sequence ID: NP_001258993.1 Length: 1017
+>tripartite motif protein 24, isoform CRA_c [Mus musculus]
+Sequence ID: EDL13650.1 Length: 1017 
+Range 1: 792 to 845
+
+Score:72.4 bits(176), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:36/54(66%), Gaps:0/54(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            NED CAVC++GGEL+CC+ CP+ FHL C  P L   PSG W C+ C   +  EV
+Sbjct  792  NEDWCAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFCRDLSKPEV  845
+
+
+
+
+Range 2: 796 to 837
+
+Score:40.4 bits(93), Expect:0.023, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:20/42(47%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C
+Sbjct  796  CAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFC  837
+
+
+
+
+>transcription intermediary factor 1-alpha isoform 3 [Mus musculus]
+Sequence ID: NP_001259005.1 Length: 981
+Range 1: 756 to 809
+
+Score:72.4 bits(176), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:36/54(66%), Gaps:0/54(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEV  348
+            NED CAVC++GGEL+CC+ CP+ FHL C  P L   PSG W C+ C   +  EV
+Sbjct  756  NEDWCAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFCRDLSKPEV  809
+
+
+
+
+Range 2: 760 to 801
+
+Score:40.0 bits(92), Expect:0.025, 
+Method:Compositional matrix adjust., 
+Identities:16/42(38%), Positives:20/42(47%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C
+Sbjct  760  CAVCQNGGELLCCEKCPKVFHLTCHVPTLTNFPSGEWICTFC  801
+
+
+
+
+>mKIAA1696 protein, partial [Mus musculus]
+Sequence ID: BAC98234.1 Length: 660
+Range 1: 454 to 513
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  454  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  510
+
+Query  338  SSC  340
+              C
+Sbjct  511  PRC  513
+
+
+
+
+>RecName: Full=PHD finger protein 21A; AltName: Full=BHC80a; AltName: Full=BRAF35-HDAC complex protein BHC80; Short=mBHC80 [Mus musculus]
+Sequence ID: Q6ZPK0.3 Length: 688
+Range 1: 482 to 541
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  482  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  538
+
+Query  338  SSC  340
+              C
+Sbjct  539  PRC  541
+
+
+
+
+>unnamed protein product, partial [Mus musculus]
+Sequence ID: BAC32375.1 Length: 708
+Range 1: 470 to 538
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/73(47%), Positives:45/73(61%), Gaps:8/73(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD C  ++H+ CL+PPL +IP+G W C  C    L+  VQ++      
+Sbjct  470  CRVCKDGGELLCCDACISSYHIHCLNPPLPDIPNGEWLCPRCTCPVLKGRVQKIL----H  525
+
+Query  355  PRPQEPPVETPLP  367
+             R  EPPV  P P
+Sbjct  526  WRWGEPPVAVPAP  538
+
+
+
+
+Range 2: 339 to 441
+
+Score:69.7 bits(169), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:42/109(39%), Positives:54/109(49%), Gaps:6/109(5%)
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNED  297
+            DSGS  + +    GP   VRAK  +   PG  + ++    +V     +      HQ   D
+Sbjct  339  DSGSVHSASGWPDGP---VRAKKLKRGRPGRKKKKVLGCPAVTGEEEVDGYETDHQ---D  392
+
+Query  298  ECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+             C VC+ GGE+I CD CPRA+HL CL P L   P G W C  C +  VQ
+Sbjct  393  YCEVCQQGGEIILCDTCPRAYHLVCLDPELDRAPEGKWSCPHCEKEGVQ  441
+
+
+
+
+>PHD finger protein 21A isoform 2 [Mus musculus]
+Sequence ID: NP_001103160.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_006499030.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_006499033.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_006499034.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_017172016.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_030104542.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_030104545.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_030104548.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_036015562.1 Length: 688
+>PHD finger protein 21A isoform X3 [Mus musculus]
+Sequence ID: XP_036015563.1 Length: 688 
+Range 1: 482 to 541
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  482  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  538
+
+Query  338  SSC  340
+              C
+Sbjct  539  PRC  541
+
+
+
+
+>PHD finger protein 21A isoform X2 [Mus musculus]
+Sequence ID: XP_011237675.1 Length: 694
+>PHD finger protein 21A isoform X2 [Mus musculus]
+Sequence ID: XP_036015559.1 Length: 694 
+Range 1: 488 to 547
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  488  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  544
+
+Query  338  SSC  340
+              C
+Sbjct  545  PRC  547
+
+
+
+
+>PHD finger protein 21A isoform X1 [Mus musculus]
+Sequence ID: XP_011237664.1 Length: 695
+>PHD finger protein 21A isoform X1 [Mus musculus]
+Sequence ID: XP_011237666.1 Length: 695 
+Range 1: 489 to 548
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  489  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  545
+
+Query  338  SSC  340
+              C
+Sbjct  546  PRC  548
+
+
+
+
+>PHD finger protein 21A isoform X6 [Mus musculus]
+Sequence ID: XP_030104555.1 Length: 686
+>PHD finger protein 21A isoform X6 [Mus musculus]
+Sequence ID: XP_030104556.1 Length: 686
+>PHD finger protein 21A isoform X6 [Mus musculus]
+Sequence ID: XP_030104558.1 Length: 686
+>PHD finger protein 21A isoform X6 [Mus musculus]
+Sequence ID: XP_036015567.1 Length: 686 
+Range 1: 480 to 539
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  480  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  536
+
+Query  338  SSC  340
+              C
+Sbjct  537  PRC  539
+
+
+
+
+>PHD finger protein 21A isoform X5 [Mus musculus]
+Sequence ID: XP_006499038.1 Length: 687
+>PHD finger protein 21A isoform X5 [Mus musculus]
+Sequence ID: XP_030104552.1 Length: 687
+>PHD finger protein 21A isoform X5 [Mus musculus]
+Sequence ID: XP_030104553.1 Length: 687
+>PHD finger protein 21A isoform X5 [Mus musculus]
+Sequence ID: XP_036015566.1 Length: 687 
+Range 1: 481 to 540
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  481  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  537
+
+Query  338  SSC  340
+              C
+Sbjct  538  PRC  540
+
+
+
+
+>PHD finger protein 21A isoform 5 [Mus musculus]
+Sequence ID: NP_001349758.1 Length: 687
+>PHD finger protein 21A isoform 5 [Mus musculus]
+Sequence ID: NP_001349759.1 Length: 687
+>PHD finger protein 21A isoform X4 [Mus musculus]
+Sequence ID: XP_030104551.1 Length: 687
+>PHD finger protein 21A isoform X4 [Mus musculus]
+Sequence ID: XP_036015564.1 Length: 687
+>PHD finger protein 21A isoform X4 [Mus musculus]
+Sequence ID: XP_036015565.1 Length: 687 
+Range 1: 481 to 540
+
+Score:72.0 bits(175), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  481  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  537
+
+Query  338  SSC  340
+              C
+Sbjct  538  PRC  540
+
+
+
+
+>PHD finger protein 21A isoform X12 [Mus musculus]
+Sequence ID: XP_030104569.1 Length: 603
+>PHD finger protein 21A isoform X12 [Mus musculus]
+Sequence ID: XP_030104572.1 Length: 603
+>PHD finger protein 21A isoform X12 [Mus musculus]
+Sequence ID: XP_030104575.1 Length: 603
+>PHD finger protein 21A isoform X12 [Mus musculus]
+Sequence ID: XP_036015572.1 Length: 603
+>PHD finger protein 21A isoform X12 [Mus musculus]
+Sequence ID: XP_036015573.1 Length: 603
+>PHD finger protein 21A isoform X12 [Mus musculus]
+Sequence ID: XP_036015574.1 Length: 603 
+Range 1: 397 to 456
+
+Score:71.2 bits(173), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  397  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  453
+
+Query  338  SSC  340
+              C
+Sbjct  454  PRC  456
+
+
+
+
+>PHD finger protein 21A isoform 3 [Mus musculus]
+Sequence ID: NP_001103161.1 Length: 604
+>PHD finger protein 21A isoform 3 [Mus musculus]
+Sequence ID: NP_001349762.1 Length: 604
+>PHD finger protein 21A isoform X11 [Mus musculus]
+Sequence ID: XP_006499043.1 Length: 604
+>PHD finger protein 21A isoform X11 [Mus musculus]
+Sequence ID: XP_017172037.1 Length: 604
+>PHD finger protein 21A isoform X11 [Mus musculus]
+Sequence ID: XP_030104567.1 Length: 604
+>PHD finger protein 21A isoform X11 [Mus musculus]
+Sequence ID: XP_030104568.1 Length: 604
+>PHD finger protein 21A isoform X11 [Mus musculus]
+Sequence ID: XP_036015570.1 Length: 604
+>unnamed protein product [Mus musculus]
+Sequence ID: BAC29735.1 Length: 604 
+Range 1: 398 to 457
+
+Score:71.2 bits(173), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  398  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  454
+
+Query  338  SSC  340
+              C
+Sbjct  455  PRC  457
+
+
+
+
+>PHD finger protein 21A, isoform CRA_b [Mus musculus]
+Sequence ID: EDL27592.1 Length: 605
+Range 1: 399 to 458
+
+Score:71.2 bits(173), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:39/63(61%), Gaps:7/63(11%)
+
+Query  282  PLALPS----DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            P++LPS    D  +H   ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  399  PVSLPSPTSTDGDIH---EDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWIC  455
+
+Query  338  SSC  340
+              C
+Sbjct  456  PRC  458
+
+
+
+
+>tripartite motif protein 33, partial [Mus musculus]
+Sequence ID: EDL07597.1 Length: 951
+Range 1: 710 to 755
+
+Score:70.9 bits(172), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/46(57%), Positives:33/46(71%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            NED CAVC++GG+L+CC+ CP+ FHL C  P L   PSG W C+ C
+Sbjct  710  NEDWCAVCQNGGDLLCCEKCPKVFHLTCHVPTLLSFPSGDWICTFC  755
+
+
+
+
+Range 2: 714 to 755
+
+Score:40.8 bits(94), Expect:0.015, 
+Method:Compositional matrix adjust., 
+Identities:17/42(40%), Positives:19/42(45%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G D+L C  C   FH  CH P   S P     C  C
+Sbjct  714  CAVCQNGGDLLCCEKCPKVFHLTCHVPTLLSFPSGDWICTFC  755
+
+
+
+
+>E3 ubiquitin-protein ligase TRIM33 isoform 1 [Mus musculus]
+Sequence ID: NP_444400.2 Length: 1140
+Range 1: 899 to 944
+
+Score:70.5 bits(171), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/46(57%), Positives:33/46(71%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            NED CAVC++GG+L+CC+ CP+ FHL C  P L   PSG W C+ C
+Sbjct  899  NEDWCAVCQNGGDLLCCEKCPKVFHLTCHVPTLLSFPSGDWICTFC  944
+
+
+
+
+Range 2: 903 to 944
+
+Score:40.8 bits(94), Expect:0.014, 
+Method:Compositional matrix adjust., 
+Identities:17/42(40%), Positives:19/42(45%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G D+L C  C   FH  CH P   S P     C  C
+Sbjct  903  CAVCQNGGDLLCCEKCPKVFHLTCHVPTLLSFPSGDWICTFC  944
+
+
+
+
+>RecName: Full=E3 ubiquitin-protein ligase TRIM33; AltName: Full=Ectodermin homolog; AltName: Full=RING-type E3 ubiquitin transferase TRIM33; AltName: Full=Transcription intermediary factor 1-gamma; Short=TIF1-gamma; AltName: Full=Tripartite motif-containing protein 33 [Mus musculus]
+Sequence ID: Q99PP7.2 Length: 1142
+>transcriptional intermediary factor 1 gamma [Mus musculus]
+Sequence ID: AAS10352.1 Length: 1142 
+Range 1: 901 to 946
+
+Score:70.5 bits(171), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/46(57%), Positives:33/46(71%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            NED CAVC++GG+L+CC+ CP+ FHL C  P L   PSG W C+ C
+Sbjct  901  NEDWCAVCQNGGDLLCCEKCPKVFHLTCHVPTLLSFPSGDWICTFC  946
+
+
+
+
+Range 2: 905 to 946
+
+Score:40.8 bits(94), Expect:0.014, 
+Method:Compositional matrix adjust., 
+Identities:17/42(40%), Positives:19/42(45%), Gaps:0/42(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSC  475
+            C VC +G D+L C  C   FH  CH P   S P     C  C
+Sbjct  905  CAVCQNGGDLLCCEKCPKVFHLTCHVPTLLSFPSGDWICTFC  946
+
+
+
+
+>PHD finger protein 21A isoform X7 [Mus musculus]
+Sequence ID: XP_017172022.1 Length: 647
+Range 1: 455 to 500
+
+Score:70.1 bits(170), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/46(54%), Positives:31/46(67%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C  C
+Sbjct  455  HEDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWICPRC  500
+
+
+
+
+>PHD finger protein 21A isoform 6 [Mus musculus]
+Sequence ID: NP_001349760.1 Length: 648
+Range 1: 456 to 501
+
+Score:69.7 bits(169), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/46(54%), Positives:31/46(67%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C  C
+Sbjct  456  HEDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWICPRC  501
+
+
+
+
+>PHD finger protein 21A isoform 4 [Mus musculus]
+Sequence ID: NP_001333633.1 Length: 641
+Range 1: 449 to 494
+
+Score:69.7 bits(169), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/46(54%), Positives:31/46(67%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C  C
+Sbjct  449  HEDFCSVCRKSGQLLMCDTCSRVYHLDCLEPPLKTIPKGMWICPRC  494
+
+
+
+
+
+
+
+		
+
+

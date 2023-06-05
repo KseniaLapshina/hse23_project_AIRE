@@ -1,0 +1,399 @@
+RID: 7VGKENW9013	
+Job Title:NP_003520.1 H3C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350] Query ID: lcl|Query_91802 Length: 136
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+RecName: Full=Histone H3 [Caenorhabditis elegans]                 Caenorhabdit... NA              6239       270    270   100%  3e-95 97.79  136        P08898.4         
+Histone H3 [Caenorhabditis elegans]                               Caenorhabdit... NA              6239       267    267   100%  5e-94 97.06  136        NP_001263958.1   
+Histone H3.3 type 1 [Caenorhabditis elegans]                      Caenorhabdit... NA              6239       265    265   100%  6e-93 96.32  136        NP_509344.1      
+Histone H3.3 type 2 [Caenorhabditis elegans]                      Caenorhabdit... NA              6239       263    263   100%  2e-92 95.59  136        NP_001255163.1   
+Histone H3.3-like type 2 [Caenorhabditis elegans]                 Caenorhabdit... NA              6239       248    248   100%  1e-86 90.44  136        NP_506164.1      
+Putative histone H3.3-like type 3 [Caenorhabditis elegans]        Caenorhabdit... NA              6239       218    218   90%   7e-75 86.18  127        NP_497811.1      
+Histone H3.3-like type 1 [Caenorhabditis elegans]                 Caenorhabdit... NA              6239       211    211   100%  6e-72 77.21  134        NP_497812.2      
+Histone H2A/H2B/H3 domain-containing protein [Caenorhabditis...   Caenorhabdit... NA              6239       109    109   71%   8e-32 58.76  118        NP_505106.1      
+Histone H3-like centromeric protein hcp-3 [Caenorhabditis...      Caenorhabdit... NA              6239       112    112   70%   3e-31 58.59  288        NP_499128.1      
+Histone H3-like centromeric protein cpar-1 [Caenorhabditis...     Caenorhabdit... NA              6239       105    105   70%   1e-28 53.54  261        NP_499073.1      
+Histone H2A/H2B/H3 domain-containing protein [Caenorhabditis...   Caenorhabdit... NA              6239       92.8   92.8  33%   4e-26 95.65  46         NP_001366902.1   
+ceKDM7A from C.elegans, complex with H3K4me3K27me2 peptide and... Caenorhabdit... NA              6239       55.1   55.1  23%   2e-11 90.62  32         3N9P_B           
+ceKDM7A from C.elegans, complex with H3K4me3K9me2 peptide and...  Caenorhabdit... NA              6239       55.1   55.1  23%   2e-11 90.62  32         3N9N_B           
+ceKDM7A from C.elegans, complex with H3K4me3 peptide, H3K9me2...  Caenorhabdit... NA              6239       33.1   33.1  12%   0.004 94.12  17         3N9O_C           
+ceKDM7A from C.elegans, complex with H3K4me3 peptide, H3K27me2... Caenorhabdit... NA              6239       31.6   31.6  12%   0.016 88.24  17         3N9Q_C           
+
+
+Alignments:
+
+>RecName: Full=Histone H3 [Caenorhabditis elegans]
+Sequence ID: P08898.4 Length: 136
+Range 1: 1 to 136
+
+Score:270 bits(691), Expect:3e-95, 
+Method:Compositional matrix adjust., 
+Identities:133/136(98%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPA+GGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPASGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIR+ PFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRRAPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_001263958.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_001366884.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_496890.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_496894.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_496895.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_501204.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_501407.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_502134.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_502138.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_502153.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_505199.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_505276.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_505292.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_505297.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: NP_507033.1 Length: 136
+>histone H3 [Caenorhabditis elegans]
+Sequence ID: AAG50235.1 Length: 136
+>Histone protein [Caenorhabditis elegans]
+Sequence ID: CAA33644.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: CAA92733.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: CAA97411.1 Length: 136
+>Histone H3 [Caenorhabditis elegans]
+Sequence ID: CAB04057.1 Length: 136 
+Range 1: 1 to 136
+
+Score:267 bits(682), Expect:5e-94, 
+Method:Compositional matrix adjust., 
+Identities:132/136(97%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPA+GGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPASGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIR+ PFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRRAPFQRLVREIAQDFKTDLRFQSSAVMALQEAAEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>Histone H3.3 type 1 [Caenorhabditis elegans]
+Sequence ID: NP_509344.1 Length: 136
+>RecName: Full=Histone H3.3 type 1 [Caenorhabditis elegans]
+Sequence ID: Q10453.2 Length: 136
+>Histone H3.3 type 1 [Caenorhabditis elegans]
+Sequence ID: CCD66641.1 Length: 136 
+Range 1: 1 to 136
+
+Score:265 bits(676), Expect:6e-93, 
+Method:Compositional matrix adjust., 
+Identities:131/136(96%), Positives:133/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPTTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>Histone H3.3 type 2 [Caenorhabditis elegans]
+Sequence ID: NP_001255163.1 Length: 136
+>RecName: Full=Histone H3.3 type 2 [Caenorhabditis elegans]
+Sequence ID: Q9U281.3 Length: 136 
+Range 1: 1 to 136
+
+Score:263 bits(673), Expect:2e-92, 
+Method:Compositional matrix adjust., 
+Identities:130/136(96%), Positives:133/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPTTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKD+QLARRIRGERA
+Sbjct  121  MPKDMQLARRIRGERA  136
+
+
+
+
+>Histone H3.3-like type 2 [Caenorhabditis elegans]
+Sequence ID: NP_506164.1 Length: 136
+>RecName: Full=Histone H3.3-like type 2 [Caenorhabditis elegans]
+Sequence ID: Q27532.3 Length: 136
+>Histone H3.3-like type 2 [Caenorhabditis elegans]
+Sequence ID: CAA98963.1 Length: 136 
+Range 1: 1 to 136
+
+Score:248 bits(634), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/136(90%), Positives:129/136(94%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRK LATKAARKSA  TG VKK HR+RPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKALATKAARKSAIVTGSVKKVHRFRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LL+RKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLLRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKD+QLARRIRGER+
+Sbjct  121  MPKDMQLARRIRGERS  136
+
+
+
+
+>Putative histone H3.3-like type 3 [Caenorhabditis elegans]
+Sequence ID: NP_497811.1 Length: 127
+>PUTATIVE PSEUDOGENE: RecName: Full=Putative histone H3.3-like type 3 [Caenorhabditis elegans]
+Sequence ID: Q27489.1 Length: 127
+>Putative histone H3.3-like type 3 [Caenorhabditis elegans]
+Sequence ID: CAA86228.1 Length: 127 
+Range 1: 4 to 126
+
+Score:218 bits(556), Expect:7e-75, 
+Method:Compositional matrix adjust., 
+Identities:106/123(86%), Positives:114/123(92%), Gaps:0/123(0%)
+
+Query  13   GGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLV  72
+            GGKAPRKQLATKAARK+A   G VKKPHR+RPGTVALREIRRYQKST+LL+RKLPFQRLV
+Sbjct  4    GGKAPRKQLATKAARKNAIVVGAVKKPHRFRPGTVALREIRRYQKSTDLLLRKLPFQRLV  63
+
+Query  73   REIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIR  132
+            REIAQD K DLRFQS+A+ ALQEA E +LVGLFEDTNLCAIHAKRVTIMPKD+QLARRIR
+Sbjct  64   REIAQDVKQDLRFQSAAIQALQEASEYFLVGLFEDTNLCAIHAKRVTIMPKDMQLARRIR  123
+
+Query  133  GER  135
+            GER
+Sbjct  124  GER  126
+
+
+
+
+>Histone H3.3-like type 1 [Caenorhabditis elegans]
+Sequence ID: NP_497812.2 Length: 134
+>RecName: Full=Histone H3.3-like type 1 [Caenorhabditis elegans]
+Sequence ID: Q27490.4 Length: 134
+>Histone H3.3-like type 1 [Caenorhabditis elegans]
+Sequence ID: CAA86229.2 Length: 134 
+Range 1: 1 to 134
+
+Score:211 bits(537), Expect:6e-72, 
+Method:Compositional matrix adjust., 
+Identities:105/136(77%), Positives:117/136(86%), Gaps:2/136(1%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTK TARKS GGKAPRK LATKAARK  P  G VKK  RYRP + AL+EIR+YQKSTE
+Sbjct  1    MARTKHTARKSFGGKAPRKSLATKAARKVFPVDGQVKK--RYRPSSNALKEIRKYQKSTE  58
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LL+RKLPFQRLVRE+AQ+   ++RFQS+A+ AL EA EAYL+GLFEDTNLCAIHAKRVTI
+Sbjct  59   LLVRKLPFQRLVREVAQEIMPNVRFQSAAIQALHEAAEAYLIGLFEDTNLCAIHAKRVTI  118
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKD+QLARRIRGER 
+Sbjct  119  MPKDMQLARRIRGERG  134
+
+
+
+
+>Histone H2A/H2B/H3 domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_505106.1 Length: 118
+>Histone H2A/H2B/H3 domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CCD68325.1 Length: 118 
+Range 1: 20 to 116
+
+Score:109 bits(272), Expect:8e-32, 
+Method:Compositional matrix adjust., 
+Identities:57/97(59%), Positives:71/97(73%), Gaps:0/97(0%)
+
+Query  38   KPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEAC  97
+            + + +  GTVALREIR+ Q+STELLI +  F+RLV+E+AQDF TDL F+  A+ ALQ A 
+Sbjct  20   RSYPFHSGTVALREIRKQQQSTELLIPRSRFERLVKELAQDFVTDLIFRKDAIDALQAAV  79
+
+Query  98   EAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGE  134
+            E YLV LF   NLCAI  KRVTI   +++ ARRIRGE
+Sbjct  80   EDYLVELFRLGNLCAIKCKRVTIEADNLKFARRIRGE  116
+
+
+
+
+>Histone H3-like centromeric protein hcp-3 [Caenorhabditis elegans]
+Sequence ID: NP_499128.1 Length: 288
+>RecName: Full=Histone H3-like centromeric protein hcp-3; AltName: Full=CENP-A homolog; AltName: Full=CeCENP-A; AltName: Full=Holocentric chromosome-binding protein 3 [Caenorhabditis elegans]
+Sequence ID: P34470.1 Length: 288
+>Histone H3-like centromeric protein hcp-3 [Caenorhabditis elegans]
+Sequence ID: CAA80160.1 Length: 288 
+Range 1: 185 to 283
+
+Score:112 bits(281), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:58/99(59%), Positives:71/99(71%), Gaps:3/99(3%)
+
+Query  36   VKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQD---FKTDLRFQSSAVMA  92
+            V K  RYRPG  AL EIR+YQK+ +LLI+K PF RLVREI Q    F  D R +S A+ A
+Sbjct  185  VTKTRRYRPGQKALEEIRKYQKTEDLLIQKAPFARLVREIMQTSTPFGADCRIRSDAISA  244
+
+Query  93   LQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRI  131
+            LQEA EA+LV +FE ++L + HAKRVT+M  DIQL RR+
+Sbjct  245  LQEAAEAFLVEMFEGSSLISTHAKRVTLMTTDIQLYRRL  283
+
+
+
+
+>Histone H3-like centromeric protein cpar-1 [Caenorhabditis elegans]
+Sequence ID: NP_499073.1 Length: 261
+>RecName: Full=Histone H3-like centromeric protein cpar-1; AltName: Full=CENP-A-related protein 1; AltName: Full=Centromeric protein A related [Caenorhabditis elegans]
+Sequence ID: P34440.1 Length: 261
+>Histone H3-like centromeric protein cpar-1 [Caenorhabditis elegans]
+Sequence ID: CAA80154.1 Length: 261 
+Range 1: 158 to 256
+
+Score:105 bits(262), Expect:1e-28, 
+Method:Compositional matrix adjust., 
+Identities:53/99(54%), Positives:69/99(69%), Gaps:3/99(3%)
+
+Query  36   VKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQD---FKTDLRFQSSAVMA  92
+            + K  RYRPG  AL EIR+YQ+S +LLI K PF RLVREI Q    F +DLR +S A+ A
+Sbjct  158  ISKTRRYRPGQKALEEIRKYQESEDLLIPKAPFARLVREIMQTSTPFSSDLRIRSDAINA  217
+
+Query  93   LQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRI  131
+            LQEA EA LV +F+ ++L + H+KR T+   D+QL RR+
+Sbjct  218  LQEASEALLVQMFDGSSLISAHSKRATLTTTDVQLYRRL  256
+
+
+
+
+>Histone H2A/H2B/H3 domain-containing protein [Caenorhabditis elegans]
+Sequence ID: NP_001366902.1 Length: 46
+>Histone H2A/H2B/H3 domain-containing protein [Caenorhabditis elegans]
+Sequence ID: CAB04955.2 Length: 46 
+Range 1: 1 to 46
+
+Score:92.8 bits(229), Expect:4e-26, 
+Method:Compositional matrix adjust., 
+Identities:44/46(96%), Positives:44/46(95%), Gaps:0/46(0%)
+
+Query  91   MALQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA  136
+            MALQEA EAYLVGL EDTNLCAIHAKRVTIMPKDIQLARRIRGERA
+Sbjct  1    MALQEAAEAYLVGLLEDTNLCAIHAKRVTIMPKDIQLARRIRGERA  46
+
+
+
+
+>ceKDM7A from C.elegans, complex with H3K4me3K27me2 peptide and NOG [Caenorhabditis elegans]
+Sequence ID: 3N9P_B Length: 32
+>ceKDM7A from C.elegans, complex with H3K4me3K27me2 peptide and NOG [Caenorhabditis elegans]
+Sequence ID: 3N9P_C Length: 32 
+Range 1: 1 to 32
+
+Score:55.1 bits(131), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:29/32(91%), Positives:30/32(93%), Gaps:0/32(0%)
+
+Query  2   ARTKQTARKSTGGKAPRKQLATKAARKSAPAT  33
+           ART QTARKSTGGKAPRKQLATKAAR SAPA+
+Sbjct  1   ARTXQTARKSTGGKAPRKQLATKAARXSAPAS  32
+
+
+
+
+>ceKDM7A from C.elegans, complex with H3K4me3K9me2 peptide and NOG [Caenorhabditis elegans]
+Sequence ID: 3N9N_B Length: 32
+>ceKDM7A from C.elegans, complex with H3K4me3K9me2 peptide and NOG [Caenorhabditis elegans]
+Sequence ID: 3N9N_C Length: 32 
+Range 1: 1 to 32
+
+Score:55.1 bits(131), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:29/32(91%), Positives:30/32(93%), Gaps:0/32(0%)
+
+Query  2   ARTKQTARKSTGGKAPRKQLATKAARKSAPAT  33
+           ART QTAR STGGKAPRKQLATKAARKSAPA+
+Sbjct  1   ARTXQTARXSTGGKAPRKQLATKAARKSAPAS  32
+
+
+
+
+>ceKDM7A from C.elegans, complex with H3K4me3 peptide, H3K9me2 peptide and NOG [Caenorhabditis elegans]
+Sequence ID: 3N9O_C Length: 17
+Range 1: 1 to 17
+
+Score:33.1 bits(74), Expect:0.004, 
+Method:Compositional matrix adjust., 
+Identities:16/17(94%), Positives:16/17(94%), Gaps:0/17(0%)
+
+Query  2   ARTKQTARKSTGGKAPR  18
+           ARTKQTAR STGGKAPR
+Sbjct  1   ARTKQTARXSTGGKAPR  17
+
+
+
+
+>ceKDM7A from C.elegans, complex with H3K4me3 peptide, H3K27me2 peptide and NOG [Caenorhabditis elegans]
+Sequence ID: 3N9Q_C Length: 17
+Range 1: 1 to 17
+
+Score:31.6 bits(70), Expect:0.016, 
+Method:Compositional matrix adjust., 
+Identities:15/17(88%), Positives:16/17(94%), Gaps:0/17(0%)
+
+Query  20  QLATKAARKSAPATGGV  36
+           QLATKAAR SAPA+GGV
+Sbjct  1   QLATKAARXSAPASGGV  17
+
+
+
+
+
+
+
+		
+
+

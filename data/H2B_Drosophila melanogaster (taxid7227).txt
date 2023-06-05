@@ -1,0 +1,217 @@
+RID: 7U5A08J601N	
+Job Title:NP_001368918.1 H2BC4 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347] Query ID: lcl|Query_622547 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Crystal structure of 167 bp nucleosome bound to the globular...   Drosophila m... fruit fly       7227       185    185   74%   4e-62 93.62  94         5WCU_D           
+histone H2B [Drosophila melanogaster]                             Drosophila m... fruit fly       7227       181    181   72%   4e-60 94.51  123        NP_001027283.1   
+Cryo-EM structure of nucleosome in complex with a single chain... Drosophila m... fruit fly       7227       181    181   72%   4e-60 94.51  124        6DZT_D           
+Drosophila nucleosome core [Drosophila melanogaster]              Drosophila m... fruit fly       7227       181    181   72%   4e-60 94.51  122        2PYO_D           
+CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME COR... Drosophila m... fruit fly       7227       180    180   71%   4e-60 94.44  90         4X23_D           
+Chain D, Histone H2B [Drosophila melanogaster]                    Drosophila m... fruit fly       7227       179    179   72%   3e-59 93.41  123        2NQB_D           
+
+
+Alignments:
+
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_D Length: 94
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_H Length: 94
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_N Length: 94
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_R Length: 94 
+Range 1: 1 to 94
+
+Score:185 bits(470), Expect:4e-62, 
+Method:Compositional matrix adjust., 
+Identities:88/94(94%), Positives:91/94(96%), Gaps:0/94(0%)
+
+Query  32   RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  91
+            R RKESY++Y+YKVLKQVHPDTGISSKAM IMNSFVNDIFERIA EASRLAHYNKRSTIT
+Sbjct  1    RKRKESYAIYIYKVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTIT  60
+
+Query  92   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS
+Sbjct  61   SREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  94
+
+
+
+
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027283.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027287.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027291.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027296.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027300.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027305.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027310.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027315.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027320.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027325.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027330.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027335.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027340.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027345.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027350.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027355.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027360.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027365.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027370.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027375.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027380.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_001027385.1 Length: 123
+>histone H2B [Drosophila melanogaster]
+Sequence ID: NP_724342.1 Length: 123
+>RecName: Full=Histone H2B [Drosophila melanogaster]
+Sequence ID: P02283.2 Length: 123
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_D Length: 123
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_H Length: 123
+>Chain D, Histone H2B [Drosophila melanogaster]
+Sequence ID: 6PWF_D Length: 123
+>Chain H, Histone H2B [Drosophila melanogaster]
+Sequence ID: 6PWF_H Length: 123 
+Range 1: 33 to 123
+
+Score:181 bits(460), Expect:4e-60, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            ESY++Y+YKVLKQVHPDTGISSKAM IMNSFVNDIFERIA EASRLAHYNKRSTITSREI
+Sbjct  33   ESYAIYIYKVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREI  92
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  93   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  123
+
+
+
+
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_D Length: 124
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_H Length: 124 
+Range 1: 34 to 124
+
+Score:181 bits(460), Expect:4e-60, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            ESY++Y+YKVLKQVHPDTGISSKAM IMNSFVNDIFERIA EASRLAHYNKRSTITSREI
+Sbjct  34   ESYAIYIYKVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREI  93
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  94   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  124
+
+
+
+
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_D Length: 122
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_H Length: 122
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_D Length: 122
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_H Length: 122
+>Chain B, Histone H2B [Drosophila melanogaster]
+Sequence ID: 7PJ1_B Length: 122 
+Range 1: 32 to 122
+
+Score:181 bits(459), Expect:4e-60, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            ESY++Y+YKVLKQVHPDTGISSKAM IMNSFVNDIFERIA EASRLAHYNKRSTITSREI
+Sbjct  32   ESYAIYIYKVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREI  91
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  92   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  122
+
+
+
+
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_D Length: 90
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_H Length: 90
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_N Length: 90
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_R Length: 90 
+Range 1: 1 to 90
+
+Score:180 bits(456), Expect:4e-60, 
+Method:Compositional matrix adjust., 
+Identities:85/90(94%), Positives:88/90(97%), Gaps:0/90(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            ESY++Y+YKVLKQVHPDTGISSKAM IMNSFVNDIFERIA EASRLAHYNKRSTITSREI
+Sbjct  1    ESYAIYIYKVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREI  60
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSS
+Sbjct  61   QTAVRLLLPGELAKHAVSEGTKAVTKYTSS  90
+
+
+
+
+>Chain D, Histone H2B [Drosophila melanogaster]
+Sequence ID: 2NQB_D Length: 123
+>Chain H, Histone H2B [Drosophila melanogaster]
+Sequence ID: 2NQB_H Length: 123 
+Range 1: 33 to 123
+
+Score:179 bits(454), Expect:3e-59, 
+Method:Compositional matrix adjust., 
+Identities:85/91(93%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            ESY++Y+Y VLKQVHPDTGISSKAM IMNSFVNDIFERIA EASRLAHYNKRSTITSREI
+Sbjct  33   ESYAIYIYTVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREI  92
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  93   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  123
+
+
+
+
+
+
+
+		
+
+

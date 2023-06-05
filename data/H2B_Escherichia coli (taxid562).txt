@@ -1,0 +1,221 @@
+RID: 7U632SVA013	
+Job Title:NP_001368918.1 H2BC4 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347] Query ID: lcl|Query_32210 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H2B family protein [Escherichia coli]                     Escherichia ... NA              562        254    254   100%  2e-86 100.00 126        WP_227652630.1   
+histone H2B family protein [Escherichia coli]                     Escherichia ... NA              562        250    250   100%  3e-85 99.21  126        WP_152947102.1   
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        233    233   92%   1e-78 100.00 116        MQI32329.1       
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        218    218   85%   1e-72 99.07  108        NHW93909.1       
+TPA: histone H2B family protein [Escherichia coli]                Escherichia ... NA              562        181    181   72%   1e-57 94.51  124        HBH7445471.1     
+histone H2B family protein [Escherichia coli]                     Escherichia ... NA              562        161    161   71%   3e-49 78.89  159        MBV7591558.1     
+histone H2B family protein [Escherichia coli]                     Escherichia ... NA              562        156    156   73%   6e-48 77.42  127        WP_268580421.1   
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        141    141   64%   1e-41 76.54  137        WP_248791847.1   
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        107    107   47%   8e-29 76.67  86         WP_158700856.1   
+hypothetical protein [Escherichia coli]                           Escherichia ... NA              562        62.4   62.4  28%   4e-11 72.22  95         MQI32337.1       
+
+
+Alignments:
+
+>histone H2B family protein [Escherichia coli]
+Sequence ID: WP_227652630.1 Length: 126
+Range 1: 1 to 126
+
+Score:254 bits(648), Expect:2e-86, 
+Method:Compositional matrix adjust., 
+Identities:126/126(100%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B family protein [Escherichia coli]
+Sequence ID: WP_152947102.1 Length: 126
+>hypothetical protein [Escherichia coli]
+Sequence ID: MQJ84099.1 Length: 126 
+Range 1: 1 to 126
+
+Score:250 bits(639), Expect:3e-85, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKK GKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKHGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: MQI32329.1 Length: 116
+Range 1: 1 to 116
+
+Score:233 bits(595), Expect:1e-78, 
+Method:Compositional matrix adjust., 
+Identities:116/116(100%), Positives:116/116(100%), Gaps:0/116(0%)
+
+Query  11   PKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDI  70
+            PKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDI
+Sbjct  1    PKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDI  60
+
+Query  71   FERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            FERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  61   FERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  116
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: NHW93909.1 Length: 108
+Range 1: 1 to 108
+
+Score:218 bits(555), Expect:1e-72, 
+Method:Compositional matrix adjust., 
+Identities:107/108(99%), Positives:108/108(100%), Gaps:0/108(0%)
+
+Query  19   VTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEA  78
+            +TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEA
+Sbjct  1    MTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEA  60
+
+Query  79   SRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            SRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  61   SRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  108
+
+
+
+
+>histone H2B family protein [Escherichia coli]
+Sequence ID: HBH7445471.1 Length: 124
+Range 1: 33 to 123
+
+Score:181 bits(458), Expect:1e-57, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            ESY++Y+YKVLKQVHPDTGISSKAM IMNSFVNDIFERIA EASRLAHYNKRSTITSREI
+Sbjct  33   ESYAIYIYKVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREI  92
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  93   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  123
+
+
+
+
+>histone H2B family protein [Escherichia coli]
+Sequence ID: MBV7591558.1 Length: 159
+Range 1: 70 to 159
+
+Score:161 bits(407), Expect:3e-49, 
+Method:Compositional matrix adjust., 
+Identities:71/90(79%), Positives:85/90(94%), Gaps:0/90(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            E+Y +Y++KVLKQVHPD GISSKAM IMNSF+NDIFE++AGE+++LA YNK+ TITSREI
+Sbjct  70   ETYKIYIFKVLKQVHPDIGISSKAMSIMNSFINDIFEKLAGESAKLARYNKKPTITSREI  129
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            QT+VRL+LPGELAKHAVSEGTKAVTK+TSS
+Sbjct  130  QTSVRLVLPGELAKHAVSEGTKAVTKFTSS  159
+
+
+
+
+>histone H2B family protein, partial [Escherichia coli]
+Sequence ID: WP_268580421.1 Length: 127
+Range 1: 34 to 126
+
+Score:156 bits(395), Expect:6e-48, 
+Method:Compositional matrix adjust., 
+Identities:72/93(77%), Positives:83/93(89%), Gaps:0/93(0%)
+
+Query  26   DGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYN  85
+            D KKR +   E+Y +Y++KVLKQVHPD GISSKAMGIMNSF+NDIFE++A E+SRLA YN
+Sbjct  34   DKKKRTKKNVETYKIYIFKVLKQVHPDIGISSKAMGIMNSFINDIFEKLAQESSRLARYN  93
+
+Query  86   KRSTITSREIQTAVRLLLPGELAKHAVSEGTKA  118
+            K+ TITSREIQTAVRL+LPGELAKHAVSEGTKA
+Sbjct  94   KKPTITSREIQTAVRLVLPGELAKHAVSEGTKA  126
+
+
+
+
+>hypothetical protein, partial [Escherichia coli]
+Sequence ID: WP_248791847.1 Length: 137
+Range 1: 57 to 137
+
+Score:141 bits(355), Expect:1e-41, 
+Method:Compositional matrix adjust., 
+Identities:62/81(77%), Positives:74/81(91%), Gaps:0/81(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            E+Y +Y++K+LKQVHPD GIS  AMGIMNSF+NDIFE++A E+S+LA YNK+ TITSREI
+Sbjct  57   ETYKIYIFKLLKQVHPDIGISRTAMGIMNSFINDIFEKLAQESSKLARYNKKPTITSREI  116
+
+Query  96   QTAVRLLLPGELAKHAVSEGT  116
+            QTAVRL+LPGELAKHAVSEGT
+Sbjct  117  QTAVRLVLPGELAKHAVSEGT  137
+
+
+
+
+>hypothetical protein, partial [Escherichia coli]
+Sequence ID: WP_158700856.1 Length: 86
+Range 1: 27 to 86
+
+Score:107 bits(266), Expect:8e-29, 
+Method:Compositional matrix adjust., 
+Identities:46/60(77%), Positives:55/60(91%), Gaps:0/60(0%)
+
+Query  36  ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+           E+Y +Y++KVLKQVHPD GISSKAMGIMNSF+NDIFE++A E+SRLA YNK+ TITSREI
+Sbjct  27  ETYKIYIFKVLKQVHPDIGISSKAMGIMNSFINDIFEKLAQESSRLARYNKKPTITSREI  86
+
+
+
+
+>hypothetical protein [Escherichia coli]
+Sequence ID: MQI32337.1 Length: 95
+Range 1: 60 to 95
+
+Score:62.4 bits(150), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/36(72%), Positives:30/36(83%), Gaps:0/36(0%)
+
+Query  36  ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIF  71
+           E Y V ++KVLKQ HPD GI+SKAMGIMNSF+N IF
+Sbjct  60  ERYKVDIFKVLKQEHPDIGIASKAMGIMNSFINYIF  95
+
+
+
+
+
+
+
+		
+
+

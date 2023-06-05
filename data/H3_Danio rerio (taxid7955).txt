@@ -1,0 +1,353 @@
+RID: 7VGFYDJU016	
+Job Title:NP_003520.1 H3C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350] Query ID: lcl|Query_7139 Length: 136
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone cluster 2, H3c [Danio rerio]                              Danio rerio     zebrafish       7955       272    272   100%  2e-95 99.26  136        NP_001093643.1   
+uncharacterized protein LOC794406 [Danio rerio]                   Danio rerio     zebrafish       7955       271    271   100%  4e-95 98.53  136        NP_001104686.1   
+Zgc:113984 protein [Danio rerio]                                  Danio rerio     zebrafish       7955       270    270   100%  1e-94 98.53  136        AAI29431.1       
+histone 2, H3ca1 [Danio rerio]                                    Danio rerio     zebrafish       7955       269    269   100%  2e-94 98.53  136        NP_001353364.1   
+histone H3-like [Danio rerio]                                     Danio rerio     zebrafish       7955       273    273   100%  2e-94 99.26  242        XP_017212446.1   
+uncharacterized protein LOC573997 [Danio rerio]                   Danio rerio     zebrafish       7955       269    269   100%  2e-94 98.53  136        NP_001020347.2   
+histone H3.2 [Danio rerio]                                        Danio rerio     zebrafish       7955       269    269   100%  3e-94 98.53  136        NP_001020342.1   
+histone H3.3 [Danio rerio]                                        Danio rerio     zebrafish       7955       265    265   100%  8e-93 96.32  136        NP_001017599.1   
+H3 histone, family 3A [Danio rerio]                               Danio rerio     zebrafish       7955       263    263   100%  8e-92 95.59  136        NP_998161.1      
+uncharacterized protein si:ch73-368j24.3 [Danio rerio]            Danio rerio     zebrafish       7955       230    230   83%   2e-77 99.12  250        XP_009301181.2   
+LOW QUALITY PROTEIN: uncharacterized protein LOC100038789 [Dan... Danio rerio     zebrafish       7955       225    225   88%   4e-74 92.50  340        XP_017212441.1   
+histone H3-like centromeric protein A [Danio rerio]               Danio rerio     zebrafish       7955       140    140   82%   3e-43 60.18  145        NP_001157712.1   
+Zgc:158701 protein [Danio rerio]                                  Danio rerio     zebrafish       7955       133    133   50%   2e-41 97.10  70         AAI29394.1       
+
+
+Alignments:
+
+>histone cluster 2, H3c [Danio rerio]
+Sequence ID: NP_001093643.1 Length: 136
+>histone H3 [Danio rerio]
+Sequence ID: XP_002666951.1 Length: 136
+>histone H3 [Danio rerio]
+Sequence ID: XP_009296462.1 Length: 136
+>uncharacterized protein LOC100037365 isoform X2 [Danio rerio]
+Sequence ID: XP_017209523.1 Length: 136
+>histone H3 [Danio rerio]
+Sequence ID: XP_017209710.1 Length: 136
+>RecName: Full=Histone H3.2 [Danio rerio]
+Sequence ID: Q4QRF4.3 Length: 136 
+Range 1: 1 to 136
+
+Score:272 bits(695), Expect:2e-95, 
+Method:Compositional matrix adjust., 
+Identities:135/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>uncharacterized protein LOC794406 [Danio rerio]
+Sequence ID: NP_001104686.1 Length: 136
+>histone H3-like [Danio rerio]
+Sequence ID: NP_001373716.1 Length: 136
+>histone H3-like [Danio rerio]
+Sequence ID: XP_009296488.1 Length: 136
+>histone H3-like [Danio rerio]
+Sequence ID: XP_009301184.1 Length: 136
+>histone H3-like [Danio rerio]
+Sequence ID: XP_017212660.1 Length: 136 
+Range 1: 1 to 136
+
+Score:271 bits(692), Expect:4e-95, 
+Method:Compositional matrix adjust., 
+Identities:134/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQE+ EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQESSEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>Zgc:113984 protein [Danio rerio]
+Sequence ID: AAI29431.1 Length: 136
+Range 1: 1 to 136
+
+Score:270 bits(689), Expect:1e-94, 
+Method:Compositional matrix adjust., 
+Identities:134/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHR+RPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRHRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>histone 2, H3ca1 [Danio rerio]
+Sequence ID: NP_001353364.1 Length: 136
+Range 1: 1 to 136
+
+Score:269 bits(688), Expect:2e-94, 
+Method:Compositional matrix adjust., 
+Identities:134/136(99%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTD RFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDQRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>histone H3-like [Danio rerio]
+Sequence ID: XP_017212446.1 Length: 242
+Range 1: 107 to 242
+
+Score:273 bits(698), Expect:2e-94, 
+Method:Compositional matrix adjust., 
+Identities:135/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  107  MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  166
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  167  LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  226
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  227  MPKDIQLARRIRGERA  242
+
+
+
+
+>uncharacterized protein LOC573997 [Danio rerio]
+Sequence ID: NP_001020347.2 Length: 136
+>Zgc:113984 protein [Danio rerio]
+Sequence ID: AAI53404.1 Length: 136 
+Range 1: 1 to 136
+
+Score:269 bits(688), Expect:2e-94, 
+Method:Compositional matrix adjust., 
+Identities:134/136(99%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRG RA
+Sbjct  121  MPKDIQLARRIRGVRA  136
+
+
+
+
+>histone H3.2 [Danio rerio]
+Sequence ID: NP_001020342.1 Length: 136
+>Zgc:113983 [Danio rerio]
+Sequence ID: AAH97059.1 Length: 136 
+Range 1: 1 to 136
+
+Score:269 bits(687), Expect:3e-94, 
+Method:Compositional matrix adjust., 
+Identities:134/136(99%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLF DTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFGDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>histone H3.3 [Danio rerio]
+Sequence ID: NP_001017599.1 Length: 136
+>uncharacterized protein LOC100331798 [Danio rerio]
+Sequence ID: NP_001353845.1 Length: 136
+>H3 histone, family 3C [Danio rerio]
+Sequence ID: NP_956297.1 Length: 136
+>H3 histone, family 3D [Danio rerio]
+Sequence ID: NP_957395.1 Length: 136
+>H3 histone, family 3A isoform X1 [Danio rerio]
+Sequence ID: XP_017209248.1 Length: 136
+>RecName: Full=Histone H3.3 [Danio rerio]
+Sequence ID: Q6PI20.3 Length: 136 
+Range 1: 1 to 136
+
+Score:265 bits(677), Expect:8e-93, 
+Method:Compositional matrix adjust., 
+Identities:131/136(96%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>H3 histone, family 3A [Danio rerio]
+Sequence ID: NP_998161.1 Length: 136
+>H3 histone, family 3A [Danio rerio]
+Sequence ID: AAH45982.1 Length: 136 
+Range 1: 1 to 136
+
+Score:263 bits(671), Expect:8e-92, 
+Method:Compositional matrix adjust., 
+Identities:130/136(96%), Positives:133/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVAL EIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALGEIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>uncharacterized protein si:ch73-368j24.3 [Danio rerio]
+Sequence ID: XP_009301181.2 Length: 250
+Range 1: 32 to 145
+
+Score:230 bits(587), Expect:2e-77, 
+Method:Compositional matrix adjust., 
+Identities:113/114(99%), Positives:113/114(99%), Gaps:0/114(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  32   MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  91
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIH  114
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIH
+Sbjct  92   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIH  145
+
+
+
+
+>LOW QUALITY PROTEIN: uncharacterized protein LOC100038789 [Danio rerio]
+Sequence ID: XP_017212441.1 Length: 340
+Range 1: 111 to 230
+
+Score:225 bits(573), Expect:4e-74, 
+Method:Compositional matrix adjust., 
+Identities:111/120(93%), Positives:114/120(95%), Gaps:0/120(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  111  MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  170
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNL  +++  V I
+Sbjct  171  LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLSLVYSXCVII  230
+
+
+
+
+>histone H3-like centromeric protein A [Danio rerio]
+Sequence ID: NP_001157712.1 Length: 145
+>RecName: Full=Histone H3-like centromeric protein A; AltName: Full=Centromere protein A; Short=CENP-A [Danio rerio]
+Sequence ID: Q803H4.1 Length: 145
+>Seph protein [Danio rerio]
+Sequence ID: AAH44483.1 Length: 145 
+Range 1: 29 to 141
+
+Score:140 bits(353), Expect:3e-43, 
+Method:Compositional matrix adjust., 
+Identities:68/113(60%), Positives:85/113(75%), Gaps:1/113(0%)
+
+Query  22   ATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDF-K  80
+             ++  R S P+    +K H++RPGT AL EIR+YQKST LL+RK PF RLVRE+ Q F +
+Sbjct  29   GSRTRRHSGPSGSSPRKKHKFRPGTRALMEIRKYQKSTGLLLRKAPFSRLVREVCQMFSR  88
+
+Query  81   TDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRG  133
+              + +Q  A+MALQEA EA++V LF D NLCAIHAKRVT+ P+DIQLARRIRG
+Sbjct  89   EHMMWQGYALMALQEAAEAFMVRLFSDANLCAIHAKRVTLFPRDIQLARRIRG  141
+
+
+
+
+>Zgc:158701 protein [Danio rerio]
+Sequence ID: AAI29394.1 Length: 70
+Range 1: 1 to 69
+
+Score:133 bits(335), Expect:2e-41, 
+Method:Compositional matrix adjust., 
+Identities:67/69(97%), Positives:68/69(98%), Gaps:0/69(0%)
+
+Query  1   MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+           MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1   MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61  LLIRKLPFQ  69
+           LLIRKLP +
+Sbjct  61  LLIRKLPLK  69
+
+
+
+
+
+
+
+		
+
+

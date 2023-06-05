@@ -1,0 +1,529 @@
+RID: 7U51BM11013	
+Job Title:NP_001368918.1 H2BC4 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347] Query ID: lcl|Query_91331 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H2B 3 [Danio rerio]                                       Danio rerio     zebrafish       7955       241    241   100%  2e-83 93.65  126        NP_956411.1      
+histone H2B 1/2-like [Danio rerio]                                Danio rerio     zebrafish       7955       233    233   100%  2e-80 92.86  124        XP_017209765.1   
+histone H2B 1/2-like [Danio rerio]                                Danio rerio     zebrafish       7955       233    233   100%  2e-80 92.86  124        XP_001922605.1   
+histone H2B-like [Danio rerio]                                    Danio rerio     zebrafish       7955       232    232   100%  6e-80 92.06  124        XP_017209712.1   
+histone H2B 1/2-like [Danio rerio]                                Danio rerio     zebrafish       7955       231    231   100%  8e-80 92.06  124        XP_005163278.1   
+uncharacterized protein LOC100536401 [Danio rerio]                Danio rerio     zebrafish       7955       231    231   100%  9e-80 92.06  124        NP_001353363.1   
+histone H2B 1/2-like [Danio rerio]                                Danio rerio     zebrafish       7955       233    233   100%  9e-80 92.86  161        XP_691943.2      
+uncharacterized protein LOC570661 [Danio rerio]                   Danio rerio     zebrafish       7955       231    231   100%  1e-79 91.27  124        NP_001122231.1   
+uncharacterized protein LOC554097 [Danio rerio]                   Danio rerio     zebrafish       7955       231    231   100%  1e-79 92.06  124        NP_001019569.2   
+histone H2B 1/2 [Danio rerio]                                     Danio rerio     zebrafish       7955       231    231   100%  1e-79 92.06  124        NP_001013481.1   
+histone H2B 1/2-like [Danio rerio]                                Danio rerio     zebrafish       7955       230    230   100%  2e-79 91.27  124        XP_005163255.1   
+histone H2B-like [Danio rerio]                                    Danio rerio     zebrafish       7955       230    230   100%  3e-79 91.27  124        NP_001373605.1   
+anoctamin 9a [Danio rerio]                                        Danio rerio     zebrafish       7955       229    229   100%  4e-79 91.27  124        NP_001103305.1   
+uncharacterized protein LOC100124605 [Danio rerio]                Danio rerio     zebrafish       7955       228    228   100%  2e-78 91.27  124        NP_001096102.1   
+histone H2B 1/2-like [Danio rerio]                                Danio rerio     zebrafish       7955       228    228   100%  2e-78 91.27  124        XP_001923636.1   
+uncharacterized protein LOC100126107 [Danio rerio]                Danio rerio     zebrafish       7955       228    228   100%  2e-78 91.27  124        NP_001103306.1   
+uncharacterized protein LOC436997 [Danio rerio]                   Danio rerio     zebrafish       7955       177    177   72%   2e-58 91.21  117        NP_001002724.1   
+Zgc:171759 protein [Danio rerio]                                  Danio rerio     zebrafish       7955       139    139   53%   3e-44 100.00 67         AAI51967.1       
+histone H2B 1/2-like [Danio rerio]                                Danio rerio     zebrafish       7955       120    120   69%   2e-36 72.41  90         XP_021333785.1   
+
+
+Alignments:
+
+>histone H2B 3 [Danio rerio]
+Sequence ID: NP_956411.1 Length: 126
+>RecName: Full=Histone H2B 3 [Danio rerio]
+Sequence ID: Q6PC60.3 Length: 126 
+Range 1: 1 to 126
+
+Score:241 bits(614), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:118/126(94%), Positives:123/126(97%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTK QKK  KKR+++RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKTQKKGDKKRRKTRKESYAIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_017209765.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_689245.2 Length: 124 
+Range 1: 1 to 124
+
+Score:233 bits(594), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:117/126(93%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK  PAPKKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAK--PAPKKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_001922605.1 Length: 124
+Range 1: 1 to 124
+
+Score:233 bits(593), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:117/126(93%), Positives:121/126(96%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTKA  K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KKGSKKAVTKAAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B-like [Danio rerio]
+Sequence ID: XP_017209712.1 Length: 124
+Range 1: 1 to 124
+
+Score:232 bits(591), Expect:6e-80, 
+Method:Compositional matrix adjust., 
+Identities:116/126(92%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK   K GKKR+RSRKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KKGSKKAVTKTSGKSGKKRRRSRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_005163278.1 Length: 124
+Range 1: 1 to 124
+
+Score:231 bits(590), Expect:8e-80, 
+Method:Compositional matrix adjust., 
+Identities:116/126(92%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK  PAPKKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAK--PAPKKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>uncharacterized protein LOC100536401 [Danio rerio]
+Sequence ID: NP_001353363.1 Length: 124
+Range 1: 1 to 124
+
+Score:231 bits(590), Expect:9e-80, 
+Method:Compositional matrix adjust., 
+Identities:116/126(92%), Positives:121/126(96%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK+  K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KKGSKKAVTKSAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_691943.2 Length: 161
+Range 1: 38 to 161
+
+Score:233 bits(593), Expect:9e-80, 
+Method:Compositional matrix adjust., 
+Identities:117/126(93%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK  PAPKKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  38   MPEPAK--PAPKKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  95
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  96   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  155
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  156  KYTSSK  161
+
+
+
+
+>uncharacterized protein LOC570661 [Danio rerio]
+Sequence ID: NP_001122231.1 Length: 124
+>Similar to histone cluster 2, H2be [Danio rerio]
+Sequence ID: AAI63469.1 Length: 124
+>Similar to histone cluster 2, H2be [Danio rerio]
+Sequence ID: AAI63478.1 Length: 124 
+Range 1: 1 to 124
+
+Score:231 bits(589), Expect:1e-79, 
+Method:Compositional matrix adjust., 
+Identities:115/126(91%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK   K GKKR+R+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KKGSKKAVTKTASKSGKKRRRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>uncharacterized protein LOC554097 [Danio rerio]
+Sequence ID: NP_001019569.2 Length: 124
+>histone H2B-like [Danio rerio]
+Sequence ID: NP_001373497.1 Length: 124
+>histone H2B-like [Danio rerio]
+Sequence ID: NP_001373648.1 Length: 124
+>histone H2B-like [Danio rerio]
+Sequence ID: NP_001373681.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_001335214.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_002667787.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: XP_005168860.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_005170787.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_009301182.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_017212444.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_021333351.1 Length: 124
+>Zgc:112234 protein [Danio rerio]
+Sequence ID: AAI24398.1 Length: 124
+>Zgc:112234 [Danio rerio]
+Sequence ID: AAI24435.1 Length: 124 
+Range 1: 1 to 124
+
+Score:231 bits(588), Expect:1e-79, 
+Method:Compositional matrix adjust., 
+Identities:116/126(92%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: NP_001013481.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: NP_001373673.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: XP_002666990.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: XP_005163256.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: XP_005170789.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: XP_005172456.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: XP_009301957.1 Length: 124
+>histone H2B 1/2 [Danio rerio]
+Sequence ID: XP_017212661.1 Length: 124
+>RecName: Full=Histone H2B 1/2 [Danio rerio]
+Sequence ID: Q5BJA5.3 Length: 124
+>Zgc:114046 protein [Danio rerio]
+Sequence ID: AAH91558.1 Length: 124
+>Zgc:112234 protein [Danio rerio]
+Sequence ID: AAH95697.1 Length: 124
+>Zgc:114046 protein [Danio rerio]
+Sequence ID: AAI52107.1 Length: 124
+>Zgc:112234 protein [Danio rerio]
+Sequence ID: AAI64926.1 Length: 124 
+Range 1: 1 to 124
+
+Score:231 bits(588), Expect:1e-79, 
+Method:Compositional matrix adjust., 
+Identities:116/126(92%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKAAP--KKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_005163255.1 Length: 124
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_017209640.1 Length: 124 
+Range 1: 1 to 124
+
+Score:230 bits(587), Expect:2e-79, 
+Method:Compositional matrix adjust., 
+Identities:115/126(91%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK   K GKKR+R+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KKGSKKAVTKTAGKSGKKRRRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B-like [Danio rerio]
+Sequence ID: NP_001373605.1 Length: 124
+Range 1: 1 to 124
+
+Score:230 bits(586), Expect:3e-79, 
+Method:Compositional matrix adjust., 
+Identities:115/126(91%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK  PAPKKGSKKAV+K   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAK--PAPKKGSKKAVSKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>anoctamin 9a [Danio rerio]
+Sequence ID: NP_001103305.1 Length: 124
+>Zgc:171937 protein [Danio rerio]
+Sequence ID: AAI52001.1 Length: 124 
+Range 1: 1 to 124
+
+Score:229 bits(585), Expect:4e-79, 
+Method:Compositional matrix adjust., 
+Identities:115/126(91%), Positives:120/126(95%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  K+GSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KEGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>uncharacterized protein LOC100124605 [Danio rerio]
+Sequence ID: NP_001096102.1 Length: 124
+>Zgc:173585 protein [Danio rerio]
+Sequence ID: AAI50433.1 Length: 124 
+Range 1: 1 to 124
+
+Score:228 bits(581), Expect:2e-78, 
+Method:Compositional matrix adjust., 
+Identities:115/126(91%), Positives:119/126(94%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK AP  KKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKVAP--KKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTI+SREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_001923636.1 Length: 124
+Range 1: 1 to 124
+
+Score:228 bits(581), Expect:2e-78, 
+Method:Compositional matrix adjust., 
+Identities:115/126(91%), Positives:119/126(94%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKTAP--KKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEAS LAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASCLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>uncharacterized protein LOC100126107 [Danio rerio]
+Sequence ID: NP_001103306.1 Length: 124
+>Zgc:173587 protein [Danio rerio]
+Sequence ID: AAI52108.1 Length: 124 
+Range 1: 1 to 124
+
+Score:228 bits(580), Expect:2e-78, 
+Method:Compositional matrix adjust., 
+Identities:115/126(91%), Positives:119/126(94%), Gaps:2/126(1%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAK+AP  KKGSKKAVTK   K GKKRKR+RKESY++YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKAAP--KKGSKKAVTKTAGKGGKKRKRTRKESYAIYVYKVLKQVHPDTGISSKAM  58
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVS GTKAVT
+Sbjct  59   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSVGTKAVT  118
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  119  KYTSSK  124
+
+
+
+
+>uncharacterized protein LOC436997 [Danio rerio]
+Sequence ID: NP_001002724.1 Length: 117
+>Zgc:92591 [Danio rerio]
+Sequence ID: AAH76088.1 Length: 117 
+Range 1: 27 to 117
+
+Score:177 bits(449), Expect:2e-58, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  36   ESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREI  95
+            E+Y+VY+YKVLKQVHPDTGISS+AM IMNSFVND+FERIA EASRLAHYNKRSTITSRE+
+Sbjct  27   ETYAVYIYKVLKQVHPDTGISSRAMSIMNSFVNDVFERIATEASRLAHYNKRSTITSREV  86
+
+Query  96   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK
+Sbjct  87   QTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  117
+
+
+
+
+>Zgc:171759 protein [Danio rerio]
+Sequence ID: AAI51967.1 Length: 67
+Range 1: 1 to 67
+
+Score:139 bits(351), Expect:3e-44, 
+Method:Compositional matrix adjust., 
+Identities:67/67(100%), Positives:67/67(100%), Gaps:0/67(0%)
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  1    MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  60
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  61   TKYTSSK  67
+
+
+
+
+>histone H2B 1/2-like [Danio rerio]
+Sequence ID: XP_021333785.1 Length: 90
+Range 1: 5 to 72
+
+Score:120 bits(302), Expect:2e-36, 
+Method:Compositional matrix adjust., 
+Identities:63/87(72%), Positives:68/87(78%), Gaps:19/87(21%)
+
+Query  32   RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTIT  91
+            R+RK+SY++YVYKVLKQVHPDTGISSKA                   SRLAHYNKRSTIT
+Sbjct  5    RTRKKSYAIYVYKVLKQVHPDTGISSKA-------------------SRLAHYNKRSTIT  45
+
+Query  92   SREIQTAVRLLLPGELAKHAVSEGTKA  118
+            SREIQTAVRLLLPGELAKHAVSEGTK+
+Sbjct  46   SREIQTAVRLLLPGELAKHAVSEGTKS  72
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,2641 @@
+RID: 7VKWPYMJ01N	
+Job Title:NP_000374.1 autoimmune regulator [Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_000374.1 autoimmune regulator [Homo sapiens] Query ID: lcl|Query_596099 Length: 545
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+autoimmune regulator [Danio rerio]                                Danio rerio     zebrafish       7955       268    268   98%   5e-83 35.21  511        NP_001103484.1   
+autoimmune regulator isoform X1 [Danio rerio]                     Danio rerio     zebrafish       7955       263    263   98%   5e-81 34.43  490        XP_009296781.1   
+E3 ubiquitin-protein ligase TRIM33 [Danio rerio]                  Danio rerio     zebrafish       7955       76.6   121   29%   5e-14 36.28  1176       NP_001002871.2   
+E3 ubiquitin-protein ligase TRIM33 isoform X1 [Danio rerio]       Danio rerio     zebrafish       7955       76.6   120   29%   5e-14 36.28  1159       XP_005166785.1   
+Trim33 protein [Danio rerio]                                      Danio rerio     zebrafish       7955       76.6   120   29%   6e-14 37.17  1058       AAI14246.1       
+RecName: Full=E3 ubiquitin-protein ligase TRIM33; AltName:...     Danio rerio     zebrafish       7955       76.6   121   29%   6e-14 36.28  1163       Q6E2N3.1         
+chromodomain-helicase-DNA-binding protein 5 isoform X4 [Danio...  Danio rerio     zebrafish       7955       75.5   145   17%   1e-13 43.16  1995       XP_021335531.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X3 [Danio...  Danio rerio     zebrafish       7955       75.5   145   17%   1e-13 43.16  1996       XP_003199545.2   
+chromodomain-helicase-DNA-binding protein 5 isoform X2 [Danio...  Danio rerio     zebrafish       7955       75.5   145   17%   1e-13 43.16  2008       XP_009304381.1   
+chromodomain-helicase-DNA-binding protein 5 isoform X1 [Danio...  Danio rerio     zebrafish       7955       75.5   145   17%   1e-13 43.16  2024       XP_009304380.1   
+transcriptional intermediary factor 1 alpha [Danio rerio]         Danio rerio     zebrafish       7955       74.7   115   29%   2e-13 50.00  961        AAT70733.1       
+sp110 nuclear body protein [Danio rerio]                          Danio rerio     zebrafish       7955       73.9   134   58%   3e-13 26.14  599        XP_021329292.1   
+chromodomain-helicase-DNA-binding protein 4a [Danio rerio]        Danio rerio     zebrafish       7955       74.3   145   9%    3e-13 51.85  1929       NP_001038323.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X2 [Danio...  Danio rerio     zebrafish       7955       74.3   144   9%    3e-13 55.56  1949       XP_021322614.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X3 [Danio...  Danio rerio     zebrafish       7955       74.3   144   9%    3e-13 55.56  1890       XP_021328683.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X3 [Danio...  Danio rerio     zebrafish       7955       74.3   144   9%    3e-13 55.56  1891       XP_021322615.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X2 [Danio...  Danio rerio     zebrafish       7955       74.3   144   9%    3e-13 55.56  1948       XP_021328682.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X1 [Danio...  Danio rerio     zebrafish       7955       74.3   144   9%    3e-13 55.56  1953       XP_021322613.1   
+chromodomain helicase DNA binding protein 4 isoform X2 [Danio...  Danio rerio     zebrafish       7955       74.3   145   9%    3e-13 51.85  1930       XP_005159409.1   
+chromodomain-helicase-DNA-binding protein 4 isoform X1 [Danio...  Danio rerio     zebrafish       7955       74.3   144   9%    3e-13 55.56  1952       XP_685699.5      
+chromodomain helicase DNA binding protein 4 isoform X1 [Danio...  Danio rerio     zebrafish       7955       74.3   145   9%    3e-13 51.85  1931       XP_021323760.1   
+transcription intermediary factor 1-alpha [Danio rerio]           Danio rerio     zebrafish       7955       73.9   115   29%   4e-13 48.68  961        NP_001002870.2   
+chromodomain-helicase-DNA-binding protein 3 isoform X2 [Danio...  Danio rerio     zebrafish       7955       73.9   144   9%    5e-13 51.85  2100       XP_009301393.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X1 [Danio...  Danio rerio     zebrafish       7955       73.9   144   9%    5e-13 51.85  2101       XP_009301392.1   
+chromodomain-helicase-DNA-binding protein 3 isoform X3 [Danio...  Danio rerio     zebrafish       7955       73.6   143   9%    5e-13 51.85  2067       XP_005172292.1   
+Wu:fd12d03 protein [Danio rerio]                                  Danio rerio     zebrafish       7955       73.2   142   9%    6e-13 55.56  1074       AAI55800.1       
+tripartite motif-containing protein 66 isoform X4 [Danio rerio]   Danio rerio     zebrafish       7955       72.4   72.4  13%   8e-13 44.87  596        XP_021327591.1   
+tripartite motif-containing protein 66 isoform X4 [Danio rerio]   Danio rerio     zebrafish       7955       72.4   72.4  13%   8e-13 44.87  596        XP_017212537.1   
+Si:ch211-51m24.3 protein [Danio rerio]                            Danio rerio     zebrafish       7955       72.0   140   9%    1e-12 51.85  584        AAI34984.1       
+Si:ch211-51m24.3 protein [Danio rerio]                            Danio rerio     zebrafish       7955       72.0   140   9%    1e-12 51.85  586        AAI55053.1       
+tripartite motif-containing protein 66 isoform X1 [Danio rerio]   Danio rerio     zebrafish       7955       71.6   71.6  13%   2e-12 44.87  1107       XP_021327588.1   
+tripartite motif-containing protein 66 isoform X3 [Danio rerio]   Danio rerio     zebrafish       7955       71.6   71.6  13%   2e-12 44.87  1086       XP_021327590.1   
+tripartite motif-containing protein 66 isoform X3 [Danio rerio]   Danio rerio     zebrafish       7955       71.6   71.6  13%   2e-12 44.87  1086       XP_017212533.1   
+tripartite motif-containing protein 66 isoform X2 [Danio rerio]   Danio rerio     zebrafish       7955       71.6   71.6  13%   2e-12 44.87  1106       XP_017212532.1   
+tripartite motif-containing protein 66 isoform X2 [Danio rerio]   Danio rerio     zebrafish       7955       71.6   71.6  13%   2e-12 44.87  1106       XP_021327589.1   
+tripartite motif-containing protein 66 isoform X1 [Danio rerio]   Danio rerio     zebrafish       7955       71.6   71.6  13%   2e-12 44.87  1107       XP_017212531.1   
+PHD finger protein 21A isoform X6 [Danio rerio]                   Danio rerio     zebrafish       7955       71.2   71.2  11%   2e-12 49.21  828        XP_005174337.1   
+PHD finger protein 21A isoform X7 [Danio rerio]                   Danio rerio     zebrafish       7955       71.2   71.2  11%   2e-12 49.21  797        XP_693915.3      
+PHD finger protein 21A isoform X1 [Danio rerio]                   Danio rerio     zebrafish       7955       70.9   70.9  11%   3e-12 49.21  892        XP_021326289.1   
+PHD finger protein 21A isoform X2 [Danio rerio]                   Danio rerio     zebrafish       7955       70.9   70.9  11%   3e-12 49.21  891        XP_021326290.1   
+PHD finger protein 21A isoform X3 [Danio rerio]                   Danio rerio     zebrafish       7955       70.9   70.9  11%   3e-12 49.21  861        XP_021326291.1   
+PHD finger protein 21A isoform X5 [Danio rerio]                   Danio rerio     zebrafish       7955       68.9   68.9  8%    1e-11 54.35  833        XP_021326293.1   
+Phf21a protein [Danio rerio]                                      Danio rerio     zebrafish       7955       68.2   68.2  11%   2e-11 47.62  539        AAI24159.1       
+LOC568230 protein [Danio rerio]                                   Danio rerio     zebrafish       7955       67.0   67.0  8%    3e-11 54.35  430        AAI27573.1       
+nuclear body protein SP140-like [Danio rerio]                     Danio rerio     zebrafish       7955       66.2   66.2  26%   5e-11 30.41  381        XP_021327102.1   
+nuclear body protein SP140-like protein [Danio rerio]             Danio rerio     zebrafish       7955       66.2   125   67%   7e-11 23.41  619        XP_001337239.2   
+Si:dkeyp-89d7.1 protein [Danio rerio]                             Danio rerio     zebrafish       7955       65.1   65.1  40%   1e-10 25.29  507        AAI24678.1       
+PHD finger protein 12 [Danio rerio]                               Danio rerio     zebrafish       7955       65.5   110   9%    2e-10 60.42  941        XP_001919955.4   
+PHD finger protein 12 [Danio rerio]                               Danio rerio     zebrafish       7955       64.7   107   8%    3e-10 58.33  942        XP_002664670.2   
+PHD finger protein 12 [Danio rerio]                               Danio rerio     zebrafish       7955       64.7   107   8%    3e-10 58.33  939        XP_021322104.1   
+nucleosome-remodeling factor subunit BPTF isoform X5 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2885       XP_005171684.1   
+nucleosome-remodeling factor subunit BPTF isoform X1 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2900       XP_009297692.1   
+nucleosome-remodeling factor subunit BPTF isoform X7 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2843       XP_017210258.1   
+nucleosome-remodeling factor subunit BPTF isoform X3 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2899       XP_009297694.1   
+nucleosome-remodeling factor subunit BPTF isoform X2 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2899       XP_009297693.1   
+nucleosome-remodeling factor subunit BPTF isoform X6 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2873       XP_009297696.1   
+nucleosome-remodeling factor subunit BPTF isoform X4 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2891       XP_009297695.1   
+nucleosome-remodeling factor subunit BPTF isoform X8 [Danio...    Danio rerio     zebrafish       7955       61.6   61.6  8%    3e-09 43.48  2816       XP_017210259.1   
+uncharacterized protein LOC550611 isoform X1 [Danio rerio]        Danio rerio     zebrafish       7955       60.5   60.5  34%   3e-09 27.32  409        XP_021326342.1   
+SP110 nuclear antigen, tandem duplicate 4 isoform 1 [Danio rerio] Danio rerio     zebrafish       7955       60.1   60.1  34%   4e-09 26.94  408        NP_001017912.2   
+Zgc:113411 [Danio rerio]                                          Danio rerio     zebrafish       7955       60.1   60.1  34%   5e-09 26.94  408        AAH93591.1       
+lysine-specific demethylase 5B isoform X2 [Danio rerio]           Danio rerio     zebrafish       7955       60.8   60.8  15%   5e-09 35.56  1477       XP_005169321.1   
+lysine (K)-specific demethylase 5Ba [Danio rerio]                 Danio rerio     zebrafish       7955       60.8   60.8  15%   5e-09 35.56  1478       NP_001334536.1   
+Zgc:173656 protein [Danio rerio]                                  Danio rerio     zebrafish       7955       59.7   59.7  34%   5e-09 26.32  408        AAI55238.1       
+tyrosine-protein kinase BAZ1B [Danio rerio]                       Danio rerio     zebrafish       7955       60.1   60.1  7%    1e-08 55.56  1807       NP_001334601.1   
+RecName: Full=Tyrosine-protein kinase BAZ1B; AltName:...          Danio rerio     zebrafish       7955       59.7   59.7  7%    1e-08 55.56  1536       A2BIL7.2         
+Zgc:173656 protein [Danio rerio]                                  Danio rerio     zebrafish       7955       57.8   57.8  9%    2e-08 46.15  386        AAI52125.1       
+PHD finger protein 14 isoform X1 [Danio rerio]                    Danio rerio     zebrafish       7955       58.2   58.2  37%   3e-08 23.27  914        XP_005159744.1   
+SP110 nuclear antigen, tandem duplicate 4 isoform 2 [Danio rerio] Danio rerio     zebrafish       7955       56.6   56.6  29%   5e-08 27.44  386        NP_001098590.2   
+PHD finger protein 14 isoform X3 [Danio rerio]                    Danio rerio     zebrafish       7955       56.6   56.6  37%   8e-08 23.95  910        XP_005159745.1   
+histone-lysine N-methyltransferase 2C isoform X3 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    8e-08 41.51  4891       XP_017206871.1   
+histone-lysine N-methyltransferase 2C isoform X2 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    8e-08 41.51  4891       XP_005163351.1   
+histone-lysine N-methyltransferase 2C isoform X4 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    8e-08 41.51  4891       XP_017206869.1   
+histone-lysine N-methyltransferase 2C isoform X1 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    8e-08 41.51  4892       XP_009296384.1   
+histone-lysine N-methyltransferase 2C isoform X7 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    9e-08 41.51  4854       XP_009296395.1   
+histone-lysine N-methyltransferase 2C isoform X8 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    9e-08 41.51  4853       XP_017206882.1   
+histone-lysine N-methyltransferase 2C isoform X6 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    9e-08 41.51  4876       XP_009296389.1   
+histone-lysine N-methyltransferase 2C isoform X9 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    9e-08 41.51  4841       XP_009296398.1   
+histone-lysine N-methyltransferase 2C isoform X5 [Danio rerio]    Danio rerio     zebrafish       7955       57.0   106   8%    9e-08 41.51  4880       XP_005163354.1   
+histone-lysine N-methyltransferase 2C isoform X6 [Danio rerio]    Danio rerio     zebrafish       7955       55.5   103   8%    2e-07 41.51  4918       XP_005162605.1   
+histone-lysine N-methyltransferase 2C isoform X7 [Danio rerio]    Danio rerio     zebrafish       7955       55.5   103   8%    2e-07 41.51  4909       XP_021325943.1   
+histone-lysine N-methyltransferase 2C isoform X5 [Danio rerio]    Danio rerio     zebrafish       7955       55.5   103   8%    2e-07 41.51  4942       XP_005162604.1   
+histone-lysine N-methyltransferase 2C isoform X4 [Danio rerio]    Danio rerio     zebrafish       7955       55.5   103   8%    2e-07 41.51  4954       XP_005162603.1   
+histone-lysine N-methyltransferase 2C isoform X3 [Danio rerio]    Danio rerio     zebrafish       7955       55.5   103   8%    2e-07 41.51  4957       XP_017209414.1   
+histone-lysine N-methyltransferase 2C isoform X2 [Danio rerio]    Danio rerio     zebrafish       7955       55.5   103   8%    2e-07 41.51  4957       XP_017209413.1   
+histone-lysine N-methyltransferase 2C isoform X1 [Danio rerio]    Danio rerio     zebrafish       7955       55.5   103   8%    2e-07 41.51  4958       XP_005162602.1   
+novel protein (zgc:85741) [Danio rerio]                           Danio rerio     zebrafish       7955       54.7   54.7  7%    3e-07 47.83  449        CAQ14256.1       
+histone-lysine N-methyltransferase, H3 lysine-36 and H4...        Danio rerio     zebrafish       7955       54.3   103   9%    5e-07 50.00  2055       XP_683890.4      
+lysine-specific demethylase 5B-B isoform X1 [Danio rerio]         Danio rerio     zebrafish       7955       54.3   54.3  7%    6e-07 47.83  1522       XP_005167081.1   
+lysine-specific demethylase 5B-B isoform X2 [Danio rerio]         Danio rerio     zebrafish       7955       53.9   53.9  7%    6e-07 47.83  1521       XP_009302264.1   
+RecName: Full=Lysine-specific demethylase 5B-B; AltName:...       Danio rerio     zebrafish       7955       53.9   53.9  7%    6e-07 47.83  1503       Q6IQX0.2         
+Zgc:85741 [Danio rerio]                                           Danio rerio     zebrafish       7955       53.9   53.9  7%    6e-07 47.83  1503       AAH71280.1       
+lysine-specific demethylase 5B-B [Danio rerio]                    Danio rerio     zebrafish       7955       53.9   53.9  7%    6e-07 47.83  1503       NP_001002166.2   
+protein kinase C-binding protein 1 isoform X2 [Danio rerio]       Danio rerio     zebrafish       7955       53.5   53.5  16%   8e-07 35.87  1182       XP_021335472.1   
+protein kinase C-binding protein 1 isoform X1 [Danio rerio]       Danio rerio     zebrafish       7955       53.5   53.5  16%   9e-07 35.87  1201       XP_692886.6      
+bromodomain adjacent to zinc finger domain protein 2A isoform ... Danio rerio     zebrafish       7955       53.5   53.5  7%    1e-06 43.48  2438       XP_021325467.1   
+bromodomain adjacent to zinc finger domain protein 2A [Danio...   Danio rerio     zebrafish       7955       53.5   53.5  7%    1e-06 43.48  2460       NP_001307060.1   
+histone-lysine N-methyltransferase, H3 lysine-36 and H4...        Danio rerio     zebrafish       7955       53.1   100   9%    1e-06 47.62  1873       XP_005173940.1   
+PHD finger protein 14 isoform X6 [Danio rerio]                    Danio rerio     zebrafish       7955       52.8   52.8  19%   1e-06 28.12  817        XP_009292630.1   
+PHD finger protein 14 isoform X5 [Danio rerio]                    Danio rerio     zebrafish       7955       52.8   52.8  19%   2e-06 28.12  821        XP_005159747.1   
+
+
+Alignments:
+
+>autoimmune regulator [Danio rerio]
+Sequence ID: NP_001103484.1 Length: 511
+>autoimmune regulator [Danio rerio]
+Sequence ID: ABW08119.1 Length: 511 
+Range 1: 9 to 502
+
+Score:268 bits(686), Expect:5e-83, 
+Method:Compositional matrix adjust., 
+Identities:194/551(35%), Positives:283/551(51%), Gaps:72/551(13%)
+
+Query  4    DAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALL  63
+            ++ LR  LR  RTEIA+A+   FPLL+ LADH+V+ E   +ETL  K+K+G  +A ++LL
+Sbjct  9    ESDLRSQLRACRTEIAMAIHDPFPLLYGLADHNVISEQILRETLERKKKDGIHKAIYSLL  68
+
+Query  64   SWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALV  123
+            + LL QD+T +  FW+ L K+YN E Y +L+ +  + PK +     + G           
+Sbjct  69   TLLLDQDTTVLKAFWKNLCKEYNKECYPKLETVFMNLPKGLKQEVRQNGN----------  118
+
+Query  124  PPPRLPTK-RKASEEARAAAPAALTPRG---------TASPGSQLKAKPPKKPESSAEQQ  173
+              P+L  + R  S + R  +   LT R          T+S GS  K K  KK + +A  Q
+Sbjct  119  --PKLELQARSQSGKKRGVSEKQLTHRTHHHHSKKSLTSSSGS--KGKLMKKTDGAAHSQ  174
+
+Query  174  RLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTP  233
+             + +GNG+Q +S SVQRAV +S+GD+P + G VE ILIQQV ESGG+KKCI+VGGEFY+ 
+Sbjct  175  -VSVGNGVQAVSTSVQRAVTVSAGDLPDSCGTVEEILIQQVIESGGAKKCIKVGGEFYSS  233
+
+Query  234  SKFEDSGSGKNKA----RSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDP  289
+             K +++   +        +SS  +   R   ++G A  G +  +      P  +    + 
+Sbjct  234  GKLDETAGAQQTQTQTAHTSSHQQ---REPSSRGLATPGLQYVVAVLTCYPQKMTFAVE-  289
+
+Query  290  QLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQ  349
+                 N+DECAVC+DGGELICCDGCPRAFHL+CL PPL  IP GTWRC  C         
+Sbjct  290  ----HNDDECAVCKDGGELICCDGCPRAFHLSCLVPPLTSIPRGTWRCQLC---------  336
+
+Query  350  PRAEEPRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGL  409
+               +  R ++       PP    A E   G   +       +       +  S+A   GL
+Sbjct  337  ---QSNRLKDRTYTHVQPP----ATETSSGSAVDFSFFSSLSSTSLSTVSASSSAQSIGL  389
+
+Query  410  DSSALHPLLCVGPEGQQNLAPGARCGVCG-DGTDVLRCTHCAAAFHWRCHFPAGTSRPGT  468
+             SS          +G++ +     CG+C     +++ C  C  A+H  C+FP G +    
+Sbjct  390  QSS----------DGER-VGIRMACGICYLTRGELITCPQCLQAYHALCNFPNGRT----  434
+
+Query  469  GLRCRSCSGDVTPAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGI  528
+              RCR+CS    P         S  +L+   +       E  L+RD+++S++ E + DGI
+Sbjct  435  --RCRNCSRSWGPGNDNSSTCRS-LQLSQHMSDQGLTPSEQLLNRDEMDSVMGESSIDGI  491
+
+Query  529  LQWAIQSMARP  539
+            LQWA  +++RP
+Sbjct  492  LQWAFHNISRP  502
+
+
+
+
+>autoimmune regulator isoform X1 [Danio rerio]
+Sequence ID: XP_009296781.1 Length: 490
+Range 1: 9 to 483
+
+Score:263 bits(671), Expect:5e-81, 
+Method:Compositional matrix adjust., 
+Identities:189/549(34%), Positives:276/549(50%), Gaps:85/549(15%)
+
+Query  4    DAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFHALL  63
+            ++ LR  LR  RTEIA+A+   FPLL+ LADH+V+ E   +ETL  K+K+G  +A ++LL
+Sbjct  9    ESDLRSQLRACRTEIAMAIHDPFPLLYGLADHNVISEQILRETLERKKKDGIHKAIYSLL  68
+
+Query  64   SWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPKALV  123
+            + LL QD+T +  FW+ L K+YN E Y +L+ +  + PK +     + G           
+Sbjct  69   TLLLDQDTTVLKAFWKNLCKEYNKECYPKLETVFMNLPKGLKQEVRQNGN----------  118
+
+Query  124  PPPRLPTK-RKASEEARAAAPAALTPRG---------TASPGSQLKAKPPKKPESSAEQQ  173
+              P+L  + R  S + R  +   LT R          T+S GS  K K  KK + +A  Q
+Sbjct  119  --PKLELQARSQSGKKRGVSEKQLTHRTHHHHSKKSLTSSSGS--KGKLMKKTDGAAHSQ  174
+
+Query  174  RLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTP  233
+             + +GNG+Q +S SVQRAV +S+GD+P + G VE ILIQQV ESGG+KKCI+VGGEFY+ 
+Sbjct  175  -VSVGNGVQAVSTSVQRAVTVSAGDLPDSCGTVEEILIQQVIESGGAKKCIKVGGEFYSS  233
+
+Query  234  SKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQ  293
+             K +++   +     ++                         Q   P+   +  +     
+Sbjct  234  GKLDETAGAQQTQTQTAHTSS--------------------HQQREPSSRGMTVE-----  268
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAE  353
+             N+DECAVC+DGGELICCDGCPRAFHL+CL PPL  IP GTWRC  C            +
+Sbjct  269  HNDDECAVCKDGGELICCDGCPRAFHLSCLVPPLTSIPRGTWRCQLC------------Q  316
+
+Query  354  EPRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSA  413
+              R ++       PP    A E   G   +       +       +  S+A   GL SS 
+Sbjct  317  SNRLKDRTYTHVQPP----ATETSSGSAVDFSFFSSLSSTSLSTVSASSSAQSMGLQSS-  371
+
+Query  414  LHPLLCVGPEGQQNLAPGARCGVCG-DGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRC  472
+                     +G++ +     CG+C     +++ C  C  A+H  C+FP G +      RC
+Sbjct  372  ---------DGER-VGIRMACGICYLTRGELITCPQCLQAYHALCNFPNGRT------RC  415
+
+Query  473  RSCSGDVTPAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWA  532
+            R+CS    P         S  +L+   +       E  L+RD+++S++ E + DGILQWA
+Sbjct  416  RNCSRSWGPGNDNSSTCRS-LQLSQHMSDQGLTPSEQLLNRDEMDSVMGESSIDGILQWA  474
+
+Query  533  IQSMARPAA  541
+              +++RP +
+Sbjct  475  FHNISRPLS  483
+
+
+
+
+>E3 ubiquitin-protein ligase TRIM33 [Danio rerio]
+Sequence ID: NP_001002871.2 Length: 1176
+Range 1: 891 to 999
+
+Score:76.6 bits(187), Expect:5e-14, 
+Method:Compositional matrix adjust., 
+Identities:41/113(36%), Positives:58/113(51%), Gaps:6/113(5%)
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGEL  308
+            SS   P  RA    G +   G    GQ+G      +  +  +    NED CAVC++GGEL
+Sbjct  891  SSCTNPNSRATLTNGTSGSNG----GQRGGTTNANSQTTAGKEDDPNEDWCAVCQNGGEL  946
+
+Query  309  ICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE--PRPQE  359
+            +CCD CP+ FH+ C  P L+  PSG W C+ C      E++   ++  PR +E
+Sbjct  947  LCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANPEIEYNCDDDPPRNKE  999
+
+
+
+
+Range 2: 937 to 984
+
+Score:44.7 bits(104), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:21/48(43%), Gaps:0/48(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+            C VC +G ++L C HC   FH  CH P   S P     C  C     P
+Sbjct  937  CAVCQNGGELLCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANP  984
+
+
+
+
+>E3 ubiquitin-protein ligase TRIM33 isoform X1 [Danio rerio]
+Sequence ID: XP_005166785.1 Length: 1159
+Range 1: 891 to 999
+
+Score:76.6 bits(187), Expect:5e-14, 
+Method:Compositional matrix adjust., 
+Identities:41/113(36%), Positives:58/113(51%), Gaps:6/113(5%)
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGEL  308
+            SS   P  RA    G +   G    GQ+G      +  +  +    NED CAVC++GGEL
+Sbjct  891  SSCTNPNSRATLTNGTSGSNG----GQRGGTTNANSQTTAGKEDDPNEDWCAVCQNGGEL  946
+
+Query  309  ICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE--PRPQE  359
+            +CCD CP+ FH+ C  P L+  PSG W C+ C      E++   ++  PR +E
+Sbjct  947  LCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANPEIEYNCDDDPPRNKE  999
+
+
+
+
+Range 2: 937 to 984
+
+Score:44.3 bits(103), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:21/48(43%), Gaps:0/48(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+            C VC +G ++L C HC   FH  CH P   S P     C  C     P
+Sbjct  937  CAVCQNGGELLCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANP  984
+
+
+
+
+>Trim33 protein [Danio rerio]
+Sequence ID: AAI14246.1 Length: 1058
+Range 1: 773 to 881
+
+Score:76.6 bits(187), Expect:6e-14, 
+Method:Compositional matrix adjust., 
+Identities:42/113(37%), Positives:56/113(49%), Gaps:6/113(5%)
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGEL  308
+            SS   P  RA    G +   G  R G   +     A   D      NED CAVC++GGEL
+Sbjct  773  SSCTNPNSRATLTNGTSGSNGGQRGGTTNANSQTTAGKED----DPNEDWCAVCQNGGEL  828
+
+Query  309  ICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE--PRPQE  359
+            +CCD CP+ FH+ C  P L+  PSG W C+ C      E++   ++  PR +E
+Sbjct  829  LCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANPEIEYNCDDDPPRNKE  881
+
+
+
+
+Range 2: 819 to 866
+
+Score:44.3 bits(103), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:21/48(43%), Gaps:0/48(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+            C VC +G ++L C HC   FH  CH P   S P     C  C     P
+Sbjct  819  CAVCQNGGELLCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANP  866
+
+
+
+
+>RecName: Full=E3 ubiquitin-protein ligase TRIM33; AltName: Full=Ectodermin homolog; AltName: Full=Protein moonshine; AltName: Full=RING-type E3 ubiquitin transferase TRIM33; AltName: Full=Transcription intermediary factor 1-gamma; Short=TIF1-gamma; AltName: Full=Tripartite motif-containing protein 33 [Danio rerio]
+Sequence ID: Q6E2N3.1 Length: 1163
+>transcriptional intermediary factor 1 gamma [Danio rerio]
+Sequence ID: AAT70732.1 Length: 1163 
+Range 1: 878 to 986
+
+Score:76.6 bits(187), Expect:6e-14, 
+Method:Compositional matrix adjust., 
+Identities:41/113(36%), Positives:58/113(51%), Gaps:6/113(5%)
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGEL  308
+            SS   P  RA    G +   G    GQ+G      +  +  +    NED CAVC++GGEL
+Sbjct  878  SSCTNPNSRATLTNGTSGSNG----GQRGGATNANSQTTAGKEDDPNEDWCAVCQNGGEL  933
+
+Query  309  ICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE--PRPQE  359
+            +CCD CP+ FH+ C  P L+  PSG W C+ C      E++   ++  PR +E
+Sbjct  934  LCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANPEIEYNCDDDPPRNKE  986
+
+
+
+
+Range 2: 924 to 971
+
+Score:44.7 bits(104), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:18/48(38%), Positives:21/48(43%), Gaps:0/48(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+            C VC +G ++L C HC   FH  CH P   S P     C  C     P
+Sbjct  924  CAVCQNGGELLCCDHCPKVFHITCHIPTLKSSPSGDWMCTFCRNLANP  971
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X4 [Danio rerio]
+Sequence ID: XP_021335531.1 Length: 1995
+Range 1: 426 to 512
+
+Score:75.5 bits(184), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:41/95(43%), Positives:55/95(57%), Gaps:14/95(14%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++   +  
+Sbjct  426  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCMCPPLKGKVQKILHWS--  483
+
+Query  355  PRPQEPPV--ETPLPPGLRSAGEEVRGPPGEPLAG  387
+                +PP+  E PL P     GE+V      PL G
+Sbjct  484  --WGDPPLPPEVPLGPD----GEKVDNLAKTPLKG  512
+
+
+
+
+Range 2: 350 to 401
+
+Score:70.1 bits(170), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  350  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  401
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X3 [Danio rerio]
+Sequence ID: XP_003199545.2 Length: 1996
+Range 1: 426 to 512
+
+Score:75.5 bits(184), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:41/95(43%), Positives:55/95(57%), Gaps:14/95(14%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++   +  
+Sbjct  426  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCMCPPLKGKVQKILHWS--  483
+
+Query  355  PRPQEPPV--ETPLPPGLRSAGEEVRGPPGEPLAG  387
+                +PP+  E PL P     GE+V      PL G
+Sbjct  484  --WGDPPLPPEVPLGPD----GEKVDNLAKTPLKG  512
+
+
+
+
+Range 2: 350 to 401
+
+Score:70.1 bits(170), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  350  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  401
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X2 [Danio rerio]
+Sequence ID: XP_009304381.1 Length: 2008
+Range 1: 426 to 512
+
+Score:75.5 bits(184), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:41/95(43%), Positives:55/95(57%), Gaps:14/95(14%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++   +  
+Sbjct  426  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCMCPPLKGKVQKILHWS--  483
+
+Query  355  PRPQEPPV--ETPLPPGLRSAGEEVRGPPGEPLAG  387
+                +PP+  E PL P     GE+V      PL G
+Sbjct  484  --WGDPPLPPEVPLGPD----GEKVDNLAKTPLKG  512
+
+
+
+
+Range 2: 350 to 401
+
+Score:70.1 bits(170), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  350  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  401
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 isoform X1 [Danio rerio]
+Sequence ID: XP_009304380.1 Length: 2024
+Range 1: 426 to 512
+
+Score:75.5 bits(184), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:41/95(43%), Positives:55/95(57%), Gaps:14/95(14%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++   +  
+Sbjct  426  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCMCPPLKGKVQKILHWS--  483
+
+Query  355  PRPQEPPV--ETPLPPGLRSAGEEVRGPPGEPLAG  387
+                +PP+  E PL P     GE+V      PL G
+Sbjct  484  --WGDPPLPPEVPLGPD----GEKVDNLAKTPLKG  512
+
+
+
+
+Range 2: 350 to 401
+
+Score:70.1 bits(170), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  350  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  401
+
+
+
+
+>transcriptional intermediary factor 1 alpha [Danio rerio]
+Sequence ID: AAT70733.1 Length: 961
+Range 1: 681 to 750
+
+Score:74.7 bits(182), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:38/76(50%), Positives:45/76(59%), Gaps:6/76(7%)
+
+Query  274  GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+            G+Q S   P A   DP     NED CAVC++GGELICCD CP+ FHL+C  P L   PSG
+Sbjct  681  GEQQSEKTPEA-DEDP-----NEDWCAVCQNGGELICCDKCPKVFHLSCHVPSLTASPSG  734
+
+Query  334  TWRCSSCLQATVQEVQ  349
+             W C+ C      E+Q
+Sbjct  735  EWYCTLCRDLNSPEMQ  750
+
+
+
+
+Range 2: 700 to 783
+
+Score:40.4 bits(93), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:24/87(28%), Positives:36/87(41%), Gaps:3/87(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPSPA  493
+            C VC +G +++ C  C   FH  CH P+ T+ P     C  C    +P     V A   +
+Sbjct  700  CAVCQNGGELICCDKCPKVFHLSCHVPSLTASPSGEWYCTLCRDLNSPEMQYNVNAGGES  759
+
+Query  494  RLAPGPAKDDTASHEPALHRDDLESLL  520
+            +        +T +H   + R   E LL
+Sbjct  760  KDLKQDLHSETFTH---VDRRKCERLL  783
+
+
+
+
+>sp110 nuclear body protein [Danio rerio]
+Sequence ID: XP_021329292.1 Length: 599
+>sp110 nuclear body protein [Danio rerio]
+Sequence ID: XP_683309.3 Length: 599 
+Range 1: 9 to 236
+
+Score:73.9 bits(180), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:69/264(26%), Positives:115/264(43%), Gaps:39/264(14%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+              TD  L  +  L +TEI+  ++     L  L DH+++PE +F++   ++ +E   Q  +
+Sbjct  9    FLTDEQLLSVFHLKKTEIS-CIEQPLIFLTQLRDHNLLPETRFKKVKGMRTREQRQQGVY  67
+
+Query  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDV-DLSQPRKGRKPPAVP  119
+             +L WL  + S  I  FWR +F+D+ +++Y  L  +  S P+ V   S+ R G +     
+Sbjct  68   DVLEWLERERSQDIRRFWRCVFEDHIVQKYPTLHLLRKSLPETVTKFSEERIGIET----  123
+
+Query  120  KALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGN  179
+                      T+    +E           R +  PGS  K KP   P     ++R+ + +
+Sbjct  124  ---------LTENSGQKEKNGTYNRKRNDR-SDDPGSSAK-KPSFSPHEKGSKERIWMLS  172
+
+Query  180  GIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVG--GEFYTPSKFE  237
+              +T               +P   G  EGIL +     G  +KCI+ G  G +++PS+FE
+Sbjct  173  RYKTQ--------------LPVKCGDKEGILYRDKLAKG--EKCIREGAQGRWFSPSEFE  216
+
+Query  238  DSGSGKNKARSSSGPKPLVRAKGA  261
+               +GK    SS   K  +R  G 
+Sbjct  217  -KFAGKE---SSRNWKASIRCDGT  236
+
+
+
+
+Range 2: 418 to 477
+
+Score:60.8 bits(146), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:28/60(47%), Positives:34/60(56%), Gaps:1/60(1%)
+
+Query  288  DPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG-TWRCSSCLQATVQ  346
+            D  + Q N+DEC VC   G L+CCD CPRAFH  C  P + E  S   W C+ C+  T Q
+Sbjct  418  DDLMDQNNDDECNVCHSEGNLVCCDKCPRAFHPDCHLPAVNEEDSAWQWICTFCMLRTRQ  477
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4a [Danio rerio]
+Sequence ID: NP_001038323.1 Length: 1929
+Range 1: 434 to 487
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  434  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWICPRCTCPSMKGKVQKI  487
+
+
+
+
+Range 2: 353 to 404
+
+Score:71.2 bits(173), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:35/52(67%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P GTW C  C +  +Q
+Sbjct  353  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGTWSCPHCEKMGIQ  404
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X2 [Danio rerio]
+Sequence ID: XP_021322614.1 Length: 1949
+Range 1: 460 to 513
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/54(56%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++HL CL+PPL +IP+G W C  C    L+  VQ+V
+Sbjct  460  CRVCKDGGELLCCDTCPSSYHLHCLNPPLPDIPNGEWICPRCLSPPLKGKVQKV  513
+
+
+
+
+Range 2: 374 to 425
+
+Score:70.5 bits(171), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P +   P GTW C  C +  +Q
+Sbjct  374  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMERAPEGTWSCPHCEKEGIQ  425
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X3 [Danio rerio]
+Sequence ID: XP_021328683.1 Length: 1890
+Range 1: 397 to 450
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/54(56%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++HL CL+PPL +IP+G W C  C    L+  VQ+V
+Sbjct  397  CRVCKDGGELLCCDTCPSSYHLHCLNPPLPDIPNGEWICPRCLSPPLKGKVQKV  450
+
+
+
+
+Range 2: 311 to 362
+
+Score:70.5 bits(171), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P +   P GTW C  C +  +Q
+Sbjct  311  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMERAPEGTWSCPHCEKEGIQ  362
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X3 [Danio rerio]
+Sequence ID: XP_021322615.1 Length: 1891
+Range 1: 398 to 451
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/54(56%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++HL CL+PPL +IP+G W C  C    L+  VQ+V
+Sbjct  398  CRVCKDGGELLCCDTCPSSYHLHCLNPPLPDIPNGEWICPRCLSPPLKGKVQKV  451
+
+
+
+
+Range 2: 312 to 363
+
+Score:70.5 bits(171), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P +   P GTW C  C +  +Q
+Sbjct  312  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMERAPEGTWSCPHCEKEGIQ  363
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X2 [Danio rerio]
+Sequence ID: XP_021328682.1 Length: 1948
+Range 1: 459 to 512
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/54(56%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++HL CL+PPL +IP+G W C  C    L+  VQ+V
+Sbjct  459  CRVCKDGGELLCCDTCPSSYHLHCLNPPLPDIPNGEWICPRCLSPPLKGKVQKV  512
+
+
+
+
+Range 2: 373 to 424
+
+Score:70.5 bits(171), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P +   P GTW C  C +  +Q
+Sbjct  373  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMERAPEGTWSCPHCEKEGIQ  424
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X1 [Danio rerio]
+Sequence ID: XP_021322613.1 Length: 1953
+Range 1: 460 to 513
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/54(56%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++HL CL+PPL +IP+G W C  C    L+  VQ+V
+Sbjct  460  CRVCKDGGELLCCDTCPSSYHLHCLNPPLPDIPNGEWICPRCLSPPLKGKVQKV  513
+
+
+
+
+Range 2: 374 to 425
+
+Score:70.5 bits(171), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P +   P GTW C  C +  +Q
+Sbjct  374  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMERAPEGTWSCPHCEKEGIQ  425
+
+
+
+
+>chromodomain helicase DNA binding protein 4 isoform X2 [Danio rerio]
+Sequence ID: XP_005159409.1 Length: 1930
+Range 1: 433 to 486
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  433  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWICPRCTCPSMKGKVQKI  486
+
+
+
+
+Range 2: 352 to 403
+
+Score:71.2 bits(173), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:35/52(67%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P GTW C  C +  +Q
+Sbjct  352  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGTWSCPHCEKMGIQ  403
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform X1 [Danio rerio]
+Sequence ID: XP_685699.5 Length: 1952
+Range 1: 459 to 512
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/54(56%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++HL CL+PPL +IP+G W C  C    L+  VQ+V
+Sbjct  459  CRVCKDGGELLCCDTCPSSYHLHCLNPPLPDIPNGEWICPRCLSPPLKGKVQKV  512
+
+
+
+
+Range 2: 373 to 424
+
+Score:70.5 bits(171), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P +   P GTW C  C +  +Q
+Sbjct  373  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMERAPEGTWSCPHCEKEGIQ  424
+
+
+
+
+>chromodomain helicase DNA binding protein 4 isoform X1 [Danio rerio]
+Sequence ID: XP_021323760.1 Length: 1931
+Range 1: 434 to 487
+
+Score:74.3 bits(181), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  434  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWICPRCTCPSMKGKVQKI  487
+
+
+
+
+Range 2: 353 to 404
+
+Score:71.2 bits(173), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:35/52(67%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P GTW C  C +  +Q
+Sbjct  353  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGTWSCPHCEKMGIQ  404
+
+
+
+
+>transcription intermediary factor 1-alpha [Danio rerio]
+Sequence ID: NP_001002870.2 Length: 961
+>Tripartite motif-containing 24 [Danio rerio]
+Sequence ID: AAH96849.1 Length: 961
+>Trim24 protein [Danio rerio]
+Sequence ID: AAI63977.1 Length: 961 
+Range 1: 681 to 750
+
+Score:73.9 bits(180), Expect:4e-13, 
+Method:Compositional matrix adjust., 
+Identities:37/76(49%), Positives:45/76(59%), Gaps:6/76(7%)
+
+Query  274  GQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+            G+Q S   P A   DP     NED CAVC++GGEL+CCD CP+ FHL+C  P L   PSG
+Sbjct  681  GEQQSEKTPEA-DEDP-----NEDWCAVCQNGGELLCCDKCPKVFHLSCHVPTLTASPSG  734
+
+Query  334  TWRCSSCLQATVQEVQ  349
+             W C+ C      E+Q
+Sbjct  735  EWYCTFCRDLNSPEMQ  750
+
+
+
+
+Range 2: 700 to 783
+
+Score:41.2 bits(95), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:25/87(29%), Positives:35/87(40%), Gaps:3/87(3%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPSPA  493
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C    +P     V A   +
+Sbjct  700  CAVCQNGGELLCCDKCPKVFHLSCHVPTLTASPSGEWYCTFCRDLNSPEMQYNVNAGGES  759
+
+Query  494  RLAPGPAKDDTASHEPALHRDDLESLL  520
+            +        +T +H   + R   E LL
+Sbjct  760  KDLKQDLHSETFTH---VDRRKCERLL  783
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X2 [Danio rerio]
+Sequence ID: XP_009301393.1 Length: 2100
+Range 1: 471 to 524
+
+Score:73.9 bits(180), Expect:5e-13, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  471  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPPIKGRVQKI  524
+
+
+
+
+Range 2: 382 to 433
+
+Score:70.1 bits(170), Expect:7e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  382  HQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELEKAPEGKWSCPHCEKEGIQ  433
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X1 [Danio rerio]
+Sequence ID: XP_009301392.1 Length: 2101
+Range 1: 471 to 524
+
+Score:73.9 bits(180), Expect:5e-13, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  471  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPPIKGRVQKI  524
+
+
+
+
+Range 2: 382 to 433
+
+Score:70.1 bits(170), Expect:7e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  382  HQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELEKAPEGKWSCPHCEKEGIQ  433
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 3 isoform X3 [Danio rerio]
+Sequence ID: XP_005172292.1 Length: 2067
+Range 1: 471 to 524
+
+Score:73.6 bits(179), Expect:5e-13, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  471  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPPIKGRVQKI  524
+
+
+
+
+Range 2: 382 to 433
+
+Score:70.1 bits(170), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  382  HQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELEKAPEGKWSCPHCEKEGIQ  433
+
+
+
+
+>Wu:fd12d03 protein, partial [Danio rerio]
+Sequence ID: AAI55800.1 Length: 1074
+Range 1: 460 to 513
+
+Score:73.2 bits(178), Expect:6e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/54(56%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++HL CL+PPL +IP+G W C  C    L+  VQ+V
+Sbjct  460  CRVCKDGGELLCCDTCPSSYHLHCLNPPLPDIPNGEWICPRCLSPPLKGKVQKV  513
+
+
+
+
+Range 2: 374 to 425
+
+Score:69.3 bits(168), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P +   P GTW C  C +  +Q
+Sbjct  374  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMERAPEGTWSCPHCEKEGIQ  425
+
+
+
+
+>tripartite motif-containing protein 66 isoform X4 [Danio rerio]
+Sequence ID: XP_021327591.1 Length: 596
+Range 1: 343 to 420
+
+Score:72.4 bits(176), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  343  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  402
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  403  ICTLCRDVEQPEVEYDCE  420
+
+
+
+
+>tripartite motif-containing protein 66 isoform X4 [Danio rerio]
+Sequence ID: XP_017212537.1 Length: 596
+Range 1: 343 to 420
+
+Score:72.4 bits(176), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  343  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  402
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  403  ICTLCRDVEQPEVEYDCE  420
+
+
+
+
+>Si:ch211-51m24.3 protein, partial [Danio rerio]
+Sequence ID: AAI34984.1 Length: 584
+Range 1: 433 to 486
+
+Score:72.0 bits(175), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  433  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWICPRCTCPSMKGKVQKI  486
+
+
+
+
+Range 2: 352 to 403
+
+Score:68.6 bits(166), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:35/52(67%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P GTW C  C +  +Q
+Sbjct  352  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGTWSCPHCEKMGIQ  403
+
+
+
+
+>Si:ch211-51m24.3 protein, partial [Danio rerio]
+Sequence ID: AAI55053.1 Length: 586
+Range 1: 433 to 486
+
+Score:72.0 bits(175), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:28/54(52%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    ++  VQ++
+Sbjct  433  CRVCKDGGELLCCDSCPSSYHIHCLNPPLPEIPNGEWICPRCTCPSMKGKVQKI  486
+
+
+
+
+Range 2: 352 to 403
+
+Score:68.6 bits(166), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/52(48%), Positives:35/52(67%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P GTW C  C +  +Q
+Sbjct  352  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGTWSCPHCEKMGIQ  403
+
+
+
+
+>tripartite motif-containing protein 66 isoform X1 [Danio rerio]
+Sequence ID: XP_021327588.1 Length: 1107
+Range 1: 854 to 931
+
+Score:71.6 bits(174), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  854  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  913
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  914  ICTLCRDVEQPEVEYDCE  931
+
+
+
+
+>tripartite motif-containing protein 66 isoform X3 [Danio rerio]
+Sequence ID: XP_021327590.1 Length: 1086
+Range 1: 833 to 910
+
+Score:71.6 bits(174), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  833  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  892
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  893  ICTLCRDVEQPEVEYDCE  910
+
+
+
+
+>tripartite motif-containing protein 66 isoform X3 [Danio rerio]
+Sequence ID: XP_017212533.1 Length: 1086
+>tripartite motif-containing protein 66 isoform X3 [Danio rerio]
+Sequence ID: XP_017212534.1 Length: 1086
+>tripartite motif-containing protein 66 isoform X3 [Danio rerio]
+Sequence ID: XP_017212535.1 Length: 1086 
+Range 1: 833 to 910
+
+Score:71.6 bits(174), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  833  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  892
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  893  ICTLCRDVEQPEVEYDCE  910
+
+
+
+
+>tripartite motif-containing protein 66 isoform X2 [Danio rerio]
+Sequence ID: XP_017212532.1 Length: 1106
+Range 1: 853 to 930
+
+Score:71.6 bits(174), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  853  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  912
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  913  ICTLCRDVEQPEVEYDCE  930
+
+
+
+
+>tripartite motif-containing protein 66 isoform X2 [Danio rerio]
+Sequence ID: XP_021327589.1 Length: 1106
+Range 1: 853 to 930
+
+Score:71.6 bits(174), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  853  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  912
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  913  ICTLCRDVEQPEVEYDCE  930
+
+
+
+
+>tripartite motif-containing protein 66 isoform X1 [Danio rerio]
+Sequence ID: XP_017212531.1 Length: 1107
+Range 1: 854 to 931
+
+Score:71.6 bits(174), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:35/78(45%), Positives:45/78(57%), Gaps:2/78(2%)
+
+Query  278  SVPAPLA--LPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            +VP P+    PS+     +NED CAVC  GG+L+CCD CP+ FHL+C  PPL   P G W
+Sbjct  854  NVPEPVVEHQPSEESPEIENEDFCAVCLIGGDLLCCDRCPKVFHLSCHVPPLHSFPVGDW  913
+
+Query  336  RCSSCLQATVQEVQPRAE  353
+             C+ C      EV+   E
+Sbjct  914  ICTLCRDVEQPEVEYDCE  931
+
+
+
+
+>PHD finger protein 21A isoform X6 [Danio rerio]
+Sequence ID: XP_005174337.1 Length: 828
+>PHD finger protein 21A isoform X6 [Danio rerio]
+Sequence ID: XP_005174339.1 Length: 828
+>PHD finger protein 21A isoform X6 [Danio rerio]
+Sequence ID: XP_005174340.1 Length: 828
+>PHD finger protein 21A isoform X6 [Danio rerio]
+Sequence ID: XP_021326294.1 Length: 828 
+Range 1: 478 to 537
+
+Score:71.2 bits(173), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:36/63(57%), Gaps:3/63(4%)
+
+Query  278  SVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            SVP P     D  +H   ED C VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  478  SVPQPSPSSGDGDIH---EDFCTVCRRSGQLLMCDTCSRVYHLDCLDPPLKNIPKGMWIC  534
+
+Query  338  SSC  340
+              C
+Sbjct  535  PKC  537
+
+
+
+
+>PHD finger protein 21A isoform X7 [Danio rerio]
+Sequence ID: XP_693915.3 Length: 797
+Range 1: 447 to 506
+
+Score:71.2 bits(173), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:36/63(57%), Gaps:3/63(4%)
+
+Query  278  SVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            SVP P     D  +H   ED C VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  447  SVPQPSPSSGDGDIH---EDFCTVCRRSGQLLMCDTCSRVYHLDCLDPPLKNIPKGMWIC  503
+
+Query  338  SSC  340
+              C
+Sbjct  504  PKC  506
+
+
+
+
+>PHD finger protein 21A isoform X1 [Danio rerio]
+Sequence ID: XP_021326289.1 Length: 892
+Range 1: 542 to 601
+
+Score:70.9 bits(172), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:36/63(57%), Gaps:3/63(4%)
+
+Query  278  SVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            SVP P     D  +H   ED C VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  542  SVPQPSPSSGDGDIH---EDFCTVCRRSGQLLMCDTCSRVYHLDCLDPPLKNIPKGMWIC  598
+
+Query  338  SSC  340
+              C
+Sbjct  599  PKC  601
+
+
+
+
+>PHD finger protein 21A isoform X2 [Danio rerio]
+Sequence ID: XP_021326290.1 Length: 891
+Range 1: 541 to 600
+
+Score:70.9 bits(172), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:36/63(57%), Gaps:3/63(4%)
+
+Query  278  SVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            SVP P     D  +H   ED C VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  541  SVPQPSPSSGDGDIH---EDFCTVCRRSGQLLMCDTCSRVYHLDCLDPPLKNIPKGMWIC  597
+
+Query  338  SSC  340
+              C
+Sbjct  598  PKC  600
+
+
+
+
+>PHD finger protein 21A isoform X3 [Danio rerio]
+Sequence ID: XP_021326291.1 Length: 861
+Range 1: 511 to 570
+
+Score:70.9 bits(172), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:31/63(49%), Positives:36/63(57%), Gaps:3/63(4%)
+
+Query  278  SVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            SVP P     D  +H   ED C VCR  G+L+ CD C R +HL CL PPL+ IP G W C
+Sbjct  511  SVPQPSPSSGDGDIH---EDFCTVCRRSGQLLMCDTCSRVYHLDCLDPPLKNIPKGMWIC  567
+
+Query  338  SSC  340
+              C
+Sbjct  568  PKC  570
+
+
+
+
+>PHD finger protein 21A isoform X5 [Danio rerio]
+Sequence ID: XP_021326293.1 Length: 833
+Range 1: 497 to 542
+
+Score:68.9 bits(167), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/46(54%), Positives:30/46(65%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            +ED C VCR  G+L+ CD C R +HL CL PPL+ IP G W C  C
+Sbjct  497  HEDFCTVCRRSGQLLMCDTCSRVYHLDCLDPPLKNIPKGMWICPKC  542
+
+
+
+
+>Phf21a protein, partial [Danio rerio]
+Sequence ID: AAI24159.1 Length: 539
+Range 1: 446 to 505
+
+Score:68.2 bits(165), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:35/63(55%), Gaps:3/63(4%)
+
+Query  278  SVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            SVP P     D  +H   ED C VCR  G+ + CD C R +HL CL PPL+ IP G W C
+Sbjct  446  SVPQPSPSSGDGDIH---EDFCTVCRRSGQSLMCDTCSRVYHLDCLDPPLKNIPKGMWIC  502
+
+Query  338  SSC  340
+              C
+Sbjct  503  PKC  505
+
+
+
+
+>LOC568230 protein, partial [Danio rerio]
+Sequence ID: AAI27573.1 Length: 430
+>LOC568230 protein, partial [Danio rerio]
+Sequence ID: AAI27575.1 Length: 430 
+Range 1: 382 to 427
+
+Score:67.0 bits(162), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:25/46(54%), Positives:31/46(67%), Gaps:0/46(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C
+Sbjct  382  HQDYCEVCQQGGEIILCDTCPRAYHLVCLEPELEKAPEGKWSCPHC  427
+
+
+
+
+>nuclear body protein SP140-like [Danio rerio]
+Sequence ID: XP_021327102.1 Length: 381
+>nuclear body protein SP140-like [Danio rerio]
+Sequence ID: XP_021329288.1 Length: 381 
+Range 1: 230 to 371
+
+Score:66.2 bits(160), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:45/148(30%), Positives:69/148(46%), Gaps:9/148(6%)
+
+Query  205  AVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGA  264
+            ++ G L ++ F +G   K I+    ++TP +F      +    S    K  +R  G    
+Sbjct  230  SLTGTLYKKRFATGKRGKSIRTEERWFTPEEF----VKEEPTLSDGFWKKDIRCHGK--T  283
+
+Query  265  APGGGEARLGQQGSVPAPLA-LPSDPQ--LHQKNEDECAVCRDGGELICCDGCPRAFHLA  321
+                 E ++ Q  SV        +DP+    Q N+D C  C   G+L+CCD CPRAFH  
+Sbjct  284  LNFLCEKKILQIHSVLCECGKCSTDPKDLADQNNDDVCFACHSEGDLVCCDECPRAFHEY  343
+
+Query  322  CLSPPLREIPSGTWRCSSCLQATVQEVQ  349
+            C  PP+ +  SG W C+ C+    Q++Q
+Sbjct  344  CHLPPVPKDASGEWICTFCMIRKKQQLQ  371
+
+
+
+
+>nuclear body protein SP140-like protein [Danio rerio]
+Sequence ID: XP_001337239.2 Length: 619
+>nuclear body protein SP140-like protein [Danio rerio]
+Sequence ID: XP_021329284.1 Length: 619 
+Range 1: 11 to 246
+
+Score:66.2 bits(160), Expect:7e-11, 
+Method:Compositional matrix adjust., 
+Identities:59/252(23%), Positives:114/252(45%), Gaps:20/252(7%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+              T+  L    R  +TEI+  ++     L  L D+D++PE  F++   + +++   +  +
+Sbjct  11   FLTNQQLLSFFRRKKTEIS-CIEQPHIFLTQLRDYDLLPEPLFEKVKKMHKRDQKQKGVY  69
+
+Query  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDV-DLSQPRKGRKPPAVP  119
+             +L WL  + S  +  FWR +FKD+ +++Y  L  + +S P  V   S+     + P   
+Sbjct  70   EVLDWLEKERSQHMHRFWRCVFKDHIVQKYPTLCLLKNSLPDAVISFSEEPADAETPTKE  129
+
+Query  120  KALV---PPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLP  176
+              +      PR  T+++  ++  +       P   ++P    + KP KKP  S+  ++  
+Sbjct  130  SEVTEKKEKPRKNTRKRIRDDQSSEDSGDPGPSSASTPT---RKKPAKKPSFSSPVKK--  184
+
+Query  177  LGNGIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKF  236
+             G+  +     + +        +P   G  EG L +     G  +KCI   G +++PS+F
+Sbjct  185  -GDNQEIWMFPIYKT------QLPVKCGDKEGTLYRDKLPKG--EKCILAQGRWFSPSEF  235
+
+Query  237  EDSGSGKNKARS  248
+            E   +GK K ++
+Sbjct  236  E-KFAGKEKTKN  246
+
+
+
+
+Range 2: 360 to 515
+
+Score:59.3 bits(142), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:48/166(29%), Positives:77/166(46%), Gaps:14/166(8%)
+
+Query  205  AVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGA  264
+            ++ G L +  F +G   KCI+    ++TP +F      K +   + G     R     G 
+Sbjct  360  SLTGTLYKGRFATGRRGKCIRTEERWFTPEEF-----VKEEPTLTDGL--WKRDILCHGK  412
+
+Query  265  APGG-GEARLGQQGSVPAP-LALPSDPQ--LHQKNEDECAVCRDGGELICCDGCPRAFHL  320
+                  + ++ Q  S+    +   +DP+  + Q N+D C  C  G +L CCDGCPRAFH 
+Sbjct  413  TLNFLCKKKILQIHSLLCECVKCSTDPEDLMEQNNDDVCYACHCGVDLRCCDGCPRAFHS  472
+
+Query  321  ACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEPPVETPL  366
+             C  P + E  SG W C+ C+  T   +Q RA     ++   ++P+
+Sbjct  473  DCHLPAVPE-GSGEWICTFCVLKT--SLQWRASSNMTEQEAFDSPV  515
+
+
+
+
+>Si:dkeyp-89d7.1 protein [Danio rerio]
+Sequence ID: AAI24678.1 Length: 507
+Range 1: 230 to 478
+
+Score:65.1 bits(157), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:66/261(25%), Positives:98/261(37%), Gaps:52/261(19%)
+
+Query  255  LVRAKG-AQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDE-------------CA  300
+            +VR KG  Q    G  +  +GQ+ +VPA L  P + +  +K                 C 
+Sbjct  230  IVRKKGRNQKRKQGKTQGIVGQKLNVPAVLKAPKERKPSKKEGGSPGKSSNLPAMLYSCG  289
+
+Query  301  VCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGT----WRCSSCLQATVQEVQPRAE  353
+            +C+   +   L+ CD C   +HL CL PPL  +P  T    W+CS C QA+  E      
+Sbjct  290  ICKKNQDQHLLLLCDTCKLHYHLGCLDPPLTRMPKKTKNSYWQCSECDQASSDEA-----  344
+
+Query  354  EPRPQEPPVETPLPPGLRSAGEEVRGP-----------PGEPLAGMDTTLVYKH-----L  397
+                 +  +ET LP G + +  +++GP           P +P      T   K       
+Sbjct  345  -----DIAMET-LPDGTKRSRRQIKGPIKFIPQEMSPEPKKPQVRGTRTRGQKRKRMSIC  398
+
+Query  398  PAPPSAAPLPGLDSSALHPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRC  457
+                   PLP  +       L   P+          C   GD  +++RC  C   +H+ C
+Sbjct  399  EEEKMEEPLP-RERRQRQSTLQKKPKADDTRTECTTCKGPGDNENLVRCDECRLCYHFGC  457
+
+Query  458  HFPAGTSRP---GTGLRCRSC  475
+              P     P   G G  C+ C
+Sbjct  458  LDPPLKKSPKQTGYGWICQEC  478
+
+
+
+
+>PHD finger protein 12 [Danio rerio]
+Sequence ID: XP_001919955.4 Length: 941
+Range 1: 55 to 102
+
+Score:65.5 bits(158), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:29/48(60%), Positives:34/48(70%), Gaps:2/48(4%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPL-RE-IPSGTWRCSSC  340
+            N D C  CR+GG+L+CCD CP AFHL C +PPL RE +PSG W C  C
+Sbjct  55   NHDICDSCREGGDLLCCDHCPAAFHLQCCNPPLSREMLPSGDWMCHRC  102
+
+
+
+
+Range 2: 297 to 334
+
+Score:45.1 bits(105), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:18/38(47%), Positives:23/38(60%), Gaps:0/38(0%)
+
+Query  308  LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATV  345
+            LI CD CP  FH+ CL PPL   P+G W C + +Q  +
+Sbjct  297  LIQCDFCPLLFHMDCLDPPLTAFPTGRWMCPNHIQNLI  334
+
+
+
+
+>PHD finger protein 12 [Danio rerio]
+Sequence ID: XP_002664670.2 Length: 942
+Range 1: 54 to 101
+
+Score:64.7 bits(156), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:28/48(58%), Positives:33/48(68%), Gaps:2/48(4%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPL-RE-IPSGTWRCSSC  340
+            N D C  CR+GG+L+CCD CP AFHL C +PPL RE +P G W C  C
+Sbjct  54   NHDTCDSCREGGDLLCCDHCPAAFHLQCCNPPLSREMLPPGDWMCHRC  101
+
+
+
+
+Range 2: 293 to 322
+
+Score:42.7 bits(99), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:16/30(53%), Positives:19/30(63%), Gaps:0/30(0%)
+
+Query  308  LICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            LI CD C   FH+ CL PPL  +P+G W C
+Sbjct  293  LIQCDYCALLFHMDCLDPPLTAMPTGRWMC  322
+
+
+
+
+>PHD finger protein 12 [Danio rerio]
+Sequence ID: XP_021322104.1 Length: 939
+Range 1: 54 to 101
+
+Score:64.7 bits(156), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:28/48(58%), Positives:33/48(68%), Gaps:2/48(4%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPL-RE-IPSGTWRCSSC  340
+            N D C  CR+GG+L+CCD CP AFHL C +PPL RE +P G W C  C
+Sbjct  54   NHDTCDSCREGGDLLCCDHCPAAFHLQCCNPPLSREMLPPGDWMCHRC  101
+
+
+
+
+Range 2: 293 to 322
+
+Score:42.7 bits(99), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:16/30(53%), Positives:19/30(63%), Gaps:0/30(0%)
+
+Query  308  LICCDGCPRAFHLACLSPPLREIPSGTWRC  337
+            LI CD C   FH+ CL PPL  +P+G W C
+Sbjct  293  LIQCDYCALLFHMDCLDPPLTAMPTGRWMC  322
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X5 [Danio rerio]
+Sequence ID: XP_005171684.1 Length: 2885
+Range 1: 347 to 392
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  347  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  392
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X1 [Danio rerio]
+Sequence ID: XP_009297692.1 Length: 2900
+Range 1: 347 to 392
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  347  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  392
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X7 [Danio rerio]
+Sequence ID: XP_017210258.1 Length: 2843
+Range 1: 347 to 392
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  347  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  392
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X3 [Danio rerio]
+Sequence ID: XP_009297694.1 Length: 2899
+Range 1: 347 to 392
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  347  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  392
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X2 [Danio rerio]
+Sequence ID: XP_009297693.1 Length: 2899
+Range 1: 346 to 391
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  346  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  391
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X6 [Danio rerio]
+Sequence ID: XP_009297696.1 Length: 2873
+Range 1: 347 to 392
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  347  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  392
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X4 [Danio rerio]
+Sequence ID: XP_009297695.1 Length: 2891
+Range 1: 347 to 392
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  347  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  392
+
+
+
+
+>nucleosome-remodeling factor subunit BPTF isoform X8 [Danio rerio]
+Sequence ID: XP_017210259.1 Length: 2816
+Range 1: 347 to 392
+
+Score:61.6 bits(148), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  296  EDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            +D C VC   G+L+CC+ C   +HL C+ PPL E+P   W+C  C+
+Sbjct  347  DDHCRVCHRLGDLLCCETCSAVYHLECVKPPLEEVPEDEWQCEICV  392
+
+
+
+
+>uncharacterized protein LOC550611 isoform X1 [Danio rerio]
+Sequence ID: XP_021326342.1 Length: 409
+>uncharacterized protein LOC550611 isoform X1 [Danio rerio]
+Sequence ID: XP_021326344.1 Length: 409 
+Range 1: 122 to 301
+
+Score:60.5 bits(145), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/194(27%), Positives:76/194(39%), Gaps:22/194(11%)
+
+Query  161  KPPKKPESSAEQQRLP---LGNGIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFES  217
+            K  K+PE   +Q  L      NG Q                +P A G+  G+L +  F  
+Sbjct  122  KQKKRPEVLQQQVVLESAEKSNGSQGEDDDDIDMTKFEGATLPVACGSNSGVLHKCRFAG  181
+
+Query  218  GGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQG  277
+                +CI+    + TP  F             + P  + R        P G   RL ++ 
+Sbjct  182  ERCGRCIRTENSWLTPEGF----------IKLNKPDGIWRKDIVSNGVPLG---RLIKK-  227
+
+Query  278  SVPAPLALPSDPQLHQK-----NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPS  332
+             V     +  D ++ Q+     N+D C VC   G L+CCD CPRAFH  C  P + E  S
+Sbjct  228  KVLELHTINCDCEICQELDQHLNDDVCFVCNSEGNLVCCDECPRAFHHHCHLPAVPEDSS  287
+
+Query  333  GTWRCSSCLQATVQ  346
+            G W C  C+   ++
+Sbjct  288  GKWSCIICVLKNMK  301
+
+
+
+
+>SP110 nuclear antigen, tandem duplicate 4 isoform 1 [Danio rerio]
+Sequence ID: NP_001017912.2 Length: 408
+Range 1: 122 to 300
+
+Score:60.1 bits(144), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:52/193(27%), Positives:76/193(39%), Gaps:21/193(10%)
+
+Query  161  KPPKKPESSAEQ--QRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESG  218
+            K  K+PE   +Q  +     NG Q                +P A G+  G+L +  F   
+Sbjct  122  KQKKRPEVLQQQVLESAEKSNGSQGEDDDDIDMTKFEGATLPVACGSNSGVLHKCRFAGE  181
+
+Query  219  GSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGS  278
+               +CI+    + TP  F             + P  + R        P G   RL ++  
+Sbjct  182  RCGRCIRTENSWLTPEGF----------IKLNKPDGIWRKDIVSNGVPLG---RLIKK-K  227
+
+Query  279  VPAPLALPSDPQLHQK-----NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+            V     +  D ++ Q+     N+D C VC   G L+CCD CPRAFH  C  P + E  SG
+Sbjct  228  VLELHTINCDCEICQELDQHLNDDVCFVCNSEGNLVCCDECPRAFHHHCHLPAVPEDSSG  287
+
+Query  334  TWRCSSCLQATVQ  346
+             W C  C+   ++
+Sbjct  288  KWSCIICVLKNMK  300
+
+
+
+
+>Zgc:113411 [Danio rerio]
+Sequence ID: AAH93591.1 Length: 408
+>Zgc:113411 protein [Danio rerio]
+Sequence ID: AAI64509.1 Length: 408 
+Range 1: 122 to 300
+
+Score:60.1 bits(144), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:52/193(27%), Positives:76/193(39%), Gaps:21/193(10%)
+
+Query  161  KPPKKPESSAEQ--QRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESG  218
+            K  K+PE   +Q  +     NG Q                +P A G+  G+L +  F   
+Sbjct  122  KQKKRPEVLQQQVLESAEKSNGSQGEDDDDIDMTKFEGATLPVACGSNSGVLHKCRFAGE  181
+
+Query  219  GSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGS  278
+               +CI+    + TP  F             + P  + R        P G   RL ++  
+Sbjct  182  RCGRCIRTENSWLTPEGF----------IKLNKPDGIWRKDIVSNGVPLG---RLIKK-K  227
+
+Query  279  VPAPLALPSDPQLHQK-----NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSG  333
+            V     +  D ++ Q+     N+D C VC   G L+CCD CPRAFH  C  P + E  SG
+Sbjct  228  VLELHTINCDCEICQELDQHLNDDVCFVCNSEGNLVCCDECPRAFHHHCHLPAVPEDSSG  287
+
+Query  334  TWRCSSCLQATVQ  346
+             W C  C+   ++
+Sbjct  288  KWSCIICVLKNMK  300
+
+
+
+
+>lysine-specific demethylase 5B isoform X2 [Danio rerio]
+Sequence ID: XP_005169321.1 Length: 1477
+Range 1: 236 to 325
+
+Score:60.8 bits(146), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:32/90(36%), Positives:45/90(50%), Gaps:3/90(3%)
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGE---LICC  311
+            L R  G+  A P  G  ++        P+  P D +  +  +  C VC  GG+   L+ C
+Sbjct  236  LRRRMGSYVAKPEPGTFKMLPVQVKEEPIVQPVDGEKSKVEQYICLVCGGGGDEDRLLLC  295
+
+Query  312  DGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            DGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  296  DGCDDSYHTFCLIPPLHDVPKGDWRCPKCL  325
+
+
+
+
+>lysine (K)-specific demethylase 5Ba [Danio rerio]
+Sequence ID: NP_001334536.1 Length: 1478
+>lysine-specific demethylase 5B isoform X1 [Danio rerio]
+Sequence ID: XP_021335228.1 Length: 1478 
+Range 1: 237 to 326
+
+Score:60.8 bits(146), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:32/90(36%), Positives:45/90(50%), Gaps:3/90(3%)
+
+Query  255  LVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGE---LICC  311
+            L R  G+  A P  G  ++        P+  P D +  +  +  C VC  GG+   L+ C
+Sbjct  237  LRRRMGSYVAKPEPGTFKMLPVQVKEEPIVQPVDGEKSKVEQYICLVCGGGGDEDRLLLC  296
+
+Query  312  DGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            DGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  297  DGCDDSYHTFCLIPPLHDVPKGDWRCPKCL  326
+
+
+
+
+>Zgc:173656 protein [Danio rerio]
+Sequence ID: AAI55238.1 Length: 408
+Range 1: 122 to 300
+
+Score:59.7 bits(143), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:50/190(26%), Positives:76/190(40%), Gaps:15/190(7%)
+
+Query  161  KPPKKPESSAEQ--QRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESG  218
+            K  K+PE   +Q  +     NG Q                +P A G+  G+L +  F   
+Sbjct  122  KQKKRPEVLQQQVLESAEKSNGSQGEDDDDIDMTKFEGETLPVACGSNSGVLHKCRFAGE  181
+
+Query  219  GSKKCIQVGGEFYTPSKFEDSGS--GKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQ  276
+               +CI+    + TP  F       GK +    S   PL R            + ++ + 
+Sbjct  182  RCGRCIRTENTWLTPEGFIKLNKPDGKWRKDIVSNGVPLGRL----------IKKKVLEL  231
+
+Query  277  GSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWR  336
+             ++     +  +   H  N+D C VC   G L+CCD CPRAFH  C  P + E  SG W 
+Sbjct  232  HTINCDCEICQELDQHL-NDDVCFVCNSEGNLVCCDECPRAFHHHCHLPAVPEDSSGKWS  290
+
+Query  337  CSSCLQATVQ  346
+            C+ C+   ++
+Sbjct  291  CTICVLKNMK  300
+
+
+
+
+>tyrosine-protein kinase BAZ1B [Danio rerio]
+Sequence ID: NP_001334601.1 Length: 1807
+Range 1: 1205 to 1249
+
+Score:60.1 bits(144), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:25/45(56%), Positives:28/45(62%), Gaps:3/45(6%)
+
+Query  299   CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C VCR  GE   LI CD C +AFHL CL P L  IP+G W C +C
+Sbjct  1205  CKVCRRKGEDDKLILCDECNKAFHLFCLRPALYRIPAGEWLCPAC  1249
+
+
+
+
+>RecName: Full=Tyrosine-protein kinase BAZ1B; AltName: Full=Bromodomain adjacent to zinc finger domain protein 1B; AltName: Full=Williams syndrome transcription factor homolog [Danio rerio]
+Sequence ID: A2BIL7.2 Length: 1536
+Range 1: 1205 to 1249
+
+Score:59.7 bits(143), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:25/45(56%), Positives:28/45(62%), Gaps:3/45(6%)
+
+Query  299   CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C VCR  GE   LI CD C +AFHL CL P L  IP+G W C +C
+Sbjct  1205  CKVCRRKGEDDKLILCDECNKAFHLFCLRPALYRIPAGEWLCPAC  1249
+
+
+
+
+>Zgc:173656 protein [Danio rerio]
+Sequence ID: AAI52125.1 Length: 386
+Range 1: 227 to 278
+
+Score:57.8 bits(138), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:31/52(59%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            N+D C VC   G L+CCD CPRAFH  C  P + E  SG W C+ C+   ++
+Sbjct  227  NDDVCFVCNSEGNLVCCDECPRAFHHHCHLPAVPEDSSGKWSCTICVLKNMK  278
+
+
+
+
+>PHD finger protein 14 isoform X1 [Danio rerio]
+Sequence ID: XP_005159744.1 Length: 914
+>PHD finger protein 14 isoform X2 [Danio rerio]
+Sequence ID: XP_021323850.1 Length: 914
+>RecName: Full=PHD finger protein 14 [Danio rerio]
+Sequence ID: A0A286Y9D1.1 Length: 914 
+Range 1: 656 to 885
+
+Score:58.2 bits(139), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:57/245(23%), Positives:87/245(35%), Gaps:57/245(23%)
+
+Query  273  LGQQGSVPAPLALPSDPQLHQKNEDE-------------CAVCRDGGE---LICCDGCPR  316
+            +GQ+ +VPA L  P + +  +K                 C +C+   +   L+ CD C  
+Sbjct  656  VGQKLNVPAVLKAPKERKPSKKEGGSPGKSSSLPAMLYSCGICKKNQDQHLLLLCDTCKL  715
+
+Query  317  AFHLACLSPPLREIPSGT----WRCSSCLQATVQEVQPRAEE------------------  354
+             +HL CL PPL  +P  T    W+CS C QA+  E     E                   
+Sbjct  716  HYHLGCLDPPLTRMPKKTKNSYWQCSECDQASSDEADIAMETLPDGTKRSRRQIKGPIKF  775
+
+Query  355  -PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSA  413
+             P+   P  + P   G R+ G++ +         M+  L  +      +    P  D + 
+Sbjct  776  IPQEMSPEPKKPQVRGTRTRGQKRKRMSICEEEKMEEPLPRERRQRQSTLQKKPKADDTR  835
+
+Query  414  LHPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP---GTGL  470
+                 C GP               GD  +++RC  C   +H+ C  P     P   G G 
+Sbjct  836  TECTTCKGP---------------GDNENLVRCDECRLCYHFGCLDPPLKKSPKQTGYGW  880
+
+Query  471  RCRSC  475
+             C+ C
+Sbjct  881  ICQEC  885
+
+
+
+
+>SP110 nuclear antigen, tandem duplicate 4 isoform 2 [Danio rerio]
+Sequence ID: NP_001098590.2 Length: 386
+Range 1: 130 to 278
+
+Score:56.6 bits(135), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:45/164(27%), Positives:69/164(42%), Gaps:20/164(12%)
+
+Query  188  VQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKAR  247
+            +Q+ V  S+    G++G  +  +    FE    + CI+    + TP  F           
+Sbjct  130  LQQQVLESAEKSNGSQGEDDDDIDMTKFEERCGR-CIRTENSWLTPEGF----------I  178
+
+Query  248  SSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQK-----NEDECAVC  302
+              + P  + R        P G   RL ++  V     +  D ++ Q+     N+D C VC
+Sbjct  179  KLNKPDGIWRKDIVSNGVPLG---RLIKK-KVLELHTINCDCEICQELDQHLNDDVCFVC  234
+
+Query  303  RDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+               G L+CCD CPRAFH  C  P + E  SG W C  C+   ++
+Sbjct  235  NSEGNLVCCDECPRAFHHHCHLPAVPEDSSGKWSCIICVLKNMK  278
+
+
+
+
+>PHD finger protein 14 isoform X3 [Danio rerio]
+Sequence ID: XP_005159745.1 Length: 910
+Range 1: 656 to 881
+
+Score:56.6 bits(135), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:57/238(24%), Positives:86/238(36%), Gaps:47/238(19%)
+
+Query  273  LGQQGSVPAPLALPSDPQLHQKNEDE-------------CAVCRDGGE---LICCDGCPR  316
+            +GQ+ +VPA L  P + +  +K                 C +C+   +   L+ CD C  
+Sbjct  656  VGQKLNVPAVLKAPKERKPSKKEGGSPGKSSSLPAMLYSCGICKKNQDQHLLLLCDTCKL  715
+
+Query  317  AFHLACLSPPLREIPSGT----WRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGLRS  372
+             +HL CL PPL  +P  T    W+CS C QA+  E     E            LP G + 
+Sbjct  716  HYHLGCLDPPLTRMPKKTKNSYWQCSECDQASSDEADIAME-----------TLPDGTKR  764
+
+Query  373  AGEEVRGP-----------PGEPLAGMDTTLVYKHL-PAPPSAAPLPGLDSSALHPLLCV  420
+            +  +++GP           P +P            +        PLP  +       L  
+Sbjct  765  SRRQIKGPIKFIPQEMSPEPKKPQRTRGQKRKRMSICEEEKMEEPLP-RERRQRQSTLQK  823
+
+Query  421  GPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRP---GTGLRCRSC  475
+             P+          C   GD  +++RC  C   +H+ C  P     P   G G  C+ C
+Sbjct  824  KPKADDTRTECTTCKGPGDNENLVRCDECRLCYHFGCLDPPLKKSPKQTGYGWICQEC  881
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X3 [Danio rerio]
+Sequence ID: XP_017206871.1 Length: 4891
+Range 1: 1001 to 1053
+
+Score:57.0 bits(136), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  1001  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1053
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X2 [Danio rerio]
+Sequence ID: XP_005163351.1 Length: 4891
+Range 1: 1000 to 1052
+
+Score:57.0 bits(136), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  1000  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1052
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X4 [Danio rerio]
+Sequence ID: XP_017206869.1 Length: 4891
+Range 1: 1001 to 1053
+
+Score:57.0 bits(136), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  1001  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1053
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X1 [Danio rerio]
+Sequence ID: XP_009296384.1 Length: 4892
+Range 1: 1001 to 1053
+
+Score:57.0 bits(136), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  1001  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1053
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X7 [Danio rerio]
+Sequence ID: XP_009296395.1 Length: 4854
+Range 1: 963 to 1015
+
+Score:57.0 bits(136), Expect:9e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  963   ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1015
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X8 [Danio rerio]
+Sequence ID: XP_017206882.1 Length: 4853
+Range 1: 962 to 1014
+
+Score:57.0 bits(136), Expect:9e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  962   ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1014
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X6 [Danio rerio]
+Sequence ID: XP_009296389.1 Length: 4876
+Range 1: 1001 to 1053
+
+Score:57.0 bits(136), Expect:9e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  1001  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1053
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X9 [Danio rerio]
+Sequence ID: XP_009296398.1 Length: 4841
+Range 1: 1001 to 1053
+
+Score:57.0 bits(136), Expect:9e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  1001  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1053
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X5 [Danio rerio]
+Sequence ID: XP_005163354.1 Length: 4880
+Range 1: 1001 to 1053
+
+Score:57.0 bits(136), Expect:9e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:31/53(58%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P+G+W+C  C+  T
+Sbjct  1001  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPNGSWKCKWCVSCT  1053
+
+
+
+
+Range 2: 380 to 424
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:17/45(38%), Positives:26/45(57%), Gaps:3/45(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            C  C++ GE   ++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  380  CQTCKEPGEDTKMLVCDVCDKGYHTFCLKPAMDSIPTNGWRCKNC  424
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X6 [Danio rerio]
+Sequence ID: XP_005162605.1 Length: 4918
+Range 1: 987 to 1039
+
+Score:55.5 bits(132), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:30/53(56%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P G+W+C  C+  T
+Sbjct  987   ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPKGSWKCKWCVLCT  1039
+
+
+
+
+Range 2: 403 to 451
+
+Score:48.5 bits(114), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:18/49(37%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            EC VC       D  +++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  403  ECKVCLSCKNPGDDSKMLVCDMCDKGYHTFCLQPIMETIPTNGWRCKNC  451
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X7 [Danio rerio]
+Sequence ID: XP_021325943.1 Length: 4909
+Range 1: 1027 to 1079
+
+Score:55.5 bits(132), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:30/53(56%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P G+W+C  C+  T
+Sbjct  1027  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPKGSWKCKWCVLCT  1079
+
+
+
+
+Range 2: 403 to 451
+
+Score:48.5 bits(114), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:18/49(37%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            EC VC       D  +++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  403  ECKVCLSCKNPGDDSKMLVCDMCDKGYHTFCLQPIMETIPTNGWRCKNC  451
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X5 [Danio rerio]
+Sequence ID: XP_005162604.1 Length: 4942
+Range 1: 1027 to 1079
+
+Score:55.5 bits(132), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:30/53(56%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P G+W+C  C+  T
+Sbjct  1027  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPKGSWKCKWCVLCT  1079
+
+
+
+
+Range 2: 403 to 451
+
+Score:48.5 bits(114), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:18/49(37%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            EC VC       D  +++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  403  ECKVCLSCKNPGDDSKMLVCDMCDKGYHTFCLQPIMETIPTNGWRCKNC  451
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X4 [Danio rerio]
+Sequence ID: XP_005162603.1 Length: 4954
+Range 1: 1027 to 1079
+
+Score:55.5 bits(132), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:30/53(56%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P G+W+C  C+  T
+Sbjct  1027  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPKGSWKCKWCVLCT  1079
+
+
+
+
+Range 2: 403 to 451
+
+Score:48.5 bits(114), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:18/49(37%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            EC VC       D  +++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  403  ECKVCLSCKNPGDDSKMLVCDMCDKGYHTFCLQPIMETIPTNGWRCKNC  451
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X3 [Danio rerio]
+Sequence ID: XP_017209414.1 Length: 4957
+Range 1: 1027 to 1079
+
+Score:55.5 bits(132), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:30/53(56%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P G+W+C  C+  T
+Sbjct  1027  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPKGSWKCKWCVLCT  1079
+
+
+
+
+Range 2: 403 to 451
+
+Score:48.5 bits(114), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:18/49(37%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            EC VC       D  +++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  403  ECKVCLSCKNPGDDSKMLVCDMCDKGYHTFCLQPIMETIPTNGWRCKNC  451
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X2 [Danio rerio]
+Sequence ID: XP_017209413.1 Length: 4957
+Range 1: 1027 to 1079
+
+Score:55.5 bits(132), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:30/53(56%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P G+W+C  C+  T
+Sbjct  1027  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPKGSWKCKWCVLCT  1079
+
+
+
+
+Range 2: 403 to 451
+
+Score:48.5 bits(114), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:18/49(37%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            EC VC       D  +++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  403  ECKVCLSCKNPGDDSKMLVCDMCDKGYHTFCLQPIMETIPTNGWRCKNC  451
+
+
+
+
+>histone-lysine N-methyltransferase 2C isoform X1 [Danio rerio]
+Sequence ID: XP_005162602.1 Length: 4958
+Range 1: 1027 to 1079
+
+Score:55.5 bits(132), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/53(42%), Positives:30/53(56%), Gaps:6/53(11%)
+
+Query  298   ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQAT  344
+             EC VC       D G L+ CD C  ++H  CL PPL+ +P G+W+C  C+  T
+Sbjct  1027  ECTVCEACGQASDPGRLLLCDDCDISYHTYCLDPPLQNVPKGSWKCKWCVLCT  1079
+
+
+
+
+Range 2: 403 to 451
+
+Score:48.5 bits(114), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:18/49(37%), Positives:26/49(53%), Gaps:6/49(12%)
+
+Query  298  ECAVCR------DGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            EC VC       D  +++ CD C + +H  CL P +  IP+  WRC +C
+Sbjct  403  ECKVCLSCKNPGDDSKMLVCDMCDKGYHTFCLQPIMETIPTNGWRCKNC  451
+
+
+
+
+>novel protein (zgc:85741), partial [Danio rerio]
+Sequence ID: CAQ14256.1 Length: 449
+Range 1: 317 to 362
+
+Score:54.7 bits(130), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/46(48%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            C VC  G +   L+ CDGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  317  CLVCGKGNDEDRLLLCDGCDDSYHTFCLIPPLTDVPKGDWRCPKCL  362
+
+
+
+
+>histone-lysine N-methyltransferase, H3 lysine-36 and H4 lysine-20 specific [Danio rerio]
+Sequence ID: XP_683890.4 Length: 2055
+Range 1: 1393 to 1431
+
+Score:54.3 bits(129), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:21/42(50%), Positives:28/42(66%), Gaps:3/42(7%)
+
+Query  299   CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C VC +GG L+CC+ CP AFH  CL+    E+P G+W C+ C
+Sbjct  1393  CFVCSEGGSLLCCESCPAAFHRECLNI---EMPQGSWFCNDC  1431
+
+
+
+
+Range 2: 1791 to 1841
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:21/53(40%), Positives:33/53(62%), Gaps:4/53(7%)
+
+Query  287   SDPQLHQKNEDECAVCRDGGELICCD--GCPRAFHLACLSPPLREIPSGTWRC  337
+             S  ++ ++ EDEC  C DGG+++ C   GCP+ +H  CL+  L + P+G W C
+Sbjct  1791  SQSEVTKEREDECFYCGDGGQIVSCKKPGCPKVYHADCLN--LSKRPAGRWEC  1841
+
+
+
+
+>lysine-specific demethylase 5B-B isoform X1 [Danio rerio]
+Sequence ID: XP_005167081.1 Length: 1522
+Range 1: 317 to 362
+
+Score:54.3 bits(129), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/46(48%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            C VC  G +   L+ CDGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  317  CLVCGKGNDEDRLLLCDGCDDSYHTFCLIPPLTDVPKGDWRCPKCL  362
+
+
+
+
+>lysine-specific demethylase 5B-B isoform X2 [Danio rerio]
+Sequence ID: XP_009302264.1 Length: 1521
+Range 1: 317 to 362
+
+Score:53.9 bits(128), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/46(48%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            C VC  G +   L+ CDGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  317  CLVCGKGNDEDRLLLCDGCDDSYHTFCLIPPLTDVPKGDWRCPKCL  362
+
+
+
+
+>RecName: Full=Lysine-specific demethylase 5B-B; AltName: Full=Histone demethylase JARID1B-B; AltName: Full=Jumonji/ARID domain-containing protein 1B-B; AltName: Full=[histone H3]-trimethyl-L-lysine(4) demethylase 5B-B [Danio rerio]
+Sequence ID: Q6IQX0.2 Length: 1503
+>novel protein (zgc:85741) [Danio rerio]
+Sequence ID: CAQ14257.1 Length: 1503 
+Range 1: 298 to 343
+
+Score:53.9 bits(128), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/46(48%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            C VC  G +   L+ CDGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  298  CLVCGKGNDEDRLLLCDGCDDSYHTFCLIPPLTDVPKGDWRCPKCL  343
+
+
+
+
+>Zgc:85741 [Danio rerio]
+Sequence ID: AAH71280.1 Length: 1503
+Range 1: 298 to 343
+
+Score:53.9 bits(128), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/46(48%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            C VC  G +   L+ CDGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  298  CLVCGKGNDEDRLLLCDGCDDSYHTFCLIPPLTDVPKGDWRCPKCL  343
+
+
+
+
+>lysine-specific demethylase 5B-B [Danio rerio]
+Sequence ID: NP_001002166.2 Length: 1503
+Range 1: 298 to 343
+
+Score:53.9 bits(128), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/46(48%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299  CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+            C VC  G +   L+ CDGC  ++H  CL PPL ++P G WRC  CL
+Sbjct  298  CLVCGKGNDEDRLLLCDGCDDSYHTFCLIPPLTDVPKGDWRCPKCL  343
+
+
+
+
+>protein kinase C-binding protein 1 isoform X2 [Danio rerio]
+Sequence ID: XP_021335472.1 Length: 1182
+Range 1: 51 to 139
+
+Score:53.5 bits(127), Expect:8e-07, 
+Method:Compositional matrix adjust., 
+Identities:33/92(36%), Positives:44/92(47%), Gaps:7/92(7%)
+
+Query  260  GAQGAAPGGGEARLGQQGSVPAPLALPSDPQ----LHQKNEDECAVCRDGGELICCDGCP  315
+            GA  ++    E R G    V  P AL +DP        +N+  C VC   G+++CC+ CP
+Sbjct  51   GAVNSSKDQSELRHGPFYYVKQP-ALTTDPVDVVPQDGRNDFYCWVCHREGQVLCCELCP  109
+
+Query  316  RAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+            R +H  CL   L   P G W C  C + TV E
+Sbjct  110  RVYHAKCLK--LAAEPEGDWFCPECEKITVAE  139
+
+
+
+
+>protein kinase C-binding protein 1 isoform X1 [Danio rerio]
+Sequence ID: XP_692886.6 Length: 1201
+Range 1: 70 to 158
+
+Score:53.5 bits(127), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:33/92(36%), Positives:44/92(47%), Gaps:7/92(7%)
+
+Query  260  GAQGAAPGGGEARLGQQGSVPAPLALPSDPQ----LHQKNEDECAVCRDGGELICCDGCP  315
+            GA  ++    E R G    V  P AL +DP        +N+  C VC   G+++CC+ CP
+Sbjct  70   GAVNSSKDQSELRHGPFYYVKQP-ALTTDPVDVVPQDGRNDFYCWVCHREGQVLCCELCP  128
+
+Query  316  RAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+            R +H  CL   L   P G W C  C + TV E
+Sbjct  129  RVYHAKCLK--LAAEPEGDWFCPECEKITVAE  158
+
+
+
+
+>bromodomain adjacent to zinc finger domain protein 2A isoform X2 [Danio rerio]
+Sequence ID: XP_021325467.1 Length: 2438
+Range 1: 2214 to 2259
+
+Score:53.5 bits(127), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299   CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+             C VCR G +   L+ CDGC R  H+ CL P + ++P G W C +C+
+Sbjct  2214  CQVCRKGDDDEYLLLCDGCDRGCHMFCLRPKVLQVPDGDWFCPNCV  2259
+
+
+
+
+>bromodomain adjacent to zinc finger domain protein 2A [Danio rerio]
+Sequence ID: NP_001307060.1 Length: 2460
+>bromodomain adjacent to zinc finger domain protein 2A isoform X1 [Danio rerio]
+Sequence ID: XP_021325466.1 Length: 2460 
+Range 1: 2236 to 2281
+
+Score:53.5 bits(127), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:20/46(43%), Positives:28/46(60%), Gaps:3/46(6%)
+
+Query  299   CAVCRDGGE---LICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL  341
+             C VCR G +   L+ CDGC R  H+ CL P + ++P G W C +C+
+Sbjct  2236  CQVCRKGDDDEYLLLCDGCDRGCHMFCLRPKVLQVPDGDWFCPNCV  2281
+
+
+
+
+>histone-lysine N-methyltransferase, H3 lysine-36 and H4 lysine-20 specific [Danio rerio]
+Sequence ID: XP_005173940.1 Length: 1873
+>histone-lysine N-methyltransferase, H3 lysine-36 and H4 lysine-20 specific [Danio rerio]
+Sequence ID: XP_021324899.1 Length: 1873 
+Range 1: 1263 to 1301
+
+Score:53.1 bits(126), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:20/42(48%), Positives:28/42(66%), Gaps:3/42(7%)
+
+Query  299   CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C VC +GG L+CC+ CP AFH  CL+    ++P G+W C+ C
+Sbjct  1263  CFVCSEGGSLLCCESCPAAFHRECLNI---DMPEGSWYCNDC  1301
+
+
+
+
+Range 2: 1657 to 1707
+
+Score:47.4 bits(111), Expect:8e-05, 
+Method:Compositional matrix adjust., 
+Identities:21/53(40%), Positives:33/53(62%), Gaps:4/53(7%)
+
+Query  287   SDPQLHQKNEDECAVCRDGGELICCD--GCPRAFHLACLSPPLREIPSGTWRC  337
+             S  ++ ++ EDEC  C DGG+++ C   GCP+ +H  CL+  L + P+G W C
+Sbjct  1657  SQQEVIKEREDECFSCGDGGQIVSCKRPGCPKVYHADCLN--LTKRPAGRWEC  1707
+
+
+
+
+>PHD finger protein 14 isoform X6 [Danio rerio]
+Sequence ID: XP_009292630.1 Length: 817
+Range 1: 656 to 772
+
+Score:52.8 bits(125), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:36/128(28%), Positives:55/128(42%), Gaps:31/128(24%)
+
+Query  273  LGQQGSVPAPLALPSDPQLHQKNEDE-------------CAVCRDGGE---LICCDGCPR  316
+            +GQ+ +VPA L  P + +  +K                 C +C+   +   L+ CD C  
+Sbjct  656  VGQKLNVPAVLKAPKERKPSKKEGGSPGKSSSLPAMLYSCGICKKNQDQHLLLLCDTCKL  715
+
+Query  317  AFHLACLSPPLREIPSGT----WRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGLRS  372
+             +HL CL PPL  +P  T    W+CS C QA+  E     E            LP G + 
+Sbjct  716  HYHLGCLDPPLTRMPKKTKNSYWQCSECDQASSDEADIAME-----------TLPDGTKR  764
+
+Query  373  AGEEVRGP  380
+            +  +++GP
+Sbjct  765  SRRQIKGP  772
+
+
+
+
+>PHD finger protein 14 isoform X5 [Danio rerio]
+Sequence ID: XP_005159747.1 Length: 821
+Range 1: 656 to 772
+
+Score:52.8 bits(125), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:36/128(28%), Positives:55/128(42%), Gaps:31/128(24%)
+
+Query  273  LGQQGSVPAPLALPSDPQLHQKNEDE-------------CAVCRDGGE---LICCDGCPR  316
+            +GQ+ +VPA L  P + +  +K                 C +C+   +   L+ CD C  
+Sbjct  656  VGQKLNVPAVLKAPKERKPSKKEGGSPGKSSSLPAMLYSCGICKKNQDQHLLLLCDTCKL  715
+
+Query  317  AFHLACLSPPLREIPSGT----WRCSSCLQATVQEVQPRAEEPRPQEPPVETPLPPGLRS  372
+             +HL CL PPL  +P  T    W+CS C QA+  E     E            LP G + 
+Sbjct  716  HYHLGCLDPPLTRMPKKTKNSYWQCSECDQASSDEADIAME-----------TLPDGTKR  764
+
+Query  373  AGEEVRGP  380
+            +  +++GP
+Sbjct  765  SRRQIKGP  772
+
+
+
+
+
+
+
+		
+
+

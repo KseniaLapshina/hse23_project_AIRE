@@ -1,0 +1,71 @@
+RID: 7VV605B3013	
+Job Title:NP_003529.1 H4C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359] Query ID: lcl|Query_166451 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Histone H4 [Caenorhabditis elegans]                               Caenorhabdit... NA              6239       198    198   100%  7e-68 99.03  103        NP_492641.1      
+
+
+Alignments:
+
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_492641.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_496889.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_496893.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_496896.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_501203.2 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_501406.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_502133.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_502139.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_502154.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_505200.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_505275.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_505291.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_505298.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_505466.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_507034.1 Length: 103
+>Histone H4 [Caenorhabditis elegans]
+Sequence ID: NP_509231.1 Length: 103
+>RecName: Full=Histone H4 [Caenorhabditis elegans]
+Sequence ID: P62784.2 Length: 103 
+Range 1: 1 to 103
+
+Score:198 bits(504), Expect:7e-68, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTY EHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYCEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+
+
+
+		
+
+

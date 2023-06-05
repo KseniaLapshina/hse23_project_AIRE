@@ -1,0 +1,41 @@
+RID: 7VUTGHPP016	
+Job Title:NP_003529.1 H4C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359] Query ID: lcl|Query_90437 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H4 [Paramecium caudatum syngen 3]                         Paramecium c... NA              196497     152    152   96%   3e-52 76.00  102        BAB64430.1       
+
+
+Alignments:
+
+>histone H4 [Paramecium caudatum syngen 3]
+Sequence ID: BAB64430.1 Length: 102
+>histone H4 [Paramecium caudatum]
+Sequence ID: BAC23149.1 Length: 102 
+Range 1: 3 to 102
+
+Score:152 bits(385), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:76/100(76%), Positives:87/100(87%), Gaps:1/100(1%)
+
+Query  5    GKGGKGLGKGGAKRH-RKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL  63
+            GK GKG+GK  AKRH RK  + +I+GITKPAIRRLARRGGVKRIS  +Y+++R VLK FL
+Sbjct  3    GKSGKGIGKVSAKRHARKPNKASIEGITKPAIRRLARRGGVKRISSFLYDDSRNVLKSFL  62
+
+Query  64   ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            ENVIRDA+TYTEHA+RKTVT MDVVY+LKRQGRTLYGFG 
+Sbjct  63   ENVIRDAITYTEHARRKTVTVMDVVYSLKRQGRTLYGFGA  102
+
+
+
+
+
+
+
+		
+
+

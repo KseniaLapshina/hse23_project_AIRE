@@ -1,0 +1,2235 @@
+RID: 7VVG48Z101N	
+Job Title:NP_003529.1 H4C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359] Query ID: lcl|Query_236771 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone 1, H4c [Homo sapiens]                                     Homo sapiens    human           9606       201    201   100%  1e-67 100.00 129        EAW55528.1       
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       200    200   100%  2e-67 100.00 105        7COW_B           
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       200    200   100%  2e-67 100.00 105        7XVL_B           
+histone H4 [Homo sapiens]                                         Homo sapiens    human           9606       200    200   100%  2e-67 100.00 103        NP_001029249.1   
+The nucleosome containing a testis-specific histone variant,...   Homo sapiens    human           9606       200    200   100%  2e-67 100.00 106        3A6N_B           
+human nucleosome core particle [Homo sapiens]                     Homo sapiens    human           9606       200    200   100%  3e-67 100.00 104        5AV6_B           
+histone 1, H4e [Homo sapiens]                                     Homo sapiens    human           9606       201    201   100%  3e-67 100.00 138        EAW55544.1       
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       199    199   100%  5e-67 100.00 107        7LYA_B           
+Crystal Structure of Human Nucleosome Core Particle Containing... Homo sapiens    human           9606       199    199   100%  5e-67 99.03  106        3AZJ_B           
+Crystal Structure of Human Nucleosome Core Particle Containing... Homo sapiens    human           9606       199    199   100%  5e-67 99.03  106        3AZL_B           
+Crystal Structure of Human Nucleosome Core Particle Containing... Homo sapiens    human           9606       199    199   100%  5e-67 99.03  106        3AZN_B           
+Crystal Structure of Human Nucleosome Core Particle Containing... Homo sapiens    human           9606       199    199   100%  5e-67 99.03  106        3AZK_B           
+Crystal Structure of Human Nucleosome Core Particle Containing... Homo sapiens    human           9606       199    199   100%  5e-67 99.03  106        3AZI_B           
+Crystal Structure of Human Nucleosome Core Particle Containing... Homo sapiens    human           9606       199    199   100%  5e-67 99.03  106        3AZM_B           
+HIST1H4I protein [Homo sapiens]                                   Homo sapiens    human           9606       198    198   100%  8e-67 99.03  103        AAH67496.1       
+Cryo-EM structure of human kinetochore protein CENP-N with the... Homo sapiens    human           9606       198    198   99%   9e-67 100.00 102        6C0W_B           
+HIST1H4F [Homo sapiens]                                           Homo sapiens    human           9606       198    198   100%  1e-66 99.03  103        CAG46986.1       
+HIST1H4H protein [Homo sapiens]                                   Homo sapiens    human           9606       197    197   100%  2e-66 99.03  103        AAI20941.1       
+The nucleosome structure containing H2B-K120 and H4-K31...        Homo sapiens    human           9606       197    197   100%  2e-66 99.03  106        5B40_B           
+Crystal structure of the nucleosome core particle [Homo sapiens]  Homo sapiens    human           9606       197    197   99%   3e-66 100.00 102        3X1S_B           
+Chain C, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       195    195   98%   1e-65 100.00 102        7V6Q_C           
+HIST2H4B protein [Homo sapiens]                                   Homo sapiens    human           9606       194    194   97%   7e-65 100.00 102        AAI28106.1       
+OCT4-SOX2-bound nucleosome - SHL+6 [Homo sapiens]                 Homo sapiens    human           9606       194    194   100%  8e-65 99.03  105        6YOV_B           
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       193    193   99%   8e-65 98.04  102        8HAG_B           
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       193    193   100%  1e-64 97.09  103        CAA24918.1       
+human nucleosome core particle [Homo sapiens]                     Homo sapiens    human           9606       192    192   100%  4e-64 96.12  104        5AV5_B           
+CENP-A nucleosome bound by two copies of CENP-C(CD) and one co... Homo sapiens    human           9606       184    184   91%   4e-61 100.00 94         6MUO_B           
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       174    174   85%   2e-57 100.00 89         7XCT_B           
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       174    174   85%   2e-57 100.00 88         7XCR_B           
+Crystal Structure of Human Nucleosome Core Particle lacking H4... Homo sapiens    human           9606       174    174   84%   6e-57 100.00 105        3W99_B           
+Human nucleosome core particle containing 145 bp of DNA [Homo...  Homo sapiens    human           9606       172    172   84%   1e-56 100.00 87         6IPU_F           
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       169    169   82%   2e-55 100.00 85         8GRM_B           
+Crystal structure of (CENP-A/H4)2 heterotetramer [Homo sapiens]   Homo sapiens    human           9606       164    164   80%   1e-53 100.00 84         3NQJ_B           
+Complex structure 6 of DAXX/H3.3(sub7)/H4 [Homo sapiens]          Homo sapiens    human           9606       164    164   80%   2e-53 100.00 83         4H9S_C           
+Human nucleosome core particle containing 145 bp of DNA [Homo...  Homo sapiens    human           9606       162    162   79%   7e-53 100.00 82         6IPU_B           
+Structure of human cGAS (K394E) bound to the nucleosome (focus... Homo sapiens    human           9606       161    161   78%   3e-52 100.00 81         6Y5E_B           
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       159    159   77%   1e-51 100.00 80         7XD1_B           
+Structure of the 1:1 cGAS-nucleosome complex [Homo sapiens]       Homo sapiens    human           9606       159    159   77%   2e-51 100.00 80         7CCQ_B           
+Chain B, Histone H4 [Homo sapiens]                                Homo sapiens    human           9606       156    156   75%   3e-50 100.00 78         7EA8_B           
+histone H4-like protein type G [Homo sapiens]                     Homo sapiens    human           9606       129    129   95%   2e-39 84.69  98         NP_003538.1      
+histone H4 [Homo sapiens]                                         Homo sapiens    human           9606       85.9   85.9  41%   8e-23 100.00 43         AAT78448.1       
+
+
+Alignments:
+
+>histone 1, H4c [Homo sapiens]
+Sequence ID: EAW55528.1 Length: 129
+Range 1: 27 to 129
+
+Score:201 bits(512), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  27   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  86
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  87   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  129
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7COW_B Length: 105
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7COW_F Length: 105
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7COW_L Length: 105
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7COW_P Length: 105 
+Range 1: 3 to 105
+
+Score:200 bits(509), Expect:2e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  3    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  62
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  63   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  105
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_B Length: 105
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_F Length: 105
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_L Length: 105
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_P Length: 105
+>Chain V, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_V Length: 105
+>Chain Z, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_Z Length: 105
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_f Length: 105
+>Chain j, Histone H4 [Homo sapiens]
+Sequence ID: 7XVL_j Length: 105
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XVM_B Length: 105
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XVM_F Length: 105
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7XVM_L Length: 105
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7XVM_P Length: 105
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XX5_B Length: 105
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XX5_F Length: 105
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7XX5_L Length: 105
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7XX5_P Length: 105
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_B Length: 105
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_F Length: 105
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_L Length: 105
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_P Length: 105
+>Chain V, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_V Length: 105
+>Chain Z, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_Z Length: 105
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_f Length: 105
+>Chain j, Histone H4 [Homo sapiens]
+Sequence ID: 7XX6_j Length: 105
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XX7_B Length: 105
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XX7_F Length: 105
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7XX7_L Length: 105
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7XX7_P Length: 105 
+Range 1: 3 to 105
+
+Score:200 bits(508), Expect:2e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  3    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  62
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  63   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  105
+
+
+
+
+>histone H4 [Homo sapiens]
+Sequence ID: NP_001029249.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003486.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003529.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003530.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003531.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003532.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003533.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003534.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003535.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003536.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003537.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_003539.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_068803.1 Length: 103
+>histone H4 [Homo sapiens]
+Sequence ID: NP_778224.1 Length: 103
+>histone H4 isoform X1 [Homo sapiens]
+Sequence ID: XP_024307476.2 Length: 103
+>histone H4 isoform X1 [Homo sapiens]
+Sequence ID: XP_047280390.1 Length: 103
+>histone H4 isoform X1 [Homo sapiens]
+Sequence ID: XP_047280392.1 Length: 103
+>histone H4 isoform X1 [Homo sapiens]
+Sequence ID: XP_047280395.1 Length: 103
+>histone H4 isoform X1 [Homo sapiens]
+Sequence ID: XP_047280398.1 Length: 103
+>histone H4 isoform X1 [Homo sapiens]
+Sequence ID: XP_054193501.1 Length: 103
+>RecName: Full=Histone H4 [Homo sapiens]
+Sequence ID: P62805.2 Length: 103
+>Crystal structure of human nucleosome core particle [Homo sapiens]
+Sequence ID: 2CV5_B Length: 103
+>Crystal structure of human nucleosome core particle [Homo sapiens]
+Sequence ID: 2CV5_F Length: 103
+>Crystal structure of partially trypsinized (CENP-A/H4)2 heterotetramer [Homo sapiens]
+Sequence ID: 3NQU_B Length: 103
+>Structure of a CENP-A-Histone H4 Heterodimer in complex with chaperone HJURP [Homo sapiens]
+Sequence ID: 3R45_B Length: 103
+>Structure of the variant histone H3.3-H4 heterodimer in complex with its chaperone DAXX [Homo sapiens]
+Sequence ID: 4HGA_C Length: 103
+>Crystal structure of human SPT16 Mid-AID/H3-H4 tetramer FACT Histone complex [Homo sapiens]
+Sequence ID: 4Z2M_H Length: 103
+>Crystal structure of human SPT16 Mid-AID/H3-H4 tetramer FACT Histone complex [Homo sapiens]
+Sequence ID: 4Z2M_J Length: 103
+>Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2 [Homo sapiens]
+Sequence ID: 5C3I_C Length: 103
+>Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2 [Homo sapiens]
+Sequence ID: 5C3I_G Length: 103
+>Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2 [Homo sapiens]
+Sequence ID: 5C3I_K Length: 103
+>Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2 [Homo sapiens]
+Sequence ID: 5C3I_O Length: 103
+>Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2 [Homo sapiens]
+Sequence ID: 5C3I_S Length: 103
+>Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2 [Homo sapiens]
+Sequence ID: 5C3I_W Length: 103
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,R-configuration) [Homo sapiens]
+Sequence ID: 5XF3_B Length: 103
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,R-configuration) [Homo sapiens]
+Sequence ID: 5XF3_F Length: 103
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (S,S-configuration) [Homo sapiens]
+Sequence ID: 5XF4_B Length: 103
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (S,S-configuration) [Homo sapiens]
+Sequence ID: 5XF4_F Length: 103
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,S-configuration) [Homo sapiens]
+Sequence ID: 5XF5_B Length: 103
+>Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,S-configuration) [Homo sapiens]
+Sequence ID: 5XF5_F Length: 103
+>Cryo-EM structure of CENP-A nucleosome in complex with kinetochore protein CENP-N [Homo sapiens]
+Sequence ID: 6BUZ_B Length: 103
+>Cryo-EM structure of CENP-A nucleosome in complex with kinetochore protein CENP-N [Homo sapiens]
+Sequence ID: 6BUZ_F Length: 103
+>Cryo-EM structure of the CENP-A nucleosome (W601) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0C_B Length: 103
+>Cryo-EM structure of the CENP-A nucleosome (W601) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0C_F Length: 103
+>Cryo-EM structure of the centromeric nucleosome (Native alpha satellite DNA) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0P_B Length: 103
+>Cryo-EM structure of the centromeric nucleosome (Native alpha satellite DNA) in complex with a single chain antibody fragment [Homo sapiens]
+Sequence ID: 6E0P_F Length: 103
+>Cryo-EM structure of the human INO80 complex bound to nucleosome [Homo sapiens]
+Sequence ID: 6HTS_J Length: 103
+>Cryo-EM structure of the human INO80 complex bound to nucleosome [Homo sapiens]
+Sequence ID: 6HTS_N Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 6L9Z_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 6L9Z_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 6L9Z_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 6L9Z_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_P Length: 103
+>Chain V, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_V Length: 103
+>Chain Z, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_Z Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_f Length: 103
+>Chain j, Histone H4 [Homo sapiens]
+Sequence ID: 6LA2_j Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_B Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_F Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_L Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 [Homo sapiens]
+Sequence ID: 6LA8_P Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_B Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_F Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_L Length: 103
+>349 bp di-nucleosome harboring cohesive DNA termini assembled with linker histone H1.0 (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6LA9_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 6LAB_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 6LAB_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 6LAB_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 6LAB_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 6LER_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 6LER_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 6LER_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 6LER_P Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_B Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_F Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_L Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini [Homo sapiens]
+Sequence ID: 6M3V_P Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_B Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_F Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_L Length: 103
+>355 bp di-nucleosome harboring cohesive DNA termini (high cryoprotectant) [Homo sapiens]
+Sequence ID: 6M44_P Length: 103
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4D_B Length: 103
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4D_F Length: 103
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4G_B Length: 103
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4G_F Length: 103
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4H_B Length: 103
+>Structural mechanism of nucleosome dynamics governed by human histone variants H2A.B and H2A.Z.2.2 [Homo sapiens]
+Sequence ID: 6M4H_F Length: 103
+>Cryo-EM structure of the centromeric nucleosome with native alpha satellite DNA [Homo sapiens]
+Sequence ID: 6O1D_B Length: 103
+>Cryo-EM structure of the centromeric nucleosome with native alpha satellite DNA [Homo sapiens]
+Sequence ID: 6O1D_F Length: 103
+>Human-D02 Nucleosome Core Particle with biotin-streptavidin label [Homo sapiens]
+Sequence ID: 6R0C_B Length: 103
+>Human-D02 Nucleosome Core Particle with biotin-streptavidin label [Homo sapiens]
+Sequence ID: 6R0C_F Length: 103
+>Cryo-EM structure of NCP-6-4PP(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Y_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 6RNY_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 6RNY_F Length: 103
+>Class 1 : CENP-A nucleosome [Homo sapiens]
+Sequence ID: 6SE0_B Length: 103
+>Class 1 : CENP-A nucleosome [Homo sapiens]
+Sequence ID: 6SE0_F Length: 103
+>Class2 : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SE6_B Length: 103
+>Class2 : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SE6_F Length: 103
+>Class2A : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEE_B Length: 103
+>Class2A : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEE_F Length: 103
+>Class2C : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEF_B Length: 103
+>Class2C : CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEF_F Length: 103
+>Class1: CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEG_B Length: 103
+>Class1: CENP-A nucleosome in complex with CENP-C central region [Homo sapiens]
+Sequence ID: 6SEG_F Length: 103
+>Structure of a human nucleosome at 3.2 A resolution [Homo sapiens]
+Sequence ID: 6T79_B Length: 103
+>Structure of a human nucleosome at 3.2 A resolution [Homo sapiens]
+Sequence ID: 6T79_F Length: 103
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7A_B Length: 103
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7A_F Length: 103
+>Structure of human Sox2 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7B_B Length: 103
+>Structure of human Sox2 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7B_F Length: 103
+>Structure of two copies of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7C_B Length: 103
+>Structure of two copies of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7C_F Length: 103
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7D_B Length: 103
+>Structure of human Sox11 transcription factor in complex with a nucleosome [Homo sapiens]
+Sequence ID: 6T7D_F Length: 103
+>Structure of FACT_subnucleosome complex 1 [Homo sapiens]
+Sequence ID: 6UPK_B Length: 103
+>Structure of FACT_subnucleosome complex 1 [Homo sapiens]
+Sequence ID: 6UPK_F Length: 103
+>Structure of FACT_subnucleosome complex 2 [Homo sapiens]
+Sequence ID: 6UPL_B Length: 103
+>Structure of FACT_subnucleosome complex 2 [Homo sapiens]
+Sequence ID: 6UPL_F Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6V92_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6V92_f Length: 103
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_B Length: 103
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_F Length: 103
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_N Length: 103
+>Structure of human cGAS (K394E) bound to the nucleosome [Homo sapiens]
+Sequence ID: 6Y5D_R Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7DBP_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7DBP_F Length: 103
+>1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JO9_B Length: 103
+>1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JO9_F Length: 103
+>2:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JOA_B Length: 103
+>2:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7JOA_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7K5X_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7K5X_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7K5Y_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7K5Y_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7K60_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7K60_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7K61_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7K61_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7K63_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7K63_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7NL0_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7NL0_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_P Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_f Length: 103
+>Chain l, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_l Length: 103
+>Chain p, Histone H4 [Homo sapiens]
+Sequence ID: 7PET_p Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PEU_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PEU_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PEU_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PEU_P Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PEU_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PEU_f Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PEV_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PEV_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PEV_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PEV_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PEW_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PEW_F Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PEX_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PEX_f Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PEY_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PEY_P Length: 103
+>Chain l, Histone H4 [Homo sapiens]
+Sequence ID: 7PEZ_l Length: 103
+>Chain p, Histone H4 [Homo sapiens]
+Sequence ID: 7PEZ_p Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PF0_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PF0_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PF0_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PF0_P Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PF0_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PF0_f Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PF2_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PF2_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PF2_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PF2_P Length: 103
+>Chain l, Histone H4 [Homo sapiens]
+Sequence ID: 7PF3_l Length: 103
+>Chain p, Histone H4 [Homo sapiens]
+Sequence ID: 7PF3_p Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PF4_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PF4_P Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PF5_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PF5_f Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PF6_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PF6_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PFA_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PFA_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PFA_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PFA_P Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PFA_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PFA_f Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PFC_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PFC_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PFC_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PFC_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PFD_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PFD_F Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PFE_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PFE_f Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PFF_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PFF_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PFT_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PFT_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PFT_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PFT_P Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PFT_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PFT_f Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PFU_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PFU_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PFU_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PFU_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PFV_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PFV_F Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7PFW_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7PFW_f Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7PFX_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7PFX_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7PII_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7PII_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7R5R_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7R5R_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7TAN_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7TAN_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7U46_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7U46_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7U47_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7U47_F Length: 103
+>Chain M, Histone H4 [Homo sapiens]
+Sequence ID: 7U47_M Length: 103
+>Chain Q, Histone H4 [Homo sapiens]
+Sequence ID: 7U47_Q Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7U4D_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7U4D_F Length: 103
+>Chain M, Histone H4 [Homo sapiens]
+Sequence ID: 7U4D_M Length: 103
+>Chain Q, Histone H4 [Homo sapiens]
+Sequence ID: 7U4D_Q Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7V90_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7V90_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7V96_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7V96_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7V96_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7V96_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7V9C_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7V9C_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7V9C_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7V9C_P Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7V9J_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7V9J_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7V9J_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7V9J_P Length: 103
+>Chain T, Histone H4 [Homo sapiens]
+Sequence ID: 7V9J_T Length: 103
+>Chain X, Histone H4 [Homo sapiens]
+Sequence ID: 7V9J_X Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_P Length: 103
+>Chain T, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_T Length: 103
+>Chain X, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_X Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7V9K_f Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7V9S_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7V9S_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7V9S_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7V9S_P Length: 103
+>Chain T, Histone H4 [Homo sapiens]
+Sequence ID: 7V9S_T Length: 103
+>Chain X, Histone H4 [Homo sapiens]
+Sequence ID: 7V9S_X Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_F Length: 103
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_L Length: 103
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_P Length: 103
+>Chain T, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_T Length: 103
+>Chain X, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_X Length: 103
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_b Length: 103
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7VA4_f Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7VCQ_B Length: 103
+>Chain E, Histone H4 [Homo sapiens]
+Sequence ID: 7VCQ_E Length: 103
+>Chain H, Histone H4 [Homo sapiens]
+Sequence ID: 7VCQ_H Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7YWX_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7YWX_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7YYH_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7YYH_F Length: 103
+>Chain J, Histone H4 [Homo sapiens]
+Sequence ID: 7ZI4_J Length: 103
+>Chain N, Histone H4 [Homo sapiens]
+Sequence ID: 7ZI4_N Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8AAG_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8AAG_F Length: 103
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8H1T_B Length: 103
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8H1T_F Length: 103 
+Range 1: 1 to 103
+
+Score:200 bits(508), Expect:2e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>The nucleosome containing a testis-specific histone variant, human H3T [Homo sapiens]
+Sequence ID: 3A6N_B Length: 106
+>The nucleosome containing a testis-specific histone variant, human H3T [Homo sapiens]
+Sequence ID: 3A6N_F Length: 106
+>The human nucleosome structure [Homo sapiens]
+Sequence ID: 3AFA_B Length: 106
+>The human nucleosome structure [Homo sapiens]
+Sequence ID: 3AFA_F Length: 106
+>The structure of the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 3AN2_B Length: 106
+>The structure of the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 3AN2_F Length: 106
+>The human nucleosome structure containing the histone variant H3.2 [Homo sapiens]
+Sequence ID: 3AV1_B Length: 106
+>The human nucleosome structure containing the histone variant H3.2 [Homo sapiens]
+Sequence ID: 3AV1_F Length: 106
+>The human nucleosome structure containing the histone variant H3.3 [Homo sapiens]
+Sequence ID: 3AV2_B Length: 106
+>The human nucleosome structure containing the histone variant H3.3 [Homo sapiens]
+Sequence ID: 3AV2_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K56Q mutation [Homo sapiens]
+Sequence ID: 3AYW_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K56Q mutation [Homo sapiens]
+Sequence ID: 3AYW_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K64Q mutation [Homo sapiens]
+Sequence ID: 3AZE_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K64Q mutation [Homo sapiens]
+Sequence ID: 3AZE_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K79Q mutation [Homo sapiens]
+Sequence ID: 3AZF_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K79Q mutation [Homo sapiens]
+Sequence ID: 3AZF_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K115Q mutation [Homo sapiens]
+Sequence ID: 3AZG_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K115Q mutation [Homo sapiens]
+Sequence ID: 3AZG_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K122Q mutation [Homo sapiens]
+Sequence ID: 3AZH_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H3K122Q mutation [Homo sapiens]
+Sequence ID: 3AZH_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle lacking H2A N-terminal region [Homo sapiens]
+Sequence ID: 3W96_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle lacking H2A N-terminal region [Homo sapiens]
+Sequence ID: 3W96_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle lacking H2B N-terminal region [Homo sapiens]
+Sequence ID: 3W97_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle lacking H2B N-terminal region [Homo sapiens]
+Sequence ID: 3W97_F Length: 106
+>Crystal Structure of Human Nucleosome Core Particle lacking H3.1 N-terminal region [Homo sapiens]
+Sequence ID: 3W98_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle lacking H3.1 N-terminal region [Homo sapiens]
+Sequence ID: 3W98_F Length: 106
+>The nucleosome containing human H2A.Z.1 [Homo sapiens]
+Sequence ID: 3WA9_B Length: 106
+>The nucleosome containing human H2A.Z.1 [Homo sapiens]
+Sequence ID: 3WA9_F Length: 106
+>The nucleosome containing human H2A.Z.2 [Homo sapiens]
+Sequence ID: 3WAA_B Length: 106
+>The nucleosome containing human H2A.Z.2 [Homo sapiens]
+Sequence ID: 3WAA_F Length: 106
+>The nucleosome containing human TSH2B [Homo sapiens]
+Sequence ID: 3WKJ_B Length: 106
+>The nucleosome containing human TSH2B [Homo sapiens]
+Sequence ID: 3WKJ_F Length: 106
+>Crystal Structure of the heterotypic nucleosome containing human CENP-A and H3.3 [Homo sapiens]
+Sequence ID: 3WTP_B Length: 106
+>Crystal Structure of the heterotypic nucleosome containing human CENP-A and H3.3 [Homo sapiens]
+Sequence ID: 3WTP_F Length: 106
+>Crystal structure of the human nucleosome containing 6-4PP (inside) [Homo sapiens]
+Sequence ID: 4YM5_B Length: 106
+>Crystal structure of the human nucleosome containing 6-4PP (inside) [Homo sapiens]
+Sequence ID: 4YM5_F Length: 106
+>Crystal structure of the human nucleosome containing 6-4PP (outside) [Homo sapiens]
+Sequence ID: 4YM6_B Length: 106
+>Crystal structure of the human nucleosome containing 6-4PP (outside) [Homo sapiens]
+Sequence ID: 4YM6_F Length: 106
+>The nucleosome containing human H3.5 [Homo sapiens]
+Sequence ID: 4Z5T_B Length: 106
+>The nucleosome containing human H3.5 [Homo sapiens]
+Sequence ID: 4Z5T_F Length: 106
+>Crystal structure of human nucleosome containing H3.Y [Homo sapiens]
+Sequence ID: 5AY8_B Length: 106
+>Crystal structure of human nucleosome containing H3.Y [Homo sapiens]
+Sequence ID: 5AY8_F Length: 106
+>Crystal structure of the nucleosome containing histone H3 with the crotonylated lysine 122 [Homo sapiens]
+Sequence ID: 5B0Y_B Length: 106
+>Crystal structure of the nucleosome containing histone H3 with the crotonylated lysine 122 [Homo sapiens]
+Sequence ID: 5B0Y_F Length: 106
+>The crystal structure of the nucleosome containing H3.2, at 1.98 A resolution [Homo sapiens]
+Sequence ID: 5B0Z_B Length: 106
+>The crystal structure of the nucleosome containing H3.2, at 1.98 A resolution [Homo sapiens]
+Sequence ID: 5B0Z_F Length: 106
+>The crystal structure of the nucleosome containing cyclobutane pyrimidine dimer [Homo sapiens]
+Sequence ID: 5B24_B Length: 106
+>The crystal structure of the nucleosome containing cyclobutane pyrimidine dimer [Homo sapiens]
+Sequence ID: 5B24_F Length: 106
+>Human nucleosome containing CpG unmethylated DNA [Homo sapiens]
+Sequence ID: 5B2I_B Length: 106
+>Human nucleosome containing CpG unmethylated DNA [Homo sapiens]
+Sequence ID: 5B2I_F Length: 106
+>Human nucleosome containing CpG methylated DNA [Homo sapiens]
+Sequence ID: 5B2J_B Length: 106
+>Human nucleosome containing CpG methylated DNA [Homo sapiens]
+Sequence ID: 5B2J_F Length: 106
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.1. [Homo sapiens]
+Sequence ID: 5B31_B Length: 106
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.1. [Homo sapiens]
+Sequence ID: 5B31_F Length: 106
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B32_B Length: 106
+>The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B32_F Length: 106
+>The crystal structure of the H2AZ nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B33_B Length: 106
+>The crystal structure of the H2AZ nucleosome with H3.3. [Homo sapiens]
+Sequence ID: 5B33_F Length: 106
+>Nucleosome containing unmethylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPI_B Length: 106
+>Nucleosome containing unmethylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPI_F Length: 106
+>Nucleosome containing methylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPJ_B Length: 106
+>Nucleosome containing methylated Sat2R DNA [Homo sapiens]
+Sequence ID: 5CPJ_F Length: 106
+>Nucleosome containing methylated Sat2L DNA [Homo sapiens]
+Sequence ID: 5CPK_B Length: 106
+>Nucleosome containing methylated Sat2L DNA [Homo sapiens]
+Sequence ID: 5CPK_F Length: 106
+>Crystal structure of unusual nucleosome [Homo sapiens]
+Sequence ID: 5GSE_B Length: 106
+>Crystal structure of unusual nucleosome [Homo sapiens]
+Sequence ID: 5GSE_F Length: 106
+>Crystal structure of unusual nucleosome [Homo sapiens]
+Sequence ID: 5GSE_L Length: 106
+>Crystal structure of unusual nucleosome [Homo sapiens]
+Sequence ID: 5GSE_P Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 5GTC_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 5GTC_F Length: 106
+>The crystal structure of the nucleosome containing H3.6 [Homo sapiens]
+Sequence ID: 5GXQ_B Length: 106
+>The crystal structure of the nucleosome containing H3.6 [Homo sapiens]
+Sequence ID: 5GXQ_F Length: 106
+>Crystal structure of the nucleosome containing the DNA with tetrahydrofuran (THF) [Homo sapiens]
+Sequence ID: 5JRG_B Length: 106
+>Crystal structure of the nucleosome containing the DNA with tetrahydrofuran (THF) [Homo sapiens]
+Sequence ID: 5JRG_F Length: 106
+>The crystal structure of the nucleosome containing H3.3 at 2.18 angstrom resolution [Homo sapiens]
+Sequence ID: 5X7X_B Length: 106
+>The crystal structure of the nucleosome containing H3.3 at 2.18 angstrom resolution [Homo sapiens]
+Sequence ID: 5X7X_F Length: 106
+>Crystal Structure of the human nucleosome at 2.09 angstrom resolution [Homo sapiens]
+Sequence ID: 5Y0C_B Length: 106
+>Crystal Structure of the human nucleosome at 2.09 angstrom resolution [Homo sapiens]
+Sequence ID: 5Y0C_F Length: 106
+>Crystal Structure of the human nucleosome containing the H2B E76K mutant [Homo sapiens]
+Sequence ID: 5Y0D_B Length: 106
+>Crystal Structure of the human nucleosome containing the H2B E76K mutant [Homo sapiens]
+Sequence ID: 5Y0D_F Length: 106
+>Crystal structure of the nucleosome containing a chimeric histone H3/CENP-A CATD [Homo sapiens]
+Sequence ID: 5Z23_B Length: 106
+>Crystal structure of the nucleosome containing a chimeric histone H3/CENP-A CATD [Homo sapiens]
+Sequence ID: 5Z23_F Length: 106
+>The crystal structure of the nucleosome containing a cancer-associated histone H2A.Z R80C mutant [Homo sapiens]
+Sequence ID: 5Z30_B Length: 106
+>The crystal structure of the nucleosome containing a cancer-associated histone H2A.Z R80C mutant [Homo sapiens]
+Sequence ID: 5Z30_F Length: 106
+>The crystal structure of the nucleosome containing histone H3.1 CATD(V76Q, K77D) [Homo sapiens]
+Sequence ID: 5ZBX_B Length: 106
+>The crystal structure of the nucleosome containing histone H3.1 CATD(V76Q, K77D) [Homo sapiens]
+Sequence ID: 5ZBX_F Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6A5L_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6A5L_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6A5O_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6A5O_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6A5P_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6A5P_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6A5R_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6A5R_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6A5T_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6A5T_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6A5U_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6A5U_f Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_F Length: 106
+>Chain L, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_L Length: 106
+>Chain P, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_P Length: 106
+>Chain V, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_V Length: 106
+>Chain Z, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_Z Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_f Length: 106
+>Chain l, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_l Length: 106
+>Chain p, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_p Length: 106
+>Chain v, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_v Length: 106
+>Chain z, Histone H4 [Homo sapiens]
+Sequence ID: 6HKT_z Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6INQ_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6INQ_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6IR9_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6IR9_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6J4W_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6J4W_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6J4X_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6J4X_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6J4Y_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6J4Y_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6J4Z_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6J4Z_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6J50_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6J50_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 6J51_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 6J51_f Length: 106
+>Crystal structure of the human nucleosome containing H2A.Z.1 S42R [Homo sapiens]
+Sequence ID: 6JOU_B Length: 106
+>Crystal structure of the human nucleosome containing H2A.Z.1 S42R [Homo sapiens]
+Sequence ID: 6JOU_F Length: 106
+>Crystal structure of the human nucleosome phased with 12 selenium atoms [Homo sapiens]
+Sequence ID: 6JR0_B Length: 106
+>Crystal structure of the human nucleosome phased with 12 selenium atoms [Homo sapiens]
+Sequence ID: 6JR0_F Length: 106
+>Crystal structure of the human nucleosome phased with 16 selenium atoms [Homo sapiens]
+Sequence ID: 6JR1_B Length: 106
+>Crystal structure of the human nucleosome phased with 16 selenium atoms [Homo sapiens]
+Sequence ID: 6JR1_F Length: 106
+>Human nucleosome core particle with gammaH2A.X variant [Homo sapiens]
+Sequence ID: 6K1I_B Length: 106
+>Human nucleosome core particle with gammaH2A.X variant [Homo sapiens]
+Sequence ID: 6K1I_F Length: 106
+>Human nucleosome core particle with H2A.X variant [Homo sapiens]
+Sequence ID: 6K1J_B Length: 106
+>Human nucleosome core particle with H2A.X variant [Homo sapiens]
+Sequence ID: 6K1J_F Length: 106
+>Human nucleosome core particle with H2A.X S139E variant [Homo sapiens]
+Sequence ID: 6K1K_B Length: 106
+>Human nucleosome core particle with H2A.X S139E variant [Homo sapiens]
+Sequence ID: 6K1K_F Length: 106
+>Crystal structure of human nucleosome containing H2A.J [Homo sapiens]
+Sequence ID: 6KVD_B Length: 106
+>Crystal structure of human nucleosome containing H2A.J [Homo sapiens]
+Sequence ID: 6KVD_F Length: 106
+>Crystal structure of a nucleosome containing Leishmania histone H3 [Homo sapiens]
+Sequence ID: 6KXV_B Length: 106
+>Crystal structure of a nucleosome containing Leishmania histone H3 [Homo sapiens]
+Sequence ID: 6KXV_F Length: 106
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_B Length: 106
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_F Length: 106
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_L Length: 106
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_P Length: 106
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_T Length: 106
+>H3-CA-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L49_X Length: 106
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_B Length: 106
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_F Length: 106
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_L Length: 106
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_P Length: 106
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_T Length: 106
+>H3-H3-H3 tri-nucleosome with the 22 base-pair linker DNA [Homo sapiens]
+Sequence ID: 6L4A_X Length: 106
+>Cryo-EM structure of NCP-6-4PP(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Y_B Length: 106
+>Cryo-EM structure of NCP_THF2(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Z_B Length: 106
+>Cryo-EM structure of NCP_THF2(-1)-UV-DDB [Homo sapiens]
+Sequence ID: 6R8Z_F Length: 106
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class A [Homo sapiens]
+Sequence ID: 6R90_B Length: 106
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class A [Homo sapiens]
+Sequence ID: 6R90_F Length: 106
+>Cryo-EM structure of NCP_THF2(-3)-UV-DDB [Homo sapiens]
+Sequence ID: 6R91_B Length: 106
+>Cryo-EM structure of NCP_THF2(-3)-UV-DDB [Homo sapiens]
+Sequence ID: 6R91_F Length: 106
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class B [Homo sapiens]
+Sequence ID: 6R92_B Length: 106
+>Cryo-EM structure of NCP-THF2(+1)-UV-DDB class B [Homo sapiens]
+Sequence ID: 6R92_F Length: 106
+>Cryo-EM structure of NCP-6-4PP [Homo sapiens]
+Sequence ID: 6R93_B Length: 106
+>Cryo-EM structure of NCP-6-4PP [Homo sapiens]
+Sequence ID: 6R93_F Length: 106
+>Cryo-EM structure of NCP_THF2(-3) [Homo sapiens]
+Sequence ID: 6R94_B Length: 106
+>Cryo-EM structure of NCP_THF2(-3) [Homo sapiens]
+Sequence ID: 6R94_F Length: 106
+>OCT4-SOX2-bound nucleosome - SHL-6 [Homo sapiens]
+Sequence ID: 6T90_B Length: 106
+>OCT4-SOX2-bound nucleosome - SHL-6 [Homo sapiens]
+Sequence ID: 6T90_F Length: 106
+>Nucleosome with OCT4-SOX2 motif at SHL-6 [Homo sapiens]
+Sequence ID: 6T93_B Length: 106
+>Nucleosome with OCT4-SOX2 motif at SHL-6 [Homo sapiens]
+Sequence ID: 6T93_F Length: 106
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_B Length: 106
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_F Length: 106
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_L Length: 106
+>Structure of two nucleosomes bridged by human PARP2 [Homo sapiens]
+Sequence ID: 6USJ_P Length: 106
+>The nucleosome structure after H2A-H2B exchange [Homo sapiens]
+Sequence ID: 6V2K_B Length: 106
+>The nucleosome structure after H2A-H2B exchange [Homo sapiens]
+Sequence ID: 6V2K_F Length: 106
+>OCT4-SOX2-bound nucleosome - SHL+6 [Homo sapiens]
+Sequence ID: 6YOV_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7BXT_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7BXT_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7C0M_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7C0M_F Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7C0M_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7C0M_f Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7D1Z_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7D1Z_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7D20_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7D20_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7SCY_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7SCY_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7SCZ_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7SCZ_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7VZ4_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7VZ4_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7W9V_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7W9V_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7X57_B Length: 106
+>Chain D, Histone H4 [Homo sapiens]
+Sequence ID: 7X57_D Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7X57_F Length: 106
+>Chain H, Histone H4 [Homo sapiens]
+Sequence ID: 7X57_H Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7X58_B Length: 106
+>Chain D, Histone H4 [Homo sapiens]
+Sequence ID: 7X58_D Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7X58_F Length: 106
+>Chain H, Histone H4 [Homo sapiens]
+Sequence ID: 7X58_H Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7XSE_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XSE_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7XSX_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XSX_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7XSZ_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XSZ_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7XT7_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XT7_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7XTD_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XTD_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 7XTI_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 7XTI_f Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XZX_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XZX_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XZY_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XZY_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XZZ_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XZZ_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7Y00_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7Y00_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7Y7I_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7Y7I_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7YOZ_B Length: 106
+>Chain D, Histone H4 [Homo sapiens]
+Sequence ID: 7YOZ_D Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7YOZ_F Length: 106
+>Chain H, Histone H4 [Homo sapiens]
+Sequence ID: 7YOZ_H Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 8H0V_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 8H0V_f Length: 106
+>Chain b, Histone H4 [Homo sapiens]
+Sequence ID: 8H0W_b Length: 106
+>Chain f, Histone H4 [Homo sapiens]
+Sequence ID: 8H0W_f Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8OSJ_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8OSJ_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8OSK_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8OSK_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8OSL_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8OSL_F Length: 106
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8OTS_B Length: 106
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8OTS_F Length: 106 
+Range 1: 4 to 106
+
+Score:200 bits(508), Expect:2e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV6_B Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV6_F Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV8_B Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV8_F Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV9_B Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV9_F Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVB_B Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVB_F Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVC_B Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AVC_F Length: 104 
+Range 1: 2 to 104
+
+Score:200 bits(508), Expect:3e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  2    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  61
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  62   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  104
+
+
+
+
+>histone 1, H4e [Homo sapiens]
+Sequence ID: EAW55544.1 Length: 138
+Range 1: 36 to 138
+
+Score:201 bits(511), Expect:3e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  36   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  95
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  96   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  138
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7LYA_B Length: 107
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7LYA_F Length: 107
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7LYB_B Length: 107
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7LYB_F Length: 107
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7LYC_B Length: 107
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7LYC_F Length: 107 
+Range 1: 5 to 107
+
+Score:199 bits(506), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:103/103(100%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  5    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  64
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  65   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  107
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K44Q mutation [Homo sapiens]
+Sequence ID: 3AZJ_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K44Q mutation [Homo sapiens]
+Sequence ID: 3AZJ_F Length: 106 
+Range 1: 4 to 106
+
+Score:199 bits(506), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGV+RISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVQRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K77Q mutation [Homo sapiens]
+Sequence ID: 3AZL_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K77Q mutation [Homo sapiens]
+Sequence ID: 3AZL_F Length: 106 
+Range 1: 4 to 106
+
+Score:199 bits(506), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHA+RKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAQRKTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K91Q mutation [Homo sapiens]
+Sequence ID: 3AZN_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K91Q mutation [Homo sapiens]
+Sequence ID: 3AZN_F Length: 106 
+Range 1: 4 to 106
+
+Score:199 bits(506), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYAL+RQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALQRQGRTLYGFGG  106
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K59Q mutation [Homo sapiens]
+Sequence ID: 3AZK_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K59Q mutation [Homo sapiens]
+Sequence ID: 3AZK_F Length: 106 
+Range 1: 4 to 106
+
+Score:199 bits(506), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVL+
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLQ  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K31Q mutation [Homo sapiens]
+Sequence ID: 3AZI_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K31Q mutation [Homo sapiens]
+Sequence ID: 3AZI_F Length: 106 
+Range 1: 4 to 106
+
+Score:199 bits(506), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGIT+PAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITQPAIRRLARRGGVKRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K79Q mutation [Homo sapiens]
+Sequence ID: 3AZM_B Length: 106
+>Crystal Structure of Human Nucleosome Core Particle Containing H4K79Q mutation [Homo sapiens]
+Sequence ID: 3AZM_F Length: 106 
+Range 1: 4 to 106
+
+Score:199 bits(506), Expect:5e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:103/103(100%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKR+TVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRQTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>HIST1H4I protein [Homo sapiens]
+Sequence ID: AAH67496.1 Length: 103
+Range 1: 1 to 103
+
+Score:198 bits(504), Expect:8e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDA TYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAATYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 6C0W_B Length: 102
+>Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A [Homo sapiens]
+Sequence ID: 6C0W_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7BY0_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7BY0_F Length: 102 
+Range 1: 1 to 102
+
+Score:198 bits(504), Expect:9e-67, 
+Method:Compositional matrix adjust., 
+Identities:102/102(100%), Positives:102/102(100%), Gaps:0/102(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  102
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  102
+
+
+
+
+>HIST1H4F, partial [Homo sapiens]
+Sequence ID: CAG46986.1 Length: 103
+Range 1: 1 to 103
+
+Score:198 bits(503), Expect:1e-66, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEH KRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHPKRKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>HIST1H4H protein [Homo sapiens]
+Sequence ID: AAI20941.1 Length: 103
+Range 1: 1 to 103
+
+Score:197 bits(502), Expect:2e-66, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAK KTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKCKTVTAMDVVYALKRQGRTLYGFGG  103
+
+
+
+
+>The nucleosome structure containing H2B-K120 and H4-K31 monoubiquitinations [Homo sapiens]
+Sequence ID: 5B40_B Length: 106
+>The nucleosome structure containing H2B-K120 and H4-K31 monoubiquitinations [Homo sapiens]
+Sequence ID: 5B40_F Length: 106 
+Range 1: 4 to 106
+
+Score:197 bits(502), Expect:2e-66, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHRKVLRDNIQGIT PAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITCPAIRRLARRGGVKRISGLIYEETRGVLK  63
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  64   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  106
+
+
+
+
+>Crystal structure of the nucleosome core particle [Homo sapiens]
+Sequence ID: 3X1S_B Length: 102
+>Crystal structure of the nucleosome core particle [Homo sapiens]
+Sequence ID: 3X1S_F Length: 102
+>Crystal structure of nucleosome core particle consisting of mouse testis specific histone variants H2aa and H2ba [Homo sapiens]
+Sequence ID: 3X1T_B Length: 102
+>Crystal structure of nucleosome core particle consisting of mouse testis specific histone variants H2aa and H2ba [Homo sapiens]
+Sequence ID: 3X1T_F Length: 102
+>Crystal structure of nucleosome core particle in the presence of histone variants involved in reprogramming [Homo sapiens]
+Sequence ID: 3X1U_B Length: 102
+>Crystal structure of nucleosome core particle in the presence of histone variants involved in reprogramming [Homo sapiens]
+Sequence ID: 3X1U_F Length: 102
+>Crystal structure of nucleosome core particle in the presence of histone variant involved in reprogramming [Homo sapiens]
+Sequence ID: 3X1V_B Length: 102
+>Crystal structure of nucleosome core particle in the presence of histone variant involved in reprogramming [Homo sapiens]
+Sequence ID: 3X1V_F Length: 102
+>Complex structure 1 of DAXX/H3.3(sub5)/H4 [Homo sapiens]
+Sequence ID: 4H9N_B Length: 102
+>Complex structure 2 of DAXX/H3.3(sub5,G90M)/H4 [Homo sapiens]
+Sequence ID: 4H9O_B Length: 102
+>Complex structure 3 of DAXX/H3.3(sub5,G90A)/H4 [Homo sapiens]
+Sequence ID: 4H9P_B Length: 102
+>Complex structure 4 of DAXX(E225A)/H3.3(sub5)/H4 [Homo sapiens]
+Sequence ID: 4H9Q_B Length: 102
+>Complex structure 5 of DAXX(E225A)/H3.3(sub5,G90A)/H4 [Homo sapiens]
+Sequence ID: 4H9R_B Length: 102
+>Crystal structure of Human MCM2 HBD chaperoning a histone H3-H4 tetramer [Homo sapiens]
+Sequence ID: 5BNV_B Length: 102
+>Crystal structure of Human MCM2 HBD chaperoning a histone H3-H4 tetramer [Homo sapiens]
+Sequence ID: 5BNV_E Length: 102
+>Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.3-H4 dimer [Homo sapiens]
+Sequence ID: 5BNX_B Length: 102
+>Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.2-H4 dimer [Homo sapiens]
+Sequence ID: 5BO0_B Length: 102
+>Crystal structure of nucleosome core particle consisting of human testis-specific histone variants, Th2A and Th2B [Homo sapiens]
+Sequence ID: 5GSU_B Length: 102
+>Crystal structure of nucleosome core particle consisting of human testis-specific histone variants, Th2A and Th2B [Homo sapiens]
+Sequence ID: 5GSU_F Length: 102
+>Crystal structure of nucleosome complex with human testis-specific histone variants, Th2a [Homo sapiens]
+Sequence ID: 5GT0_B Length: 102
+>Crystal structure of nucleosome complex with human testis-specific histone variants, Th2a [Homo sapiens]
+Sequence ID: 5GT0_F Length: 102
+>Crystal structure of nucleosome particle in the presence of human testis-specific histone variant, hTh2b [Homo sapiens]
+Sequence ID: 5GT3_B Length: 102
+>Crystal structure of nucleosome particle in the presence of human testis-specific histone variant, hTh2b [Homo sapiens]
+Sequence ID: 5GT3_F Length: 102
+>Crystal structure of human TONSL and MCM2 HBDs binding to a histone H3-H4 tetramer [Homo sapiens]
+Sequence ID: 5JA4_B Length: 102
+>Crystal structure of EBV tegument protein BNRF1 in complex with histone chaperone DAXX and histones H3.3-H4 [Homo sapiens]
+Sequence ID: 5KDM_B Length: 102
+>Chain N, Histone H4 [Homo sapiens]
+Sequence ID: 6FML_N Length: 102
+>Chain R, Histone H4 [Homo sapiens]
+Sequence ID: 6FML_R Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 6X59_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 6X59_F Length: 102
+>The mouse cGAS catalytic domain binding to human nucleosome that purified from HEK293T cells [Homo sapiens]
+Sequence ID: 6X5A_B Length: 102
+>The mouse cGAS catalytic domain binding to human nucleosome that purified from HEK293T cells [Homo sapiens]
+Sequence ID: 6X5A_F Length: 102
+>Two mouse cGAS catalytic domain binding to human assembled nucleosome [Homo sapiens]
+Sequence ID: 6XJD_B Length: 102
+>Two mouse cGAS catalytic domain binding to human assembled nucleosome [Homo sapiens]
+Sequence ID: 6XJD_F Length: 102
+>Chain e, Histone H4 [Homo sapiens]
+Sequence ID: 7A08_e Length: 102
+>Chain i, Histone H4 [Homo sapiens]
+Sequence ID: 7A08_i Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7BWD_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7BWD_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7CIZ_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7CIZ_F Length: 102
+>Chain J, Histone H4 [Homo sapiens]
+Sequence ID: 7CIZ_J Length: 102
+>Chain C, Histone H4 [Homo sapiens]
+Sequence ID: 7CJ0_C Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7CJ0_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7E8D_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7E8D_F Length: 102
+>Chain Q, Histone H4 [Homo sapiens]
+Sequence ID: 7JZV_Q Length: 102
+>Chain q, Histone H4 [Homo sapiens]
+Sequence ID: 7JZV_q Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7U50_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7U50_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7U51_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7U51_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7U52_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7U52_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7U53_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7U53_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7UV9_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7UV9_F Length: 102
+>Chain C, Histone H4 [Homo sapiens]
+Sequence ID: 7V1M_C Length: 102
+>Chain E, Histone H4 [Homo sapiens]
+Sequence ID: 7V1M_E Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7Y8R_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7Y8R_F Length: 102
+>Chain N, Histone H4 [Homo sapiens]
+Sequence ID: 8ATF_N Length: 102
+>Chain R, Histone H4 [Homo sapiens]
+Sequence ID: 8ATF_R Length: 102
+>Chain N, Histone H4 [Homo sapiens]
+Sequence ID: 8AV6_N Length: 102
+>Chain R, Histone H4 [Homo sapiens]
+Sequence ID: 8AV6_R Length: 102 
+Range 1: 1 to 102
+
+Score:197 bits(501), Expect:3e-66, 
+Method:Compositional matrix adjust., 
+Identities:102/102(100%), Positives:102/102(100%), Gaps:0/102(0%)
+
+Query  2    SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  61
+            SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV
+Sbjct  1    SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  60
+
+Query  62   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  102
+
+
+
+
+>Chain C, Histone H4 [Homo sapiens]
+Sequence ID: 7V6Q_C Length: 102
+>Chain G, Histone H4 [Homo sapiens]
+Sequence ID: 7V6Q_G Length: 102 
+Range 1: 2 to 102
+
+Score:195 bits(496), Expect:1e-65, 
+Method:Compositional matrix adjust., 
+Identities:101/101(100%), Positives:101/101(100%), Gaps:0/101(0%)
+
+Query  3    GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVF  62
+            GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVF
+Sbjct  2    GRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVF  61
+
+Query  63   LENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            LENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  62   LENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  102
+
+
+
+
+>HIST2H4B protein, partial [Homo sapiens]
+Sequence ID: AAI28106.1 Length: 102
+Range 1: 3 to 102
+
+Score:194 bits(492), Expect:7e-65, 
+Method:Compositional matrix adjust., 
+Identities:100/100(100%), Positives:100/100(100%), Gaps:0/100(0%)
+
+Query  4    RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL  63
+            RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL
+Sbjct  3    RGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFL  62
+
+Query  64   ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  63   ENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  102
+
+
+
+
+>OCT4-SOX2-bound nucleosome - SHL+6 [Homo sapiens]
+Sequence ID: 6YOV_B Length: 105
+Range 1: 4 to 105
+
+Score:194 bits(492), Expect:8e-65, 
+Method:Compositional matrix adjust., 
+Identities:102/103(99%), Positives:102/103(99%), Gaps:1/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRGKGGKGLGKGGAKRHR VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  4    MSGRGKGGKGLGKGGAKRHR-VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  62
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  63   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  105
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAG_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAG_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAH_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAH_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAI_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAI_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAJ_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAJ_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAK_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAK_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAL_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAL_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAM_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAM_F Length: 102
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8HAN_B Length: 102
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8HAN_F Length: 102 
+Range 1: 1 to 102
+
+Score:193 bits(491), Expect:8e-65, 
+Method:Compositional matrix adjust., 
+Identities:100/102(98%), Positives:100/102(98%), Gaps:0/102(0%)
+
+Query  2    SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  61
+            SGRGKGGKGLG GGA RHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV
+Sbjct  1    SGRGKGGKGLGXGGAXRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKV  60
+
+Query  62   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   FLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  102
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: CAA24918.1 Length: 103
+Range 1: 1 to 103
+
+Score:193 bits(490), Expect:1e-64, 
+Method:Compositional matrix adjust., 
+Identities:100/103(97%), Positives:100/103(97%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSG GKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRR ARRGGVKRISGLIYEETRGVLK
+Sbjct  1    MSGCGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRXARRGGVKRISGLIYEETRGVLK  60
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQG TLYGFGG
+Sbjct  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGXTLYGFGG  103
+
+
+
+
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV5_B Length: 104
+>human nucleosome core particle [Homo sapiens]
+Sequence ID: 5AV5_F Length: 104 
+Range 1: 2 to 104
+
+Score:192 bits(487), Expect:4e-64, 
+Method:Compositional matrix adjust., 
+Identities:99/103(96%), Positives:99/103(96%), Gaps:0/103(0%)
+
+Query  1    MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+            MSGRG GG GLG GGA RHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK
+Sbjct  2    MSGRGXGGXGLGXGGAXRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  61
+
+Query  61   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  62   VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG  104
+
+
+
+
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and one copy CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUO_B Length: 94
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and one copy CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUO_F Length: 94
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and two copies CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUP_B Length: 94
+>CENP-A nucleosome bound by two copies of CENP-C(CD) and two copies CENP-N(NT) [Homo sapiens]
+Sequence ID: 6MUP_F Length: 94 
+Range 1: 1 to 94
+
+Score:184 bits(467), Expect:4e-61, 
+Method:Compositional matrix adjust., 
+Identities:94/94(100%), Positives:94/94(100%), Gaps:0/94(0%)
+
+Query  9    KGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIR  68
+            KGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIR
+Sbjct  1    KGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIR  60
+
+Query  69   DAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  102
+            DAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG
+Sbjct  61   DAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG  94
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XCT_B Length: 89
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XCT_F Length: 89 
+Range 1: 2 to 89
+
+Score:174 bits(442), Expect:2e-57, 
+Method:Compositional matrix adjust., 
+Identities:88/88(100%), Positives:88/88(100%), Gaps:0/88(0%)
+
+Query  16   AKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTE  75
+            AKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTE
+Sbjct  2    AKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTE  61
+
+Query  76   HAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            HAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  62   HAKRKTVTAMDVVYALKRQGRTLYGFGG  89
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XCR_B Length: 88
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XCR_F Length: 88 
+Range 1: 1 to 88
+
+Score:174 bits(442), Expect:2e-57, 
+Method:Compositional matrix adjust., 
+Identities:88/88(100%), Positives:88/88(100%), Gaps:0/88(0%)
+
+Query  16   AKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTE  75
+            AKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTE
+Sbjct  1    AKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTE  60
+
+Query  76   HAKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            HAKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   HAKRKTVTAMDVVYALKRQGRTLYGFGG  88
+
+
+
+
+>Crystal Structure of Human Nucleosome Core Particle lacking H4 N-terminal region [Homo sapiens]
+Sequence ID: 3W99_B Length: 105
+>Crystal Structure of Human Nucleosome Core Particle lacking H4 N-terminal region [Homo sapiens]
+Sequence ID: 3W99_F Length: 105 
+Range 1: 19 to 105
+
+Score:174 bits(440), Expect:6e-57, 
+Method:Compositional matrix adjust., 
+Identities:87/87(100%), Positives:87/87(100%), Gaps:0/87(0%)
+
+Query  17   KRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEH  76
+            KRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEH
+Sbjct  19   KRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEH  78
+
+Query  77   AKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            AKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  79   AKRKTVTAMDVVYALKRQGRTLYGFGG  105
+
+
+
+
+>Human nucleosome core particle containing 145 bp of DNA [Homo sapiens]
+Sequence ID: 6IPU_F Length: 87
+>Nucleosome core particle cross-linked with a hetero-binuclear molecule possessing RAPTA and gold(I) 4-(diphenylphosphino)benzoic acid groups. [Homo sapiens]
+Sequence ID: 6IQ4_F Length: 87
+>Human nucleosome core particle with cohesive end DNA termini [Homo sapiens]
+Sequence ID: 6JXD_F Length: 87
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6KE9_B Length: 87
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6KE9_F Length: 87
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6L9H_B Length: 87
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6L9H_F Length: 87
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6LE9_B Length: 87
+>The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens]
+Sequence ID: 6LE9_F Length: 87 
+Range 1: 1 to 87
+
+Score:172 bits(436), Expect:1e-56, 
+Method:Compositional matrix adjust., 
+Identities:87/87(100%), Positives:87/87(100%), Gaps:0/87(0%)
+
+Query  17   KRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEH  76
+            KRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEH
+Sbjct  1    KRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEH  60
+
+Query  77   AKRKTVTAMDVVYALKRQGRTLYGFGG  103
+            AKRKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   AKRKTVTAMDVVYALKRQGRTLYGFGG  87
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8GRM_B Length: 85
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8GRM_F Length: 85 
+Range 1: 1 to 85
+
+Score:169 bits(428), Expect:2e-55, 
+Method:Compositional matrix adjust., 
+Identities:85/85(100%), Positives:85/85(100%), Gaps:0/85(0%)
+
+Query  19   HRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAK  78
+            HRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAK
+Sbjct  1    HRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAK  60
+
+Query  79   RKTVTAMDVVYALKRQGRTLYGFGG  103
+            RKTVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   RKTVTAMDVVYALKRQGRTLYGFGG  85
+
+
+
+
+>Crystal structure of (CENP-A/H4)2 heterotetramer [Homo sapiens]
+Sequence ID: 3NQJ_B Length: 84
+Range 1: 2 to 84
+
+Score:164 bits(416), Expect:1e-53, 
+Method:Compositional matrix adjust., 
+Identities:83/83(100%), Positives:83/83(100%), Gaps:0/83(0%)
+
+Query  21   KVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRK  80
+            KVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRK
+Sbjct  2    KVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRK  61
+
+Query  81   TVTAMDVVYALKRQGRTLYGFGG  103
+            TVTAMDVVYALKRQGRTLYGFGG
+Sbjct  62   TVTAMDVVYALKRQGRTLYGFGG  84
+
+
+
+
+>Complex structure 6 of DAXX/H3.3(sub7)/H4 [Homo sapiens]
+Sequence ID: 4H9S_C Length: 83
+>Complex structure 6 of DAXX/H3.3(sub7)/H4 [Homo sapiens]
+Sequence ID: 4H9S_D Length: 83
+>Structure of human cGAS (K394E) bound to the nucleosome (focused refinement of cGAS-NCP subcomplex) [Homo sapiens]
+Sequence ID: 6Y5E_F Length: 83
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XD0_B Length: 83
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XD0_F Length: 83
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7YQK_B Length: 83
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7YQK_F Length: 83 
+Range 1: 1 to 83
+
+Score:164 bits(416), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:83/83(100%), Positives:83/83(100%), Gaps:0/83(0%)
+
+Query  21   KVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRK  80
+            KVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRK
+Sbjct  1    KVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRK  60
+
+Query  81   TVTAMDVVYALKRQGRTLYGFGG  103
+            TVTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   TVTAMDVVYALKRQGRTLYGFGG  83
+
+
+
+
+>Human nucleosome core particle containing 145 bp of DNA [Homo sapiens]
+Sequence ID: 6IPU_B Length: 82
+>Nucleosome core particle cross-linked with a hetero-binuclear molecule possessing RAPTA and gold(I) 4-(diphenylphosphino)benzoic acid groups. [Homo sapiens]
+Sequence ID: 6IQ4_B Length: 82
+>Human nucleosome core particle with cohesive end DNA termini [Homo sapiens]
+Sequence ID: 6JXD_B Length: 82
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8OTT_B Length: 82
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8OTT_F Length: 82 
+Range 1: 1 to 82
+
+Score:162 bits(411), Expect:7e-53, 
+Method:Compositional matrix adjust., 
+Identities:82/82(100%), Positives:82/82(100%), Gaps:0/82(0%)
+
+Query  22   VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKT  81
+            VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKT
+Sbjct  1    VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKT  60
+
+Query  82   VTAMDVVYALKRQGRTLYGFGG  103
+            VTAMDVVYALKRQGRTLYGFGG
+Sbjct  61   VTAMDVVYALKRQGRTLYGFGG  82
+
+
+
+
+>Structure of human cGAS (K394E) bound to the nucleosome (focused refinement of cGAS-NCP subcomplex) [Homo sapiens]
+Sequence ID: 6Y5E_B Length: 81
+Range 1: 1 to 81
+
+Score:161 bits(407), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:81/81(100%), Positives:81/81(100%), Gaps:0/81(0%)
+
+Query  23   LRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTV  82
+            LRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTV
+Sbjct  1    LRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTV  60
+
+Query  83   TAMDVVYALKRQGRTLYGFGG  103
+            TAMDVVYALKRQGRTLYGFGG
+Sbjct  61   TAMDVVYALKRQGRTLYGFGG  81
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7XD1_B Length: 80
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7XD1_F Length: 80
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 8GRQ_B Length: 80
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 8GRQ_F Length: 80 
+Range 1: 1 to 80
+
+Score:159 bits(403), Expect:1e-51, 
+Method:Compositional matrix adjust., 
+Identities:80/80(100%), Positives:80/80(100%), Gaps:0/80(0%)
+
+Query  23   LRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTV  82
+            LRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTV
+Sbjct  1    LRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTV  60
+
+Query  83   TAMDVVYALKRQGRTLYGFG  102
+            TAMDVVYALKRQGRTLYGFG
+Sbjct  61   TAMDVVYALKRQGRTLYGFG  80
+
+
+
+
+>Structure of the 1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCQ_B Length: 80
+>Structure of the 1:1 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCQ_F Length: 80
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_B Length: 80
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_F Length: 80
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_M Length: 80
+>Structure of the 2:2 cGAS-nucleosome complex [Homo sapiens]
+Sequence ID: 7CCR_Q Length: 80 
+Range 1: 1 to 80
+
+Score:159 bits(402), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:80/80(100%), Positives:80/80(100%), Gaps:0/80(0%)
+
+Query  24   RDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVT  83
+            RDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVT
+Sbjct  1    RDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVT  60
+
+Query  84   AMDVVYALKRQGRTLYGFGG  103
+            AMDVVYALKRQGRTLYGFGG
+Sbjct  61   AMDVVYALKRQGRTLYGFGG  80
+
+
+
+
+>Chain B, Histone H4 [Homo sapiens]
+Sequence ID: 7EA8_B Length: 78
+>Chain F, Histone H4 [Homo sapiens]
+Sequence ID: 7EA8_F Length: 78 
+Range 1: 1 to 78
+
+Score:156 bits(394), Expect:3e-50, 
+Method:Compositional matrix adjust., 
+Identities:78/78(100%), Positives:78/78(100%), Gaps:0/78(0%)
+
+Query  25   DNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTA  84
+            DNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTA
+Sbjct  1    DNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTA  60
+
+Query  85   MDVVYALKRQGRTLYGFG  102
+            MDVVYALKRQGRTLYGFG
+Sbjct  61   MDVVYALKRQGRTLYGFG  78
+
+
+
+
+>histone H4-like protein type G [Homo sapiens]
+Sequence ID: NP_003538.1 Length: 98
+>RecName: Full=Histone H4-like protein type G; AltName: Full=H4-clustered histone 7 [Homo sapiens]
+Sequence ID: Q99525.1 Length: 98
+>Histone cluster 1, H4g [Homo sapiens]
+Sequence ID: AAI26277.1 Length: 98
+>Histone cluster 1, H4g [Homo sapiens]
+Sequence ID: AAI26279.1 Length: 98
+>histone H4 [Homo sapiens]
+Sequence ID: AAN01445.1 Length: 98 
+Range 1: 1 to 98
+
+Score:129 bits(324), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:83/98(85%), Positives:83/98(84%), Gaps:0/98(0%)
+
+Query  1   MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLK  60
+           MS RGK GKGLGKGGAK HRKVL DNIQGITK  IRRLAR GGVKRI GLIYEETR V K
+Sbjct  1   MSVRGKAGKGLGKGGAKCHRKVLSDNIQGITKCTIRRLARHGGVKRILGLIYEETRRVFK  60
+
+Query  61  VFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTL  98
+           VFLENVI  AVT TEHAKRKTVTAM VVY LKRQGRTL
+Sbjct  61  VFLENVIWYAVTNTEHAKRKTVTAMAVVYVLKRQGRTL  98
+
+
+
+
+>histone H4, partial [Homo sapiens]
+Sequence ID: AAT78448.1 Length: 43
+Range 1: 1 to 43
+
+Score:85.9 bits(211), Expect:8e-23, 
+Method:Compositional matrix adjust., 
+Identities:43/43(100%), Positives:43/43(100%), Gaps:0/43(0%)
+
+Query  32  KPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYT  74
+           KPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYT
+Sbjct  1   KPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYT  43
+
+
+
+
+
+
+
+		
+
+

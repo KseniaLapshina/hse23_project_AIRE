@@ -1,0 +1,3295 @@
+RID: 7VKHG49N016	
+Job Title:NP_000374.1 autoimmune regulator [Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_000374.1 autoimmune regulator [Homo sapiens] Query ID: lcl|Query_179000 Length: 545
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+autoimmune regulator [Homo sapiens]                               Homo sapiens    human           9606       1091   1091  100%  0.0    100.00 545        NP_000374.1      
+AIRE [Homo sapiens]                                               Homo sapiens    human           9606       1006   1006  100%  0.0    94.50  515        CAA08759.1       
+hCG401300, isoform CRA_d [Homo sapiens]                           Homo sapiens    human           9606       1006   1006  100%  0.0    94.31  514        EAX09444.1       
+AIRE protein [Homo sapiens]                                       Homo sapiens    human           9606       493    493   58%   3e-172 83.54  348        AAI37269.1       
+hCG401300, isoform CRA_b [Homo sapiens]                           Homo sapiens    human           9606       180    180   27%   9e-52  65.16  254        EAX09442.1       
+NMR structure of the second PHD finger of AIRE (AIRE-PHD2) [Ho... Homo sapiens    human           9606       136    136   11%   1e-37  100.00 66         2LRI_C           
+Chain A, Autoimmune regulator [Homo sapiens]                      Homo sapiens    human           9606       133    133   11%   1e-36  96.88  66         1XWH_A           
+Chain A, Autoimmune regulator [Homo sapiens]                      Homo sapiens    human           9606       117    117   9%    8e-31  100.00 56         2KFT_A           
+autoimmune regulator [Homo sapiens]                               Homo sapiens    human           9606       87.0   87.0  9%    9e-20  80.77  75         BAF62470.1       
+nuclear body protein SP140-like protein isoform X7 [Homo sapiens] Homo sapiens    human           9606       81.6   81.6  31%   5e-15  31.34  506        XP_047302373.1   
+SP140 nuclear body protein like [Homo sapiens]                    Homo sapiens    human           9606       81.6   122   51%   5e-15  35.00  555        KAI2527337.1     
+SP140 nuclear body protein like [Homo sapiens]                    Homo sapiens    human           9606       81.6   122   51%   5e-15  35.00  580        KAI2527336.1     
+nuclear body protein SP140-like protein isoform 2 [Homo sapiens]  Homo sapiens    human           9606       81.3   121   51%   7e-15  33.54  555        NP_001295091.1   
+nuclear body protein SP140-like protein isoform 1 [Homo sapiens]  Homo sapiens    human           9606       80.9   121   51%   8e-15  33.54  580        NP_612411.4      
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       77.0   77.0  23%   1e-14  35.17  245        AAX88869.1       
+Structure of CHD5 PHD2 - tandem chromodomains [Homo sapiens]      Homo sapiens    human           9606       77.0   77.0  16%   2e-14  45.56  241        6GUU_A           
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       77.0   77.0  23%   2e-14  33.77  245        BAB14413.1       
+The crystal structure of TRIM66 PHD-Bromo domain [Homo sapiens]   Homo sapiens    human           9606       74.7   117   21%   4e-14  46.38  196        6IET_A           
+nuclear body protein SP140-like protein isoform X3 [Homo sapiens] Homo sapiens    human           9606       78.2   118   53%   6e-14  33.15  546        XP_047302370.1   
+SP140 nuclear body protein like [Homo sapiens]                    Homo sapiens    human           9606       77.8   118   48%   6e-14  35.37  438        KAI2527339.1     
+nuclear body protein SP140-like protein isoform X8 [Homo sapiens] Homo sapiens    human           9606       77.8   77.8  25%   6e-14  33.33  469        XP_011510492.1   
+nuclear body protein SP140-like protein isoform 4 [Homo sapiens]  Homo sapiens    human           9606       78.2   118   53%   7e-14  33.15  571        NP_001339821.1   
+nuclear body protein SP140-like protein isoform X1 [Homo sapiens] Homo sapiens    human           9606       78.2   78.2  28%   7e-14  33.33  588        XP_047302368.1   
+chromodomain-helicase-DNA-binding protein 5 [Homo sapiens]        Homo sapiens    human           9606       78.6   148   17%   7e-14  46.81  1954       NP_056372.1      
+hypothetical protein BC004921, isoform CRA_b [Homo sapiens]       Homo sapiens    human           9606       77.4   118   48%   8e-14  33.77  438        EAW70925.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       78.6   147   17%   8e-14  46.81  1225       BAC86802.1       
+chromodomain helicase DNA binding protein 5 [Homo sapiens]        Homo sapiens    human           9606       78.6   148   17%   8e-14  46.81  1954       KAI2514781.1     
+chromodomain helicase DNA binding protein 5 [Homo sapiens]        Homo sapiens    human           9606       78.6   147   17%   8e-14  46.81  1225       KAI2514782.1     
+nuclear body protein SP140-like protein isoform X10 [Homo...      Homo sapiens    human           9606       77.4   77.4  23%   8e-14  33.77  455        XP_047302376.1   
+nuclear body protein SP140-like protein isoform X9 [Homo sapiens] Homo sapiens    human           9606       77.4   77.4  23%   9e-14  33.77  460        XP_047302375.1   
+sp110 nuclear body protein isoform X2 [Homo sapiens]              Homo sapiens    human           9606       77.8   77.8  35%   1e-13  30.05  695        XP_011509392.1   
+sp110 nuclear body protein isoform c [Homo sapiens]               Homo sapiens    human           9606       77.8   77.8  35%   1e-13  30.05  713        NP_536349.3      
+sp110 nuclear body protein isoform a [Homo sapiens]               Homo sapiens    human           9606       77.8   77.8  35%   1e-13  30.05  689        NP_004500.4      
+sp110 nuclear body protein isoform f [Homo sapiens]               Homo sapiens    human           9606       77.8   77.8  35%   1e-13  30.05  739        NP_001365372.1   
+sp110 nuclear body protein isoform 3 [Homo sapiens]               Homo sapiens    human           9606       77.8   77.8  35%   1e-13  30.05  745        NP_001365371.1   
+sp110 nuclear body protein isoform g [Homo sapiens]               Homo sapiens    human           9606       77.8   77.8  35%   1e-13  30.05  719        NP_001365373.1   
+sp110 nuclear body protein isoform h [Homo sapiens]               Homo sapiens    human           9606       77.8   77.8  35%   1e-13  30.05  695        NP_001365374.1   
+sp110 nuclear body protein isoform X7 [Homo sapiens]              Homo sapiens    human           9606       77.4   77.4  35%   1e-13  30.05  536        XP_011509394.1   
+sp110 nuclear body protein isoform X6 [Homo sapiens]              Homo sapiens    human           9606       77.4   77.4  35%   1e-13  30.05  592        XP_047300077.1   
+Crystal structure of TRIM24 with...                               Homo sapiens    human           9606       72.8   112   21%   1e-13  49.18  184        4ZQL_A           
+Complex structure of TRIM24 PHD-bromodomain and inhibitor 1...    Homo sapiens    human           9606       72.8   112   21%   1e-13  49.18  183        5H1T_A           
+Crystal structure of TRIM24 PHD-Bromo in the free state [Homo...  Homo sapiens    human           9606       72.8   112   21%   1e-13  49.18  184        3O33_A           
+sp110 nuclear body protein isoform X5 [Homo sapiens]              Homo sapiens    human           9606       77.0   77.0  35%   1e-13  30.05  598        XP_024308618.1   
+sp110 nuclear body protein isoform X3 [Homo sapiens]              Homo sapiens    human           9606       77.0   77.0  35%   1e-13  30.05  672        XP_011509393.1   
+sp110 nuclear body protein isoform i [Homo sapiens]               Homo sapiens    human           9606       77.0   77.0  35%   1e-13  30.05  648        NP_001365375.1   
+sp110 nuclear body protein isoform X4 [Homo sapiens]              Homo sapiens    human           9606       77.0   77.0  35%   1e-13  30.05  642        XP_047300076.1   
+SP140 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       76.3   76.3  29%   3e-13  35.03  753        KAI2527334.1     
+SP140 nuclear body protein, isoform CRA_a [Homo sapiens]          Homo sapiens    human           9606       75.1   75.1  26%   4e-13  37.09  414        EAW70920.1       
+SP140 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       75.5   75.5  29%   5e-13  35.03  840        KAI2527332.1     
+transcriptional coactivator Sp110 [Homo sapiens]                  Homo sapiens    human           9606       75.1   75.1  27%   6e-13  32.45  689        AAG09826.1       
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       74.3   74.3  26%   7e-13  37.09  453        AAX88868.1       
+SP140 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       75.1   75.1  29%   7e-13  35.03  807        KAI2527333.1     
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       75.1   75.1  29%   7e-13  34.48  768        BAG62830.1       
+sp110 nuclear body protein isoform X2 [Homo sapiens]              Homo sapiens    human           9606       75.1   75.1  27%   7e-13  32.45  695        XP_054197699.1   
+Crystal Structure of the BHC80 PHD finger [Homo sapiens]          Homo sapiens    human           9606       66.6   66.6  8%    8e-13  53.06  60         2PUY_A           
+SP110 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       75.1   75.1  27%   8e-13  32.45  713        KAI2527325.1     
+SP110 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       75.1   75.1  27%   8e-13  32.45  713        KAI4038479.1     
+SP110 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       74.7   74.7  27%   8e-13  32.45  689        KAI4038480.1     
+SP140 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       75.1   75.1  29%   8e-13  35.03  867        KAI2527331.1     
+SP110 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       74.7   74.7  27%   8e-13  32.45  689        KAI2527324.1     
+SP140 nuclear body protein [Homo sapiens]                         Homo sapiens    human           9606       74.7   74.7  26%   8e-13  36.49  753        KAI4038488.1     
+nuclear body protein SP140 isoform 5 [Homo sapiens]               Homo sapiens    human           9606       74.7   74.7  26%   8e-13  36.49  753        NP_001265382.1   
+Sp140 protein [Homo sapiens]                                      Homo sapiens    human           9606       74.7   74.7  26%   9e-13  37.09  753        AAC50817.1       
+sp110 nuclear body protein isoform X1 [Homo sapiens]              Homo sapiens    human           9606       74.7   74.7  27%   9e-13  32.45  745        XP_054197698.1   
+sp110 nuclear body protein isoform X6 [Homo sapiens]              Homo sapiens    human           9606       74.7   74.7  27%   9e-13  32.45  592        XP_054197703.1   
+sp110 nuclear body protein isoform X5 [Homo sapiens]              Homo sapiens    human           9606       74.3   74.3  27%   1e-12  32.45  598        XP_054197702.1   
+nuclear body protein SP140 isoform X28 [Homo sapiens]             Homo sapiens    human           9606       74.7   74.7  26%   1e-12  37.09  756        XP_016858741.1   
+nuclear body protein SP140 isoform X28 [Homo sapiens]             Homo sapiens    human           9606       74.7   74.7  26%   1e-12  37.09  756        XP_054196300.1   
+sp110 nuclear body protein isoform X4 [Homo sapiens]              Homo sapiens    human           9606       74.3   74.3  27%   1e-12  32.45  642        XP_054197701.1   
+nuclear body protein SP140 isoform X23 [Homo sapiens]             Homo sapiens    human           9606       74.7   74.7  26%   1e-12  37.09  803        XP_054196295.1   
+nuclear body protein SP140 isoform X23 [Homo sapiens]             Homo sapiens    human           9606       74.7   74.7  26%   1e-12  37.09  803        XP_016858737.1   
+nuclear body protein SP140 isoform X27 [Homo sapiens]             Homo sapiens    human           9606       74.7   74.7  26%   1e-12  37.09  777        XP_054196299.1   
+nuclear body protein SP140 isoform X27 [Homo sapiens]             Homo sapiens    human           9606       74.7   74.7  26%   1e-12  37.09  777        XP_016858739.1   
+sp110 nuclear body protein isoform X7 [Homo sapiens]              Homo sapiens    human           9606       73.9   73.9  27%   1e-12  32.45  536        XP_054197704.1   
+sp110 nuclear body protein isoform X3 [Homo sapiens]              Homo sapiens    human           9606       74.3   74.3  27%   1e-12  32.45  672        XP_054197700.1   
+nuclear body protein SP140 isoform X26 [Homo sapiens]             Homo sapiens    human           9606       74.3   74.3  26%   1e-12  37.09  780        XP_054196298.1   
+nuclear body protein SP140 isoform X26 [Homo sapiens]             Homo sapiens    human           9606       74.3   74.3  26%   1e-12  37.09  780        XP_016858738.1   
+Structure of CHD4 PHD2 - tandem chromodomains [Homo sapiens]      Homo sapiens    human           9606       70.9   70.9  9%    1e-12  53.70  238        6Q3M_A           
+nuclear phosphoprotein [Homo sapiens]                             Homo sapiens    human           9606       73.2   73.2  27%   2e-12  32.45  408        AAD13402.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       74.3   115   26%   2e-12  49.18  961        BAG63911.1       
+nuclear body protein SP140 isoform X22 [Homo sapiens]             Homo sapiens    human           9606       73.9   73.9  26%   2e-12  37.09  804        XP_054196294.1   
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1892       KAI2563983.1     
+Nucleosome-CHD4 complex structure (single CHD4 copy) [Homo...     Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1927       6RYR_W           
+chromodomain helicase DNA binding protein 4, isoform CRA_b [Ho... Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1912       EAW88778.1       
+chromodomain-helicase-DNA-binding protein 4 isoform 1 [Homo...    Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1912       NP_001264.2      
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1914       KAI2563990.1     
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1903       KAI2563985.1     
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1905       KAI2563986.1     
+chromodomain-helicase-DNA-binding protein 4 isoform 2 [Homo...    Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1905       NP_001284482.1   
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1899       KAI2563987.1     
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1920       KAI2563984.1     
+chromodomain-helicase-DNA-binding protein 4 isoform 3 [Homo...    Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1902       NP_001350535.1   
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1902       KAI2563988.1     
+CHD4 protein [Homo sapiens]                                       Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1937       AAH38596.1       
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1937       KAI2563982.1     
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1940       KAI2563991.1     
+chromodomain helicase DNA binding protein 4, isoform CRA_c [Ho... Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1908       EAW88779.1       
+chromodomain helicase DNA binding protein 4, isoform CRA_a [Ho... Homo sapiens    human           9606       74.3   144   35%   2e-12  53.70  1911       EAW88777.1       
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       73.9   144   35%   2e-12  53.70  1645       KAI2563997.1     
+chromodomain helicase DNA binding protein 4 [Homo sapiens]        Homo sapiens    human           9606       73.9   144   35%   2e-12  53.70  1669       KAI2563995.1     
+
+
+Alignments:
+
+>autoimmune regulator [Homo sapiens]
+Sequence ID: NP_000374.1 Length: 545
+>RecName: Full=Autoimmune regulator; AltName: Full=Autoimmune polyendocrinopathy candidiasis ectodermal dystrophy protein; Short=APECED protein [Homo sapiens]
+Sequence ID: O43918.1 Length: 545
+>hCG401300, isoform CRA_a [Homo sapiens]
+Sequence ID: EAX09441.1 Length: 545
+>autoimmune regulator [Homo sapiens]
+Sequence ID: KAI2596401.1 Length: 545
+>autoimmune regulator [Homo sapiens]
+Sequence ID: KAI4004266.1 Length: 545
+>AIRE protein [Homo sapiens]
+Sequence ID: CAB10790.1 Length: 545
+>AIRE-1 [Homo sapiens]
+Sequence ID: BAA23988.1 Length: 545 
+Range 1: 1 to 545
+
+Score:1091 bits(2821), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:545/545(100%), Positives:545/545(100%), Gaps:0/545(0%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+            MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH
+Sbjct  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+
+Query  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK  120
+            ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK
+Sbjct  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK  120
+
+Query  121  ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG  180
+            ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG
+Sbjct  121  ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG  180
+
+Query  181  IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG  240
+            IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG
+Sbjct  181  IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG  240
+
+Query  241  SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA  300
+            SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA
+Sbjct  241  SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA  300
+
+Query  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP  360
+            VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP
+Sbjct  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP  360
+
+Query  361  PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV  420
+            PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV
+Sbjct  361  PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV  420
+
+Query  421  GPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVT  480
+            GPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVT
+Sbjct  421  GPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVT  480
+
+Query  481  PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA  540
+            PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA
+Sbjct  481  PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA  540
+
+Query  541  APFPS  545
+            APFPS
+Sbjct  541  APFPS  545
+
+
+
+
+>AIRE [Homo sapiens]
+Sequence ID: CAA08759.1 Length: 515
+Range 1: 1 to 515
+
+Score:1006 bits(2601), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:515/545(94%), Positives:515/545(94%), Gaps:30/545(5%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+            MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH
+Sbjct  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+
+Query  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK  120
+            ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK
+Sbjct  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK  120
+
+Query  121  ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG  180
+            ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG
+Sbjct  121  ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG  180
+
+Query  181  IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG  240
+            IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG
+Sbjct  181  IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG  240
+
+Query  241  SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA  300
+            SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA
+Sbjct  241  SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA  300
+
+Query  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP  360
+            VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP
+Sbjct  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP  360
+
+Query  361  PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV  420
+            PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV
+Sbjct  361  PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV  420
+
+Query  421  GPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVT  480
+            GPEGQQNLAPGARCGV                  W            TGLRCRSCSGDVT
+Sbjct  421  GPEGQQNLAPGARCGV------------------W------------TGLRCRSCSGDVT  450
+
+Query  481  PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA  540
+            PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA
+Sbjct  451  PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA  510
+
+Query  541  APFPS  545
+            APFPS
+Sbjct  511  APFPS  515
+
+
+
+
+>hCG401300, isoform CRA_d [Homo sapiens]
+Sequence ID: EAX09444.1 Length: 514
+Range 1: 1 to 514
+
+Score:1006 bits(2600), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:514/545(94%), Positives:514/545(94%), Gaps:31/545(5%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+            MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH
+Sbjct  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGCPQAFH  60
+
+Query  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK  120
+            ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK
+Sbjct  61   ALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVDLSQPRKGRKPPAVPK  120
+
+Query  121  ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG  180
+            ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG
+Sbjct  121  ALVPPPRLPTKRKASEEARAAAPAALTPRGTASPGSQLKAKPPKKPESSAEQQRLPLGNG  180
+
+Query  181  IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG  240
+            IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG
+Sbjct  181  IQTMSASVQRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSG  240
+
+Query  241  SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA  300
+            SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA
+Sbjct  241  SGKNKARSSSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECA  300
+
+Query  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP  360
+            VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP
+Sbjct  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQEP  360
+
+Query  361  PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV  420
+            PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV
+Sbjct  361  PVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSALHPLLCV  420
+
+Query  421  GPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVT  480
+            GPEGQQNLAPGARCGV                               TGLRCRSCSGDVT
+Sbjct  421  GPEGQQNLAPGARCGV-------------------------------TGLRCRSCSGDVT  449
+
+Query  481  PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA  540
+            PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA
+Sbjct  450  PAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEHTFDGILQWAIQSMARPA  509
+
+Query  541  APFPS  545
+            APFPS
+Sbjct  510  APFPS  514
+
+
+
+
+>AIRE protein [Homo sapiens]
+Sequence ID: AAI37269.1 Length: 348
+>AIRE protein [Homo sapiens]
+Sequence ID: AAI37271.1 Length: 348
+>hCG401300, isoform CRA_c [Homo sapiens]
+Sequence ID: EAX09443.1 Length: 348 
+Range 1: 29 to 348
+
+Score:493 bits(1270), Expect:3e-172, 
+Method:Compositional matrix adjust., 
+Identities:269/322(84%), Positives:279/322(86%), Gaps:5/322(1%)
+
+Query  227  GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG---GGEARLGQQGSVPAPL  283
+            GG  + P  +   G G+     S G    + + G Q    G   G E  L ++   P+P+
+Sbjct  29   GGVCWRPDGWGTGGQGRISGPGSMGAGQRLGSSGTQRCCWGSCFGKEVAL-RRVLHPSPV  87
+
+Query  284  ALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+             +     L QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA
+Sbjct  88   CMGVS-CLCQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  146
+
+Query  344  TVQEVQPRAEEPRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSA  403
+            TVQEVQPRAEEPRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSA
+Sbjct  147  TVQEVQPRAEEPRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSA  206
+
+Query  404  APLPGLDSSALHPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGT  463
+            APLPGLDSSALHPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGT
+Sbjct  207  APLPGLDSSALHPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGT  266
+
+Query  464  SRPGTGLRCRSCSGDVTPAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEH  523
+            SRPGTGLRCRSCSGDVTPAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEH
+Sbjct  267  SRPGTGLRCRSCSGDVTPAPVEGVLAPSPARLAPGPAKDDTASHEPALHRDDLESLLSEH  326
+
+Query  524  TFDGILQWAIQSMARPAAPFPS  545
+            TFDGILQWAIQSMARPAAPFPS
+Sbjct  327  TFDGILQWAIQSMARPAAPFPS  348
+
+
+
+
+>hCG401300, isoform CRA_b [Homo sapiens]
+Sequence ID: EAX09442.1 Length: 254
+>AIRE-3 [Homo sapiens]
+Sequence ID: BAA23992.1 Length: 254
+>AIRE-3 [Homo sapiens]
+Sequence ID: BAA23993.1 Length: 254 
+Range 1: 29 to 181
+
+Score:180 bits(457), Expect:9e-52, 
+Method:Compositional matrix adjust., 
+Identities:101/155(65%), Positives:111/155(71%), Gaps:5/155(3%)
+
+Query  227  GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG---GGEARLGQQGSVPAPL  283
+            GG  + P  +   G G+     S G    + + G Q    G   G E  L ++   P+P+
+Sbjct  29   GGVCWRPDGWGTGGQGRISGPGSMGAGQRLGSSGTQRCCWGSCFGKEVAL-RRVLHPSPV  87
+
+Query  284  ALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  343
+             +     L QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA
+Sbjct  88   CMGVS-CLCQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQA  146
+
+Query  344  TVQEVQPRAEEPRPQEPPVETPLPPGLRSAGEEVR  378
+            TVQEVQPRAEEPRPQEPPVETPLPPGLRSAGEE R
+Sbjct  147  TVQEVQPRAEEPRPQEPPVETPLPPGLRSAGEEPR  181
+
+
+
+
+>NMR structure of the second PHD finger of AIRE (AIRE-PHD2) [Homo sapiens]
+Sequence ID: 2LRI_C Length: 66
+Range 1: 4 to 66
+
+Score:136 bits(342), Expect:1e-37, 
+Method:Compositional matrix adjust., 
+Identities:63/63(100%), Positives:63/63(100%), Gaps:0/63(0%)
+
+Query  423  EGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPA  482
+            EGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPA
+Sbjct  4    EGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPA  63
+
+Query  483  PVE  485
+            PVE
+Sbjct  64   PVE  66
+
+
+
+
+>Chain A, Autoimmune regulator [Homo sapiens]
+Sequence ID: 1XWH_A Length: 66
+>Chain A, Autoimmune regulator [Homo sapiens]
+Sequence ID: 2KE1_A Length: 66 
+Range 1: 3 to 66
+
+Score:133 bits(335), Expect:1e-36, 
+Method:Compositional matrix adjust., 
+Identities:62/64(97%), Positives:63/64(98%), Gaps:0/64(0%)
+
+Query  291  LHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQP  350
+            + QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQP
+Sbjct  3    MAQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQP  62
+
+Query  351  RAEE  354
+            RAEE
+Sbjct  63   RAEE  66
+
+
+
+
+>Chain A, Autoimmune regulator [Homo sapiens]
+Sequence ID: 2KFT_A Length: 56
+Range 1: 3 to 56
+
+Score:117 bits(293), Expect:8e-31, 
+Method:Compositional matrix adjust., 
+Identities:54/54(100%), Positives:54/54(100%), Gaps:0/54(0%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  347
+            KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE
+Sbjct  3    KNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQE  56
+
+
+
+
+>autoimmune regulator, partial [Homo sapiens]
+Sequence ID: BAF62470.1 Length: 75
+Range 1: 25 to 75
+
+Score:87.0 bits(214), Expect:9e-20, 
+Method:Compositional matrix adjust., 
+Identities:42/52(81%), Positives:45/52(86%), Gaps:1/52(1%)
+
+Query  280  PAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP  331
+            P+P+ +     L QKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP
+Sbjct  25   PSPVCMGVSC-LCQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIP  75
+
+
+
+
+>nuclear body protein SP140-like protein isoform X7 [Homo sapiens]
+Sequence ID: XP_047302373.1 Length: 506
+>nuclear body protein SP140-like protein isoform X7 [Homo sapiens]
+Sequence ID: XP_054200596.1 Length: 506 
+Range 1: 320 to 500
+
+Score:81.6 bits(200), Expect:5e-15, 
+Method:Compositional matrix adjust., 
+Identities:63/201(31%), Positives:86/201(42%), Gaps:49/201(24%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  320  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  366
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  367  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  420
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCL-------QATVQEVQ  349
+            DEC VCRDGGEL CCD C R FH  C  PP+ E     W C  C        Q   QE +
+Sbjct  421  DECEVCRDGGELFCCDTCSRVFHEDCHIPPV-ESEKTPWNCIFCRMKESPGSQQCCQESE  479
+
+Query  350  PRAEEPRPQEPPVETPLPPGL  370
+                +  P+E  V     P L
+Sbjct  480  VLERQMCPEEQLVNQMQTPSL  500
+
+
+
+
+>SP140 nuclear body protein like [Homo sapiens]
+Sequence ID: KAI2527337.1 Length: 555
+Range 1: 278 to 421
+
+Score:81.6 bits(200), Expect:5e-15, 
+Method:Compositional matrix adjust., 
+Identities:56/160(35%), Positives:74/160(46%), Gaps:34/160(21%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  278  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  324
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLAL---------------PSDPQLHQKNEDECA  300
+            +K  + +   GG    RL ++GS+P P  +                 DP +  +N DEC 
+Sbjct  325  SKNWRLSVRCGGWPLRRLMEEGSLPNPSRIYYRNKKRILKSQNNSSVDPCM--RNLDECE  382
+
+Query  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            VCRDGGEL CCD C R FH  C  PP+ E     W C  C
+Sbjct  383  VCRDGGELFCCDTCSRVFHEDCHIPPV-ESEKTPWNCIFC  421
+
+
+
+
+Range 2: 23 to 165
+
+Score:40.4 bits(93), Expect:0.042, 
+Method:Compositional matrix adjust., 
+Identities:37/152(24%), Positives:65/152(42%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  23   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  76
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L    + ++L+    LF + N++ Y  L  I  SF   +   LS     
+Sbjct  77   VQRVVYNVLSELEKTFNLSVLE---ALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  133
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  134  RKEREERPDIKLSLKQGEVPESPEARKESDQA  165
+
+
+
+
+>SP140 nuclear body protein like [Homo sapiens]
+Sequence ID: KAI2527336.1 Length: 580
+Range 1: 303 to 446
+
+Score:81.6 bits(200), Expect:5e-15, 
+Method:Compositional matrix adjust., 
+Identities:56/160(35%), Positives:74/160(46%), Gaps:34/160(21%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  303  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  349
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLAL---------------PSDPQLHQKNEDECA  300
+            +K  + +   GG    RL ++GS+P P  +                 DP +  +N DEC 
+Sbjct  350  SKNWRLSVRCGGWPLRRLMEEGSLPNPSRIYYRNKKRILKSQNNSSVDPCM--RNLDECE  407
+
+Query  301  VCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            VCRDGGEL CCD C R FH  C  PP+ E     W C  C
+Sbjct  408  VCRDGGELFCCDTCSRVFHEDCHIPPV-ESEKTPWNCIFC  446
+
+
+
+
+Range 2: 48 to 190
+
+Score:40.8 bits(94), Expect:0.035, 
+Method:Compositional matrix adjust., 
+Identities:38/152(25%), Positives:63/152(41%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  48   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  101
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L   + T  L     LF + N++ Y  L  I  SF   +   LS     
+Sbjct  102  VQRVVYNVLSEL---EKTFNLSVLEALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  158
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  159  RKEREERPDIKLSLKQGEVPESPEARKESDQA  190
+
+
+
+
+>nuclear body protein SP140-like protein isoform 2 [Homo sapiens]
+Sequence ID: NP_001295091.1 Length: 555
+>SP140L-1 protein [Homo sapiens]
+Sequence ID: AGZ83102.1 Length: 555
+>SP140 nuclear body protein like [Homo sapiens]
+Sequence ID: KAI4038493.1 Length: 555 
+Range 1: 278 to 421
+
+Score:81.3 bits(199), Expect:7e-15, 
+Method:Compositional matrix adjust., 
+Identities:55/164(34%), Positives:75/164(45%), Gaps:42/164(25%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  278  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  324
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  325  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  378
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            DEC VCRDGGEL CCD C R FH  C  PP+ E     W C  C
+Sbjct  379  DECEVCRDGGELFCCDTCSRVFHEDCHIPPV-ESEKTPWNCIFC  421
+
+
+
+
+Range 2: 23 to 165
+
+Score:40.4 bits(93), Expect:0.047, 
+Method:Compositional matrix adjust., 
+Identities:37/152(24%), Positives:65/152(42%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  23   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  76
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L    + ++L+    LF + N++ Y  L  I  SF   +   LS     
+Sbjct  77   VQRVVYNVLSELEKTFNLSVLE---ALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  133
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  134  RKEREERPDIKLSLKQGEVPESPEARKESDQA  165
+
+
+
+
+>nuclear body protein SP140-like protein isoform 1 [Homo sapiens]
+Sequence ID: NP_612411.4 Length: 580
+>RecName: Full=Nuclear body protein SP140-like protein [Homo sapiens]
+Sequence ID: Q9H930.3 Length: 580
+>hypothetical protein BC004921, isoform CRA_a [Homo sapiens]
+Sequence ID: EAW70924.1 Length: 580
+>SP140 nuclear body protein like [Homo sapiens]
+Sequence ID: KAI4038491.1 Length: 580 
+Range 1: 303 to 446
+
+Score:80.9 bits(198), Expect:8e-15, 
+Method:Compositional matrix adjust., 
+Identities:55/164(34%), Positives:75/164(45%), Gaps:42/164(25%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  303  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  349
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  350  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  403
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            DEC VCRDGGEL CCD C R FH  C  PP+ E     W C  C
+Sbjct  404  DECEVCRDGGELFCCDTCSRVFHEDCHIPPV-ESEKTPWNCIFC  446
+
+
+
+
+Range 2: 48 to 190
+
+Score:40.4 bits(93), Expect:0.040, 
+Method:Compositional matrix adjust., 
+Identities:37/152(24%), Positives:65/152(42%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  48   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  101
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L    + ++L+    LF + N++ Y  L  I  SF   +   LS     
+Sbjct  102  VQRVVYNVLSELEKTFNLSVLE---ALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  158
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  159  RKEREERPDIKLSLKQGEVPESPEARKESDQA  190
+
+
+
+
+>unknown [Homo sapiens]
+Sequence ID: AAX88869.1 Length: 245
+Range 1: 110 to 241
+
+Score:77.0 bits(188), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:51/145(35%), Positives:70/145(48%), Gaps:29/145(20%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  110  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  156
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAP-----------LALPSDPQLH--QKNEDECAVC  302
+            +K  + +   GG    RL ++GS+P P           L   ++  +    +N DEC VC
+Sbjct  157  SKNWRLSVRCGGWPLRRLMEEGSLPNPPRIYYRNKKRILKSQNNSSVDPCMRNLDECEVC  216
+
+Query  303  RDGGELICCDGCPRAFHLACLSPPL  327
+            RDGGEL CCD C R FH  C  PP+
+Sbjct  217  RDGGELFCCDTCSRVFHEDCHIPPV  241
+
+
+
+
+>Structure of CHD5 PHD2 - tandem chromodomains [Homo sapiens]
+Sequence ID: 6GUU_A Length: 241
+>Structure of CHD5 PHD2 - tandem chromodomains [Homo sapiens]
+Sequence ID: 6GUU_B Length: 241 
+Range 1: 11 to 98
+
+Score:77.0 bits(188), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:41/90(46%), Positives:51/90(56%), Gaps:2/90(2%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEEPRPQ  358
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    ++    R    R  
+Sbjct  11   CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQRILHWRWT  70
+
+Query  359  EPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+            EPP   P   GL     E   PP +PL G+
+Sbjct  71   EPP--APFMVGLPGPDVEPSLPPPKPLEGI  98
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAB14413.1 Length: 245
+Range 1: 110 to 241
+
+Score:77.0 bits(188), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:51/151(34%), Positives:71/151(47%), Gaps:41/151(27%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  110  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  156
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  157  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  210
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+            DEC VCRDGGEL CCD C R FH  C  PP+
+Sbjct  211  DECEVCRDGGELFCCDTCSRVFHEDCHIPPV  241
+
+
+
+
+>The crystal structure of TRIM66 PHD-Bromo domain [Homo sapiens]
+Sequence ID: 6IET_A Length: 196
+>The structure of TRIM66 PHD-Bromo domain with unmodified H3 N terminal peptide [Homo sapiens]
+Sequence ID: 6IEU_A Length: 196 
+Range 1: 2 to 70
+
+Score:74.7 bits(182), Expect:4e-14, 
+Method:Compositional matrix adjust., 
+Identities:32/69(46%), Positives:42/69(60%), Gaps:0/69(0%)
+
+Query  292  HQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPR  351
+            H +NED CAVC +GGEL+CCD CP+ FHL+C  P L   P G W C+ C   T  E++  
+Sbjct  2    HMENEDFCAVCLNGGELLCCDRCPKVFHLSCHVPALTSFPGGEWVCTLCRSLTQPEMEYD  61
+
+Query  352  AEEPRPQEP  360
+            +E     +P
+Sbjct  62   SENASHNQP  70
+
+
+
+
+Range 2: 9 to 56
+
+Score:42.7 bits(99), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:20/48(42%), Positives:23/48(47%), Gaps:0/48(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTP  481
+            C VC +G ++L C  C   FH  CH PA TS PG    C  C     P
+Sbjct  9    CAVCLNGGELLCCDRCPKVFHLSCHVPALTSFPGGEWVCTLCRSLTQP  56
+
+
+
+
+>nuclear body protein SP140-like protein isoform X3 [Homo sapiens]
+Sequence ID: XP_047302370.1 Length: 546
+>nuclear body protein SP140-like protein isoform X3 [Homo sapiens]
+Sequence ID: XP_054200592.1 Length: 546 
+Range 1: 278 to 433
+
+Score:78.2 bits(191), Expect:6e-14, 
+Method:Compositional matrix adjust., 
+Identities:59/178(33%), Positives:84/178(47%), Gaps:49/178(27%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  278  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  324
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  325  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  378
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPP-----LREIPSGTWRCSSCLQATVQEVQ  349
+            DEC VCRDGGEL CCD C R FH  C  PP     ++E P G+ +C  C ++ V E Q
+Sbjct  379  DECEVCRDGGELFCCDTCSRVFHEDCHIPPVESEKMKESP-GSQQC--CQESEVLERQ  433
+
+
+
+
+Range 2: 23 to 165
+
+Score:40.4 bits(93), Expect:0.043, 
+Method:Compositional matrix adjust., 
+Identities:38/152(25%), Positives:63/152(41%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  23   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  76
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L   + T  L     LF + N++ Y  L  I  SF   +   LS     
+Sbjct  77   VQRVVYNVLSEL---EKTFNLSVLEALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  133
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  134  RKEREERPDIKLSLKQGEVPESPEARKESDQA  165
+
+
+
+
+>SP140 nuclear body protein like [Homo sapiens]
+Sequence ID: KAI2527339.1 Length: 438
+Range 1: 303 to 434
+
+Score:77.8 bits(190), Expect:6e-14, 
+Method:Compositional matrix adjust., 
+Identities:52/147(35%), Positives:70/147(47%), Gaps:33/147(22%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  303  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  349
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLAL---------------PSDPQLHQKNEDECA  300
+            +K  + +   GG    RL ++GS+P P  +                 DP +  +N DEC 
+Sbjct  350  SKNWRLSVRCGGWPLRRLMEEGSLPNPSRIYYRNKKRILKSQNNSSVDPCM--RNLDECE  407
+
+Query  301  VCRDGGELICCDGCPRAFHLACLSPPL  327
+            VCRDGGEL CCD C R FH  C  PP+
+Sbjct  408  VCRDGGELFCCDTCSRVFHEDCHIPPV  434
+
+
+
+
+Range 2: 48 to 190
+
+Score:40.8 bits(94), Expect:0.030, 
+Method:Compositional matrix adjust., 
+Identities:38/152(25%), Positives:63/152(41%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  48   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  101
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L   + T  L     LF + N++ Y  L  I  SF   +   LS     
+Sbjct  102  VQRVVYNVLSEL---EKTFNLSVLEALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  158
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  159  RKEREERPDIKLSLKQGEVPESPEARKESDQA  190
+
+
+
+
+>nuclear body protein SP140-like protein isoform X8 [Homo sapiens]
+Sequence ID: XP_011510492.1 Length: 469
+>nuclear body protein SP140-like protein isoform X8 [Homo sapiens]
+Sequence ID: XP_047302374.1 Length: 469
+>nuclear body protein SP140-like protein isoform X8 [Homo sapiens]
+Sequence ID: XP_054200597.1 Length: 469
+>nuclear body protein SP140-like protein isoform X8 [Homo sapiens]
+Sequence ID: XP_054200598.1 Length: 469 
+Range 1: 320 to 456
+
+Score:77.8 bits(190), Expect:6e-14, 
+Method:Compositional matrix adjust., 
+Identities:53/159(33%), Positives:73/159(45%), Gaps:44/159(27%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  320  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  366
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  367  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  420
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTW  335
+            DEC VCRDGGEL CCD C R FH  C  PP   + S  W
+Sbjct  421  DECEVCRDGGELFCCDTCSRVFHEDCHIPP---VESEKW  456
+
+
+
+
+>nuclear body protein SP140-like protein isoform 4 [Homo sapiens]
+Sequence ID: NP_001339821.1 Length: 571
+Range 1: 303 to 458
+
+Score:78.2 bits(191), Expect:7e-14, 
+Method:Compositional matrix adjust., 
+Identities:59/178(33%), Positives:84/178(47%), Gaps:49/178(27%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  303  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  349
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  350  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  403
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPP-----LREIPSGTWRCSSCLQATVQEVQ  349
+            DEC VCRDGGEL CCD C R FH  C  PP     ++E P G+ +C  C ++ V E Q
+Sbjct  404  DECEVCRDGGELFCCDTCSRVFHEDCHIPPVESEKMKESP-GSQQC--CQESEVLERQ  458
+
+
+
+
+Range 2: 48 to 190
+
+Score:40.8 bits(94), Expect:0.036, 
+Method:Compositional matrix adjust., 
+Identities:38/152(25%), Positives:63/152(41%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  48   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  101
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L   + T  L     LF + N++ Y  L  I  SF   +   LS     
+Sbjct  102  VQRVVYNVLSEL---EKTFNLSVLEALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  158
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  159  RKEREERPDIKLSLKQGEVPESPEARKESDQA  190
+
+
+
+
+>nuclear body protein SP140-like protein isoform X1 [Homo sapiens]
+Sequence ID: XP_047302368.1 Length: 588
+>nuclear body protein SP140-like protein isoform X1 [Homo sapiens]
+Sequence ID: XP_054200590.1 Length: 588 
+Range 1: 320 to 480
+
+Score:78.2 bits(191), Expect:7e-14, 
+Method:Compositional matrix adjust., 
+Identities:61/183(33%), Positives:86/183(46%), Gaps:49/183(26%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  320  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  366
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  367  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  420
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPP-----LREIPSGTWRCSSCLQATVQEVQPR  351
+            DEC VCRDGGEL CCD C R FH  C  PP     ++E P G+ +C  C ++ V E Q  
+Sbjct  421  DECEVCRDGGELFCCDTCSRVFHEDCHIPPVESEKMKESP-GSQQC--CQESEVLERQMC  477
+
+Query  352  AEE  354
+             EE
+Sbjct  478  PEE  480
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 5 [Homo sapiens]
+Sequence ID: NP_056372.1 Length: 1954
+>RecName: Full=Chromodomain-helicase-DNA-binding protein 5; Short=CHD-5; AltName: Full=ATP-dependent helicase CHD5 [Homo sapiens]
+Sequence ID: Q8TDI0.1 Length: 1954
+>chromodomain helicase DNA binding protein 5 [Homo sapiens]
+Sequence ID: AAL98962.1 Length: 1954
+>chromodomain helicase DNA binding protein 5 [Homo sapiens]
+Sequence ID: EAW71516.1 Length: 1954 
+Range 1: 419 to 506
+
+Score:78.6 bits(192), Expect:7e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:53/94(56%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  419  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  474
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP +PL G+
+Sbjct  475  WRWTEPP--APFMVGLPGPDVEPSLPPPKPLEGI  506
+
+
+
+
+Range 2: 342 to 393
+
+Score:70.1 bits(170), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  342  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  393
+
+
+
+
+>hypothetical protein BC004921, isoform CRA_b [Homo sapiens]
+Sequence ID: EAW70925.1 Length: 438
+>SP140 nuclear body protein like [Homo sapiens]
+Sequence ID: KAI4038492.1 Length: 438 
+Range 1: 303 to 434
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:51/151(34%), Positives:71/151(47%), Gaps:41/151(27%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  303  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  349
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  350  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  403
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+            DEC VCRDGGEL CCD C R FH  C  PP+
+Sbjct  404  DECEVCRDGGELFCCDTCSRVFHEDCHIPPV  434
+
+
+
+
+Range 2: 48 to 190
+
+Score:40.8 bits(94), Expect:0.030, 
+Method:Compositional matrix adjust., 
+Identities:38/152(25%), Positives:63/152(41%), Gaps:23/152(15%)
+
+Query  1    MATDAALRRLLRLHRTEIAVAVDSAFPLLHALADHDVVPEDKFQETLHLKEKEGC-----  55
+            +  D   +   R H+ EI+ A+   FP L  L D +++    F+++     ++ C     
+Sbjct  48   LVYDTVFKHFKR-HKLEISNAIKKTFPFLEGLRDRELITNKMFEDS-----EDSCRNLVP  101
+
+Query  56   -PQAFHALLSWLLTQDSTAILDFWRVLFKDYNLERYGRLQPILDSFPKDVD--LSQPRKG  112
+              +  + +LS L   + T  L     LF + N++ Y  L  I  SF   +   LS     
+Sbjct  102  VQRVVYNVLSEL---EKTFNLSVLEALFSEVNMQEYPDLIHIYKSFKNAIQDKLSFQESD  158
+
+Query  113  RKP----PAVPKALV--PPPRLPTKRKASEEA  138
+            RK     P +  +L     P  P  RK S++A
+Sbjct  159  RKEREERPDIKLSLKQGEVPESPEARKESDQA  190
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAC86802.1 Length: 1225
+Range 1: 419 to 506
+
+Score:78.6 bits(192), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:53/94(56%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  419  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  474
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP +PL G+
+Sbjct  475  WRWTEPP--APFMVGLPGPDVEPSLPPPKPLEGI  506
+
+
+
+
+Range 2: 342 to 393
+
+Score:68.9 bits(167), Expect:8e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  342  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  393
+
+
+
+
+>chromodomain helicase DNA binding protein 5 [Homo sapiens]
+Sequence ID: KAI2514781.1 Length: 1954
+>chromodomain helicase DNA binding protein 5 [Homo sapiens]
+Sequence ID: KAI4078346.1 Length: 1954 
+Range 1: 419 to 506
+
+Score:78.6 bits(192), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:53/94(56%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  419  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  474
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP +PL G+
+Sbjct  475  WRWTEPP--APFMVGLPGPDVEPSLPPPKPLEGI  506
+
+
+
+
+Range 2: 342 to 393
+
+Score:70.1 bits(170), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  342  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  393
+
+
+
+
+>chromodomain helicase DNA binding protein 5 [Homo sapiens]
+Sequence ID: KAI2514782.1 Length: 1225
+>chromodomain helicase DNA binding protein 5 [Homo sapiens]
+Sequence ID: KAI4078348.1 Length: 1225 
+Range 1: 419 to 506
+
+Score:78.6 bits(192), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/94(47%), Positives:53/94(56%), Gaps:10/94(10%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEVQPRAEE  354
+            C VC+DGGEL+CCD CP ++HL CL+PPL EIP+G W C  C    L+  VQ    R   
+Sbjct  419  CRVCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQ----RILH  474
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGM  388
+             R  EPP   P   GL     E   PP +PL G+
+Sbjct  475  WRWTEPP--APFMVGLPGPDVEPSLPPPKPLEGI  506
+
+
+
+
+Range 2: 342 to 393
+
+Score:68.9 bits(167), Expect:8e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/52(50%), Positives:34/52(65%), Gaps:0/52(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQ  346
+            ++D C VC+ GGE+I CD CPRA+HL CL P L + P G W C  C +  +Q
+Sbjct  342  HQDYCEVCQQGGEIILCDTCPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQ  393
+
+
+
+
+>nuclear body protein SP140-like protein isoform X10 [Homo sapiens]
+Sequence ID: XP_047302376.1 Length: 455
+>nuclear body protein SP140-like protein isoform X10 [Homo sapiens]
+Sequence ID: XP_054200600.1 Length: 455 
+Range 1: 320 to 451
+
+Score:77.4 bits(189), Expect:8e-14, 
+Method:Compositional matrix adjust., 
+Identities:51/151(34%), Positives:71/151(47%), Gaps:41/151(27%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  320  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  366
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  367  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  420
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+            DEC VCRDGGEL CCD C R FH  C  PP+
+Sbjct  421  DECEVCRDGGELFCCDTCSRVFHEDCHIPPV  451
+
+
+
+
+>nuclear body protein SP140-like protein isoform X9 [Homo sapiens]
+Sequence ID: XP_047302375.1 Length: 460
+>nuclear body protein SP140-like protein isoform X9 [Homo sapiens]
+Sequence ID: XP_054200599.1 Length: 460 
+Range 1: 320 to 451
+
+Score:77.4 bits(189), Expect:9e-14, 
+Method:Compositional matrix adjust., 
+Identities:51/151(34%), Positives:71/151(47%), Gaps:41/151(27%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVR  257
+            +P   G V+GIL ++  E G   KCIQ   G+++TP +FE  G                R
+Sbjct  320  LPVTCGGVKGILHKEKLEQGTLAKCIQTEDGKWFTPMEFEIKGG-------------YAR  366
+
+Query  258  AKGAQGAAPGGGE--ARLGQQGSVPAPLALPSDPQLHQKNE-------------------  296
+            +K  + +   GG    RL ++GS+P P      P+++ +N+                   
+Sbjct  367  SKNWRLSVRCGGWPLRRLMEEGSLPNP------PRIYYRNKKRILKSQNNSSVDPCMRNL  420
+
+Query  297  DECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+            DEC VCRDGGEL CCD C R FH  C  PP+
+Sbjct  421  DECEVCRDGGELFCCDTCSRVFHEDCHIPPV  451
+
+
+
+
+>sp110 nuclear body protein isoform X2 [Homo sapiens]
+Sequence ID: XP_011509392.1 Length: 695
+Range 1: 372 to 533
+
+Score:77.8 bits(190), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  372  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  429
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  430  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  480
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  481  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  521
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  522  -EAKRMLWSCTFC  533
+
+
+
+
+>sp110 nuclear body protein isoform c [Homo sapiens]
+Sequence ID: NP_536349.3 Length: 713
+>unknown [Homo sapiens]
+Sequence ID: AAX93281.1 Length: 713
+>SP110 nuclear body protein, isoform CRA_a [Homo sapiens]
+Sequence ID: EAW70915.1 Length: 713 
+Range 1: 416 to 577
+
+Score:77.8 bits(190), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  416  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  473
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  474  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  524
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  525  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  565
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  566  -EAKRMLWSCTFC  577
+
+
+
+
+>sp110 nuclear body protein isoform a [Homo sapiens]
+Sequence ID: NP_004500.4 Length: 689
+>RecName: Full=Sp110 nuclear body protein; AltName: Full=Interferon-induced protein 41/75; AltName: Full=Speckled 110 kDa; AltName: Full=Transcriptional coactivator Sp110 [Homo sapiens]
+Sequence ID: Q9HB58.5 Length: 689
+>SP110 nuclear body protein, isoform CRA_d [Homo sapiens]
+Sequence ID: EAW70918.1 Length: 689 
+Range 1: 416 to 577
+
+Score:77.8 bits(190), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  416  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  473
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  474  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  524
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  525  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  565
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  566  -EAKRMLWSCTFC  577
+
+
+
+
+>sp110 nuclear body protein isoform f [Homo sapiens]
+Sequence ID: NP_001365372.1 Length: 739
+Range 1: 416 to 577
+
+Score:77.8 bits(190), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  416  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  473
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  474  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  524
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  525  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  565
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  566  -EAKRMLWSCTFC  577
+
+
+
+
+>sp110 nuclear body protein isoform 3 [Homo sapiens]
+Sequence ID: NP_001365371.1 Length: 745
+>sp110 nuclear body protein isoform X1 [Homo sapiens]
+Sequence ID: XP_016859457.1 Length: 745 
+Range 1: 422 to 583
+
+Score:77.8 bits(190), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  422  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  479
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  480  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  530
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  531  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  571
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  572  -EAKRMLWSCTFC  583
+
+
+
+
+>sp110 nuclear body protein isoform g [Homo sapiens]
+Sequence ID: NP_001365373.1 Length: 719
+Range 1: 422 to 583
+
+Score:77.8 bits(190), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  422  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  479
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  480  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  530
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  531  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  571
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  572  -EAKRMLWSCTFC  583
+
+
+
+
+>sp110 nuclear body protein isoform h [Homo sapiens]
+Sequence ID: NP_001365374.1 Length: 695
+Range 1: 422 to 583
+
+Score:77.8 bits(190), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  422  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  479
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  480  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  530
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  531  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  571
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  572  -EAKRMLWSCTFC  583
+
+
+
+
+>sp110 nuclear body protein isoform X7 [Homo sapiens]
+Sequence ID: XP_011509394.1 Length: 536
+Range 1: 213 to 374
+
+Score:77.4 bits(189), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  213  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  270
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  271  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  321
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  322  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  362
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  363  -EAKRMLWSCTFC  374
+
+
+
+
+>sp110 nuclear body protein isoform X6 [Homo sapiens]
+Sequence ID: XP_047300077.1 Length: 592
+Range 1: 366 to 527
+
+Score:77.4 bits(189), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  366  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  423
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  424  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  474
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  475  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  515
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  516  -EAKRMLWSCTFC  527
+
+
+
+
+>Crystal structure of TRIM24 with 3,4-dimethoxy-N-(6-(4-methoxyphenoxy)-1,3-dimethyl-2-oxo-2,3-dihydro-1H-benzo[d]imidazol-5-yl)benzenesulfonamide inhibitor [Homo sapiens]
+Sequence ID: 4ZQL_A Length: 184
+>Crystal structure of TRIM24 with 3,4-dimethoxy-N-(6-(4-methoxyphenoxy)-1,3-dimethyl-2-oxo-2,3-dihydro-1H-benzo[d]imidazol-5-yl)benzenesulfonamide inhibitor [Homo sapiens]
+Sequence ID: 4ZQL_B Length: 184 
+Range 1: 3 to 63
+
+Score:72.8 bits(177), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/61(49%), Positives:40/61(65%), Gaps:0/61(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            NED CAVC++GGEL+CC+ CP+ FHL+C  P L   PSG W C+ C   +  EV+   + 
+Sbjct  3    NEDWCAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSGEWICTFCRDLSKPEVEYDCDA  62
+
+Query  355  P  355
+            P
+Sbjct  63   P  63
+
+
+
+
+Range 2: 7 to 64
+
+Score:39.3 bits(90), Expect:0.036, 
+Method:Compositional matrix adjust., 
+Identities:20/58(34%), Positives:24/58(41%), Gaps:0/58(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C     P       APS
+Sbjct  7    CAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSGEWICTFCRDLSKPEVEYDCDAPS  64
+
+
+
+
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 1 [Homo sapiens]
+Sequence ID: 5H1T_A Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 1 [Homo sapiens]
+Sequence ID: 5H1T_B Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 1 [Homo sapiens]
+Sequence ID: 5H1T_C Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 1 [Homo sapiens]
+Sequence ID: 5H1T_D Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 2 [Homo sapiens]
+Sequence ID: 5H1U_A Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 2 [Homo sapiens]
+Sequence ID: 5H1U_B Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 2 [Homo sapiens]
+Sequence ID: 5H1U_C Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 2 [Homo sapiens]
+Sequence ID: 5H1U_D Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 6 [Homo sapiens]
+Sequence ID: 5H1V_A Length: 183
+>Complex structure of TRIM24 PHD-bromodomain and inhibitor 6 [Homo sapiens]
+Sequence ID: 5H1V_B Length: 183 
+Range 1: 2 to 62
+
+Score:72.8 bits(177), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/61(49%), Positives:40/61(65%), Gaps:0/61(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            NED CAVC++GGEL+CC+ CP+ FHL+C  P L   PSG W C+ C   +  EV+   + 
+Sbjct  2    NEDWCAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSGEWICTFCRDLSKPEVEYDCDA  61
+
+Query  355  P  355
+            P
+Sbjct  62   P  62
+
+
+
+
+Range 2: 6 to 63
+
+Score:39.7 bits(91), Expect:0.029, 
+Method:Compositional matrix adjust., 
+Identities:20/58(34%), Positives:24/58(41%), Gaps:0/58(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C     P       APS
+Sbjct  6    CAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSGEWICTFCRDLSKPEVEYDCDAPS  63
+
+
+
+
+>Crystal structure of TRIM24 PHD-Bromo in the free state [Homo sapiens]
+Sequence ID: 3O33_A Length: 184
+>Crystal structure of TRIM24 PHD-Bromo in the free state [Homo sapiens]
+Sequence ID: 3O33_B Length: 184
+>Crystal structure of TRIM24 PHD-Bromo in the free state [Homo sapiens]
+Sequence ID: 3O33_C Length: 184
+>Crystal structure of TRIM24 PHD-Bromo in the free state [Homo sapiens]
+Sequence ID: 3O33_D Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H3(13-32)K23ac peptide [Homo sapiens]
+Sequence ID: 3O34_A Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H3(23-31)K27ac peptide [Homo sapiens]
+Sequence ID: 3O35_A Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H3(23-31)K27ac peptide [Homo sapiens]
+Sequence ID: 3O35_B Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H4(14-19)K16ac peptide [Homo sapiens]
+Sequence ID: 3O36_A Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H4(14-19)K16ac peptide [Homo sapiens]
+Sequence ID: 3O36_B Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H3(1-10)K4 peptide [Homo sapiens]
+Sequence ID: 3O37_A Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H3(1-10)K4 peptide [Homo sapiens]
+Sequence ID: 3O37_B Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H3(1-10)K4 peptide [Homo sapiens]
+Sequence ID: 3O37_C Length: 184
+>Crystal structure of TRIM24 PHD-Bromo complexed with H3(1-10)K4 peptide [Homo sapiens]
+Sequence ID: 3O37_D Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with 1-methyl-5-(2-methyl-1 3-thiazol-4-yl)-2 3-dihydro-1H-indol-2-one (1) [Homo sapiens]
+Sequence ID: 4YAB_A Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with 1-methyl-5-(2-methyl-1 3-thiazol-4-yl)-2 3-dihydro-1H-indol-2-one (1) [Homo sapiens]
+Sequence ID: 4YAB_B Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with 2,4-dimethoxy-N-(1-methyl-2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)benzene-1-sulfonamide (3b) [Homo sapiens]
+Sequence ID: 4YAD_A Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with 2,4-dimethoxy-N-(1-methyl-2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)benzene-1-sulfonamide (3b) [Homo sapiens]
+Sequence ID: 4YAD_B Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-(1,3-dimethyl-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl)-4-methoxybenzene-1-sulfonamide (5b) [Homo sapiens]
+Sequence ID: 4YAT_A Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-(1,3-dimethyl-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl)-4-methoxybenzene-1-sulfonamide (5b) [Homo sapiens]
+Sequence ID: 4YAT_B Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-[6-(4-methoxyphenoxy)-1,3-dimethyl-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl]benzenesulfonamide (5g) [Homo sapiens]
+Sequence ID: 4YAX_A Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-[6-(4-methoxyphenoxy)-1,3-dimethyl-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl]benzenesulfonamide (5g) [Homo sapiens]
+Sequence ID: 4YAX_B Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-{6-[3-(benzyloxy)phenoxy]-1,3-dimethyl-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl}-3,4-dimethoxybenzene-1-sulfonamide (7b) [Homo sapiens]
+Sequence ID: 4YBM_A Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-{6-[3-(benzyloxy)phenoxy]-1,3-dimethyl-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl}-3,4-dimethoxybenzene-1-sulfonamide (7b) [Homo sapiens]
+Sequence ID: 4YBM_B Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-{1,3-dimethyl-6-[3-(2-methylpropoxy)phenoxy]-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl}-1,2-dimethyl-1H-imidazole-4-sulfonamide (7g) [Homo sapiens]
+Sequence ID: 4YBS_A Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-{1,3-dimethyl-2-oxo-6-[3-(oxolan-3-ylmethoxy)phenoxy]-2,3-dihydro-1H-1,3-benzodiazol-5-yl}-1-methyl-1H-imidazole-4-sulfonamide (7l) [Homo sapiens]
+Sequence ID: 4YBT_A Length: 184
+>Crystal structure of TRIM24 PHD-bromodomain complexed with N-(6-{3-[4-(dimethylamino)butoxy]-5-propoxyphenoxy}-1,3-dimethyl-2-oxo-2,3-dihydro-1H-1,3-benzodiazol-5-yl)-3,4-dimethoxybenzene-1-sulfonamide (8i) [Homo sapiens]
+Sequence ID: 4YC9_A Length: 184 
+Range 1: 3 to 63
+
+Score:72.8 bits(177), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/61(49%), Positives:40/61(65%), Gaps:0/61(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            NED CAVC++GGEL+CC+ CP+ FHL+C  P L   PSG W C+ C   +  EV+   + 
+Sbjct  3    NEDWCAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSGEWICTFCRDLSKPEVEYDCDA  62
+
+Query  355  P  355
+            P
+Sbjct  63   P  63
+
+
+
+
+Range 2: 7 to 64
+
+Score:39.7 bits(91), Expect:0.030, 
+Method:Compositional matrix adjust., 
+Identities:20/58(34%), Positives:24/58(41%), Gaps:0/58(0%)
+
+Query  434  CGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRSCSGDVTPAPVEGVLAPS  491
+            C VC +G ++L C  C   FH  CH P  T+ P     C  C     P       APS
+Sbjct  7    CAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSGEWICTFCRDLSKPEVEYDCDAPS  64
+
+
+
+
+>sp110 nuclear body protein isoform X5 [Homo sapiens]
+Sequence ID: XP_024308618.1 Length: 598
+Range 1: 372 to 533
+
+Score:77.0 bits(188), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  372  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  429
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  430  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  480
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  481  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  521
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  522  -EAKRMLWSCTFC  533
+
+
+
+
+>sp110 nuclear body protein isoform X3 [Homo sapiens]
+Sequence ID: XP_011509393.1 Length: 672
+Range 1: 422 to 583
+
+Score:77.0 bits(188), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  422  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  479
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  480  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  530
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  531  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  571
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  572  -EAKRMLWSCTFC  583
+
+
+
+
+>sp110 nuclear body protein isoform i [Homo sapiens]
+Sequence ID: NP_001365375.1 Length: 648
+Range 1: 422 to 583
+
+Score:77.0 bits(188), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  422  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  479
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  480  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  530
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  531  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  571
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  572  -EAKRMLWSCTFC  583
+
+
+
+
+>sp110 nuclear body protein isoform X4 [Homo sapiens]
+Sequence ID: XP_047300076.1 Length: 642
+Range 1: 416 to 577
+
+Score:77.0 bits(188), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:58/193(30%), Positives:83/193(43%), Gaps:32/193(16%)
+
+Query  149  RGTASPGSQLKAKPPKKPESSAEQQRLPLGNGIQTMSASVQRAVAMSSGDVPGARGAVEG  208
+            R   +  S+LK K  +K   S+ ++R      I          V      +P   G  +G
+Sbjct  416  RTKCARKSRLKEKKKEKDICSSSKRRFQ--KNIHRRGKPKSDTVDFHCSKLPVTCGEAKG  473
+
+Query  209  ILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQGAAPG  267
+            IL ++  + G S KCI+   G + TP++FE  G G+N    +   K  +R +G       
+Sbjct  474  ILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----AKNWKRNIRCEGMT-----  524
+
+Query  268  GGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPL  327
+                 LG+               L +KN DEC VC  GG+L+CC  CPR FH  C  PP+
+Sbjct  525  -----LGEL--------------LKRKNSDECEVCCQGGQLLCCGTCPRVFHEDCHIPPV  565
+
+Query  328  REIPSGTWRCSSC  340
+             E     W C+ C
+Sbjct  566  -EAKRMLWSCTFC  577
+
+
+
+
+>SP140 nuclear body protein [Homo sapiens]
+Sequence ID: KAI2527334.1 Length: 753
+Range 1: 476 to 645
+
+Score:76.3 bits(186), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:62/177(35%), Positives:82/177(46%), Gaps:23/177(12%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  476  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  532
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  533  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  589
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSCL-------QATVQEVQPRAEEPRPQE  359
+            CCD C R FH  C  PP+ E     W C  C        Q   QE +    + RP+E
+Sbjct  590  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFCRMKESPGSQQCCQESEVLERQMRPEE  645
+
+
+
+
+>SP140 nuclear body protein, isoform CRA_a [Homo sapiens]
+Sequence ID: EAW70920.1 Length: 414
+Range 1: 137 to 280
+
+Score:75.1 bits(183), Expect:4e-13, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  137  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  193
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  194  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  250
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  251  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  280
+
+
+
+
+>SP140 nuclear body protein [Homo sapiens]
+Sequence ID: KAI2527332.1 Length: 840
+Range 1: 563 to 732
+
+Score:75.5 bits(184), Expect:5e-13, 
+Method:Compositional matrix adjust., 
+Identities:62/177(35%), Positives:82/177(46%), Gaps:23/177(12%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  563  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  619
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  620  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  676
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSCL-------QATVQEVQPRAEEPRPQE  359
+            CCD C R FH  C  PP+ E     W C  C        Q   QE +    + RP+E
+Sbjct  677  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFCRMKESPGSQQCCQESEVLERQMRPEE  732
+
+
+
+
+>transcriptional coactivator Sp110 [Homo sapiens]
+Sequence ID: AAG09826.1 Length: 689
+Range 1: 456 to 577
+
+Score:75.1 bits(183), Expect:6e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  456  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  511
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  512  KNWKRNIRCEGTT----------LGEL--------------LKRKNSDECEVCCQGGQLL  547
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  548  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  577
+
+
+
+
+>unknown, partial [Homo sapiens]
+Sequence ID: AAX88868.1 Length: 453
+Range 1: 176 to 319
+
+Score:74.3 bits(181), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  176  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  232
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  233  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  289
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  290  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  319
+
+
+
+
+>SP140 nuclear body protein [Homo sapiens]
+Sequence ID: KAI2527333.1 Length: 807
+Range 1: 530 to 699
+
+Score:75.1 bits(183), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:62/177(35%), Positives:82/177(46%), Gaps:23/177(12%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  530  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  586
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  587  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  643
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSCL-------QATVQEVQPRAEEPRPQE  359
+            CCD C R FH  C  PP+ E     W C  C        Q   QE +    + RP+E
+Sbjct  644  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFCRMKESPGSQQCCQESEVLERQMRPEE  699
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG62830.1 Length: 768
+Range 1: 514 to 683
+
+Score:75.1 bits(183), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:60/174(34%), Positives:80/174(45%), Gaps:17/174(9%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG----SGKNKARSSSGPK  253
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G    S   +     G  
+Sbjct  514  LPVTCGGVKGILHKKRLQQGILVKCIQTEDGKWFTPTEFEIKGGHARSKNWRLSVRCGGW  573
+
+Query  254  PLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELICCD  312
+            PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL CCD
+Sbjct  574  PL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELFCCD  630
+
+Query  313  GCPRAFHLACLSPPLREIPSGTWRCSSCL-------QATVQEVQPRAEEPRPQE  359
+             C R FH  C  PP+ E     W C  C        Q   QE +    + RP+E
+Sbjct  631  TCSRVFHEDCHIPPV-EAERTPWNCIFCRMKESPGSQQCCQESEVLERQMRPEE  683
+
+
+
+
+>sp110 nuclear body protein isoform X2 [Homo sapiens]
+Sequence ID: XP_054197699.1 Length: 695
+Range 1: 412 to 533
+
+Score:75.1 bits(183), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  412  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  467
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  468  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  503
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  504  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  533
+
+
+
+
+>Crystal Structure of the BHC80 PHD finger [Homo sapiens]
+Sequence ID: 2PUY_A Length: 60
+>Crystal Structure of the BHC80 PHD finger [Homo sapiens]
+Sequence ID: 2PUY_B Length: 60 
+Range 1: 1 to 49
+
+Score:66.6 bits(161), Expect:8e-13, 
+Method:Composition-based stats., 
+Identities:26/49(53%), Positives:32/49(65%), Gaps:0/49(0%)
+
+Query  292  HQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            H  +ED C+VCR  G+L+ CD C R +HL CL PPL+ IP G W C  C
+Sbjct  1    HMIHEDFCSVCRKSGQLLMCDTCSRVYHLDCLDPPLKTIPKGMWICPRC  49
+
+
+
+
+>SP110 nuclear body protein [Homo sapiens]
+Sequence ID: KAI2527325.1 Length: 713
+Range 1: 456 to 577
+
+Score:75.1 bits(183), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  456  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  511
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  512  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  547
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  548  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  577
+
+
+
+
+>SP110 nuclear body protein [Homo sapiens]
+Sequence ID: KAI4038479.1 Length: 713
+Range 1: 456 to 577
+
+Score:75.1 bits(183), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  456  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  511
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  512  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  547
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  548  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  577
+
+
+
+
+>SP110 nuclear body protein [Homo sapiens]
+Sequence ID: KAI4038480.1 Length: 689
+Range 1: 456 to 577
+
+Score:74.7 bits(182), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  456  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  511
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  512  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  547
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  548  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  577
+
+
+
+
+>SP140 nuclear body protein [Homo sapiens]
+Sequence ID: KAI2527331.1 Length: 867
+Range 1: 590 to 759
+
+Score:75.1 bits(183), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:62/177(35%), Positives:82/177(46%), Gaps:23/177(12%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  590  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  646
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  647  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  703
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSCL-------QATVQEVQPRAEEPRPQE  359
+            CCD C R FH  C  PP+ E     W C  C        Q   QE +    + RP+E
+Sbjct  704  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFCRMKESPGSQQCCQESEVLERQMRPEE  759
+
+
+
+
+>SP110 nuclear body protein [Homo sapiens]
+Sequence ID: KAI2527324.1 Length: 689
+Range 1: 456 to 577
+
+Score:74.7 bits(182), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  456  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  511
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  512  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  547
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  548  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  577
+
+
+
+
+>SP140 nuclear body protein [Homo sapiens]
+Sequence ID: KAI4038488.1 Length: 753
+Range 1: 476 to 619
+
+Score:74.7 bits(182), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:54/148(36%), Positives:71/148(47%), Gaps:10/148(6%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG----SGKNKARSSSGPK  253
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G    S   +     G  
+Sbjct  476  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGGHARSKNWRLSVRCGGW  535
+
+Query  254  PLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELICCD  312
+            PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL CCD
+Sbjct  536  PL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELFCCD  592
+
+Query  313  GCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C R FH  C  PP+ E     W C  C
+Sbjct  593  TCSRVFHEDCHIPPV-EAERTPWNCIFC  619
+
+
+
+
+>nuclear body protein SP140 isoform 5 [Homo sapiens]
+Sequence ID: NP_001265382.1 Length: 753
+>SP140 nuclear body protein, isoform CRA_c [Homo sapiens]
+Sequence ID: EAW70922.1 Length: 753 
+Range 1: 476 to 619
+
+Score:74.7 bits(182), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:54/148(36%), Positives:71/148(47%), Gaps:10/148(6%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSG----SGKNKARSSSGPK  253
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G    S   +     G  
+Sbjct  476  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGGHARSKNWRLSVRCGGW  535
+
+Query  254  PLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELICCD  312
+            PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL CCD
+Sbjct  536  PL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELFCCD  592
+
+Query  313  GCPRAFHLACLSPPLREIPSGTWRCSSC  340
+             C R FH  C  PP+ E     W C  C
+Sbjct  593  TCSRVFHEDCHIPPV-EAERTPWNCIFC  619
+
+
+
+
+>Sp140 protein [Homo sapiens]
+Sequence ID: AAC50817.1 Length: 753
+Range 1: 476 to 619
+
+Score:74.7 bits(182), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  476  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  532
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  533  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  589
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  590  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  619
+
+
+
+
+>sp110 nuclear body protein isoform X1 [Homo sapiens]
+Sequence ID: XP_054197698.1 Length: 745
+Range 1: 462 to 583
+
+Score:74.7 bits(182), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  462  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  517
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  518  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  553
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  554  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  583
+
+
+
+
+>sp110 nuclear body protein isoform X6 [Homo sapiens]
+Sequence ID: XP_054197703.1 Length: 592
+Range 1: 406 to 527
+
+Score:74.7 bits(182), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  406  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  461
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  462  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  497
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  498  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  527
+
+
+
+
+>sp110 nuclear body protein isoform X5 [Homo sapiens]
+Sequence ID: XP_054197702.1 Length: 598
+Range 1: 412 to 533
+
+Score:74.3 bits(181), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  412  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  467
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  468  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  503
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  504  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  533
+
+
+
+
+>nuclear body protein SP140 isoform X28 [Homo sapiens]
+Sequence ID: XP_016858741.1 Length: 756
+Range 1: 479 to 622
+
+Score:74.7 bits(182), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  479  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  535
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  536  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  592
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  593  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  622
+
+
+
+
+>nuclear body protein SP140 isoform X28 [Homo sapiens]
+Sequence ID: XP_054196300.1 Length: 756
+Range 1: 479 to 622
+
+Score:74.7 bits(182), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  479  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  535
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  536  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  592
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  593  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  622
+
+
+
+
+>sp110 nuclear body protein isoform X4 [Homo sapiens]
+Sequence ID: XP_054197701.1 Length: 642
+Range 1: 456 to 577
+
+Score:74.3 bits(181), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  456  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  511
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  512  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  547
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  548  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  577
+
+
+
+
+>nuclear body protein SP140 isoform X23 [Homo sapiens]
+Sequence ID: XP_054196295.1 Length: 803
+Range 1: 526 to 669
+
+Score:74.7 bits(182), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  526  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  582
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  583  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  639
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  640  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  669
+
+
+
+
+>nuclear body protein SP140 isoform X23 [Homo sapiens]
+Sequence ID: XP_016858737.1 Length: 803
+Range 1: 526 to 669
+
+Score:74.7 bits(182), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  526  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  582
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  583  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  639
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  640  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  669
+
+
+
+
+>nuclear body protein SP140 isoform X27 [Homo sapiens]
+Sequence ID: XP_054196299.1 Length: 777
+Range 1: 500 to 643
+
+Score:74.7 bits(182), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  500  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  556
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  557  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  613
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  614  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  643
+
+
+
+
+>nuclear body protein SP140 isoform X27 [Homo sapiens]
+Sequence ID: XP_016858739.1 Length: 777
+Range 1: 500 to 643
+
+Score:74.7 bits(182), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  500  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  556
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  557  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  613
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  614  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  643
+
+
+
+
+>sp110 nuclear body protein isoform X7 [Homo sapiens]
+Sequence ID: XP_054197704.1 Length: 536
+Range 1: 253 to 374
+
+Score:73.9 bits(180), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  253  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  308
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  309  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  344
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  345  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  374
+
+
+
+
+>sp110 nuclear body protein isoform X3 [Homo sapiens]
+Sequence ID: XP_054197700.1 Length: 672
+Range 1: 462 to 583
+
+Score:74.3 bits(181), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  462  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  517
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  518  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  553
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  554  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  583
+
+
+
+
+>nuclear body protein SP140 isoform X26 [Homo sapiens]
+Sequence ID: XP_054196298.1 Length: 780
+Range 1: 503 to 646
+
+Score:74.3 bits(181), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  503  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  559
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  560  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  616
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  617  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  646
+
+
+
+
+>nuclear body protein SP140 isoform X26 [Homo sapiens]
+Sequence ID: XP_016858738.1 Length: 780
+Range 1: 503 to 646
+
+Score:74.3 bits(181), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  503  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  559
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  560  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  616
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  617  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  646
+
+
+
+
+>Structure of CHD4 PHD2 - tandem chromodomains [Homo sapiens]
+Sequence ID: 6Q3M_A Length: 238
+>Structure of CHD4 PHD2 - tandem chromodomains [Homo sapiens]
+Sequence ID: 6Q3M_B Length: 238
+>Structure of CHD4 PHD2 - tandem chromodomains [Homo sapiens]
+Sequence ID: 6Q3M_C Length: 238
+>Structure of CHD4 PHD2 - tandem chromodomains [Homo sapiens]
+Sequence ID: 6Q3M_D Length: 238 
+Range 1: 11 to 64
+
+Score:70.9 bits(172), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  11   CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  64
+
+
+
+
+>nuclear phosphoprotein [Homo sapiens]
+Sequence ID: AAD13402.1 Length: 408
+Range 1: 253 to 374
+
+Score:73.2 bits(178), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:49/151(32%), Positives:68/151(45%), Gaps:30/151(19%)
+
+Query  191  AVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSS  249
+             V      +P   G  +GIL ++  + G S KCI+   G + TP++FE  G G+N    +
+Sbjct  253  TVDFHCSKLPVTCGEAKGILYKKKMKHGSSVKCIRNEDGTWLTPNEFEVEGKGRN----A  308
+
+Query  250  SGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPSDPQLHQKNEDECAVCRDGGELI  309
+               K  +R +G            LG+               L +KN DEC VC  GG+L+
+Sbjct  309  KNWKRNIRCEGMT----------LGEL--------------LKRKNSDECEVCCQGGQLL  344
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CC  CPR FH  C  PP+ E     W C+ C
+Sbjct  345  CCGTCPRVFHEDCHIPPV-EAKRMLWSCTFC  374
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG63911.1 Length: 961
+Range 1: 736 to 796
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:30/61(49%), Positives:40/61(65%), Gaps:0/61(0%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            NED CAVC++GGEL+CC+ CP+ FHL+C  P L   PSG W C+ C   +  EV+   + 
+Sbjct  736  NEDWCAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSGEWICTFCRDLSKPEVEYDCDA  795
+
+Query  355  P  355
+            P
+Sbjct  796  P  796
+
+
+
+
+Range 2: 716 to 797
+
+Score:41.2 bits(95), Expect:0.031, 
+Method:Compositional matrix adjust., 
+Identities:27/83(33%), Positives:34/83(40%), Gaps:1/83(1%)
+
+Query  409  LDSSALHPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGT  468
+            LD S   PL  VG   +++      C VC +G ++L C  C   FH  CH P  T+ P  
+Sbjct  716  LDPSQKSPLH-VGETRKEDDPNEDWCAVCQNGGELLCCEKCPKVFHLSCHVPTLTNFPSG  774
+
+Query  469  GLRCRSCSGDVTPAPVEGVLAPS  491
+               C  C     P       APS
+Sbjct  775  EWICTFCRDLSKPEVEYDCDAPS  797
+
+
+
+
+>nuclear body protein SP140 isoform X22 [Homo sapiens]
+Sequence ID: XP_054196294.1 Length: 804
+Range 1: 527 to 670
+
+Score:73.9 bits(180), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:56/151(37%), Positives:73/151(48%), Gaps:16/151(10%)
+
+Query  199  VPGARGAVEGILIQQVFESGGSKKCIQV-GGEFYTPSKFEDSGSGKNKARSSS-------  250
+            +P   G V+GIL ++  + G   KCIQ   G+++TP++FE  G     ARS +       
+Sbjct  527  LPVTCGGVKGILHKKKLQQGILVKCIQTEDGKWFTPTEFEIKGG---HARSKNWRLSVRC  583
+
+Query  251  GPKPLVRAKGAQGAAPGGGEARLGQQGSVPAPLALPS-DPQLHQKNEDECAVCRDGGELI  309
+            G  PL R     G  P     R  ++  +       S DP +  +N DEC VCRDGGEL 
+Sbjct  584  GGWPL-RWLMENGFLPDPPRIRYRKKKRILKSQNNSSVDPCM--RNLDECEVCRDGGELF  640
+
+Query  310  CCDGCPRAFHLACLSPPLREIPSGTWRCSSC  340
+            CCD C R FH  C  PP+ E     W C  C
+Sbjct  641  CCDTCSRVFHEDCHIPPV-EAERTPWNCIFC  670
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563983.1 Length: 1892
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064253.1 Length: 1892 
+Range 1: 432 to 485
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  432  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  485
+
+
+
+
+Range 2: 349 to 486
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  349  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  405
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  406  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  431
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  432  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  472
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  473  CTCPALKGKVQKIL  486
+
+
+
+
+>Nucleosome-CHD4 complex structure (single CHD4 copy) [Homo sapiens]
+Sequence ID: 6RYR_W Length: 1927
+>Nucleosome-CHD4 complex structure (two CHD4 copies) [Homo sapiens]
+Sequence ID: 6RYU_V Length: 1927
+>Nucleosome-CHD4 complex structure (two CHD4 copies) [Homo sapiens]
+Sequence ID: 6RYU_W Length: 1927 
+Range 1: 455 to 508
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  455  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  508
+
+
+
+
+Range 2: 372 to 509
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  372  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  428
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  429  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  454
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  455  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  495
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  496  CTCPALKGKVQKIL  509
+
+
+
+
+>chromodomain helicase DNA binding protein 4, isoform CRA_b [Homo sapiens]
+Sequence ID: EAW88778.1 Length: 1912
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563989.1 Length: 1912
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064248.1 Length: 1912
+>Mi-2 protein [Homo sapiens]
+Sequence ID: CAA60384.1 Length: 1912 
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 506
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  425
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  426  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  451
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  452  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  492
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  493  CTCPALKGKVQKIL  506
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform 1 [Homo sapiens]
+Sequence ID: NP_001264.2 Length: 1912
+>RecName: Full=Chromodomain-helicase-DNA-binding protein 4; Short=CHD-4; AltName: Full=ATP-dependent helicase CHD4; AltName: Full=Mi-2 autoantigen 218 kDa protein; AltName: Full=Mi2-beta [Homo sapiens]
+Sequence ID: Q14839.2 Length: 1912 
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 506
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  425
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  426  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  451
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  452  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  492
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  493  CTCPALKGKVQKIL  506
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563990.1 Length: 1914
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064262.1 Length: 1914 
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 506
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  425
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  426  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  451
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  452  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  492
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  493  CTCPALKGKVQKIL  506
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563985.1 Length: 1903
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064252.1 Length: 1903 
+Range 1: 445 to 498
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  445  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  498
+
+
+
+
+Range 2: 362 to 499
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  362  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  418
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  419  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  444
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  445  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  485
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  486  CTCPALKGKVQKIL  499
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563986.1 Length: 1905
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064250.1 Length: 1905 
+Range 1: 445 to 498
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  445  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  498
+
+
+
+
+Range 2: 362 to 499
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  362  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  418
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  419  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  444
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  445  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  485
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  486  CTCPALKGKVQKIL  499
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform 2 [Homo sapiens]
+Sequence ID: NP_001284482.1 Length: 1905
+Range 1: 445 to 498
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  445  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  498
+
+
+
+
+Range 2: 362 to 499
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  362  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  418
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  419  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  444
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  445  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  485
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  486  CTCPALKGKVQKIL  499
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563987.1 Length: 1899
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064256.1 Length: 1899 
+Range 1: 439 to 492
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  439  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  492
+
+
+
+
+Range 2: 356 to 493
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  356  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  412
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  413  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  438
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  439  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  479
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  480  CTCPALKGKVQKIL  493
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563984.1 Length: 1920
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064254.1 Length: 1920 
+Range 1: 432 to 485
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  432  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  485
+
+
+
+
+Range 2: 349 to 486
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  349  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  405
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  406  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  431
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  432  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  472
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  473  CTCPALKGKVQKIL  486
+
+
+
+
+>chromodomain-helicase-DNA-binding protein 4 isoform 3 [Homo sapiens]
+Sequence ID: NP_001350535.1 Length: 1902
+Range 1: 439 to 492
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  439  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  492
+
+
+
+
+Range 2: 356 to 493
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  356  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  412
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  413  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  438
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  439  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  479
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  480  CTCPALKGKVQKIL  493
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563988.1 Length: 1902
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064247.1 Length: 1902 
+Range 1: 439 to 492
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  439  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  492
+
+
+
+
+Range 2: 356 to 493
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  356  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  412
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  413  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  438
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  439  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  479
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  480  CTCPALKGKVQKIL  493
+
+
+
+
+>CHD4 protein [Homo sapiens]
+Sequence ID: AAH38596.1 Length: 1937
+Range 1: 449 to 502
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  449  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  502
+
+
+
+
+Range 2: 366 to 503
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  366  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  422
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  423  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  448
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  449  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  489
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  490  CTCPALKGKVQKIL  503
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563982.1 Length: 1937
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064249.1 Length: 1937 
+Range 1: 449 to 502
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  449  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  502
+
+
+
+
+Range 2: 366 to 503
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  366  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  422
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  423  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  448
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  449  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  489
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  490  CTCPALKGKVQKIL  503
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563991.1 Length: 1940
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064257.1 Length: 1940 
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 506
+
+Score:70.5 bits(171), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  425
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  426  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  451
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  452  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  492
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  493  CTCPALKGKVQKIL  506
+
+
+
+
+>chromodomain helicase DNA binding protein 4, isoform CRA_c [Homo sapiens]
+Sequence ID: EAW88779.1 Length: 1908
+Range 1: 449 to 502
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  449  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  502
+
+
+
+
+Range 2: 366 to 503
+
+Score:70.1 bits(170), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  366  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  422
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  423  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  448
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  449  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  489
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  490  CTCPALKGKVQKIL  503
+
+
+
+
+>chromodomain helicase DNA binding protein 4, isoform CRA_a [Homo sapiens]
+Sequence ID: EAW88777.1 Length: 1911
+Range 1: 452 to 505
+
+Score:74.3 bits(181), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  452  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  505
+
+
+
+
+Range 2: 369 to 506
+
+Score:70.1 bits(170), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  369  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  425
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  426  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  451
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  452  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  492
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  493  CTCPALKGKVQKIL  506
+
+
+
+
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI2563997.1 Length: 1645
+>chromodomain helicase DNA binding protein 4 [Homo sapiens]
+Sequence ID: KAI4064255.1 Length: 1645 
+Range 1: 445 to 498
+
+Score:73.9 bits(180), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  445  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  498
+
+
+
+
+Range 2: 362 to 499
+
+Score:70.1 bits(170), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  362  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  418
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  419  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  444
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  445  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  485
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  486  CTCPALKGKVQKIL  499
+
+
+
+
+>chromodomain helicase DNA binding protein 4, partial [Homo sapiens]
+Sequence ID: KAI2563995.1 Length: 1669
+>chromodomain helicase DNA binding protein 4, partial [Homo sapiens]
+Sequence ID: KAI4064264.1 Length: 1669 
+Range 1: 441 to 494
+
+Score:73.9 bits(180), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:39/54(72%), Gaps:4/54(7%)
+
+Query  299  CAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSC----LQATVQEV  348
+            C VC+DGGEL+CCD CP ++H+ CL+PPL EIP+G W C  C    L+  VQ++
+Sbjct  441  CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPRCTCPALKGKVQKI  494
+
+
+
+
+Range 2: 358 to 495
+
+Score:70.1 bits(170), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:72/194(37%), Gaps:56/194(28%)
+
+Query  295  NEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE  354
+            ++D C VC+ GGE+I CD CPRA+H+ CL P + + P G W C  C +   + +Q  A+E
+Sbjct  358  HQDYCEVCQQGGEIILCDTCPRAYHMVCLDPDMEKAPEGKWSCPHCEK---EGIQWEAKE  414
+
+Query  355  PRPQEPPVETPLPPGLRSAGEEVRGPPGEPLAGMDTTLVYKHLPAPPSAAPLPGLDSSAL  414
+                             S GEE+    G  L   D      H+                 
+Sbjct  415  D---------------NSEGEEILEEVGGDLEEEDD----HHMEF---------------  440
+
+Query  415  HPLLCVGPEGQQNLAPGARCGVCGDGTDVLRCTHCAAAFHWRCHFPAGTSRPGTGLRCRS  474
+                               C VC DG ++L C  C +++H  C  P     P     C  
+Sbjct  441  -------------------CRVCKDGGELLCCDTCPSSYHIHCLNPPLPEIPNGEWLCPR  481
+
+Query  475  CSGDVTPAPVEGVL  488
+            C+       V+ +L
+Sbjct  482  CTCPALKGKVQKIL  495
+
+
+
+
+
+
+
+		
+
+

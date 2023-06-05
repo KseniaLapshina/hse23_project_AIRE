@@ -1,0 +1,43 @@
+RID: 7VGSR4NV013	
+Job Title:NP_003520.1 H3C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350] Query ID: lcl|Query_30560 Length: 136
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H3 [Paramecium caudatum]                                  Paramecium c... NA              5885       228    228   99%   5e-81 82.73  140        BAD84180.1       
+
+
+Alignments:
+
+>histone H3 [Paramecium caudatum]
+Sequence ID: BAD84180.1 Length: 140
+Range 1: 1 to 139
+
+Score:228 bits(581), Expect:5e-81, 
+Method:Compositional matrix adjust., 
+Identities:115/139(83%), Positives:126/139(90%), Gaps:4/139(2%)
+
+Query  1    MARTKQTARKST-GGKAPRKQLATKAARKSAPATG---GVKKPHRYRPGTVALREIRRYQ  56
+            MARTKQTARKST G K P K LATKAARK+APA G   G+KKPH++RPGTVALREIR+YQ
+Sbjct  1    MARTKQTARKSTAGNKKPTKHLATKAARKTAPAVGAAGGLKKPHKFRPGTVALREIRKYQ  60
+
+Query  57   KSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAK  116
+            KSTELLIRKLPFQRLVREIA +F+ +LRFQSSAV+ALQEA EAYLVGLFEDTNLCAIHA+
+Sbjct  61   KSTELLIRKLPFQRLVREIAHEFQKELRFQSSAVLALQEAAEAYLVGLFEDTNLCAIHAR  120
+
+Query  117  RVTIMPKDIQLARRIRGER  135
+            RVTIM +DIQLARRIRGER
+Sbjct  121  RVTIMSRDIQLARRIRGER  139
+
+
+
+
+
+
+
+		
+
+

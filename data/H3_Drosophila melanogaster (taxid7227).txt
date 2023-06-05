@@ -1,0 +1,387 @@
+RID: 7VGPB3UA013	
+Job Title:NP_003520.1 H3C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350] Query ID: lcl|Query_61523 Length: 136
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H3 [Drosophila melanogaster]                              Drosophila m... fruit fly       7227       272    272   100%  1e-95 99.26  136        NP_001027285.1   
+H3 histone [Drosophila melanogaster]                              Drosophila m... fruit fly       7227       271    271   100%  2e-95 98.53  136        CAA32434.1       
+Chain A, Histone H3 [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       269    269   99%   1e-94 99.26  135        2NQB_A           
+histone H3.3B, isoform E [Drosophila melanogaster]                Drosophila m... fruit fly       7227       265    265   100%  5e-93 96.32  136        NP_001259374.1   
+H3L-like histone [Drosophila melanogaster]                        Drosophila m... fruit fly       7227       210    210   78%   1e-71 94.39  107        AAQ96278.1       
+Crystal structure of 167 bp nucleosome bound to the globular...   Drosophila m... fruit fly       7227       200    200   72%   1e-67 98.98  98         5WCU_A           
+CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME COR... Drosophila m... fruit fly       7227       188    188   68%   3e-63 98.92  98         4X23_A           
+centromere identifier [Drosophila melanogaster]                   Drosophila m... fruit fly       7227       65.1   65.1  57%   3e-13 43.75  225        NP_523730.2      
+centromeric histone H3-like protein Cid [Drosophila melanogaster] Drosophila m... fruit fly       7227       64.7   64.7  57%   3e-13 43.75  225        AAM80988.1       
+RE21270p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       64.7   64.7  57%   4e-13 43.75  254        AAM75058.1       
+centromeric histone H3-like protein Cid [Drosophila melanogaster] Drosophila m... fruit fly       7227       62.8   62.8  57%   2e-12 42.50  225        AAM80990.1       
+Crystal structure of Nurf55 in complex with histone H3...         Drosophila m... fruit fly       7227       38.5   38.5  13%   8e-05 100.00 19         2YBA_C           
+
+
+Alignments:
+
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027285.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027289.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027294.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027298.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027303.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027308.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027313.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027318.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027323.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027328.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027333.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027338.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027343.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027348.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027353.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027358.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027363.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027368.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027373.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027378.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027383.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_001027387.1 Length: 136
+>histone H3 [Drosophila melanogaster]
+Sequence ID: NP_724345.1 Length: 136
+>RecName: Full=Histone H3 [Drosophila melanogaster]
+Sequence ID: P02299.4 Length: 136
+>MCM2-histone complex [Drosophila melanogaster]
+Sequence ID: 4UUZ_A Length: 136
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_A Length: 136
+>Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster]
+Sequence ID: 6DZT_E Length: 136
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_A Length: 136
+>Cryo-EM structure of nucleosome core particle [Drosophila melanogaster]
+Sequence ID: 6PWE_E Length: 136
+>Chain A, Histone H3 [Drosophila melanogaster]
+Sequence ID: 6PWF_A Length: 136
+>Chain E, Histone H3 [Drosophila melanogaster]
+Sequence ID: 6PWF_E Length: 136 
+Range 1: 1 to 136
+
+Score:272 bits(695), Expect:1e-95, 
+Method:Compositional matrix adjust., 
+Identities:135/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>H3 histone [Drosophila melanogaster]
+Sequence ID: CAA32434.1 Length: 136
+Range 1: 1 to 136
+
+Score:271 bits(693), Expect:2e-95, 
+Method:Compositional matrix adjust., 
+Identities:134/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKR+TI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRITI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>Chain A, Histone H3 [Drosophila melanogaster]
+Sequence ID: 2NQB_A Length: 135
+>Chain E, Histone H3 [Drosophila melanogaster]
+Sequence ID: 2NQB_E Length: 135
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_A Length: 135
+>Drosophila nucleosome core [Drosophila melanogaster]
+Sequence ID: 2PYO_E Length: 135
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_A Length: 135
+>Crystal structure of chromatosome at 3.5 angstrom resolution [Drosophila melanogaster]
+Sequence ID: 4QLC_E Length: 135 
+Range 1: 1 to 135
+
+Score:269 bits(688), Expect:1e-94, 
+Method:Compositional matrix adjust., 
+Identities:134/135(99%), Positives:134/135(99%), Gaps:0/135(0%)
+
+Query  2    ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTEL  61
+            ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTEL
+Sbjct  1    ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTEL  60
+
+Query  62   LIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIM  121
+            LIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTIM
+Sbjct  61   LIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIM  120
+
+Query  122  PKDIQLARRIRGERA  136
+            PKDIQLARRIRGERA
+Sbjct  121  PKDIQLARRIRGERA  135
+
+
+
+
+>histone H3.3B, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001259374.1 Length: 136
+>histone H3.3A, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001260082.1 Length: 136
+>histone H3.3B, isoform A [Drosophila melanogaster]
+Sequence ID: NP_511095.1 Length: 136
+>histone H3.3A, isoform A [Drosophila melanogaster]
+Sequence ID: NP_523479.1 Length: 136
+>histone H3.3A, isoform D [Drosophila melanogaster]
+Sequence ID: NP_723056.2 Length: 136
+>histone H3.3B, isoform B [Drosophila melanogaster]
+Sequence ID: NP_727314.1 Length: 136
+>histone H3.3B, isoform C [Drosophila melanogaster]
+Sequence ID: NP_788892.1 Length: 136
+>RecName: Full=Histone H3.3A; AltName: Full=H3.A [Drosophila melanogaster]
+Sequence ID: C0HL66.1 Length: 136
+>RecName: Full=Histone H3.3B; AltName: Full=H3.B [Drosophila melanogaster]
+Sequence ID: C0HL67.1 Length: 136 
+Range 1: 1 to 136
+
+Score:265 bits(677), Expect:5e-93, 
+Method:Compositional matrix adjust., 
+Identities:131/136(96%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>H3L-like histone, partial [Drosophila melanogaster]
+Sequence ID: AAQ96278.1 Length: 107
+Range 1: 1 to 107
+
+Score:210 bits(534), Expect:1e-71, 
+Method:Compositional matrix adjust., 
+Identities:101/107(94%), Positives:105/107(98%), Gaps:0/107(0%)
+
+Query  16   APRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREI  75
+            APRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTELL+RKLPFQRLVREI
+Sbjct  1    APRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTELLVRKLPFQRLVREI  60
+
+Query  76   AQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMP  122
+            AQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTIMP
+Sbjct  61   AQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTIMP  107
+
+
+
+
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_A Length: 98
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_E Length: 98
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_K Length: 98
+>Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster]
+Sequence ID: 5WCU_O Length: 98 
+Range 1: 1 to 98
+
+Score:200 bits(508), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:97/98(99%), Positives:97/98(98%), Gaps:0/98(0%)
+
+Query  39   PHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACE  98
+            PHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA E
+Sbjct  1    PHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASE  60
+
+Query  99   AYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA  136
+            AYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA
+Sbjct  61   AYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA  98
+
+
+
+
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_A Length: 98
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_E Length: 98
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_K Length: 98
+>CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster]
+Sequence ID: 4X23_O Length: 98 
+Range 1: 1 to 93
+
+Score:188 bits(478), Expect:3e-63, 
+Method:Compositional matrix adjust., 
+Identities:92/93(99%), Positives:92/93(98%), Gaps:0/93(0%)
+
+Query  41   RYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAY  100
+            RYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAY
+Sbjct  1    RYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAY  60
+
+Query  101  LVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRG  133
+            LVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRG
+Sbjct  61   LVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRG  93
+
+
+
+
+>centromere identifier [Drosophila melanogaster]
+Sequence ID: NP_523730.2 Length: 225
+>RecName: Full=Histone H3-like centromeric protein cid; AltName: Full=CENP-A homolog; AltName: Full=Centromere identifier protein [Drosophila melanogaster]
+Sequence ID: Q9V6Q2.2 Length: 225
+>Crystal Structure of Drosophila CAL1 1-160 bound to CENP-A/H4 [Drosophila melanogaster]
+Sequence ID: 6XWS_A Length: 225
+>drosophila melanogaster CENP-A/H4 bound to N-terminal CAL1 fragment [Drosophila melanogaster]
+Sequence ID: 6XWT_A Length: 225
+>drosophila melanogaster CENP-A/H4 bound to N-terminal CAL1 fragment [Drosophila melanogaster]
+Sequence ID: 6XWT_C Length: 225
+>centromere identifier [Drosophila melanogaster]
+Sequence ID: AAF58371.2 Length: 225
+>centromeric histone H3-like protein Cid [Drosophila melanogaster]
+Sequence ID: AAF72652.1 Length: 225
+>centromeric histone H3-like protein Cid [Drosophila melanogaster]
+Sequence ID: AAM80987.1 Length: 225
+>centromeric histone H3-like protein Cid [Drosophila melanogaster]
+Sequence ID: AAM80989.1 Length: 225 
+Range 1: 135 to 214
+
+Score:65.1 bits(157), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:35/80(44%), Positives:45/80(56%), Gaps:2/80(2%)
+
+Query  50   REIRRYQKSTELLIRKLPFQRLVREIAQDFKTD--LRFQSSAVMALQEACEAYLVGLFED  107
+            REIRR Q     LI KLPF RLVRE    +  D  LR    A++A+QE+CE YL     D
+Sbjct  135  REIRRLQHHPGTLIPKLPFSRLVREFIVKYSDDEPLRVTEGALLAMQESCEMYLTQRLAD  194
+
+Query  108  TNLCAIHAKRVTIMPKDIQL  127
+            + +   H  RVT+  +D+ L
+Sbjct  195  SYMLTKHRNRVTLEVRDMAL  214
+
+
+
+
+>centromeric histone H3-like protein Cid [Drosophila melanogaster]
+Sequence ID: AAM80988.1 Length: 225
+Range 1: 135 to 214
+
+Score:64.7 bits(156), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:35/80(44%), Positives:45/80(56%), Gaps:2/80(2%)
+
+Query  50   REIRRYQKSTELLIRKLPFQRLVREIAQDFKTD--LRFQSSAVMALQEACEAYLVGLFED  107
+            REIRR Q     LI KLPF RLVRE    +  D  LR    A++A+QE+CE YL     D
+Sbjct  135  REIRRLQHHPGTLIPKLPFSRLVREFIVKYSDDEPLRVTEGALLAMQESCEMYLTQRLAD  194
+
+Query  108  TNLCAIHAKRVTIMPKDIQL  127
+            + +   H  RVT+  +D+ L
+Sbjct  195  SYMLTKHRNRVTLEVRDMAL  214
+
+
+
+
+>RE21270p, partial [Drosophila melanogaster]
+Sequence ID: AAM75058.1 Length: 254
+Range 1: 164 to 243
+
+Score:64.7 bits(156), Expect:4e-13, 
+Method:Compositional matrix adjust., 
+Identities:35/80(44%), Positives:45/80(56%), Gaps:2/80(2%)
+
+Query  50   REIRRYQKSTELLIRKLPFQRLVREIAQDFKTD--LRFQSSAVMALQEACEAYLVGLFED  107
+            REIRR Q     LI KLPF RLVRE    +  D  LR    A++A+QE+CE YL     D
+Sbjct  164  REIRRLQHHPGTLIPKLPFSRLVREFIVKYSDDEPLRVTEGALLAMQESCEMYLTQRLAD  223
+
+Query  108  TNLCAIHAKRVTIMPKDIQL  127
+            + +   H  RVT+  +D+ L
+Sbjct  224  SYMLTKHRNRVTLEVRDMAL  243
+
+
+
+
+>centromeric histone H3-like protein Cid [Drosophila melanogaster]
+Sequence ID: AAM80990.1 Length: 225
+Range 1: 135 to 214
+
+Score:62.8 bits(151), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:34/80(43%), Positives:44/80(55%), Gaps:2/80(2%)
+
+Query  50   REIRRYQKSTELLIRKLPFQRLVREIAQDFKTD--LRFQSSAVMALQEACEAYLVGLFED  107
+            REIRR Q     LI KLPF RLVRE    +  D  LR    A++A+ E+CE YL     D
+Sbjct  135  REIRRLQHHPGTLIPKLPFSRLVREFIVKYSDDEPLRVTEGALLAMXESCEMYLTQRLAD  194
+
+Query  108  TNLCAIHAKRVTIMPKDIQL  127
+            + +   H  RVT+  +D+ L
+Sbjct  195  SYMLTKHRNRVTLEVRDMAL  214
+
+
+
+
+>Crystal structure of Nurf55 in complex with histone H3 [Drosophila melanogaster]
+Sequence ID: 2YBA_C Length: 19
+>Crystal structure of Nurf55 in complex with histone H3 [Drosophila melanogaster]
+Sequence ID: 2YBA_D Length: 19 
+Range 1: 1 to 19
+
+Score:38.5 bits(88), Expect:8e-05, 
+Method:Compositional matrix adjust., 
+Identities:19/19(100%), Positives:19/19(100%), Gaps:0/19(0%)
+
+Query  2   ARTKQTARKSTGGKAPRKQ  20
+           ARTKQTARKSTGGKAPRKQ
+Sbjct  1   ARTKQTARKSTGGKAPRKQ  19
+
+
+
+
+
+
+
+		
+
+

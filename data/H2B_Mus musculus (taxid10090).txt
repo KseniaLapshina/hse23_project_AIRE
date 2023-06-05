@@ -1,0 +1,873 @@
+RID: 7U4WVAU6013	
+Job Title:NP_001368918.1 H2BC4 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347] Query ID: lcl|Query_28433 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H2B type 1-C/E/G [Mus musculus]                           Mus musculus    house mouse     10090      254    254   100%  3e-88 100.00 126        NP_001171124.1   
+histone H2B type 1-H [Mus musculus]                               Mus musculus    house mouse     10090      253    253   100%  9e-88 99.21  126        NP_835504.1      
+histone H2B type 1-M [Mus musculus]                               Mus musculus    house mouse     10090      252    252   100%  1e-87 99.21  126        NP_835507.1      
+histone cluster 1 H2br isoform 2 [Mus musculus]                   Mus musculus    house mouse     10090      251    251   100%  2e-87 99.21  126        NP_001300807.1   
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      251    251   100%  2e-87 98.41  126        BAE34496.1       
+histone H2B type 2-B [Mus musculus]                               Mus musculus    house mouse     10090      251    251   100%  3e-87 98.41  126        NP_783597.2      
+histone H2B type 1-K [Mus musculus]                               Mus musculus    house mouse     10090      250    250   100%  6e-87 98.41  126        NP_783596.1      
+H2b histone family, member A isoform 1 [Mus musculus]             Mus musculus    house mouse     10090      250    250   99%   7e-87 99.20  134        NP_001091448.2   
+LOC665622 protein [Mus musculus]                                  Mus musculus    house mouse     10090      250    250   99%   7e-87 99.20  135        AAH11440.1       
+histone H2B type 1-B [Mus musculus]                               Mus musculus    house mouse     10090      248    248   100%  3e-86 96.83  126        NP_783595.1      
+histone H2B type 1-P isoform 2 [Mus musculus]                     Mus musculus    house mouse     10090      248    248   100%  4e-86 97.62  126        NP_001277395.1   
+histone H2B type 1-P isoform 1 [Mus musculus]                     Mus musculus    house mouse     10090      248    248   100%  9e-86 97.62  138        NP_835509.2      
+histone H2B type 2-E [Mus musculus]                               Mus musculus    house mouse     10090      245    245   100%  7e-85 96.03  126        NP_835586.2      
+Hist1h2bj protein [Mus musculus]                                  Mus musculus    house mouse     10090      244    244   97%   2e-84 99.19  123        AAI15793.1       
+spermatid-specific [Mus musculus domesticus]                      Mus musculus... western Euro... 10092      239    239   96%   2e-82 98.35  134        AAA50377.1       
+histone H2B type 3-B [Mus musculus]                               Mus musculus    house mouse     10090      222    222   100%  1e-75 95.24  126        NP_001380452.1   
+Hist3h2bb protein [Mus musculus]                                  Mus musculus    house mouse     10090      221    221   100%  5e-75 95.24  154        AAI07303.1       
+histone H2B type 1-A [Mus musculus]                               Mus musculus    house mouse     10090      220    220   100%  6e-75 87.40  127        NP_783594.1      
+H2B.U histone 2 [Mus musculus]                                    Mus musculus    house mouse     10090      220    220   100%  7e-75 93.65  126        NP_084358.1      
+The mouse nucleosome structure containing H3t [Mus musculus]      Mus musculus    house mouse     10090      220    220   100%  8e-75 93.65  129        5B1L_D           
+mCG50266 [Mus musculus]                                           Mus musculus    house mouse     10090      218    218   99%   2e-74 87.30  126        EDL32513.1       
+Crystal structure of nucleosome core particle consisting of...    Mus musculus    house mouse     10090      218    218   99%   6e-74 87.30  126        3X1T_D           
+Histone cluster 1, H2ba [Mus musculus]                            Mus musculus    house mouse     10090      216    216   100%  1e-73 86.61  127        AAI26924.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      166    166   76%   2e-53 85.42  145        BAC36440.1       
+Hist2h2bb protein [Mus musculus]                                  Mus musculus    house mouse     10090      152    152   60%   3e-48 97.37  120        AAH19122.1       
+mCG48964, isoform CRA_a [Mus musculus]                            Mus musculus    house mouse     10090      152    152   60%   3e-48 97.37  120        EDL38884.1       
+mCG48869 [Mus musculus]                                           Mus musculus    house mouse     10090      117    117   51%   6e-35 93.85  65         EDL30437.1       
+histone variant H2bl2 [Mus musculus]                              Mus musculus    house mouse     10090      111    111   73%   9e-31 55.43  224        NP_081343.1      
+histone H2B variant L1 [Mus musculus]                             Mus musculus    house mouse     10090      92.8   92.8  76%   1e-24 49.51  123        NP_081340.1      
+mCG142522 [Mus musculus]                                          Mus musculus    house mouse     10090      92.8   92.8  76%   2e-24 49.51  139        EDL00840.1       
+
+
+Alignments:
+
+>histone H2B type 1-C/E/G [Mus musculus]
+Sequence ID: NP_001171124.1 Length: 126
+>histone H2B type 1-C/E/G [Mus musculus]
+Sequence ID: NP_001277309.1 Length: 126
+>histone H2B type 1-C/E/G [Mus musculus]
+Sequence ID: NP_001277459.1 Length: 126
+>histone H2B type 1-C/E/G [Mus musculus]
+Sequence ID: NP_075911.2 Length: 126
+>histone H2B type 1-C/E/G [Mus musculus]
+Sequence ID: NP_835501.1 Length: 126
+>histone H2B type 1-C/E/G [Mus musculus]
+Sequence ID: NP_835503.1 Length: 126
+>RecName: Full=Histone H2B type 1-C/E/G [Mus musculus]
+Sequence ID: Q6ZWY9.3 Length: 126 
+Range 1: 1 to 126
+
+Score:254 bits(648), Expect:3e-88, 
+Method:Compositional matrix adjust., 
+Identities:126/126(100%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-H [Mus musculus]
+Sequence ID: NP_835504.1 Length: 126
+>RecName: Full=Histone H2B type 1-H; AltName: Full=H2B-clustered histone 9; AltName: Full=h2B-221 [Mus musculus]
+Sequence ID: Q64478.3 Length: 126
+>Histone cluster 1, H2bh [Mus musculus]
+Sequence ID: AAH92138.1 Length: 126
+>Histone cluster 1, H2bh [Mus musculus]
+Sequence ID: AAI32585.1 Length: 126
+>Histone cluster 1, H2bh [Mus musculus]
+Sequence ID: AAI32587.1 Length: 126
+>histone protein Hist1h2bh [Mus musculus]
+Sequence ID: AAO06243.1 Length: 126
+>mCG50189 [Mus musculus]
+Sequence ID: EDL32560.1 Length: 126 
+Range 1: 1 to 126
+
+Score:253 bits(645), Expect:9e-88, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKA+TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKALTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-M [Mus musculus]
+Sequence ID: NP_835507.1 Length: 126
+>RecName: Full=Histone H2B type 1-M; AltName: Full=H2B 291B [Mus musculus]
+Sequence ID: P10854.2 Length: 126 
+Range 1: 1 to 126
+
+Score:252 bits(643), Expect:1e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPTKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone cluster 1 H2br isoform 2 [Mus musculus]
+Sequence ID: NP_001300807.1 Length: 126
+>H2b histone family, member A isoform 2 [Mus musculus]
+Sequence ID: NP_001300809.1 Length: 126
+>histone H2B type 1-F/J/L [Mus musculus]
+Sequence ID: NP_835502.1 Length: 126
+>histone H2B type 1-F/J/L [Mus musculus]
+Sequence ID: NP_835505.1 Length: 126
+>histone H2B type 1-F/J/L [Mus musculus]
+Sequence ID: NP_835506.1 Length: 126
+>histone H2B type 1-F/J/L [Mus musculus]
+Sequence ID: NP_835508.1 Length: 126
+>RecName: Full=Histone H2B type 1-F/J/L; AltName: Full=H2B 291A [Mus musculus]
+Sequence ID: P10853.2 Length: 126
+>histone H2b-F [Mus musculus]
+Sequence ID: AAB04762.1 Length: 126
+>histone protein Hist1h2bl [Mus musculus]
+Sequence ID: AAO06237.1 Length: 126
+>histone protein Hist1h2bn [Mus musculus]
+Sequence ID: AAO06239.1 Length: 126 
+Range 1: 1 to 126
+
+Score:251 bits(642), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:125/126(99%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAE34496.1 Length: 126
+Range 1: 1 to 126
+
+Score:251 bits(642), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:126/126(100%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKA+TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISS+AM
+Sbjct  1    MPEPAKSAPAPKKGSKKALTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSRAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 2-B [Mus musculus]
+Sequence ID: NP_783597.2 Length: 126
+>RecName: Full=Histone H2B type 2-B; AltName: Full=H2b 616 [Mus musculus]
+Sequence ID: Q64525.3 Length: 126 
+Range 1: 1 to 126
+
+Score:251 bits(641), Expect:3e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+PAKSAPAPKKGSKKAVTK QKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPAKSAPAPKKGSKKAVTKVQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-K [Mus musculus]
+Sequence ID: NP_783596.1 Length: 126
+>RecName: Full=Histone H2B type 1-K [Mus musculus]
+Sequence ID: Q8CGP1.3 Length: 126
+>Histone cluster 1, H2bk [Mus musculus]
+Sequence ID: AAI47144.1 Length: 126
+>Histone cluster 1, H2bk [Mus musculus]
+Sequence ID: AAI47145.1 Length: 126
+>histone protein Hist1h2bk [Mus musculus]
+Sequence ID: AAO06241.1 Length: 126
+>mCG49392 [Mus musculus]
+Sequence ID: EDL32609.1 Length: 126 
+Range 1: 1 to 126
+
+Score:250 bits(639), Expect:6e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/126(98%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  121  KYTSAK  126
+
+
+
+
+>H2b histone family, member A isoform 1 [Mus musculus]
+Sequence ID: NP_001091448.2 Length: 134
+>histone cluster 1 H2br isoform 1 [Mus musculus]
+Sequence ID: NP_001104025.1 Length: 134
+>mCG50238, isoform CRA_a [Mus musculus]
+Sequence ID: EDL32624.1 Length: 134
+>mCG50238, isoform CRA_a [Mus musculus]
+Sequence ID: EDL32625.1 Length: 134
+>unnamed protein product [Mus musculus]
+Sequence ID: BAC29407.1 Length: 134 
+Range 1: 1 to 125
+
+Score:250 bits(639), Expect:7e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/125(99%), Positives:124/125(99%), Gaps:0/125(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSS  125
+            KYTSS
+Sbjct  121  KYTSS  125
+
+
+
+
+>LOC665622 protein [Mus musculus]
+Sequence ID: AAH11440.1 Length: 135
+>mCG50238, isoform CRA_b [Mus musculus]
+Sequence ID: EDL32626.1 Length: 135 
+Range 1: 1 to 125
+
+Score:250 bits(639), Expect:7e-87, 
+Method:Compositional matrix adjust., 
+Identities:124/125(99%), Positives:124/125(99%), Gaps:0/125(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSS  125
+            KYTSS
+Sbjct  121  KYTSS  125
+
+
+
+
+>histone H2B type 1-B [Mus musculus]
+Sequence ID: NP_783595.1 Length: 126
+>RecName: Full=Histone H2B type 1-B; AltName: Full=H2B-clustered histone 3; AltName: Full=h2B-143 [Mus musculus]
+Sequence ID: Q64475.3 Length: 126
+>Histone cluster 1, H2bb [Mus musculus]
+Sequence ID: AAI16854.1 Length: 126
+>Histone cluster 1, H2bb [Mus musculus]
+Sequence ID: AAI16858.1 Length: 126
+>histone protein Hist1h2bb [Mus musculus]
+Sequence ID: AAO06248.1 Length: 126
+>histone 2b protein [Mus musculus]
+Sequence ID: CAA56576.1 Length: 126 
+Range 1: 1 to 126
+
+Score:248 bits(634), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:122/126(97%), Positives:125/126(99%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP+KSAPAPKKGSKKA++KAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPSKSAPAPKKGSKKAISKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-P isoform 2 [Mus musculus]
+Sequence ID: NP_001277395.1 Length: 126
+>histone H2B type 1-P isoform X1 [Mus musculus]
+Sequence ID: XP_006516753.1 Length: 126
+>RecName: Full=Histone H2B type 1-P [Mus musculus]
+Sequence ID: Q8CGP2.3 Length: 126
+>histone protein Hist1h2bp [Mus musculus]
+Sequence ID: AAO06240.1 Length: 126 
+Range 1: 1 to 126
+
+Score:248 bits(634), Expect:4e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/126(98%), Positives:123/126(97%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KS PAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPVKSVPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 1-P isoform 1 [Mus musculus]
+Sequence ID: NP_835509.2 Length: 138
+>Hist1h2bp protein [Mus musculus]
+Sequence ID: AAH61044.1 Length: 138
+>mCG50292 [Mus musculus]
+Sequence ID: EDL32627.1 Length: 138 
+Range 1: 1 to 126
+
+Score:248 bits(632), Expect:9e-86, 
+Method:Compositional matrix adjust., 
+Identities:123/126(98%), Positives:123/126(97%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP KS PAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPVKSVPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>histone H2B type 2-E [Mus musculus]
+Sequence ID: NP_835586.2 Length: 126
+>RecName: Full=Histone H2B type 2-E; AltName: Full=H2B-clustered histone 21; AltName: Full=H2b 613 [Mus musculus]
+Sequence ID: Q64524.3 Length: 126
+>histone H2b-613 [Mus musculus]
+Sequence ID: AAB04769.1 Length: 126
+>Histone cluster 2, H2be [Mus musculus]
+Sequence ID: AAH47137.1 Length: 126
+>histone protein Hist2h2be [Mus musculus]
+Sequence ID: AAO06250.1 Length: 126
+>unnamed protein product [Mus musculus]
+Sequence ID: BAC37326.1 Length: 126
+>unnamed protein product [Mus musculus]
+Sequence ID: BAC41128.1 Length: 126 
+Range 1: 1 to 126
+
+Score:245 bits(626), Expect:7e-85, 
+Method:Compositional matrix adjust., 
+Identities:121/126(96%), Positives:124/126(98%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPE AKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPELAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSREIQT+VRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIANEASRLAHYNKRSTITSREIQTSVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTS+K
+Sbjct  121  KYTSAK  126
+
+
+
+
+>Hist1h2bj protein, partial [Mus musculus]
+Sequence ID: AAI15793.1 Length: 123
+Range 1: 1 to 123
+
+Score:244 bits(623), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:122/123(99%), Positives:122/123(99%), Gaps:0/123(0%)
+
+Query  4    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  63
+            PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM
+Sbjct  1    PAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIM  60
+
+Query  64   NSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  123
+            NSFVNDIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT
+Sbjct  61   NSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYT  120
+
+Query  124  SSK  126
+            SSK
+Sbjct  121  SSK  123
+
+
+
+
+>spermatid-specific, partial [Mus musculus domesticus]
+Sequence ID: AAA50377.1 Length: 134
+Range 1: 2 to 122
+
+Score:239 bits(610), Expect:2e-82, 
+Method:Compositional matrix adjust., 
+Identities:119/121(98%), Positives:120/121(99%), Gaps:0/121(0%)
+
+Query  6    KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNS  65
+            +S PAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNS
+Sbjct  2    RSVPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNS  61
+
+Query  66   FVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+            FVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS
+Sbjct  62   FVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  121
+
+Query  126  K  126
+            K
+Sbjct  122  K  122
+
+
+
+
+>histone H2B type 3-B [Mus musculus]
+Sequence ID: NP_001380452.1 Length: 126
+>RecName: Full=Histone H2B type 3-B; AltName: Full=H2B-clustered histone 26; AltName: Full=H2B.U histone 1 [Mus musculus]
+Sequence ID: Q8CGP0.3 Length: 126 
+Range 1: 1 to 126
+
+Score:222 bits(565), Expect:1e-75, 
+Method:Compositional matrix adjust., 
+Identities:120/126(95%), Positives:124/126(98%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+P+KSAPAPKKGSKKAVTKAQKKDGKKRKR RKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPDPSKSAPAPKKGSKKAVTKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSRE+QTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREVQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Hist3h2bb protein [Mus musculus]
+Sequence ID: AAI07303.1 Length: 154
+>histone protein Hist3h2bb [Mus musculus]
+Sequence ID: AAO06253.1 Length: 154 
+Range 1: 29 to 154
+
+Score:221 bits(564), Expect:5e-75, 
+Method:Compositional matrix adjust., 
+Identities:120/126(95%), Positives:124/126(98%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MP+P+KSAPAPKKGSKKAVTKAQKKDGKKRKR RKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  29   MPDPSKSAPAPKKGSKKAVTKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTGISSKAM  88
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSRE+QTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  89   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREVQTAVRLLLPGELAKHAVSEGTKAVT  148
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  149  KYTSSK  154
+
+
+
+
+>histone H2B type 1-A [Mus musculus]
+Sequence ID: NP_783594.1 Length: 127
+>RecName: Full=Histone H2B type 1-A; AltName: Full=Histone H2B, testis; AltName: Full=Testis-specific histone H2B [Mus musculus]
+Sequence ID: P70696.3 Length: 127
+>histone protein Hist1h2ba [Mus musculus]
+Sequence ID: AAO06249.1 Length: 127
+>testis-specific histone H2B [Mus musculus]
+Sequence ID: CAA62299.1 Length: 127 
+Range 1: 1 to 127
+
+Score:220 bits(560), Expect:6e-75, 
+Method:Compositional matrix adjust., 
+Identities:111/127(87%), Positives:115/127(90%), Gaps:1/127(0%)
+
+Query  1    MPEPA-KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKA  59
+            MPE A K A   KKG KKAVTK QKK+G+KRKR RKESYS+Y+YKVLKQVHPDTGISSKA
+Sbjct  1    MPEVAVKGATISKKGFKKAVTKTQKKEGRKRKRCRKESYSIYIYKVLKQVHPDTGISSKA  60
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFV DIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  61   MSIMNSFVTDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  120
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  121  TKYTSSK  127
+
+
+
+
+>H2B.U histone 2 [Mus musculus]
+Sequence ID: NP_084358.1 Length: 126
+>RecName: Full=H2B.U histone 2; AltName: Full=Histone H2B type 3-A [Mus musculus]
+Sequence ID: Q9D2U9.3 Length: 126
+>Chain D, histone 3, H2ba [Mus musculus]
+Sequence ID: 1U35_D Length: 126
+>Chain H, histone 3, H2ba [Mus musculus]
+Sequence ID: 1U35_H Length: 126
+>2.9 Angstrom X-ray structure of hybrid macroH2A nucleosomes [Mus musculus]
+Sequence ID: 2F8N_D Length: 126
+>Histone cluster 3, H2ba [Mus musculus]
+Sequence ID: AAH51921.1 Length: 126
+>histone protein Hist3h2ba [Mus musculus]
+Sequence ID: AAO06252.1 Length: 126
+>mCG11694 [Mus musculus]
+Sequence ID: EDL07699.1 Length: 126 
+Range 1: 1 to 126
+
+Score:220 bits(560), Expect:7e-75, 
+Method:Compositional matrix adjust., 
+Identities:118/126(94%), Positives:123/126(97%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP++S PAPKKGSKKA+TKAQKKDGKKRKR RKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  1    MPEPSRSTPAPKKGSKKAITKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSRE+QTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREVQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>The mouse nucleosome structure containing H3t [Mus musculus]
+Sequence ID: 5B1L_D Length: 129
+>The mouse nucleosome structure containing H3t [Mus musculus]
+Sequence ID: 5B1L_H Length: 129
+>The mouse nucleosome structure containing H3.1 [Mus musculus]
+Sequence ID: 5B1M_D Length: 129
+>The mouse nucleosome structure containing H3.1 [Mus musculus]
+Sequence ID: 5B1M_H Length: 129
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3.3, and H4 [Mus musculus]
+Sequence ID: 5XM0_D Length: 129
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3.3, and H4 [Mus musculus]
+Sequence ID: 5XM0_H Length: 129
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3mm7, and H4 [Mus musculus]
+Sequence ID: 5XM1_D Length: 129
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3mm7, and H4 [Mus musculus]
+Sequence ID: 5XM1_H Length: 129
+>Chain D, Histone H2B type 3-A [Mus musculus]
+Sequence ID: 7DBH_D Length: 129
+>Chain H, Histone H2B type 3-A [Mus musculus]
+Sequence ID: 7DBH_H Length: 129
+>Chain D, Histone H2B type 3-A [Mus musculus]
+Sequence ID: 7VBM_D Length: 129
+>Chain H, Histone H2B type 3-A [Mus musculus]
+Sequence ID: 7VBM_H Length: 129 
+Range 1: 4 to 129
+
+Score:220 bits(560), Expect:8e-75, 
+Method:Compositional matrix adjust., 
+Identities:118/126(94%), Positives:123/126(97%), Gaps:0/126(0%)
+
+Query  1    MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            MPEP++S PAPKKGSKKA+TKAQKKDGKKRKR RKESYS+YVYKVLKQVHPDTGISSKAM
+Sbjct  4    MPEPSRSTPAPKKGSKKAITKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTGISSKAM  63
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+            GIMNSFVNDIFERIA EASRLAHYNKRSTITSRE+QTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  64   GIMNSFVNDIFERIASEASRLAHYNKRSTITSREVQTAVRLLLPGELAKHAVSEGTKAVT  123
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  124  KYTSSK  129
+
+
+
+
+>mCG50266, partial [Mus musculus]
+Sequence ID: EDL32513.1 Length: 126
+Range 1: 1 to 126
+
+Score:218 bits(556), Expect:2e-74, 
+Method:Compositional matrix adjust., 
+Identities:110/126(87%), Positives:114/126(90%), Gaps:1/126(0%)
+
+Query  1    MPEPA-KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKA  59
+            MPE A K A   KKG KKAVTK QKK+G+KRKR RKESYS+Y+YKVLKQVHPDTGISSKA
+Sbjct  1    MPEVAVKGATISKKGFKKAVTKTQKKEGRKRKRCRKESYSIYIYKVLKQVHPDTGISSKA  60
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFV DIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  61   MSIMNSFVTDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  120
+
+Query  120  TKYTSS  125
+            TKYTSS
+Sbjct  121  TKYTSS  126
+
+
+
+
+>Crystal structure of nucleosome core particle consisting of mouse testis specific histone variants H2aa and H2ba [Mus musculus]
+Sequence ID: 3X1T_D Length: 126
+>Crystal structure of nucleosome core particle consisting of mouse testis specific histone variants H2aa and H2ba [Mus musculus]
+Sequence ID: 3X1T_H Length: 126
+>Crystal structure of nucleosome core particle in the presence of histone variant involved in reprogramming [Mus musculus]
+Sequence ID: 3X1V_D Length: 126
+>Crystal structure of nucleosome core particle in the presence of histone variant involved in reprogramming [Mus musculus]
+Sequence ID: 3X1V_H Length: 126 
+Range 1: 1 to 126
+
+Score:218 bits(554), Expect:6e-74, 
+Method:Compositional matrix adjust., 
+Identities:110/126(87%), Positives:114/126(90%), Gaps:1/126(0%)
+
+Query  2    PEPA-KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+            PE A K A   KKG KKAVTK QKK+G+KRKR RKESYS+Y+YKVLKQVHPDTGISSKAM
+Sbjct  1    PEVAVKGATISKKGFKKAVTKTQKKEGRKRKRCRKESYSIYIYKVLKQVHPDTGISSKAM  60
+
+Query  61   GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+             IMNSFV DIFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT
+Sbjct  61   SIMNSFVTDIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVT  120
+
+Query  121  KYTSSK  126
+            KYTSSK
+Sbjct  121  KYTSSK  126
+
+
+
+
+>Histone cluster 1, H2ba [Mus musculus]
+Sequence ID: AAI26924.1 Length: 127
+Range 1: 1 to 127
+
+Score:216 bits(551), Expect:1e-73, 
+Method:Compositional matrix adjust., 
+Identities:110/127(87%), Positives:114/127(89%), Gaps:1/127(0%)
+
+Query  1    MPEPA-KSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKA  59
+            MPE A K A   KKG KKAVTK QKK+G+KRKR RKESYS+Y+YKVLKQVHPDTGISSKA
+Sbjct  1    MPEVAVKGATISKKGFKKAVTKTQKKEGRKRKRCRKESYSIYIYKVLKQVHPDTGISSKA  60
+
+Query  60   MGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  119
+            M IMNSFV  IFERIA EASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV
+Sbjct  61   MSIMNSFVTGIFERIASEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAV  120
+
+Query  120  TKYTSSK  126
+            TKYTSSK
+Sbjct  121  TKYTSSK  127
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAC36440.1 Length: 145
+Range 1: 1 to 96
+
+Score:166 bits(421), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:82/96(85%), Positives:87/96(90%), Gaps:0/96(0%)
+
+Query  1   MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+           M EP KS PAPKKGSKKAVTK +KKDG++RKRSRKESYSVYVYK  KQ+HPDTGISSKA 
+Sbjct  1   MHEPVKSVPAPKKGSKKAVTKVRKKDGEERKRSRKESYSVYVYKGQKQMHPDTGISSKAT  60
+
+Query  61  GIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQ  96
+           GIMNSFVNDIFERIA E SRLAHYNKRSTITSREI+
+Sbjct  61  GIMNSFVNDIFERIASEESRLAHYNKRSTITSREIR  96
+
+
+
+
+>Hist2h2bb protein [Mus musculus]
+Sequence ID: AAH19122.1 Length: 120
+Range 1: 1 to 76
+
+Score:152 bits(385), Expect:3e-48, 
+Method:Compositional matrix adjust., 
+Identities:74/76(97%), Positives:75/76(98%), Gaps:0/76(0%)
+
+Query  1   MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+           MP+PAKSAPAPKKGSKKAVTK QKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1   MPDPAKSAPAPKKGSKKAVTKVQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61  GIMNSFVNDIFERIAG  76
+           GIMNSFVNDIFERIAG
+Sbjct  61  GIMNSFVNDIFERIAG  76
+
+
+
+
+>mCG48964, isoform CRA_a [Mus musculus]
+Sequence ID: EDL38884.1 Length: 120
+Range 1: 1 to 76
+
+Score:152 bits(384), Expect:3e-48, 
+Method:Compositional matrix adjust., 
+Identities:74/76(97%), Positives:75/76(98%), Gaps:0/76(0%)
+
+Query  1   MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+           MP+PAKSAPAPKKGSKKAVTK QKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM
+Sbjct  1   MPDPAKSAPAPKKGSKKAVTKVQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+
+Query  61  GIMNSFVNDIFERIAG  76
+           GIMNSFVNDIFERIAG
+Sbjct  61  GIMNSFVNDIFERIAG  76
+
+
+
+
+>mCG48869 [Mus musculus]
+Sequence ID: EDL30437.1 Length: 65
+Range 1: 1 to 64
+
+Score:117 bits(292), Expect:6e-35, 
+Method:Compositional matrix adjust., 
+Identities:61/65(94%), Positives:61/65(93%), Gaps:1/65(1%)
+
+Query  1   MPEPAKSAPAPKKGSKKAVTKAQKKDGKKRKRSRKESYSVYVYKVLKQVHPDTGISSKAM  60
+           MPEPAKSAP PKKGSKKAVTKAQKKDGKKRKRSRKESY VY YKVLKQVHPDTG SSKAM
+Sbjct  1   MPEPAKSAPNPKKGSKKAVTKAQKKDGKKRKRSRKESY-VYAYKVLKQVHPDTGNSSKAM  59
+
+Query  61  GIMNS  65
+           GIMNS
+Sbjct  60  GIMNS  64
+
+
+
+
+>histone variant H2bl2 [Mus musculus]
+Sequence ID: NP_081343.1 Length: 224
+>RIKEN cDNA 1700014N06 gene [Mus musculus]
+Sequence ID: AAI17077.1 Length: 224
+>RIKEN cDNA 1700014N06 gene [Mus musculus]
+Sequence ID: AAI17081.1 Length: 224
+>mCG147815 [Mus musculus]
+Sequence ID: EDL23879.1 Length: 224
+>unnamed protein product [Mus musculus]
+Sequence ID: BAB24353.1 Length: 224 
+Range 1: 133 to 224
+
+Score:111 bits(278), Expect:9e-31, 
+Method:Compositional matrix adjust., 
+Identities:51/92(55%), Positives:69/92(75%), Gaps:0/92(0%)
+
+Query  35   KESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSRE  94
+            K S+++Y  KVLK +H    +S +++ I++SFV D+FERIA EAS LA   + STI SRE
+Sbjct  133  KNSFAIYFPKVLKNIHVGLSLSQRSVNILDSFVKDMFERIASEASFLARQARNSTINSRE  192
+
+Query  95   IQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK  126
+            IQTA+RLLLPGEL + AV+EGT A+ +Y S+K
+Sbjct  193  IQTAIRLLLPGELCRRAVAEGTMAMVRYISNK  224
+
+
+
+
+>histone H2B variant L1 [Mus musculus]
+Sequence ID: NP_081340.1 Length: 123
+>RecName: Full=Histone H2B variant L1; AltName: Full=Histone H2B subacrosomal variant [Mus musculus]
+Sequence ID: Q9D9Z7.3 Length: 123
+>unnamed protein product [Mus musculus]
+Sequence ID: BAB24520.1 Length: 123 
+Range 1: 21 to 123
+
+Score:92.8 bits(229), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:51/103(50%), Positives:67/103(65%), Gaps:7/103(6%)
+
+Query  30   RKRSRKES-------YSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLA  82
+            RK SR  S       YS+Y+ +VLK+V P+ GISS ++ IMN  +NDIFERIA EA +  
+Sbjct  21   RKHSRCSSINLGHGNYSLYINRVLKEVVPNRGISSYSVDIMNILINDIFERIATEACQQM  80
+
+Query  83   HYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+               KR T+T  +IQ AV LLLP +LA  AV+ G+KAV ++  S
+Sbjct  81   FLRKRCTLTPGDIQQAVHLLLPKKLATLAVTFGSKAVHRFIHS  123
+
+
+
+
+>mCG142522, partial [Mus musculus]
+Sequence ID: EDL00840.1 Length: 139
+Range 1: 37 to 139
+
+Score:92.8 bits(229), Expect:2e-24, 
+Method:Compositional matrix adjust., 
+Identities:51/103(50%), Positives:67/103(65%), Gaps:7/103(6%)
+
+Query  30   RKRSRKES-------YSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLA  82
+            RK SR  S       YS+Y+ +VLK+V P+ GISS ++ IMN  +NDIFERIA EA +  
+Sbjct  37   RKHSRCSSINLGHGNYSLYINRVLKEVVPNRGISSYSVDIMNILINDIFERIATEACQQM  96
+
+Query  83   HYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSS  125
+               KR T+T  +IQ AV LLLP +LA  AV+ G+KAV ++  S
+Sbjct  97   FLRKRCTLTPGDIQQAVHLLLPKKLATLAVTFGSKAVHRFIHS  139
+
+
+
+
+
+
+
+		
+
+

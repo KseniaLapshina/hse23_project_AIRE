@@ -1,0 +1,1271 @@
+RID: 7VG2EN4J013	
+Job Title:NP_003520.1 H3C1 [organism=Homo sapiens]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350] Query ID: lcl|Query_29873 Length: 136
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+histone H3.1 [Mus musculus]                                       Mus musculus    house mouse     10090      275    275   100%  2e-96 100.00 136        NP_038578.2      
+The mouse nucleosome structure containing H3.1 [Mus musculus]     Mus musculus    house mouse     10090      275    275   100%  3e-96 100.00 139        5B1M_A           
+Hist1h3h protein [Mus musculus]                                   Mus musculus    house mouse     10090      273    273   99%   2e-95 100.00 135        AAI07286.1       
+histone H3.2 [Mus musculus]                                       Mus musculus    house mouse     10090      272    272   100%  4e-95 99.26  136        NP_038576.1      
+Hist1h3i protein [Mus musculus]                                   Mus musculus    house mouse     10090      271    271   98%   9e-95 100.00 134        AAI07288.1       
+uncharacterized protein LOC382523 [Mus musculus]                  Mus musculus    house mouse     10090      271    271   100%  1e-94 97.79  136        NP_001304932.1   
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      271    271   100%  1e-94 98.53  136        CAA34274.1       
+The mouse nucleosome structure containing H3t [Mus musculus]      Mus musculus    house mouse     10090      271    271   100%  1e-94 97.79  139        5B1L_A           
+Histone cluster 2, H3c1 [Mus musculus]                            Mus musculus    house mouse     10090      271    271   100%  4e-94 99.26  181        AAH94041.1       
+Hist1h3e protein [Mus musculus]                                   Mus musculus    house mouse     10090      266    266   97%   6e-93 99.25  133        AAI27043.1       
+The mouse nucleosome structure containing H2A, H2B type3-A,...    Mus musculus    house mouse     10090      265    265   100%  2e-92 96.32  139        5XM0_A           
+histone H3.3 [Mus musculus]                                       Mus musculus    house mouse     10090      265    265   100%  2e-92 96.32  136        NP_032236.1      
+mCG6162 [Mus musculus]                                            Mus musculus    house mouse     10090      264    264   100%  6e-92 95.59  136        EDL18362.1       
+H3 histone, family 3B [Mus musculus]                              Mus musculus    house mouse     10090      263    263   100%  9e-92 95.59  136        AAH21768.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      263    263   100%  1e-91 95.59  136        BAE30411.1       
+The mouse nucleosome structure containing H2A, H2B type3-A,...    Mus musculus    house mouse     10090      262    262   100%  4e-91 94.85  139        5XM1_A           
+uncharacterized protein LOC625328 [Mus musculus]                  Mus musculus    house mouse     10090      261    261   100%  1e-90 94.85  136        NP_001357860.1   
+uncharacterized protein LOC667250 [Mus musculus]                  Mus musculus    house mouse     10090      258    258   100%  7e-90 93.38  136        NP_001074488.1   
+mCG118980 [Mus musculus]                                          Mus musculus    house mouse     10090      258    258   100%  9e-90 94.12  136        EDL03835.1       
+mCG116119 [Mus musculus]                                          Mus musculus    house mouse     10090      257    257   100%  3e-89 94.12  141        EDL00780.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      256    256   99%   6e-89 94.07  144        BAE35387.1       
+H3 histone, family 3B [Mus musculus]                              Mus musculus    house mouse     10090      248    248   94%   1e-85 94.53  138        AAH92300.1       
+mCG16393 [Mus musculus]                                           Mus musculus    house mouse     10090      244    244   100%  3e-84 88.97  136        EDL01483.1       
+histone H3.3A-like [Mus musculus]                                 Mus musculus    house mouse     10090      243    243   99%   2e-83 89.63  142        XP_017177364.1   
+histone H3.3A-like [Mus musculus]                                 Mus musculus    house mouse     10090      239    239   100%  4e-82 88.97  149        XP_030111550.1   
+Chain A, Histone H3mm18 [Mus musculus]                            Mus musculus    house mouse     10090      233    233   96%   8e-80 89.31  139        7DBH_A           
+histone H3.3A-like [Mus musculus]                                 Mus musculus    house mouse     10090      233    233   96%   8e-80 89.31  136        XP_030103341.1   
+mCG49934 [Mus musculus]                                           Mus musculus    house mouse     10090      229    229   97%   7e-78 86.47  159        EDL18486.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      220    220   100%  8e-75 83.09  135        CAA24131.1       
+H3L-like histone [Mus musculus]                                   Mus musculus    house mouse     10090      210    210   78%   3e-71 95.33  107        AAQ96274.1       
+mCG1047110 [Mus musculus]                                         Mus musculus    house mouse     10090      200    200   91%   2e-66 79.20  159        EDL00757.1       
+unnamed protein product [Mus musculus]                            Mus musculus    house mouse     10090      187    187   77%   7e-61 88.68  172        BAB27616.1       
+mCG15506 [Mus musculus]                                           Mus musculus    house mouse     10090      152    152   60%   1e-48 90.24  88         EDL08786.1       
+mCG118302 [Mus musculus]                                          Mus musculus    house mouse     10090      137    137   52%   2e-42 95.83  72         EDL10778.1       
+mCG13052 [Mus musculus]                                           Mus musculus    house mouse     10090      130    130   52%   9e-40 90.28  72         EDL18707.1       
+mCG119440 [Mus musculus]                                          Mus musculus    house mouse     10090      120    120   52%   7e-36 84.72  72         EDL18974.1       
+histone H3 (partial) [Mus musculus domesticus]                    Mus musculus... western Euro... 10092      119    119   42%   8e-36 98.28  58         CAA83209.1       
+histone H3-like centromeric protein A isoform 1 [Mus musculus]    Mus musculus    house mouse     10090      108    108   86%   2e-30 47.24  134        NP_031707.1      
+histone H3-like centromeric protein A isoform 2 [Mus musculus]    Mus musculus    house mouse     10090      103    103   68%   8e-29 54.74  108        NP_001289058.1   
+mCG123064, isoform CRA_a [Mus musculus]                           Mus musculus    house mouse     10090      100    100   43%   2e-28 83.33  62         EDL07223.1       
+histone H3-like centromeric protein A isoform 4 [Mus musculus]    Mus musculus    house mouse     10090      103    103   86%   3e-28 43.17  146        NP_001408377.1   
+centromere protein A, isoform CRA_d [Mus musculus]                Mus musculus    house mouse     10090      102    102   68%   5e-28 54.74  137        EDL37286.1       
+mCG1037254 [Mus musculus]                                         Mus musculus    house mouse     10090      77.0   77.0  38%   2e-18 71.70  103        EDL20544.1       
+Crystal structure of mouse Morc3 ATPase-CW cassette in complex... Mus musculus    house mouse     10090      59.7   59.7  23%   2e-12 100.00 32         5IX2_P           
+centromere protein A, isoform CRA_b [Mus musculus]                Mus musculus    house mouse     10090      57.4   57.4  72%   8e-11 36.11  113        EDL37284.1       
+histone H3-like centromeric protein A isoform 3 [Mus musculus]    Mus musculus    house mouse     10090      57.4   57.4  72%   1e-10 36.11  114        NP_001289061.1   
+centromere protein A, isoform CRA_f [Mus musculus]                Mus musculus    house mouse     10090      55.5   55.5  63%   7e-10 37.50  130        EDL37288.1       
+histone H3-like centromeric protein A isoform 5 [Mus musculus]    Mus musculus    house mouse     10090      51.2   51.2  53%   1e-08 41.33  88         NP_001408378.1   
+Chain E, Histone H3.1 [Mus musculus]                              Mus musculus    house mouse     10090      37.4   37.4  13%   6e-04 100.00 20         7OS4_E           
+Histone demethylase KDM2A-H3K36ME1-alpha-KG complex structure...  Mus musculus    house mouse     10090      33.5   33.5  11%   0.016 93.33  15         4QWN_E           
+Solution structure of the chromodomain of HP1a with the...        Mus musculus    house mouse     10090      33.1   33.1  12%   0.024 94.12  18         2RVN_B           
+Chain L,...                                                       Mus musculus    house mouse     10090      33.1   33.1  11%   0.025 100.00 16         7QRD_L           
+
+
+Alignments:
+
+>histone H3.1 [Mus musculus]
+Sequence ID: NP_038578.2 Length: 136
+>histone H3.1 [Mus musculus]
+Sequence ID: NP_659539.1 Length: 136
+>histone H3.1 [Mus musculus]
+Sequence ID: NP_835513.1 Length: 136
+>histone H3.1 [Mus musculus]
+Sequence ID: NP_835514.1 Length: 136
+>RecName: Full=Histone H3.1 [Mus musculus]
+Sequence ID: P68433.2 Length: 136
+>Chain A, Histone H3.1 [Mus musculus]
+Sequence ID: 1U35_A Length: 136
+>Chain E, Histone H3.1 [Mus musculus]
+Sequence ID: 1U35_E Length: 136 
+Range 1: 1 to 136
+
+Score:275 bits(703), Expect:2e-96, 
+Method:Compositional matrix adjust., 
+Identities:136/136(100%), Positives:136/136(100%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>The mouse nucleosome structure containing H3.1 [Mus musculus]
+Sequence ID: 5B1M_A Length: 139
+>The mouse nucleosome structure containing H3.1 [Mus musculus]
+Sequence ID: 5B1M_E Length: 139 
+Range 1: 4 to 139
+
+Score:275 bits(703), Expect:3e-96, 
+Method:Compositional matrix adjust., 
+Identities:136/136(100%), Positives:136/136(100%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  4    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  63
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  64   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  123
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  124  MPKDIQLARRIRGERA  139
+
+
+
+
+>Hist1h3h protein, partial [Mus musculus]
+Sequence ID: AAI07286.1 Length: 135
+>Hist1h3i protein, partial [Mus musculus]
+Sequence ID: AAI27149.1 Length: 135 
+Range 1: 1 to 135
+
+Score:273 bits(697), Expect:2e-95, 
+Method:Compositional matrix adjust., 
+Identities:135/135(100%), Positives:135/135(100%), Gaps:0/135(0%)
+
+Query  2    ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTEL  61
+            ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTEL
+Sbjct  1    ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTEL  60
+
+Query  62   LIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIM  121
+            LIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIM
+Sbjct  61   LIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIM  120
+
+Query  122  PKDIQLARRIRGERA  136
+            PKDIQLARRIRGERA
+Sbjct  121  PKDIQLARRIRGERA  135
+
+
+
+
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_038576.1 Length: 136
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_473386.1 Length: 136
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_783584.1 Length: 136
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_835510.1 Length: 136
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_835511.1 Length: 136
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_835512.1 Length: 136
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_835587.1 Length: 136
+>histone H3.2 [Mus musculus]
+Sequence ID: NP_835734.2 Length: 136
+>RecName: Full=Histone H3.2; AltName: Full=H3-clustered histone 13; AltName: Full=H3-clustered histone 14; AltName: Full=H3-clustered histone 15; AltName: Full=H3-clustered histone 2; AltName: Full=H3-clustered histone 3; AltName: Full=H3-clustered histone 4; AltName: Full=H3-clustered histone 6; AltName: Full=H3-clustered histone 7 [Mus musculus]
+Sequence ID: P84228.2 Length: 136
+>histone H3.2 [Mus musculus domesticus]
+Sequence ID: AAA37764.1 Length: 136 
+Range 1: 1 to 136
+
+Score:272 bits(695), Expect:4e-95, 
+Method:Compositional matrix adjust., 
+Identities:135/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>Hist1h3i protein, partial [Mus musculus]
+Sequence ID: AAI07288.1 Length: 134
+Range 1: 1 to 134
+
+Score:271 bits(692), Expect:9e-95, 
+Method:Compositional matrix adjust., 
+Identities:134/134(100%), Positives:134/134(100%), Gaps:0/134(0%)
+
+Query  3    RTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELL  62
+            RTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELL
+Sbjct  1    RTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELL  60
+
+Query  63   IRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMP  122
+            IRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMP
+Sbjct  61   IRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMP  120
+
+Query  123  KDIQLARRIRGERA  136
+            KDIQLARRIRGERA
+Sbjct  121  KDIQLARRIRGERA  134
+
+
+
+
+>uncharacterized protein LOC382523 [Mus musculus]
+Sequence ID: NP_001304932.1 Length: 136
+>mCG140136 [Mus musculus]
+Sequence ID: EDL07696.1 Length: 136 
+Range 1: 1 to 136
+
+Score:271 bits(692), Expect:1e-94, 
+Method:Compositional matrix adjust., 
+Identities:133/136(98%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATK ARKSAPATGGVKKPHRY PGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKVARKSAPATGGVKKPHRYHPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACE+YLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACESYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: CAA34274.1 Length: 136
+Range 1: 1 to 136
+
+Score:271 bits(692), Expect:1e-94, 
+Method:Compositional matrix adjust., 
+Identities:134/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCA+HAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAMHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>The mouse nucleosome structure containing H3t [Mus musculus]
+Sequence ID: 5B1L_A Length: 139
+>The mouse nucleosome structure containing H3t [Mus musculus]
+Sequence ID: 5B1L_E Length: 139 
+Range 1: 4 to 139
+
+Score:271 bits(692), Expect:1e-94, 
+Method:Compositional matrix adjust., 
+Identities:133/136(98%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATK ARKSAPATGGVKKPHRY PGTVALREIRRYQKSTE
+Sbjct  4    MARTKQTARKSTGGKAPRKQLATKVARKSAPATGGVKKPHRYHPGTVALREIRRYQKSTE  63
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACE+YLVGLFEDTNLCAIHAKRVTI
+Sbjct  64   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACESYLVGLFEDTNLCAIHAKRVTI  123
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  124  MPKDIQLARRIRGERA  139
+
+
+
+
+>Histone cluster 2, H3c1 [Mus musculus]
+Sequence ID: AAH94041.1 Length: 181
+>histone protein Hist2h3c1 [Mus musculus]
+Sequence ID: AAO06264.1 Length: 181
+>mCG140445 [Mus musculus]
+Sequence ID: EDL38877.1 Length: 181 
+Range 1: 46 to 181
+
+Score:271 bits(692), Expect:4e-94, 
+Method:Compositional matrix adjust., 
+Identities:135/136(99%), Positives:135/136(99%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  46   MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  105
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  106  LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTI  165
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  166  MPKDIQLARRIRGERA  181
+
+
+
+
+>Hist1h3e protein, partial [Mus musculus]
+Sequence ID: AAI27043.1 Length: 133
+Range 1: 1 to 133
+
+Score:266 bits(680), Expect:6e-93, 
+Method:Compositional matrix adjust., 
+Identities:132/133(99%), Positives:132/133(99%), Gaps:0/133(0%)
+
+Query  4    TKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLI  63
+            TKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLI
+Sbjct  1    TKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLI  60
+
+Query  64   RKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMPK  123
+            RKLPFQRLVREIAQDFKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTIMPK
+Sbjct  61   RKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPK  120
+
+Query  124  DIQLARRIRGERA  136
+            DIQLARRIRGERA
+Sbjct  121  DIQLARRIRGERA  133
+
+
+
+
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3.3, and H4 [Mus musculus]
+Sequence ID: 5XM0_A Length: 139
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3.3, and H4 [Mus musculus]
+Sequence ID: 5XM0_E Length: 139 
+Range 1: 4 to 139
+
+Score:265 bits(678), Expect:2e-92, 
+Method:Compositional matrix adjust., 
+Identities:131/136(96%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  4    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  63
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  64   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  123
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  124  MPKDIQLARRIRGERA  139
+
+
+
+
+>histone H3.3 [Mus musculus]
+Sequence ID: NP_032236.1 Length: 136
+>histone H3.3 [Mus musculus]
+Sequence ID: NP_032237.1 Length: 136
+>histone H3.3 isoform X1 [Mus musculus]
+Sequence ID: XP_006532311.1 Length: 136
+>RecName: Full=Histone H3.3 [Mus musculus]
+Sequence ID: P84244.2 Length: 136 
+Range 1: 1 to 136
+
+Score:265 bits(677), Expect:2e-92, 
+Method:Compositional matrix adjust., 
+Identities:131/136(96%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>mCG6162 [Mus musculus]
+Sequence ID: EDL18362.1 Length: 136
+Range 1: 1 to 136
+
+Score:264 bits(674), Expect:6e-92, 
+Method:Compositional matrix adjust., 
+Identities:130/136(96%), Positives:134/136(98%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQK+TE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKATE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>H3 histone, family 3B [Mus musculus]
+Sequence ID: AAH21768.1 Length: 136
+Range 1: 1 to 136
+
+Score:263 bits(673), Expect:9e-92, 
+Method:Compositional matrix adjust., 
+Identities:130/136(96%), Positives:133/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVRE AQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVRETAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAE30411.1 Length: 136
+>unnamed protein product [Mus musculus]
+Sequence ID: BAE31789.1 Length: 136 
+Range 1: 1 to 136
+
+Score:263 bits(673), Expect:1e-91, 
+Method:Compositional matrix adjust., 
+Identities:130/136(96%), Positives:133/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA E YLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEEYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3mm7, and H4 [Mus musculus]
+Sequence ID: 5XM1_A Length: 139
+>The mouse nucleosome structure containing H2A, H2B type3-A, H3mm7, and H4 [Mus musculus]
+Sequence ID: 5XM1_E Length: 139 
+Range 1: 4 to 139
+
+Score:262 bits(669), Expect:4e-91, 
+Method:Compositional matrix adjust., 
+Identities:129/136(95%), Positives:133/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+ GGVKKPHRYRPGTVALREIRRYQK+TE
+Sbjct  4    MARTKQTARKSTGGKAPRKQLATKAARKSAPSIGGVKKPHRYRPGTVALREIRRYQKATE  63
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  64   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  123
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  124  MPKDIQLARRIRGERA  139
+
+
+
+
+>uncharacterized protein LOC625328 [Mus musculus]
+Sequence ID: NP_001357860.1 Length: 136
+>RecName: Full=Histone H3.3C; AltName: Full=Embryonic [Mus musculus]
+Sequence ID: P02301.3 Length: 136 
+Range 1: 1 to 136
+
+Score:261 bits(666), Expect:1e-90, 
+Method:Compositional matrix adjust., 
+Identities:129/136(95%), Positives:132/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MA TKQTARKSTGGKAPRKQLATKA RKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MALTKQTARKSTGGKAPRKQLATKATRKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>uncharacterized protein LOC667250 [Mus musculus]
+Sequence ID: NP_001074488.1 Length: 136
+>mCG142395 [Mus musculus]
+Sequence ID: EDL30939.1 Length: 136 
+Range 1: 1 to 136
+
+Score:258 bits(660), Expect:7e-90, 
+Method:Compositional matrix adjust., 
+Identities:127/136(93%), Positives:132/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGG +PRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGNSPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA  A+LVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASGAFLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRIRGERA
+Sbjct  121  MPKDIQLARRIRGERA  136
+
+
+
+
+>mCG118980 [Mus musculus]
+Sequence ID: EDL03835.1 Length: 136
+Range 1: 1 to 136
+
+Score:258 bits(660), Expect:9e-90, 
+Method:Compositional matrix adjust., 
+Identities:128/136(94%), Positives:132/136(97%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAY VGLFEDTNLCA+HAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYQVGLFEDTNLCAVHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLA RIRGERA
+Sbjct  121  MPKDIQLACRIRGERA  136
+
+
+
+
+>mCG116119, partial [Mus musculus]
+Sequence ID: EDL00780.1 Length: 141
+Range 1: 6 to 141
+
+Score:257 bits(657), Expect:3e-89, 
+Method:Compositional matrix adjust., 
+Identities:128/136(94%), Positives:131/136(96%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKS P+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  6    MARTKQTARKSTGGKAPRKQLATKAARKSVPSTGGVKKPHRYRPGTVALREIRRYQKSTE  65
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQ LVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  66   LLIRKLPFQGLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  125
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLARRI GERA
+Sbjct  126  MPKDIQLARRICGERA  141
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAE35387.1 Length: 144
+Range 1: 1 to 135
+
+Score:256 bits(655), Expect:6e-89, 
+Method:Compositional matrix adjust., 
+Identities:127/135(94%), Positives:130/135(96%), Gaps:0/135(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRIRGER  135
+            MPKDIQLARR  G R
+Sbjct  121  MPKDIQLARRNNGGR  135
+
+
+
+
+>H3 histone, family 3B [Mus musculus]
+Sequence ID: AAH92300.1 Length: 138
+Range 1: 1 to 128
+
+Score:248 bits(633), Expect:1e-85, 
+Method:Compositional matrix adjust., 
+Identities:121/128(95%), Positives:124/128(96%), Gaps:0/128(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLA  128
+            MPKDIQ  
+Sbjct  121  MPKDIQFG  128
+
+
+
+
+>mCG16393 [Mus musculus]
+Sequence ID: EDL01483.1 Length: 136
+Range 1: 1 to 136
+
+Score:244 bits(624), Expect:3e-84, 
+Method:Compositional matrix adjust., 
+Identities:121/136(89%), Positives:124/136(91%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTA KSTGGKAPRKQLATKAARKSAP TGGVKKPH YRPGTVAL EIRRYQKSTE
+Sbjct  1    MARTKQTACKSTGGKAPRKQLATKAARKSAPTTGGVKKPHLYRPGTVALHEIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+             LIRKLPFQRLVR+IAQDFKTDLRFQS+A+ ALQEA EAY VGLFEDTNLCAIHAK VTI
+Sbjct  61   FLIRKLPFQRLVRDIAQDFKTDLRFQSAAIGALQEASEAYQVGLFEDTNLCAIHAKHVTI  120
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLA  I GERA
+Sbjct  121  MPKDIQLASHIHGERA  136
+
+
+
+
+>histone H3.3A-like [Mus musculus]
+Sequence ID: XP_017177364.1 Length: 142
+Range 1: 8 to 142
+
+Score:243 bits(619), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:121/135(90%), Positives:126/135(93%), Gaps:0/135(0%)
+
+Query  2    ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTEL  61
+            ARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKP+RYRPGTVA  E+R Y KSTEL
+Sbjct  8    ARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPYRYRPGTVAHSEVRCYPKSTEL  67
+
+Query  62   LIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIM  121
+            LIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTIM
+Sbjct  68   LIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTIM  127
+
+Query  122  PKDIQLARRIRGERA  136
+            PKDIQLAR I GE A
+Sbjct  128  PKDIQLARHIHGELA  142
+
+
+
+
+>histone H3.3A-like [Mus musculus]
+Sequence ID: XP_030111550.1 Length: 149
+Range 1: 14 to 149
+
+Score:239 bits(611), Expect:4e-82, 
+Method:Compositional matrix adjust., 
+Identities:121/136(89%), Positives:126/136(92%), Gaps:0/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            +ARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTV LREIR YQKS E
+Sbjct  14   VARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVVLREIRCYQKSPE  73
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLVREIAQDFKTDL FQS+A+ ALQEA +AYLVGLFEDTNLCAIHAK VTI
+Sbjct  74   LLIRKLPFQRLVREIAQDFKTDLCFQSAAIGALQEASQAYLVGLFEDTNLCAIHAKSVTI  133
+
+Query  121  MPKDIQLARRIRGERA  136
+            MPKDIQLA RI  ERA
+Sbjct  134  MPKDIQLALRILRERA  149
+
+
+
+
+>Chain A, Histone H3mm18 [Mus musculus]
+Sequence ID: 7DBH_A Length: 139
+>Chain E, Histone H3mm18 [Mus musculus]
+Sequence ID: 7DBH_E Length: 139
+>Chain A, Histone H3mm18 [Mus musculus]
+Sequence ID: 7VBM_A Length: 139
+>Chain E, Histone H3mm18 [Mus musculus]
+Sequence ID: 7VBM_E Length: 139 
+Range 1: 4 to 134
+
+Score:233 bits(595), Expect:8e-80, 
+Method:Compositional matrix adjust., 
+Identities:117/131(89%), Positives:121/131(92%), Gaps:0/131(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTG KAPRKQLATKAARKSAP+TGGVKKPH YRPGTVALREIR YQKS+E
+Sbjct  4    MARTKQTARKSTGDKAPRKQLATKAARKSAPSTGGVKKPHCYRPGTVALREIRSYQKSSE  63
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLV EIAQDFKTDL FQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  64   LLIRKLPFQRLVLEIAQDFKTDLCFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  123
+
+Query  121  MPKDIQLARRI  131
+            MPKD QLA  I
+Sbjct  124  MPKDTQLAGYI  134
+
+
+
+
+>histone H3.3A-like [Mus musculus]
+Sequence ID: XP_030103341.1 Length: 136
+Range 1: 1 to 131
+
+Score:233 bits(594), Expect:8e-80, 
+Method:Compositional matrix adjust., 
+Identities:117/131(89%), Positives:121/131(92%), Gaps:0/131(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTG KAPRKQLATKAARKSAP+TGGVKKPH YRPGTVALREIR YQKS+E
+Sbjct  1    MARTKQTARKSTGDKAPRKQLATKAARKSAPSTGGVKKPHCYRPGTVALREIRSYQKSSE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQRLV EIAQDFKTDL FQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTI
+Sbjct  61   LLIRKLPFQRLVLEIAQDFKTDLCFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTI  120
+
+Query  121  MPKDIQLARRI  131
+            MPKD QLA  I
+Sbjct  121  MPKDTQLAGYI  131
+
+
+
+
+>mCG49934 [Mus musculus]
+Sequence ID: EDL18486.1 Length: 159
+Range 1: 1 to 133
+
+Score:229 bits(584), Expect:7e-78, 
+Method:Compositional matrix adjust., 
+Identities:115/133(86%), Positives:120/133(90%), Gaps:0/133(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MA TKQTARKST GKAPRK+LATKAA KSAP+TGGVKKPHRYRPGTVAL EIRRYQK+TE
+Sbjct  1    MAPTKQTARKSTCGKAPRKKLATKAAHKSAPSTGGVKKPHRYRPGTVALCEIRRYQKATE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLIRKLPFQ LVREIAQ FKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRV  
+Sbjct  61   LLIRKLPFQHLVREIAQVFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVVT  120
+
+Query  121  MPKDIQLARRIRG  133
+            MPKDIQL  RI G
+Sbjct  121  MPKDIQLTLRICG  133
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: CAA24131.1 Length: 135
+Range 1: 1 to 135
+
+Score:220 bits(561), Expect:8e-75, 
+Method:Compositional matrix adjust., 
+Identities:113/136(83%), Positives:119/136(87%), Gaps:1/136(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MA TKQTARKST GKAPRKQLATKAA KSAP+TGGVKK HRYRP TVAL EIRRY  STE
+Sbjct  1    MAHTKQTARKSTCGKAPRKQLATKAAXKSAPSTGGVKKSHRYRPDTVALLEIRRYH-STE  59
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLI KLPFQRLV+EIAQDFKTDLRFQS+A+ ALQEA EA  VGLFEDTNLCAIHAK VT+
+Sbjct  60   LLIHKLPFQRLVQEIAQDFKTDLRFQSAAIGALQEASEANRVGLFEDTNLCAIHAKCVTV  119
+
+Query  121  MPKDIQLARRIRGERA  136
+            +PKDIQLA  I GERA
+Sbjct  120  IPKDIQLAHSILGERA  135
+
+
+
+
+>H3L-like histone, partial [Mus musculus]
+Sequence ID: AAQ96274.1 Length: 107
+Range 1: 1 to 107
+
+Score:210 bits(535), Expect:3e-71, 
+Method:Compositional matrix adjust., 
+Identities:102/107(95%), Positives:105/107(98%), Gaps:0/107(0%)
+
+Query  16   APRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREI  75
+            APRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREI
+Sbjct  1    APRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREI  60
+
+Query  76   AQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMP  122
+            AQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIHAKRVTIMP
+Sbjct  61   AQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTIMP  107
+
+
+
+
+>mCG1047110 [Mus musculus]
+Sequence ID: EDL00757.1 Length: 159
+Range 1: 1 to 125
+
+Score:200 bits(509), Expect:2e-66, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:0/125(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MA TKQTA KS GGKA RK+L TKAARK A +TGGVKKPHRY PGTVAL EIR YQKSTE
+Sbjct  1    MALTKQTAHKSNGGKASRKELPTKAARKRASSTGGVKKPHRYGPGTVALHEIRSYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTI  120
+            LLI KLPFQ LV+EI QDFKTDLRFQS+A+ AL +A EAYLVGLFEDTNLCAIHAK VTI
+Sbjct  61   LLISKLPFQHLVQEIVQDFKTDLRFQSAAIGALWKASEAYLVGLFEDTNLCAIHAKCVTI  120
+
+Query  121  MPKDI  125
+             PK  
+Sbjct  121  TPKKF  125
+
+
+
+
+>unnamed protein product [Mus musculus]
+Sequence ID: BAB27616.1 Length: 172
+Range 1: 1 to 106
+
+Score:187 bits(474), Expect:7e-61, 
+Method:Compositional matrix adjust., 
+Identities:94/106(89%), Positives:98/106(92%), Gaps:0/106(0%)
+
+Query  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+            MARTKQTARKSTGGKAPRKQLATKAARKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1    MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61   LLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFE  106
+            LLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA E    G  +
+Sbjct  61   LLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEHTWWGCLK  106
+
+
+
+
+>mCG15506 [Mus musculus]
+Sequence ID: EDL08786.1 Length: 88
+Range 1: 7 to 88
+
+Score:152 bits(385), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:74/82(90%), Positives:77/82(93%), Gaps:0/82(0%)
+
+Query  55   YQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIH  114
+            YQKSTELLIRKLPFQRLVREIAQDFKTDLRFQS+A+ ALQEA EAYLVGLFEDTNLCAIH
+Sbjct  7    YQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIH  66
+
+Query  115  AKRVTIMPKDIQLARRIRGERA  136
+            AK VTIMPKDIQLA RI G+RA
+Sbjct  67   AKPVTIMPKDIQLASRISGKRA  88
+
+
+
+
+>mCG118302 [Mus musculus]
+Sequence ID: EDL10778.1 Length: 72
+Range 1: 1 to 72
+
+Score:137 bits(344), Expect:2e-42, 
+Method:Compositional matrix adjust., 
+Identities:69/72(96%), Positives:70/72(97%), Gaps:0/72(0%)
+
+Query  1   MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+           MARTKQTARKSTGGKA RKQLATKA RKSAP+TGGVKKPHRYRPGTVALREIRRYQKSTE
+Sbjct  1   MARTKQTARKSTGGKATRKQLATKATRKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTE  60
+
+Query  61  LLIRKLPFQRLV  72
+           LLIRKLPFQRLV
+Sbjct  61  LLIRKLPFQRLV  72
+
+
+
+
+>mCG13052 [Mus musculus]
+Sequence ID: EDL18707.1 Length: 72
+Range 1: 1 to 72
+
+Score:130 bits(326), Expect:9e-40, 
+Method:Compositional matrix adjust., 
+Identities:65/72(90%), Positives:67/72(93%), Gaps:0/72(0%)
+
+Query  1   MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+           MA TKQTARKST GKAPRKQLATKA  KSAP+TGGVKKPHRYRPGTVAL EIRRYQKSTE
+Sbjct  1   MAHTKQTARKSTSGKAPRKQLATKATHKSAPSTGGVKKPHRYRPGTVALGEIRRYQKSTE  60
+
+Query  61  LLIRKLPFQRLV  72
+           LLIRKLPFQRL+
+Sbjct  61  LLIRKLPFQRLL  72
+
+
+
+
+>mCG119440 [Mus musculus]
+Sequence ID: EDL18974.1 Length: 72
+Range 1: 1 to 72
+
+Score:120 bits(300), Expect:7e-36, 
+Method:Compositional matrix adjust., 
+Identities:61/72(85%), Positives:65/72(90%), Gaps:0/72(0%)
+
+Query  1   MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+           M+ TKQTARKSTG KAPRKQLATKAA KSAP+TGGVKKPHRY+PGTVALREI+ YQKSTE
+Sbjct  1   MSCTKQTARKSTGFKAPRKQLATKAASKSAPSTGGVKKPHRYKPGTVALREIKCYQKSTE  60
+
+Query  61  LLIRKLPFQRLV  72
+           LLI KL FQ LV
+Sbjct  61  LLIHKLSFQCLV  72
+
+
+
+
+>histone H3 (partial), partial [Mus musculus domesticus]
+Sequence ID: CAA83209.1 Length: 58
+Range 1: 1 to 58
+
+Score:119 bits(299), Expect:8e-36, 
+Method:Compositional matrix adjust., 
+Identities:57/58(98%), Positives:57/58(98%), Gaps:0/58(0%)
+
+Query  79   FKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA  136
+            FKTDLRFQSSAVMALQEA EAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA
+Sbjct  1    FKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA  58
+
+
+
+
+>histone H3-like centromeric protein A isoform 1 [Mus musculus]
+Sequence ID: NP_031707.1 Length: 134
+>RecName: Full=Histone H3-like centromeric protein A; AltName: Full=Centromere protein A; Short=CENP-A [Mus musculus]
+Sequence ID: O35216.1 Length: 134
+>centromere protein A [Mus musculus]
+Sequence ID: AAC39957.1 Length: 134
+>centromere protein A, isoform CRA_e [Mus musculus]
+Sequence ID: EDL37287.1 Length: 134
+>unnamed protein product [Mus musculus]
+Sequence ID: BAB27140.1 Length: 134
+>unnamed protein product [Mus musculus]
+Sequence ID: BAB27591.1 Length: 134 
+Range 1: 2 to 128
+
+Score:108 bits(269), Expect:2e-30, 
+Method:Compositional matrix adjust., 
+Identities:60/127(47%), Positives:80/127(62%), Gaps:9/127(7%)
+
+Query  16   APRKQLATKAARKSAPATGGVKKPH-------RYRPGTVALREIRRYQKSTELLIRKLPF  68
+             PR++  T   R S+PA G  ++         R R   + L+EI+  QKST+LL RK PF
+Sbjct  2    GPRRKPQTPRRRPSSPAPGPSRQSSSVGSQTLRRRQKFMWLKEIKTLQKSTDLLFRKKPF  61
+
+Query  69   QRLVREIAQDFK--TDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQ  126
+              +VREI + F    D  +Q+ A++ALQEA EA+L+ LFED  L ++HA RVT+ PKDIQ
+Sbjct  62   SMVVREICEKFSRGVDFWWQAQALLALQEAAEAFLIHLFEDAYLLSLHAGRVTLFPKDIQ  121
+
+Query  127  LARRIRG  133
+            L RRIRG
+Sbjct  122  LTRRIRG  128
+
+
+
+
+>histone H3-like centromeric protein A isoform 2 [Mus musculus]
+Sequence ID: NP_001289058.1 Length: 108
+>histone H3-like centromeric protein A isoform 2 [Mus musculus]
+Sequence ID: NP_001289059.1 Length: 108
+>histone H3-like centromeric protein A isoform 2 [Mus musculus]
+Sequence ID: NP_001289060.1 Length: 108
+>histone H3-like centromeric protein A isoform 2 [Mus musculus]
+Sequence ID: NP_001408376.1 Length: 108
+>histone H3-like centromeric protein A isoform X2 [Mus musculus]
+Sequence ID: XP_036020655.1 Length: 108 
+Range 1: 8 to 102
+
+Score:103 bits(257), Expect:8e-29, 
+Method:Compositional matrix adjust., 
+Identities:52/95(55%), Positives:67/95(70%), Gaps:2/95(2%)
+
+Query  41   RYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFK--TDLRFQSSAVMALQEACE  98
+            R R   + L+EI+  QKST+LL RK PF  +VREI + F    D  +Q+ A++ALQEA E
+Sbjct  8    RRRQKFMWLKEIKTLQKSTDLLFRKKPFSMVVREICEKFSRGVDFWWQAQALLALQEAAE  67
+
+Query  99   AYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRG  133
+            A+L+ LFED  L ++HA RVT+ PKDIQL RRIRG
+Sbjct  68   AFLIHLFEDAYLLSLHAGRVTLFPKDIQLTRRIRG  102
+
+
+
+
+>mCG123064, isoform CRA_a, partial [Mus musculus]
+Sequence ID: EDL07223.1 Length: 62
+>mCG123064, isoform CRA_a, partial [Mus musculus]
+Sequence ID: EDL07224.1 Length: 62 
+Range 1: 3 to 62
+
+Score:100 bits(250), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:50/60(83%), Positives:53/60(88%), Gaps:1/60(1%)
+
+Query  78   DFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARR-IRGERA  136
+            DFKTDLRFQS+A+ ALQEA EA LVGLFEDTNLCAIHAKRVT+MPKDIQLA   I GERA
+Sbjct  3    DFKTDLRFQSAAIGALQEASEADLVGLFEDTNLCAIHAKRVTVMPKDIQLAAGPIHGERA  62
+
+
+
+
+>histone H3-like centromeric protein A isoform 4 [Mus musculus]
+Sequence ID: NP_001408377.1 Length: 146
+Range 1: 2 to 140
+
+Score:103 bits(256), Expect:3e-28, 
+Method:Compositional matrix adjust., 
+Identities:60/139(43%), Positives:80/139(57%), Gaps:21/139(15%)
+
+Query  16   APRKQLATKAARKSAPATGGVKKPH-------------------RYRPGTVALREIRRYQ  56
+             PR++  T   R S+PA G  ++                     R R   + L+EI+  Q
+Sbjct  2    GPRRKPQTPRRRPSSPAPGPSRQSSSVGLRIERRALCVQGSQTLRRRQKFMWLKEIKTLQ  61
+
+Query  57   KSTELLIRKLPFQRLVREIAQDFK--TDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIH  114
+            KST+LL RK PF  +VREI + F    D  +Q+ A++ALQEA EA+L+ LFED  L ++H
+Sbjct  62   KSTDLLFRKKPFSMVVREICEKFSRGVDFWWQAQALLALQEAAEAFLIHLFEDAYLLSLH  121
+
+Query  115  AKRVTIMPKDIQLARRIRG  133
+            A RVT+ PKDIQL RRIRG
+Sbjct  122  AGRVTLFPKDIQLTRRIRG  140
+
+
+
+
+>centromere protein A, isoform CRA_d, partial [Mus musculus]
+Sequence ID: EDL37286.1 Length: 137
+Range 1: 37 to 131
+
+Score:102 bits(254), Expect:5e-28, 
+Method:Compositional matrix adjust., 
+Identities:52/95(55%), Positives:67/95(70%), Gaps:2/95(2%)
+
+Query  41   RYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFK--TDLRFQSSAVMALQEACE  98
+            R R   + L+EI+  QKST+LL RK PF  +VREI + F    D  +Q+ A++ALQEA E
+Sbjct  37   RRRQKFMWLKEIKTLQKSTDLLFRKKPFSMVVREICEKFSRGVDFWWQAQALLALQEAAE  96
+
+Query  99   AYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRG  133
+            A+L+ LFED  L ++HA RVT+ PKDIQL RRIRG
+Sbjct  97   AFLIHLFEDAYLLSLHAGRVTLFPKDIQLTRRIRG  131
+
+
+
+
+>mCG1037254, partial [Mus musculus]
+Sequence ID: EDL20544.1 Length: 103
+Range 1: 1 to 53
+
+Score:77.0 bits(188), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:38/53(72%), Positives:43/53(81%), Gaps:0/53(0%)
+
+Query  8   ARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTE  60
+           A KST GK PRKQLATK A KS  ++GG+KKP+ YRPGTVA+ EIR YQKSTE
+Sbjct  1   ASKSTSGKTPRKQLATKVASKSVLSSGGMKKPYYYRPGTVAVFEIRCYQKSTE  53
+
+
+
+
+>Crystal structure of mouse Morc3 ATPase-CW cassette in complex with AMPPNP and unmodified H3 peptide [Mus musculus]
+Sequence ID: 5IX2_P Length: 32
+>Crystal structure of mouse Morc3 ATPase-CW cassette in complex with AMPPNP and unmodified H3 peptide [Mus musculus]
+Sequence ID: 5IX2_Q Length: 32 
+Range 1: 1 to 32
+
+Score:59.7 bits(143), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:32/32(100%), Positives:32/32(100%), Gaps:0/32(0%)
+
+Query  2   ARTKQTARKSTGGKAPRKQLATKAARKSAPAT  33
+           ARTKQTARKSTGGKAPRKQLATKAARKSAPAT
+Sbjct  1   ARTKQTARKSTGGKAPRKQLATKAARKSAPAT  32
+
+
+
+
+>centromere protein A, isoform CRA_b, partial [Mus musculus]
+Sequence ID: EDL37284.1 Length: 113
+Range 1: 2 to 105
+
+Score:57.4 bits(137), Expect:8e-11, 
+Method:Compositional matrix adjust., 
+Identities:39/108(36%), Positives:56/108(51%), Gaps:13/108(12%)
+
+Query  16   APRKQLATKAARKSAPATGGVKKPH-------RYRPGTVALREIRRYQKSTELLIRKLPF  68
+             PR++  T   R S+PA G  ++         R R   + L+EI+  QKST+LL RK PF
+Sbjct  2    GPRRKPQTPRRRPSSPAPGPSRQSSSVGSQTLRRRQKFMWLKEIKTLQKSTDLLFRKKPF  61
+
+Query  69   QRLVREIAQDFK--TDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIH  114
+              +VREI + F    D  +Q+ A++ALQE     L G F   +L  + 
+Sbjct  62   SMVVREICEKFSRGVDFWWQAQALLALQET----LPGSFWSCSLTVVS  105
+
+
+
+
+>histone H3-like centromeric protein A isoform 3 [Mus musculus]
+Sequence ID: NP_001289061.1 Length: 114
+Range 1: 2 to 105
+
+Score:57.4 bits(137), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:39/108(36%), Positives:56/108(51%), Gaps:13/108(12%)
+
+Query  16   APRKQLATKAARKSAPATGGVKKPH-------RYRPGTVALREIRRYQKSTELLIRKLPF  68
+             PR++  T   R S+PA G  ++         R R   + L+EI+  QKST+LL RK PF
+Sbjct  2    GPRRKPQTPRRRPSSPAPGPSRQSSSVGSQTLRRRQKFMWLKEIKTLQKSTDLLFRKKPF  61
+
+Query  69   QRLVREIAQDFK--TDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIH  114
+              +VREI + F    D  +Q+ A++ALQE     L G F   +L  + 
+Sbjct  62   SMVVREICEKFSRGVDFWWQAQALLALQET----LPGSFWSCSLTVVS  105
+
+
+
+
+>centromere protein A, isoform CRA_f [Mus musculus]
+Sequence ID: EDL37288.1 Length: 130
+Range 1: 2 to 97
+
+Score:55.5 bits(132), Expect:7e-10, 
+Method:Compositional matrix adjust., 
+Identities:36/96(38%), Positives:53/96(55%), Gaps:9/96(9%)
+
+Query  16   APRKQLATKAARKSAPATGGVKKPH-------RYRPGTVALREIRRYQKSTELLIRKLPF  68
+             PR++  T   R S+PA G  ++         R R   + L+EI+  QKST+LL RK PF
+Sbjct  2    GPRRKPQTPRRRPSSPAPGPSRQSSSVGSQTLRRRQKFMWLKEIKTLQKSTDLLFRKKPF  61
+
+Query  69   QRLVREIAQDFK--TDLRFQSSAVMALQEACEAYLV  102
+              +VREI + F    D  +Q+ A++ALQE  +  L+
+Sbjct  62   SMVVREICEKFSRGVDFWWQAQALLALQEPRQCSLL  97
+
+
+
+
+>histone H3-like centromeric protein A isoform 5 [Mus musculus]
+Sequence ID: NP_001408378.1 Length: 88
+Range 1: 8 to 78
+
+Score:51.2 bits(121), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/75(41%), Positives:43/75(57%), Gaps:6/75(8%)
+
+Query  41   RYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFK--TDLRFQSSAVMALQEACE  98
+            R R   + L+EI+  QKST+LL RK PF  +VREI + F    D  +Q+ A++ALQE   
+Sbjct  8    RRRQKFMWLKEIKTLQKSTDLLFRKKPFSMVVREICEKFSRGVDFWWQAQALLALQET--  65
+
+Query  99   AYLVGLFEDTNLCAI  113
+              L G F   +L  +
+Sbjct  66   --LPGSFWSCSLTVV  78
+
+
+
+
+>Chain E, Histone H3.1 [Mus musculus]
+Sequence ID: 7OS4_E Length: 20
+>Chain F, Histone H3.1 [Mus musculus]
+Sequence ID: 7OS4_F Length: 20
+>Chain G, Histone H3.1 [Mus musculus]
+Sequence ID: 7OS4_G Length: 20
+>Chain H, Histone H3.1 [Mus musculus]
+Sequence ID: 7OS4_H Length: 20 
+Range 1: 2 to 20
+
+Score:37.4 bits(85), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:19/19(100%), Positives:19/19(100%), Gaps:0/19(0%)
+
+Query  14  GKAPRKQLATKAARKSAPA  32
+           GKAPRKQLATKAARKSAPA
+Sbjct  2   GKAPRKQLATKAARKSAPA  20
+
+
+
+
+>Histone demethylase KDM2A-H3K36ME1-alpha-KG complex structure [Mus musculus]
+Sequence ID: 4QWN_E Length: 15
+>Histone demethylase KDM2A-H3K36ME1-alpha-KG complex structure [Mus musculus]
+Sequence ID: 4QWN_F Length: 15
+>Crystal structure of histone demethylase kdm2a-h3k36me2 with alpha-kg [Mus musculus]
+Sequence ID: 4QX7_E Length: 15
+>Crystal structure of histone demethylase kdm2a-h3k36me2 with alpha-kg [Mus musculus]
+Sequence ID: 4QX7_F Length: 15
+>Crystal structure of histone demethylase kdm2a-h3k36me3 complex with alpha-kg [Mus musculus]
+Sequence ID: 4QX8_E Length: 15
+>Crystal structure of histone demethylase kdm2a-h3k36me3 complex with alpha-kg [Mus musculus]
+Sequence ID: 4QX8_F Length: 15
+>crystal structure of histone demethylase KDM2A-H3K36ME3 with NOG [Mus musculus]
+Sequence ID: 4QXB_E Length: 15
+>crystal structure of histone demethylase KDM2A-H3K36ME3 with NOG [Mus musculus]
+Sequence ID: 4QXB_F Length: 15
+>Crystal structure of histone demethylase KDM2A-H3K36ME2 with NOG [Mus musculus]
+Sequence ID: 4QXC_E Length: 15
+>Crystal structure of histone demethylase KDM2A-H3K36ME2 with NOG [Mus musculus]
+Sequence ID: 4QXC_F Length: 15
+>Crystal structure of histone demethylase KDM2A-H3K36ME1 with NOG [Mus musculus]
+Sequence ID: 4QXH_E Length: 15
+>Crystal structure of histone demethylase KDM2A-H3K36ME1 with NOG [Mus musculus]
+Sequence ID: 4QXH_F Length: 15 
+Range 1: 1 to 15
+
+Score:33.5 bits(75), Expect:0.016, 
+Method:Compositional matrix adjust., 
+Identities:14/15(93%), Positives:14/15(93%), Gaps:0/15(0%)
+
+Query  30  APATGGVKKPHRYRP  44
+           APATGGV KPHRYRP
+Sbjct  1   APATGGVXKPHRYRP  15
+
+
+
+
+>Solution structure of the chromodomain of HP1a with the phosphorylated N-terminal tail complexed with H3K9me3 peptide [Mus musculus]
+Sequence ID: 2RVN_B Length: 18
+Range 1: 1 to 17
+
+Score:33.1 bits(74), Expect:0.024, 
+Method:Compositional matrix adjust., 
+Identities:16/17(94%), Positives:16/17(94%), Gaps:0/17(0%)
+
+Query  2   ARTKQTARKSTGGKAPR  18
+           ARTKQTAR STGGKAPR
+Sbjct  1   ARTKQTARXSTGGKAPR  17
+
+
+
+
+>Chain L, SER-THR-GLY-GLY-LYS-ALA-PRO-URU-LYS-GLN-LEU-ALA-THR-LYS-ALA-ALA [Mus musculus]
+Sequence ID: 7QRD_L Length: 16
+>Chain M, SER-THR-GLY-GLY-LYS-ALA-PRO-URU-LYS-GLN-LEU-ALA-THR-LYS-ALA-ALA [Mus musculus]
+Sequence ID: 7QRD_M Length: 16 
+Range 1: 1 to 16
+
+Score:33.1 bits(74), Expect:0.025, 
+Method:Compositional matrix adjust., 
+Identities:16/16(100%), Positives:16/16(100%), Gaps:0/16(0%)
+
+Query  11  STGGKAPRKQLATKAA  26
+           STGGKAPRKQLATKAA
+Sbjct  1   STGGKAPRKQLATKAA  16
+
+
+
+
+
+
+
+		
+
+

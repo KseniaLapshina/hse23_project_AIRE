@@ -1,0 +1,2867 @@
+RID: 7VMEEJMF016	
+Job Title:NP_000374.1 autoimmune regulator [Homo				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: NP_000374.1 autoimmune regulator [Homo sapiens] Query ID: lcl|Query_113774 Length: 545
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+CQS_1a_G0010160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       72.0   72.0  27%   8e-12 22.98  684        CAI4345800.1     
+Chain B, RCO1 isoform 1 [Saccharomyces cerevisiae]                Saccharomyce... baker's yeast   4932       65.1   65.1  8%    2e-11 44.90  118        8I3F_B           
+AAC_HP2_G0040540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       69.3   69.3  27%   5e-11 22.36  684        CAI5313378.1     
+PHD-finger family protein [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       68.2   68.2  27%   8e-11 21.74  469        KAF4002433.1     
+SX2_G0023530.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       68.6   68.6  27%   9e-11 21.74  684        CAD6642339.1     
+unnamed protein product [Saccharomyces cerevisiae]                Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAH1831870.1     
+HN1_G0019000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAD6639801.1     
+BCN_G0041980.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  678        CAI4671567.1     
+ASB_HP2_G0041880.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5315600.1     
+Rco1p [Saccharomyces cerevisiae YJM428]                           Saccharomyce... NA              947044     68.2   68.2  27%   1e-10 21.74  684        AJS65867.1       
+ALI_HP2_G0040310.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5296885.1     
+CDG_1a_G0041320.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4687555.1     
+AAC_collapsed_G0041670.mRNA.1.CDS.1 [Saccharomyces cerevisiae]    Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI6842322.1     
+AEL_HP2_G0038790.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5292801.1     
+BBT_collapsed_G0041680.mRNA.1.CDS.1 [Saccharomyces cerevisiae]    Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI7273617.1     
+ACA_G0041730.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4702127.1     
+RCO1 [Saccharomyces cerevisiae]                                   Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        KZV08917.1       
+BFH_collapsed_G0041600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]    Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI7275174.1     
+CIC_HP2_G0036940.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  682        CAI5282697.1     
+BAQ_1a_G0041060.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4683146.1     
+Rco1p [Saccharomyces cerevisiae YJM1248]                          Saccharomyce... NA              1294340    68.2   68.2  27%   1e-10 21.74  684        AJS80295.1       
+Transcriptional regulatory protein RCO1 [Saccharomyces...         Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        KAF4004113.1     
+Rco1p [Saccharomyces cerevisiae YJM193]                           Saccharomyce... NA              1294304    68.2   68.2  27%   1e-10 21.74  684        AJS62379.1       
+unnamed protein product [Saccharomyces cerevisiae]                Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        GMC22450.1       
+ANL_HP_G0070700.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5020275.1     
+AMM_1a_G0041100.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4672103.1     
+BDC_1c_G0041390.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4671707.1     
+AVN_HP_G0038850.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4995115.1     
+Rco1p [Saccharomyces cerevisiae YJM1418]                          Saccharomyce... NA              1294368    68.2   68.2  27%   1e-10 21.74  684        AJS92500.1       
+Rco1p [Saccharomyces cerevisiae YJM320]                           Saccharomyce... NA              947042     68.2   68.2  27%   1e-10 21.74  684        AJS64995.1       
+BAP_1a_G0041160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4691526.1     
+BBT_HP_G0028180.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4926040.1     
+Rco1p [Saccharomyces cerevisiae YJM1399]                          Saccharomyce... NA              1294362    68.2   68.2  27%   1e-10 21.74  684        AJS89879.1       
+BFH_HP2_G0040600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5313080.1     
+Rco1p [Saccharomyces cerevisiae YJM555]                           Saccharomyce... NA              1294316    68.2   68.2  27%   1e-10 21.74  683        AJS69372.1       
+BTE_HP_G0096830.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5061459.1     
+BDN_1c_G0040910.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4661522.1     
+Rco1p [Saccharomyces cerevisiae VL3]                              Saccharomyce... NA              764100     67.8   67.8  25%   1e-10 22.45  541        EGA85360.1       
+CQI_4a_G0040860.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4697420.1     
+Rco1p [Saccharomyces cerevisiae YJM1478]                          Saccharomyce... NA              1294380    68.2   68.2  27%   1e-10 21.74  684        AJS97710.1       
+BFH_HP1_G0041010.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI6704329.1     
+CPS_HP_G0092360.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5020120.1     
+BAK_1a_G0040700.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4667616.1     
+ASN_HP2_G0039490.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5287525.1     
+CIH_HP2_G0039760.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5287423.1     
+Rco1p [Saccharomyces cerevisiae YJM693]                           Saccharomyce... NA              1294322    68.2   68.2  27%   1e-10 21.74  684        AJS71996.1       
+ANM_HP_G0176820.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI5016302.1     
+BGP_1a_G0040930.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4634877.1     
+Rco1p [Saccharomyces cerevisiae YJM195]                           Saccharomyce... NA              1294305    68.2   68.2  27%   1e-10 21.74  684        AJS62817.1       
+XXYS1_4_G0025530.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAD6641311.1     
+ATV_collapsed_G0041540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]    Saccharomyce... baker's yeast   4932       67.8   67.8  25%   1e-10 22.45  541        CAI7271628.1     
+Rco1p [Saccharomyces cerevisiae YJM1342]                          Saccharomyce... NA              1294352    68.2   68.2  27%   1e-10 21.74  684        AJS85511.1       
+CEI_1a_G0040810.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAI4631334.1     
+EM14S01-3B_G0022950.mRNA.1.CDS.1 [Saccharomyces cerevisiae]       Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  684        CAD6639065.1     
+Rco1p [Saccharomyces cerevisiae YJM1463]                          Saccharomyce... NA              1294378    68.2   68.2  27%   1e-10 21.74  684        AJS96841.1       
+CGH_3_HP_G0010950.mRNA.1.CDS.1 [Saccharomyces cerevisiae]         Saccharomyce... baker's yeast   4932       68.2   68.2  27%   1e-10 21.74  683        CAI4968680.1     
+CCQ_1a_G0040720.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  684        CAI4662495.1     
+Rco1p [Saccharomyces cerevisiae YJM1388]                          Saccharomyce... NA              1294360    67.8   67.8  27%   1e-10 21.74  684        AJS89002.1       
+CRB_1a_G0043000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  684        CAI4727485.1     
+CDA_G0041100.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  683        CAI4696158.1     
+Rco1p [Saccharomyces cerevisiae YJM1389]                          Saccharomyce... NA              1294361    67.8   67.8  27%   1e-10 21.74  684        AJS89440.1       
+CFA_G0041110.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  684        CAI4657190.1     
+BJ4_G0021620.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  684        CAD6640248.1     
+Rco1p [Saccharomyces cerevisiae YJM1199]                          Saccharomyce... NA              1294335    67.8   67.8  27%   1e-10 21.74  682        AJS78120.1       
+Rco1p [Saccharomyces cerevisiae YJM1460]                          Saccharomyce... NA              1294377    67.8   67.8  27%   1e-10 21.74  683        AJS96403.1       
+Rco1p [Saccharomyces cerevisiae YJM456]                           Saccharomyce... NA              1294312    67.8   67.8  27%   1e-10 21.74  684        AJS67620.1       
+Rco1p [Saccharomyces cerevisiae YJM681]                           Saccharomyce... NA              1294318    67.8   67.8  27%   1e-10 21.74  683        AJS70250.1       
+CPI_1c_G0040630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  683        CAI4672358.1     
+K7_Rco1p [Saccharomyces cerevisiae Kyokai no. 7]                  Saccharomyce... NA              721032     67.8   67.8  27%   1e-10 21.74  684        GAA25516.1       
+CIC_collapsed_G0042570.mRNA.1.CDS.1 [Saccharomyces cerevisiae]    Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  607        CAI7430916.1     
+Rco1p [Saccharomyces cerevisiae YJM1273]                          Saccharomyce... NA              1294343    67.8   67.8  27%   1e-10 21.74  684        AJS81596.1       
+BAD_HP_G0065610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  684        CAI4908281.1     
+BBL_G0040830.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       67.8   67.8  27%   1e-10 21.74  684        CAI4694239.1     
+YMR075Wp-like protein [Saccharomyces cerevisiae AWRI1631]         Saccharomyce... NA              545124     67.8   67.8  25%   2e-10 22.45  671        EDZ70146.1       
+Rco1p [Saccharomyces cerevisiae YJM1447]                          Saccharomyce... NA              1294375    67.8   67.8  27%   2e-10 21.74  684        AJS95540.1       
+Rco1p [Saccharomyces cerevisiae YJM969]                           Saccharomyce... NA              1294323    67.8   67.8  25%   2e-10 22.45  684        AJS72434.1       
+Rco1p [Saccharomyces cerevisiae YJM189]                           Saccharomyce... NA              1294303    67.8   67.8  25%   2e-10 22.45  684        AJS61943.1       
+unnamed protein product [Saccharomyces cerevisiae]                Saccharomyce... baker's yeast   4932       67.8   67.8  25%   2e-10 22.45  684        GMC33774.1       
+Rco1p [Saccharomyces cerevisiae YJM1307]                          Saccharomyce... NA              1294345    67.8   67.8  25%   2e-10 22.45  684        AJS82475.1       
+unnamed protein product [Saccharomyces cerevisiae]                Saccharomyce... baker's yeast   4932       67.8   67.8  25%   2e-10 22.45  684        GMC43270.1       
+Rco1p [Saccharomyces cerevisiae YJM248]                           Saccharomyce... NA              1294307    67.8   67.8  25%   2e-10 22.45  684        AJS63689.1       
+CKB_HP2_G0038380.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       67.8   67.8  25%   2e-10 22.45  684        CAI5302875.1     
+ADS_G0040710.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       67.8   67.8  25%   2e-10 22.45  684        CAI4894478.1     
+Rco1p [Saccharomyces cerevisiae S288C]                            Saccharomyce... NA              559292     67.8   67.8  25%   2e-10 22.45  684        NP_013791.1      
+ATV_HP_G0026050.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.8   67.8  25%   2e-10 22.45  684        CAI5060023.1     
+Rco1p [Saccharomyces cerevisiae YJM1385]                          Saccharomyce... NA              1294357    67.8   67.8  25%   2e-10 22.45  684        AJS87696.1       
+Rco1p [Saccharomyces cerevisiae P283]                             Saccharomyce... NA              1177187    67.4   67.4  25%   2e-10 22.45  684        EWH16689.1       
+Rco1p [Saccharomyces cerevisiae YJM1078]                          Saccharomyce... NA              1296266    67.4   67.4  25%   2e-10 22.45  684        AJP40774.1       
+ASB_HP1_G0041130.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       67.4   67.4  25%   2e-10 22.45  684        CAI6698483.1     
+Rco1p [Saccharomyces cerevisiae YJM470]                           Saccharomyce... NA              1294313    67.4   67.4  25%   2e-10 22.45  684        AJS68060.1       
+Rco1p [Saccharomyces cerevisiae YJM1311]                          Saccharomyce... NA              1294346    67.4   67.4  25%   2e-10 22.45  684        AJS82898.1       
+CFC_HP_G0043540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.4   67.4  25%   2e-10 22.45  684        CAI4921205.1     
+ATV_HP_G0082920.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.4   67.4  25%   2e-10 22.45  684        CAI4920820.1     
+ATV_HP_G0122610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.4   67.4  25%   2e-10 22.45  684        CAI4977763.1     
+CRE_HP_G0065840.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.4   67.4  25%   2e-10 22.45  684        CAI4990354.1     
+unnamed protein product [Saccharomyces cerevisiae]                Saccharomyce... baker's yeast   4932       67.0   67.0  27%   2e-10 21.74  684        GMC45952.1       
+AGK_G0041610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]              Saccharomyce... baker's yeast   4932       67.0   67.0  27%   2e-10 21.74  684        CAI4688356.1     
+ADM_HP2_G0037810.mRNA.1.CDS.1 [Saccharomyces cerevisiae]          Saccharomyce... baker's yeast   4932       67.0   67.0  27%   2e-10 21.74  684        CAI5288348.1     
+CCT_1a_G0041800.mRNA.1.CDS.1 [Saccharomyces cerevisiae]           Saccharomyce... baker's yeast   4932       67.0   67.0  27%   2e-10 21.74  683        CAI4704157.1     
+Rco1p [Saccharomyces cerevisiae YJM689]                           Saccharomyce... NA              1294321    66.6   66.6  25%   4e-10 24.32  684        AJS71558.1       
+
+
+Alignments:
+
+>CQS_1a_G0010160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4345800.1 Length: 684
+>CQS_1a_G0010160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7203189.1 Length: 684 
+Range 1: 150 to 306
+
+Score:72.0 bits(175), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:37/161(23%), Positives:70/161(43%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  LI+ + E    +  I   G+    ++  +  S ++  R 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLIENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKRL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Chain B, RCO1 isoform 1 [Saccharomyces cerevisiae]
+Sequence ID: 8I3F_B Length: 118
+Range 1: 1 to 49
+
+Score:65.1 bits(157), Expect:2e-11, 
+Method:Composition-based stats., 
+Identities:22/49(45%), Positives:30/49(61%), Gaps:2/49(4%)
+
+Query  294  KNEDECAVCRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            +NED C+ C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  1    ENEDFCSACNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  49
+
+
+
+
+>AAC_HP2_G0040540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5313378.1 Length: 684
+>AAC_HP2_G0040540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6695279.1 Length: 684 
+Range 1: 150 to 306
+
+Score:69.3 bits(168), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:36/161(22%), Positives:70/161(43%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +        L   ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKILRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>PHD-finger family protein [Saccharomyces cerevisiae]
+Sequence ID: KAF4002433.1 Length: 469
+Range 1: 133 to 289
+
+Score:68.2 bits(165), Expect:8e-11, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  133  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  192
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  193  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  248
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  249  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  289
+
+
+
+
+>SX2_G0023530.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAD6642339.1 Length: 684
+>BAH_G0040460.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4655007.1 Length: 684
+>BAG_1a_G0040510.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4658117.1 Length: 684
+>BAG_1a_G0040510.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7247484.1 Length: 684
+>BAH_G0040460.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7249514.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.6 bits(166), Expect:9e-11, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>unnamed protein product [Saccharomyces cerevisiae]
+Sequence ID: CAH1831870.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>HN1_G0019000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAD6639801.1 Length: 684
+>BAL_1a_G0040590.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4656705.1 Length: 684
+>BAL_1a_G0040590.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7267433.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BCN_G0041980.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4671567.1 Length: 678
+>BCE_3a_G0042000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4700388.1 Length: 678
+>BCN_G0041980.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7274677.1 Length: 678
+>BCE_3a_G0042000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7278458.1 Length: 678 
+Range 1: 144 to 300
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  144  KRFTQVSKNFQDLNRNDLKTFLTENMTEKSNIRSTIGWNGDIINRTRDREPESDRDNKKL  203
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  204  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  259
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  260  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  300
+
+
+
+
+>ASB_HP2_G0041880.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5315600.1 Length: 684
+>ASB_HP2_G0041880.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6706430.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM428]
+Sequence ID: AJS65867.1 Length: 684
+>CEQ_1a_G0040570.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4634543.1 Length: 684
+>CHS_3a_G0040650.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4894339.1 Length: 684
+>BEM_HP_G0172790.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4989844.1 Length: 684
+>BEM_HP_G0175650.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4993334.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ALI_HP2_G0040310.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5296885.1 Length: 684
+>ALI_HP2_G0040310.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6618254.1 Length: 684
+>ALI_HP1_G0042160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6708571.1 Length: 684
+>ALI_collapsed_G0043540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6849314.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CDG_1a_G0041320.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4687555.1 Length: 684
+>CDG_1a_G0041320.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7426912.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>AAC_collapsed_G0041670.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6842322.1 Length: 684
+>AEL_collapsed_G0042410.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6844933.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>AEL_HP2_G0038790.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5292801.1 Length: 684
+>AEL_HP2_G0038790.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6606947.1 Length: 684
+>AEL_HP1_G0041140.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6653413.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BBT_collapsed_G0041680.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7273617.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSIIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ACA_G0041730.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4702127.1 Length: 684
+>ACA_G0041730.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6843675.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>RCO1 [Saccharomyces cerevisiae]
+Sequence ID: KZV08917.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BFH_collapsed_G0041600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7275174.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CIC_HP2_G0036940.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5282697.1 Length: 682
+>CIC_HP2_G0036940.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6564045.1 Length: 682 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BAQ_1a_G0041060.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4683146.1 Length: 684
+>BAM_G0041050.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4698515.1 Length: 684
+>BAM_G0041050.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7267864.1 Length: 684
+>BAQ_1a_G0041060.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7269432.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRNRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1248]
+Sequence ID: AJS80295.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1386]
+Sequence ID: AJS88134.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1439]
+Sequence ID: AJS94254.1 Length: 684
+>AKH_1a_G0040320.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4694330.1 Length: 684
+>AKH_1a_G0040320.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6833525.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Transcriptional regulatory protein RCO1 [Saccharomyces cerevisiae]
+Sequence ID: KAF4004113.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM193]
+Sequence ID: AJS62379.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM271]
+Sequence ID: AJS64561.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1083]
+Sequence ID: AJS76371.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1419]
+Sequence ID: AJS92939.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1433]
+Sequence ID: AJS93376.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1450]
+Sequence ID: AJS95967.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae CEN.PK113-7D]
+Sequence ID: EIW08335.1 Length: 684
+>Rco1p, partial [Saccharomyces cerevisiae]
+Sequence ID: KAF1900185.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>unnamed protein product [Saccharomyces cerevisiae]
+Sequence ID: GMC22450.1 Length: 684
+>unnamed protein product [Saccharomyces cerevisiae]
+Sequence ID: GMC36559.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ANL_HP_G0070700.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5020275.1 Length: 684
+>ANL_HP_G0085280.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5039023.1 Length: 684
+>ANL_HP_G0105780.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5101853.1 Length: 684
+>ANL_HP_G0070700.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6937383.1 Length: 684
+>ANL_HP_G0085280.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6953902.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>AMM_1a_G0041100.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4672103.1 Length: 684
+>AMM_1a_G0041100.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6837699.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BDC_1c_G0041390.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4671707.1 Length: 684
+>BTE_HP_G0219890.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4918477.1 Length: 684
+>BTE_HP_G0183410.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5216532.1 Length: 684
+>BTE_HP_G0219890.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6424495.1 Length: 684
+>BTE_HP_G0183410.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7020598.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>AVN_HP_G0038850.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4995115.1 Length: 684
+>AVN_HP_G0057160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5015598.1 Length: 684
+>AVN_HP_G0082580.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5057921.1 Length: 684
+>AVN_HP_G0038850.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6877316.1 Length: 684
+>AVN_HP_G0057160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6932118.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1418]
+Sequence ID: AJS92500.1 Length: 684
+>HLJ1_G0019030.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAD6644677.1 Length: 684
+>CCN_G0040920.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4683317.1 Length: 684
+>CCN_G0040920.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7424106.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM320]
+Sequence ID: AJS64995.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM326]
+Sequence ID: AJS65433.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM451]
+Sequence ID: AJS66744.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM541]
+Sequence ID: AJS68498.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM554]
+Sequence ID: AJS68935.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM682]
+Sequence ID: AJS70691.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM683]
+Sequence ID: AJS71126.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1190]
+Sequence ID: AJS77685.1 Length: 684
+>conserved protein [Saccharomyces cerevisiae YJM789]
+Sequence ID: EDN64464.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae]
+Sequence ID: KAJ1534949.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BAP_1a_G0041160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4691526.1 Length: 684
+>BAP_1a_G0041160.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7271336.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BBT_HP_G0028180.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4926040.1 Length: 684
+>BBT_HP_G0044430.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4951008.1 Length: 684
+>BBT_HP_G0154410.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5172301.1 Length: 684
+>BBT_HP_G0028180.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6453367.1 Length: 684
+>BBT_HP_G0044430.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6609170.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSIIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1399]
+Sequence ID: AJS89879.1 Length: 684
+>CPA_1a_G0041630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4666996.1 Length: 684
+>BBM_1a_G0040880.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4684740.1 Length: 684
+>ADE_G0040740.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4697442.1 Length: 684
+>APG_G0041480.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4706828.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BFH_HP2_G0040600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5313080.1 Length: 684
+>BFH_HP2_G0040600.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6691594.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM555]
+Sequence ID: AJS69372.1 Length: 683
+>Rco1p [Saccharomyces cerevisiae YJM1133]
+Sequence ID: AJS77246.1 Length: 683
+>Rco1p [Saccharomyces cerevisiae YJM1326]
+Sequence ID: AJS83334.1 Length: 683 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BTE_HP_G0096830.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5061459.1 Length: 684
+>BTE_HP_G0180470.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5215379.1 Length: 684
+>BTE_HP_G0096830.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6960508.1 Length: 684
+>BTE_HP_G0180470.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7019464.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BDN_1c_G0040910.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4661522.1 Length: 684
+>BDN_1c_G0040910.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7249492.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae VL3]
+Sequence ID: EGA85360.1 Length: 541
+Range 1: 21 to 163
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  21   RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  79
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  80   ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  136
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  137  KSFHFLCLDPPIDPNNLPKGDWHCNEC  163
+
+
+
+
+>CQI_4a_G0040860.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4697420.1 Length: 684
+>CQI_4a_G0040860.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7425168.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1478]
+Sequence ID: AJS97710.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BFH_HP1_G0041010.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6704329.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CPS_HP_G0092360.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5020120.1 Length: 684
+>CPS_HP_G0125390.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5095264.1 Length: 684
+>CPS_HP_G0092360.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6937621.1 Length: 684
+>CPS_HP_G0125390.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6973006.1 Length: 684
+>CPS_collapsed_G0043340.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7420039.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKFFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BAK_1a_G0040700.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4667616.1 Length: 684
+>BAI_1a_G0040740.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4679949.1 Length: 684
+>BAI_1a_G0040740.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7267645.1 Length: 684
+>BAK_1a_G0040700.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7268894.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ASN_HP2_G0039490.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5287525.1 Length: 684
+>ASN_HP2_G0039490.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6579432.1 Length: 684
+>ASN_HP1_G0040440.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6615595.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSIIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CIH_HP2_G0039760.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5287423.1 Length: 684
+>CIH_HP2_G0039760.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6585773.1 Length: 684
+>CIH_HP1_G0040920.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6597860.1 Length: 684
+>AAB_G0041270.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6839699.1 Length: 684
+>CIH_collapsed_G0041710.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7395136.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM693]
+Sequence ID: AJS71996.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae JAY291]
+Sequence ID: EEU08440.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae PE-2]
+Sequence ID: CAE6513988.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae PE-2]
+Sequence ID: CAF1597650.1 Length: 684
+>CNT_collapsed_G0041630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7427815.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ANM_HP_G0176820.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5016302.1 Length: 684
+>ANM_HP_G0222470.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5122986.1 Length: 684
+>ANM_HP_G0227280.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5137619.1 Length: 684
+>ANM_HP_G0242030.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5180059.1 Length: 684
+>ANM_HP_G0012840.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5213478.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BGP_1a_G0040930.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4634877.1 Length: 684
+>BGN_3a_G0041030.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4673827.1 Length: 684
+>BGP_1a_G0040930.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7236602.1 Length: 684
+>BGN_3a_G0041030.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7269970.1 Length: 684
+>ASN_collapsed_G0041660.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7273136.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM195]
+Sequence ID: AJS62817.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>XXYS1_4_G0025530.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAD6641311.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ATV_collapsed_G0041540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7271628.1 Length: 541
+Range 1: 21 to 163
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  21   RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  79
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  80   ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  136
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  137  KSFHFLCLDPPIDPNNLPKGDWHCNEC  163
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1342]
+Sequence ID: AJS85511.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSMNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CEI_1a_G0040810.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4631334.1 Length: 684
+>CEI_1a_G0040810.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7404407.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>EM14S01-3B_G0022950.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAD6639065.1 Length: 684
+>AMH_1a_G0040910.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4630026.1 Length: 684
+>AMH_1a_G0040910.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6796805.1 Length: 684 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1463]
+Sequence ID: AJS96841.1 Length: 684
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CGH_3_HP_G0010950.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4968680.1 Length: 683
+>CGH_1_HP_G0078070.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5004120.1 Length: 683
+>CGH_1_HP_G0080570.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5006907.1 Length: 683
+>CGH_1_HP_G0101530.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5030420.1 Length: 683
+>CGH_3_HP_G0010950.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6732192.1 Length: 683 
+Range 1: 150 to 306
+
+Score:68.2 bits(165), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CCQ_1a_G0040720.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4662495.1 Length: 684
+>CCQ_1a_G0040720.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7410538.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1388]
+Sequence ID: AJS89002.1 Length: 684
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CRB_1a_G0043000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4727485.1 Length: 684
+>CRB_1a_G0043000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7433333.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CDA_G0041100.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4696158.1 Length: 683
+>CDA_G0041100.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7426015.1 Length: 683 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1389]
+Sequence ID: AJS89440.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1592]
+Sequence ID: AJT00769.1 Length: 684
+>ADQ_G0040980.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4673249.1 Length: 684
+>CLN_G0041420.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4676653.1 Length: 684
+>ALH_1c_G0041290.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4679256.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CFA_G0041110.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4657190.1 Length: 684
+>BAF_HP2_G0044170.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5306469.1 Length: 684
+>BAF_HP2_G0044170.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6667132.1 Length: 684
+>BAF_HP1_G0041230.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6673162.1 Length: 684
+>BAF_collapsed_G0045300.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7304140.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BJ4_G0021620.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAD6640248.1 Length: 684
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1199]
+Sequence ID: AJS78120.1 Length: 682
+>Rco1p [Saccharomyces cerevisiae YJM1444]
+Sequence ID: AJS95109.1 Length: 682
+>Rco1p [Saccharomyces cerevisiae YJM1527]
+Sequence ID: AJS99014.1 Length: 682
+>CCC_1a_G0040970.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4689809.1 Length: 682
+>AEG_G0041590.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4690786.1 Length: 682 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1460]
+Sequence ID: AJS96403.1 Length: 683
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM456]
+Sequence ID: AJS67620.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1338]
+Sequence ID: AJS84644.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1402]
+Sequence ID: AJS91183.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1443]
+Sequence ID: AJS94673.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1573]
+Sequence ID: AJS99892.1 Length: 684
+>ABH_G0042800.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4700065.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM681]
+Sequence ID: AJS70250.1 Length: 683
+>Rco1p [Saccharomyces cerevisiae YJM1400]
+Sequence ID: AJS90311.1 Length: 683
+>Rco1p [Saccharomyces cerevisiae YJM1401]
+Sequence ID: AJS90747.1 Length: 683
+>Rco1p [Saccharomyces cerevisiae YJM1479]
+Sequence ID: AJS98146.1 Length: 683
+>Rco1p [Saccharomyces cerevisiae YJM1549]
+Sequence ID: AJS99451.1 Length: 683 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CPI_1c_G0040630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4672358.1 Length: 683
+>CPI_1c_G0040630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7424297.1 Length: 683 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>K7_Rco1p [Saccharomyces cerevisiae Kyokai no. 7]
+Sequence ID: GAA25516.1 Length: 684
+>CLL_HP2_G0036000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5282100.1 Length: 684
+>CLL_HP2_G0036000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6554178.1 Length: 684
+>CLL_HP1_G0040980.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6655658.1 Length: 684
+>CLL_collapsed_G0041520.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7427680.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CIC_collapsed_G0042570.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7430916.1 Length: 607
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1273]
+Sequence ID: AJS81596.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1434]
+Sequence ID: AJS93814.1 Length: 684
+>AVI_1a_G0040820.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4668408.1 Length: 684
+>ANE_G0040680.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4704012.1 Length: 684
+>ANE_G0040680.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6835734.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRARDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BAD_HP_G0065610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4908281.1 Length: 684
+>BAD_HP_G0035380.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4958492.1 Length: 684
+>BAD_HP_G0044470.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4972060.1 Length: 684
+>BAD_HP_G0065610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6388576.1 Length: 684
+>BAD_HP_G0035380.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6668140.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>BBL_G0040830.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4694239.1 Length: 684
+>BBL_G0040830.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7269795.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPVDPNNLPKGDWHCNEC  306
+
+
+
+
+>YMR075Wp-like protein, partial [Saccharomyces cerevisiae AWRI1631]
+Sequence ID: EDZ70146.1 Length: 671
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1447]
+Sequence ID: AJS95540.1 Length: 684
+>BMC_2a_G0029380.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4821853.1 Length: 684
+>BMB_G0029400.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4833472.1 Length: 684
+>BMC_2a_G0029380.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7375953.1 Length: 684
+>BMB_G0029400.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7379045.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:68/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G     ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEKSNIRSTIGWNGNIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM969]
+Sequence ID: AJS72434.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM972]
+Sequence ID: AJS72869.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM987]
+Sequence ID: AJS75050.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM996]
+Sequence ID: AJS75932.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM189]
+Sequence ID: AJS61943.1 Length: 684
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>unnamed protein product [Saccharomyces cerevisiae]
+Sequence ID: GMC33774.1 Length: 684
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1307]
+Sequence ID: AJS82475.1 Length: 684
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>unnamed protein product [Saccharomyces cerevisiae]
+Sequence ID: GMC43270.1 Length: 684
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM248]
+Sequence ID: AJS63689.1 Length: 684
+>CPG_1a_G0041300.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4675402.1 Length: 684
+>AIE_G0041070.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4678480.1 Length: 684
+>AIE_G0041070.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6835976.1 Length: 684
+>CPG_1a_G0041300.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7426256.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CKB_HP2_G0038380.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5302875.1 Length: 684
+>CKB_HP2_G0038380.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6646652.1 Length: 684
+>CKB_HP1_G0039390.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6680980.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ADS_G0040710.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4894478.1 Length: 684
+>ADS_G0040710.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6836280.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_013791.1 Length: 684
+>RecName: Full=Transcriptional regulatory protein RCO1 [Saccharomyces cerevisiae S288C]
+Sequence ID: Q04779.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM993]
+Sequence ID: AHY76531.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM244]
+Sequence ID: AJS63252.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM270]
+Sequence ID: AJS64126.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM450]
+Sequence ID: AJS66304.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM453]
+Sequence ID: AJS67180.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM627]
+Sequence ID: AJS69809.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM975]
+Sequence ID: AJS73308.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM978]
+Sequence ID: AJS73743.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM981]
+Sequence ID: AJS74184.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM984]
+Sequence ID: AJS74627.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM990]
+Sequence ID: AJS75488.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1129]
+Sequence ID: AJS76807.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1202]
+Sequence ID: AJS78556.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1208]
+Sequence ID: AJS78980.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1242]
+Sequence ID: AJS79421.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1244]
+Sequence ID: AJS79860.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1250]
+Sequence ID: AJS80730.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1304]
+Sequence ID: AJS82035.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1332]
+Sequence ID: AJS83770.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1336]
+Sequence ID: AJS84208.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1341]
+Sequence ID: AJS85072.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1355]
+Sequence ID: AJS85950.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1356]
+Sequence ID: AJS86386.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1381]
+Sequence ID: AJS86822.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1383]
+Sequence ID: AJS87257.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1387]
+Sequence ID: AJS88561.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1415]
+Sequence ID: AJS91624.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1417]
+Sequence ID: AJS92062.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1477]
+Sequence ID: AJS97275.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1526]
+Sequence ID: AJS98581.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1574]
+Sequence ID: AJT00334.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1615]
+Sequence ID: AJT01210.1 Length: 684
+>conserved hypothetical protein [Saccharomyces cerevisiae RM11-1a]
+Sequence ID: EDV11571.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae R008]
+Sequence ID: EWG84000.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae R103]
+Sequence ID: EWG94024.1 Length: 684
+>Rco1p, partial [Saccharomyces cerevisiae]
+Sequence ID: KAF1903772.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae EC1118]
+Sequence ID: CAY81893.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ATV_HP_G0026050.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5060023.1 Length: 684
+>ATV_HP_G0026050.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6961670.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1385]
+Sequence ID: AJS87696.1 Length: 684
+Range 1: 164 to 306
+
+Score:67.8 bits(164), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae P283]
+Sequence ID: EWH16689.1 Length: 684
+>CNT_HP2_G0040120.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5295528.1 Length: 684
+>CNT_HP2_G0040120.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6617979.1 Length: 684
+>CNT_HP1_G0040090.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6642261.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1078]
+Sequence ID: AJP40774.1 Length: 684
+>Rco1p [Saccharomyces cerevisiae YJM1252]
+Sequence ID: AJS81161.1 Length: 684
+>AVB_G0040800.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4640676.1 Length: 684
+>AHL_G0041350.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4895463.1 Length: 684
+>AHL_G0041350.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6839355.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ASB_HP1_G0041130.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6698483.1 Length: 684
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM470]
+Sequence ID: AJS68060.1 Length: 684
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM1311]
+Sequence ID: AJS82898.1 Length: 684
+>transcriptional regulatory protein RCO1 [Saccharomyces cerevisiae]
+Sequence ID: GFP66485.1 Length: 684
+>AFH_G0041630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4895280.1 Length: 684
+>AFH_G0041630.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6840747.1 Length: 684
+>CRE_collapsed_G0042550.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7415884.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CFC_HP_G0043540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4921205.1 Length: 684
+>CFC_HP_G0043540.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6434763.1 Length: 684
+>CFC_collapsed_G0041220.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7425700.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ATV_HP_G0082920.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4920820.1 Length: 684
+>ATV_HP_G0082920.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6436925.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ATV_HP_G0122610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4977763.1 Length: 684
+>ATV_HP_G0122610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6796037.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CRE_HP_G0065840.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4990354.1 Length: 684
+>CRE_HP_G0075900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5002491.1 Length: 684
+>CRE_HP_G0139000.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5139799.1 Length: 684
+>CRE_HP_G0065840.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6859724.1 Length: 684
+>CRE_HP_G0075900.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6911951.1 Length: 684 
+Range 1: 164 to 306
+
+Score:67.4 bits(163), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:33/147(22%), Positives:65/147(44%), Gaps:13/147(8%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARSSSGPKPLVRAKGAQ  262
+            R  ++  L + + E    +  I   G+    ++  +  S ++  + S+    ++ +  A 
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRDNKKLSNIRTKIILSTNA-  222
+
+Query  263  GAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGCP  315
+                   +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD CP
+Sbjct  223  ---TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTCP  279
+
+Query  316  RAFHLACLSPPL--REIPSGTWRCSSC  340
+            ++FH  CL PP+    +P G W C+ C
+Sbjct  280  KSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>unnamed protein product [Saccharomyces cerevisiae]
+Sequence ID: GMC45952.1 Length: 684
+Range 1: 150 to 306
+
+Score:67.0 bits(162), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:68/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S  +  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDHDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>AGK_G0041610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4688356.1 Length: 684
+>AGK_G0041610.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6841450.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.0 bits(162), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:68/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S  +  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDHDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>ADM_HP2_G0037810.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI5288348.1 Length: 684
+>ADM_HP2_G0037810.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6581338.1 Length: 684
+>ADM_HP1_G0039280.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI6589677.1 Length: 684 
+Range 1: 150 to 306
+
+Score:67.0 bits(162), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:68/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S  +  + 
+Sbjct  150  KRFTQVSKNFQDLNRNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDHDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>CCT_1a_G0041800.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI4704157.1 Length: 683
+>CCT_1a_G0041800.mRNA.1.CDS.1 [Saccharomyces cerevisiae]
+Sequence ID: CAI7428328.1 Length: 683 
+Range 1: 150 to 306
+
+Score:67.0 bits(162), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:35/161(22%), Positives:69/161(42%), Gaps:13/161(8%)
+
+Query  189  QRAVAMSSGDVPGARGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGKNKARS  248
+            +R   +S       R  ++  L + + E    +  I   G+    ++  +  S ++  + 
+Sbjct  150  KRFTQVSKNFQHLNRNDLKTFLTENMTEERNIRSTIGWNGDIINRTRDREPESDRDNKKL  209
+
+Query  249  SSGPKPLVRAKGAQGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAV  301
+            S+    ++ +  A        +++L  Q S+ +            ++  +  +NED C+ 
+Sbjct  210  SNIRTKIILSTNA----TYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSA  265
+
+Query  302  CRDGGELICCDGCPRAFHLACLSPPL--REIPSGTWRCSSC  340
+            C   G  +CCD CP++FH  CL PP+    +P G W C+ C
+Sbjct  266  CNQSGSFLCCDTCPKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+>Rco1p [Saccharomyces cerevisiae YJM689]
+Sequence ID: AJS71558.1 Length: 684
+Range 1: 164 to 306
+
+Score:66.6 bits(161), Expect:4e-10, 
+Method:Compositional matrix adjust., 
+Identities:36/148(24%), Positives:65/148(43%), Gaps:15/148(10%)
+
+Query  203  RGAVEGILIQQVFESGGSKKCIQVGGEFYTPSKFEDSGSGK-NKARSSSGPKPLVRAKGA  261
+            R  ++  L + + E    +  I   G+    ++  +  S + NK  S+   K ++     
+Sbjct  164  RNDLKTFLTENMTEESNIRSTIGWNGDIINRTRDREPESDRGNKKLSNIRTKIILSTN--  221
+
+Query  262  QGAAPGGGEARLGQQGSVPAP-------LALPSDPQLHQKNEDECAVCRDGGELICCDGC  314
+               A    +++L  Q S+ +            ++  +  +NED C+ C   G  +CCD C
+Sbjct  222  ---ATYDSKSKLFGQNSIKSTSNASEKIFRDKNNSTIDFENEDFCSACNQSGSFLCCDTC  278
+
+Query  315  PRAFHLACLSPPL--REIPSGTWRCSSC  340
+            P++FH  CL PP+    +P G W C+ C
+Sbjct  279  PKSFHFLCLDPPIDPNNLPKGDWHCNEC  306
+
+
+
+
+
+
+
+		
+
+
