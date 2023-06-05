@@ -19,7 +19,7 @@ AIRE несёт функцию Histone modification read.
 
 ## Анализ гистонов
 Для выравнивания белковых последовательностей гистонов использована программа MEGA, алгоритм MUSCLE с задаными по умолчанию параметрами.
-Файлы выравниваний лежат в папке data.
+Файлы выравниваний лежат в папке data (.mas).
 
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/c4a7f447-d6ed-4214-8a81-cea04fd7ff35)
 
@@ -62,6 +62,21 @@ AIRE несёт функцию Histone modification read.
 Между белками наблюдается достаточно высокое сходство, чтобы предполагать происхождение от одной последовательности в результате копирования. Различия же объясняются мутационным процессом.
 
 Для дальнейшей работы я выбрала последовательность NP 003529.1 H4C1 organism=Homo sapiens GeneID=8359,  так как она является одной из 12 последовательностей, обладающих наибольшим сходством.
+
+## Прослеживание эволюции белком с помощью программы BLAST на основе протеомов модельных организмов
+Для сопоставления с модельными организмами выбраны аминокислотные последовательности:
+- Для H2A: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
++ Для H2B: NP_001368918.1 H2BC4 [organism=Homo sapiens] [GeneID=8347]
++ Для H3: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350]
++ Для H4: NP_003529.1 H4C1 [organism=Homo sapiens] [GeneID=8359]
++ Для AIRE: NP_000374.1 autoimmune regulator [Homo sapiens]
+
+Файлы с последовательностями лежат в папке data (.fasta).
+
+Программа blastp (protein-protein BLAST) была запущена для всех пар белков и модельных организмов. Файлы отчётов выполнения программы лежат в папке data (.txt).
+
+На основе полученных данных была составлены 2 таблицы: С и -log(E value) (При составлении было сделано допушение, что E value < 1,00E-300 равно 1,00E-300).
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/fd46a876-22e4-4109-a15e-62f1e2ed6ef8)
 
 ## Литература
 1. Koh, Andrew S., et al. "Aire employs a histone-binding module to mediate immunological tolerance, linking chromatin regulation with organ-specific autoimmunity." Proceedings of the National Academy of Sciences 105.41 (2008): 15878-15883.
