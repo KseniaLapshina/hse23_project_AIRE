@@ -83,7 +83,7 @@ https://docs.google.com/spreadsheets/d/1dbq5FT4bXkuyMCwJbc9rptSIb1W5gQwyRan_1n52
 
 Таблица -log(E value) была выгружена в файл .csv (в папке data) и использована для создания тепловой карты. Код приложен в папке data и в колабе https://colab.research.google.com/drive/1PBvadl9TvYOG3Xvgy4Z1ZN6f-Qqev7KK?usp=sharing.
 
-![image](data/-log(BLASTp E value).png)
+![-log(BLASTp E value)](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/829b354d-56f5-4ff2-a99b-cdc332108fb0)
 
 Исходя из полученных данных, можно сделать вывод, что белок AIRE появился у позвоночных (хотя последовательности, имеющие некоторое минимальное сходство начали появляться ещё у дрожжей и многоклетоных беспозвоночных).
 
