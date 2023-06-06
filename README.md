@@ -76,7 +76,16 @@ AIRE несёт функцию Histone modification read.
 Программа blastp (protein-protein BLAST) была запущена для всех пар белков и модельных организмов. Файлы отчётов выполнения программы лежат в папке data (.txt).
 
 На основе полученных данных была составлены 2 таблицы: E value и -log(E value) (При составлении было сделано допущение, что E value < 1,00E-300 равно 1,00E-300).
+
+https://docs.google.com/spreadsheets/d/1dbq5FT4bXkuyMCwJbc9rptSIb1W5gQwyRan_1n52V3E/edit?usp=sharing
+
 ![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/fd46a876-22e4-4109-a15e-62f1e2ed6ef8)
+
+Таблица -log(E value) была выгружена в файл .csv (в папке data) и использована для создания тепловой карты. Код приложен в папке data и в колабе https://colab.research.google.com/drive/1PBvadl9TvYOG3Xvgy4Z1ZN6f-Qqev7KK?usp=sharing.
+
+![image](data/-log(BLASTp E value).png)
+
+Исходя из полученных данных, можно сделать вывод, что белок AIRE появился у позвоночных (хотя последовательности, имеющие некоторое минимальное сходство начали появляться ещё у дрожжей и многоклетоных беспозвоночных).
 
 ## Литература
 1. Koh, Andrew S., et al. "Aire employs a histone-binding module to mediate immunological tolerance, linking chromatin regulation with organ-specific autoimmunity." Proceedings of the National Academy of Sciences 105.41 (2008): 15878-15883.
