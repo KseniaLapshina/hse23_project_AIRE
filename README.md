@@ -85,7 +85,7 @@ https://docs.google.com/spreadsheets/d/1dbq5FT4bXkuyMCwJbc9rptSIb1W5gQwyRan_1n52
 
 ![-log(BLASTp E value)](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/829b354d-56f5-4ff2-a99b-cdc332108fb0)
 
-Исходя из полученных данных, можно сделать вывод, что белок AIRE появился у позвоночных (хотя последовательности, имеющие некоторое минимальное сходство начали появляться ещё у дрожжей и многоклетоных беспозвоночных).
+Исходя из полученных данных, можно сделать вывод, что белок AIRE появился у позвоночных (хотя последовательности, имеющие некоторую гомологичность (E value ~1,00E-10) начали появляться ещё у дрожжей (yeast) и многоклетоных беспозвоночных (drosophila, c.elegans)).
 
 ## Литература
 1. Koh, Andrew S., et al. "Aire employs a histone-binding module to mediate immunological tolerance, linking chromatin regulation with organ-specific autoimmunity." Proceedings of the National Academy of Sciences 105.41 (2008): 15878-15883.
