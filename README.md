@@ -21,43 +21,37 @@ AIRE несёт функцию Histone modification read.
 Для выравнивания белковых последовательностей гистонов использована программа MEGA, алгоритм MUSCLE с задаными по умолчанию параметрами.
 Файлы выравниваний лежат в папке data (.mas).
 
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/c4a7f447-d6ed-4214-8a81-cea04fd7ff35)
-
 #### H2A
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/8a03b812-467a-4b9d-8444-749190c81282)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/6ab40f5c-745e-4726-ab6a-ae02b8868bcc)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/869a9526-0bde-4214-b897-6a9f7a55d536)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/ffe01041-4363-4635-82c5-5342d5711d7a)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/d1e42c87-e60c-4d51-aed0-0d76c92203bc)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/9e9bcd9a-ffce-4a43-b2bb-723e75f33016)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/d5153d01-7581-4222-8b9a-762c71cb2390)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/94354f1b-b157-4149-a497-6847edd88bcd)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/7c41476a-7bbc-4e71-a122-e6b9887ff101)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/942f5ef2-3a30-424d-bad3-8c6e4941ff63)
 
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/2f27d13d-28c3-4299-b21d-8c7736723523)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/1dc22a22-a0d7-4371-967a-bfb46fde7744)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/e0ff327a-e6ab-4f0a-9380-31be27fd1c36)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/9c937328-2e57-4b4c-a9a2-e24f2fc9fb91)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/97a1c5aa-40ee-4473-a77a-993f91f4dc67)
+42 последовательность не влезла в скриншот, но она есть в файле выравнивания.
 
 Между белками наблюдается достаточно высокое сходство, чтобы предполагать происхождение от одной последовательности в результате копирования. Различия же объясняются делециями, приведшей к потери концевой части белка в ряде копий, и мутационным процессом, из-за которого последовательности постепенно расходились.
 
 Для дальнейшей работы я выбрала последовательность NP 001387330.1 MACROH2A1 organism=Homo sapiens GeneID=9555 isoform=3, так как она одна их наиболее длинных.
 
 #### H2B
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/ebdfc6fd-37cf-4a21-a877-cbdb072d58d9)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/5d615a44-304b-4550-82ee-7e8e233403cc)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/d83fac9c-7f2f-4076-8d9b-44f8a83db990)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/edaf214f-a675-48b1-b048-cb82780ba018)
 
 Между белками наблюдается достаточно высокое сходство, чтобы предполагать происхождение от одной последовательности в результате копирования. Различия же объясняются делециями/инсерциями и мутационным процессом, из-за которого последовательности постепенно расходились.
 
 Для дальнейшей работы я выбрала последовательность NP 001368918.1 H2BC4 organism=Homo sapiens GeneID=8347, так как она является одной из 6 последовательностей, обладающих наибольшим сходством.
 
 #### H3
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/3f4a787b-cb7a-4eda-beaf-043b78f9c36e)
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/f1cd5a69-5e96-47f6-80cd-06668f1bfcea)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/c769ab87-1544-4785-b0a7-100b9bb48713)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/0ca882ee-7794-438f-b810-2b334bea7489)
 
 Между белками наблюдается высокая консервативность, что позволяет сделать вывод о происхождении от одного гена путем копирования, различие между генами очень мало и объясняется мутационным процессом.
 
 Для дальнейшей работы я выбрала последовательность NP 003520.1 H3C1 organism=Homo sapiens GeneID=8350,  так как она является одной из 12 последовательностей, обладающих наибольшим сходством.
 
 #### H4
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/dd93f120-21a3-404e-b3a4-17b285f3a190)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/66aaed71-a07b-4f1f-a263-84188a77bed0)
 
 Между белками наблюдается достаточно высокое сходство, чтобы предполагать происхождение от одной последовательности в результате копирования. Различия же объясняются мутационным процессом.
 
@@ -79,11 +73,11 @@ AIRE несёт функцию Histone modification read.
 
 https://docs.google.com/spreadsheets/d/1dbq5FT4bXkuyMCwJbc9rptSIb1W5gQwyRan_1n52V3E/edit?usp=sharing
 
-![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/fd46a876-22e4-4109-a15e-62f1e2ed6ef8)
+![image](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/24a45fb1-e869-49f8-9a14-d9e80e52d56a)
 
 Таблица -log(E value) была выгружена в файл .csv (в папке data) и использована для создания тепловой карты. Код приложен в папке data и в колабе https://colab.research.google.com/drive/1PBvadl9TvYOG3Xvgy4Z1ZN6f-Qqev7KK?usp=sharing.
 
-![-log(BLASTp E value)](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/829b354d-56f5-4ff2-a99b-cdc332108fb0)
+![-log(BLASTp E value)](https://github.com/KseniaLapshina/hse23_project_AIRE/assets/114621114/faefe930-0aea-47c0-86b1-fe7de936d3bd)
 
 Исходя из полученных данных, можно сделать вывод, что белок AIRE появился у позвоночных (хотя последовательности, имеющие некоторую гомологичность (E value ~1,00E-10) начали появляться ещё у дрожжей (yeast) и многоклетоных беспозвоночных (drosophila, c.elegans)).
 
